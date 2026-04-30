@@ -1,140 +1,76 @@
 {
-  "scraped_at": "2026-04-30 17:24 UTC",
-  "total": 17,
+  "scraped_at": "2026-04-30 20:10 UTC",
+  "total": 9,
   "jobs": [
     {
-      "company": "Pharmaceutical Company",
-      "title": "Senior Data Scientist II \u2013 Predictive Modeling & ML",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406713170/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Braze",
-      "title": "Forward-Deployed Data Scientist II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409026399/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sharp Decisions",
-      "title": "Senior Data Scientist II",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409030088/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4396363797/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Machine Learning Engineer, Quantized Inference",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4395486217/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SoFi",
-      "title": "Senior Data Scientist, Borrow",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4399461705/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Suno",
-      "title": "Senior or Staff Data Scientist, Recommendations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4352980719/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Estuate, Inc.",
-      "title": "Data Scientist - (LOCAL CANDIDTES & W2 Contract)",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407604667/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Applied Scientist",
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok PGC Sports (San Jose)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407619252/",
+      "url": "https://www.linkedin.com/jobs/view/4407617953/",
       "date_posted": "2026-04-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Materials",
-      "title": "Data Scientist II (E2)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406493969/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AppLab Systems, Inc",
-      "title": "Data scientist -10+ years Location: Sunnyvale, CA \u2013 Onsite \u2013 local or nearby - Python Coding",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406497719/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Calix",
-      "title": "Staff Data Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398639834/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Senior Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377434519/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Luma",
-      "title": "Research Engineer - Evaluations",
+      "company": "AsceticVoyage",
+      "title": "MLOps Engineer (Machine Learning, Python, AI)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4378351738/",
+      "url": "https://www.linkedin.com/jobs/view/4407644162/",
       "date_posted": "2026-04-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Scout AI",
-      "title": "AI Engineer - Fury Team",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4375826441/",
+      "company": "Jobs via Dice",
+      "title": "Machine Learning Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406566974/",
       "date_posted": "2026-04-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Infosys",
-      "title": "Google ADK AI Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4374842980/",
+      "company": "Nexxen",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407623761/",
       "date_posted": "2026-04-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Ambi Robotics",
-      "title": "Senior Robotics Research Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407608443/",
+      "company": "Fathom",
+      "title": "AI Engineer - Model Performance",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409050861/",
+      "date_posted": "2026-04-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Paraform",
+      "title": "Senior Data Scientist - Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409050345/",
+      "date_posted": "2026-04-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406574912/",
+      "date_posted": "2026-04-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Diligente Technologies",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409067299/",
+      "date_posted": "2026-04-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "AI Engineer \u2013 Generative AI",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407639097/",
       "date_posted": "2026-04-30",
       "ats": "LinkedIn"
     }
