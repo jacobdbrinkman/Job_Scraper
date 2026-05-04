@@ -1,20 +1,32 @@
 # 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-04 04:41 UTC*
+*Last updated: 2026-05-04 17:42 UTC*
 
-**4 role(s) posted in the last hour**
+**7 role(s) posted in the last hour**
 
-### [Data Scientist, Growth](https://www.linkedin.com/jobs/view/4409892834/) — Cursor
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4410088622/) — Baselayer
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-04
 
-### [Machine Learning Engineer (Staff Level)](https://www.linkedin.com/jobs/view/4404212879/) — Tykhe Inc
-- 📍 **Location:** San Jose, CA
+### [ML/Research Engineer, Safeguards](https://www.linkedin.com/jobs/view/4322259791/) — Anthropic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-04
 
-### [Machine Learning Engineer II - AV Labs](https://www.linkedin.com/jobs/view/4409891763/) — Uber
-- 📍 **Location:** Sunnyvale, CA
+### [Machine Learning Infrastructure Engineer- Model Inference](https://www.linkedin.com/jobs/view/4318555366/) — Abridge
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-04
 
-### [Physical AI Engineer](https://www.linkedin.com/jobs/view/4407734341/) — TD SYNNEX North America
-- 📍 **Location:** Fremont, CA
+### [Staff Machine Learning Engineer](https://www.linkedin.com/jobs/view/4376768009/) — Cypress HCM
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Staff Applied Scientist](https://www.linkedin.com/jobs/view/4398099127/) — Harnham
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Vice President, Global Data & Analytics, Data Science Practice](https://www.linkedin.com/jobs/view/4410087380/) — Visa
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-05-04
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4398096083/) — Harnham
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-04
