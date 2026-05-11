@@ -1,21 +1,37 @@
 {
-  "scraped_at": "2026-05-11 22:07 UTC",
-  "total": 13,
-  "new_count": 11,
+  "scraped_at": "2026-05-11 23:57 UTC",
+  "total": 20,
+  "new_count": 13,
   "jobs": [
-    {
-      "company": "Roku",
-      "title": "Senior Data Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412971140/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
     {
       "company": "SAP",
       "title": "Machine Learning Engineer",
       "location": "Palo Alto, CA",
       "url": "https://www.linkedin.com/jobs/view/4412973740/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412982645/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Taskrabbit",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4373039072/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "2026 Intern - Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412980703/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
@@ -28,26 +44,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amperesand",
-      "title": "Staff/Senior Software AI engineer: Predictive Analytics",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413188168/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "AI/ML Engineer",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412945785/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Senior Recruiter \u2013 Applied Science, Machine Learning & Data Science Recruiting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394743151/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Federato",
-      "title": "Forward Deployed Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4409107814/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, Product Analytics - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412954961/",
+      "url": "https://www.linkedin.com/jobs/view/4400314508/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
@@ -60,6 +76,14 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "NVIDIA",
+      "title": "Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413193032/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Target",
       "title": "Sr Data Scientist - Global Supply Chain and Logistics",
       "location": "Sunnyvale, CA",
@@ -68,26 +92,50 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Salesforce",
-      "title": "Staff Product Data Scientist - Slack",
+      "company": "Headspace",
+      "title": "Principal Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4367175657/",
+      "url": "https://www.linkedin.com/jobs/view/4412978905/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Ontra",
-      "title": "Staff Data Scientist",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412951933/",
+      "company": "Moloco",
+      "title": "Senior Applied Scientist, ML (MCM)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413184129/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Principal Machine Learning Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412957818/",
+      "company": "Fiddler AI",
+      "title": "Staff AI Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413184195/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "[2026] Data Scientist, Social - PhD Early Career",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412987628/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Senior Recruiter \u2013 Applied Science, Machine Learning & Data Science Recruiting",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400318391/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Block",
+      "title": "Staff Machine Learning Engineer, Credit Products (Square Financial Services)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413173676/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
@@ -100,100 +148,124 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "AI/ML Engineer",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412945785/",
+      "company": "Federato",
+      "title": "Forward Deployed Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cloudious LLC",
+      "title": "Generative AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412988270/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "SAP",
+      "company": "Adobe",
       "title": "Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412973740/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, Payment Risk - USDS",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412991037/",
+      "url": "https://www.linkedin.com/jobs/view/4412982645/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amperesand",
-      "title": "Staff/Senior Software AI engineer: Predictive Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394743151/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Federato",
-      "title": "Forward Deployed Machine Learning Engineer",
+      "company": "Taskrabbit",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "url": "https://www.linkedin.com/jobs/view/4373039072/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, Product Analytics - USDS",
+      "company": "Adobe",
+      "title": "2026 Intern - Data Scientist",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412954961/",
+      "url": "https://www.linkedin.com/jobs/view/4412980703/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Slack",
-      "title": "Staff Product Data Scientist - Slack",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404918124/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Target",
-      "title": "Sr Data Scientist - Global Supply Chain and Logistics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412973594/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413188168/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
       "company": "Salesforce",
-      "title": "Staff Product Data Scientist - Slack",
+      "title": "Senior Recruiter \u2013 Applied Science, Machine Learning & Data Science Recruiting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4367175657/",
+      "url": "https://www.linkedin.com/jobs/view/4400314508/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Principal Machine Learning Engineer",
+      "company": "NVIDIA",
+      "title": "Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412957818/",
+      "url": "https://www.linkedin.com/jobs/view/4413193032/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413167178/",
+      "company": "Headspace",
+      "title": "Principal Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412978905/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "AI/ML Engineer",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412945785/",
+      "company": "Moloco",
+      "title": "Senior Applied Scientist, ML (MCM)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413184129/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Fiddler AI",
+      "title": "Staff AI Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413184195/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "[2026] Data Scientist, Social - PhD Early Career",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412987628/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Senior Recruiter \u2013 Applied Science, Machine Learning & Data Science Recruiting",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400318391/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Block",
+      "title": "Staff Machine Learning Engineer, Credit Products (Square Financial Services)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413173676/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cloudious LLC",
+      "title": "Generative AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412988270/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     }
