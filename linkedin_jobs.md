@@ -1,16 +1,20 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-11 04:57 UTC*
+*Last updated: 2026-05-11 08:29 UTC*
 
-**3 new role(s)** since last run · 16 total in last 2h
+**4 new role(s)** since last run · 4 total in last 2h
 
-### [Forward Deployed Machine Learning Engineer](https://www.linkedin.com/jobs/view/4409107814/) — Federato
-- 📍 **Location:** San Francisco Bay Area
+### [Machine Learning Engineer (Computer Vision/Multimodal/Generative AI)](https://www.linkedin.com/jobs/view/4378002082/) — SPREEAI
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-11
 
-### [Senior Machine Learning Engineer, Driver Understanding and Evaluation](https://www.linkedin.com/jobs/view/4344582871/) — Waymo
-- 📍 **Location:** Mountain View, CA
+### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4412642694/) — Enigma
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-11
 
-### [Staff Machine Learning Engineer, Simulation](https://www.linkedin.com/jobs/view/4344656081/) — Waymo
+### [Principal Data Scientist-(with GIS exp) Local to CA (w2 contract)](https://www.linkedin.com/jobs/view/4412117303/) — SPECTRAFORCE
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-05-11
+
+### [AI Engineering Intern (Hybrid)](https://www.linkedin.com/jobs/view/4412713447/) — Homebase
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-11
