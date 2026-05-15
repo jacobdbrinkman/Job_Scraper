@@ -1,215 +1,135 @@
 {
-  "scraped_at": "2026-05-15 18:18 UTC",
-  "total": 13,
-  "new_count": 13,
+  "scraped_at": "2026-05-15 20:11 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Lyft",
-      "title": "Machine Learning Engineer, Lyft Business",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405818358/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LinkedIn",
-      "title": "Staff AI Engineer",
+      "company": "FUSTIS LLC",
+      "title": "Machine Learning Engineer(MID/Senior)-W2 Contract",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415509505/",
+      "url": "https://www.linkedin.com/jobs/view/4415523794/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Astro Health Inc",
-      "title": "Principal AI/ML Engineer - Top Healthtech AI start-up SF Bay",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4330232369/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal ML Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415518289/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Enigma",
-      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Ecommerce  - USDS",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415097834/",
+      "url": "https://www.linkedin.com/jobs/view/4415552054/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Dinamo Biotechnologies",
-      "title": "Senior Data Scientist - Bioinformatics",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414757672/",
+      "company": "Jobs via Dice",
+      "title": "W2 Position - Machine Learning Engineer - Local to CA",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415109408/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "LinkedIn",
+      "company": "Coframe",
+      "title": "Applied Scientist",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415535930/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Data Scientist, Trust & Safety - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415542186/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Machine Learning Engineer, AI Safety & Assurance - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415540799/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Machine Learning Engineer, Recommendations - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415537777/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Imprint",
       "title": "Senior AI Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415509496/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412021598/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DDN",
-      "title": "Senior/Staff AI Engineer",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415533093/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Data Scientist, Decisions - Risk",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394901884/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Data Science Manager, Mapping",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4383792547/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SoFi",
-      "title": "Staff Data Scientist, Member Insights - Subscriptions",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4375032357/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Altera",
-      "title": "Senior MLOps & AI Infrastructure Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415516286/",
+      "url": "https://www.linkedin.com/jobs/view/4415543902/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Lyft",
-      "title": "Machine Learning Engineer, Lyft Business",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405818358/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LinkedIn",
-      "title": "Staff AI Engineer",
+      "company": "FUSTIS LLC",
+      "title": "Machine Learning Engineer(MID/Senior)-W2 Contract",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415509505/",
+      "url": "https://www.linkedin.com/jobs/view/4415523794/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Astro Health Inc",
-      "title": "Principal AI/ML Engineer - Top Healthtech AI start-up SF Bay",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4330232369/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal ML Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415518289/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Enigma",
-      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Ecommerce  - USDS",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415097834/",
+      "url": "https://www.linkedin.com/jobs/view/4415552054/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Dinamo Biotechnologies",
-      "title": "Senior Data Scientist - Bioinformatics",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414757672/",
+      "company": "Jobs via Dice",
+      "title": "W2 Position - Machine Learning Engineer - Local to CA",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415109408/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "LinkedIn",
+      "company": "Coframe",
+      "title": "Applied Scientist",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415535930/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Data Scientist, Trust & Safety - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415542186/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Machine Learning Engineer, AI Safety & Assurance - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415540799/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Machine Learning Engineer, Recommendations - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415537777/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Imprint",
       "title": "Senior AI Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415509496/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BeaconFire Inc.",
-      "title": "Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412021598/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DDN",
-      "title": "Senior/Staff AI Engineer",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415533093/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Data Scientist, Decisions - Risk",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394901884/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Data Science Manager, Mapping",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4383792547/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SoFi",
-      "title": "Staff Data Scientist, Member Insights - Subscriptions",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4375032357/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Altera",
-      "title": "Senior MLOps & AI Infrastructure Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415516286/",
+      "url": "https://www.linkedin.com/jobs/view/4415543902/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     }
