@@ -1,16 +1,8 @@
 {
-  "scraped_at": "2026-05-15 22:48 UTC",
-  "total": 10,
+  "scraped_at": "2026-05-15 23:49 UTC",
+  "total": 12,
   "new_count": 8,
   "jobs": [
-    {
-      "company": "Spira AI",
-      "title": "Data Scientist Intern",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413115446/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
     {
       "company": "UCSF Health",
       "title": "Data Scientist",
@@ -20,26 +12,42 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412048554/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Roku",
+      "title": "Senior Machine Learning Engineer, Search Assistant",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415590021/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Data Scientist - Credit",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415587201/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
       "title": "Senior Machine Learning Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415560456/",
+      "url": "https://www.linkedin.com/jobs/view/4415113988/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "NewsBreak",
-      "title": "Senior Machine Learning Engineer, Recommendation & AI Applications",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415132028/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NewsBreak",
-      "title": "Staff Machine Learning Engineer, Recommendation & AI Platform",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415124554/",
+      "company": "Plaid",
+      "title": "Senior Data Scientist - Network Value",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415582313/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
@@ -60,92 +68,100 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415113988/",
+      "company": "Tempus AI",
+      "title": "Staff/Senior Machine Learning Engineer, Clinical AI",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415137147/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "CallSphere LLC",
-      "title": "Founding AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415128332/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Silverspace Inc",
-      "title": "Staff AI Engineer",
+      "company": "LinkedIn",
+      "title": "Senior AI Engineer",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412041877/",
+      "url": "https://www.linkedin.com/jobs/view/4415580212/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bosch USA",
+      "title": "Wireless Research Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412051307/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goldman Sachs",
+      "title": "AI Engineering - Vice President (Menlo Park, CA)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415136164/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "UCSF Health",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415570518/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412048554/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
       "company": "Roku",
-      "title": "Senior Machine Learning Engineer",
+      "title": "Senior Machine Learning Engineer, Search Assistant",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415560456/",
+      "url": "https://www.linkedin.com/jobs/view/4415590021/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "NewsBreak",
-      "title": "Senior Machine Learning Engineer, Recommendation & AI Applications",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415132028/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Senior Data Scientist - \u00a0Experimentation & Measurement",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412033957/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Staff Data Scientist -\u00a0 Experimentation & Measurement",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412051193/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415113988/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CallSphere LLC",
-      "title": "Founding AI Engineer",
+      "company": "Plaid",
+      "title": "Senior Data Scientist - Credit",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415128332/",
+      "url": "https://www.linkedin.com/jobs/view/4415587201/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Silverspace Inc",
-      "title": "Staff AI Engineer",
+      "company": "Plaid",
+      "title": "Senior Data Scientist - Network Value",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415582313/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Staff/Senior Machine Learning Engineer, Clinical AI",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415137147/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LinkedIn",
+      "title": "Senior AI Engineer",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412041877/",
+      "url": "https://www.linkedin.com/jobs/view/4415580212/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bosch USA",
+      "title": "Wireless Research Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412051307/",
+      "date_posted": "2026-05-15",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goldman Sachs",
+      "title": "AI Engineering - Vice President (Menlo Park, CA)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415136164/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     }

@@ -1,36 +1,36 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-15 22:48 UTC*
+*Last updated: 2026-05-15 23:49 UTC*
 
-**8 new role(s)** since last run · 10 total in last 1h
+**8 new role(s)** since last run · 12 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4415570518/) — UCSF Health
-- 📍 **Location:** San Francisco, CA
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4412048554/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4415560456/) — Roku
+### [Senior Machine Learning Engineer, Search Assistant](https://www.linkedin.com/jobs/view/4415590021/) — Roku
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Senior Machine Learning Engineer, Recommendation & AI Applications](https://www.linkedin.com/jobs/view/4415132028/) — NewsBreak
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Senior Data Scientist -  Experimentation & Measurement](https://www.linkedin.com/jobs/view/4412033957/) — Sony Interactive Entertainment
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Staff Data Scientist -  Experimentation & Measurement](https://www.linkedin.com/jobs/view/4412051193/) — Sony Interactive Entertainment
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4415113988/) — TetraMem - Accelerate The World
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Founding AI Engineer](https://www.linkedin.com/jobs/view/4415128332/) — CallSphere LLC
+### [Senior Data Scientist - Credit](https://www.linkedin.com/jobs/view/4415587201/) — Plaid
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Staff AI Engineer](https://www.linkedin.com/jobs/view/4412041877/) — Silverspace Inc
+### [Senior Data Scientist - Network Value](https://www.linkedin.com/jobs/view/4415582313/) — Plaid
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Staff/Senior Machine Learning Engineer, Clinical AI](https://www.linkedin.com/jobs/view/4415137147/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4415580212/) — LinkedIn
 - 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Wireless Research Engineer](https://www.linkedin.com/jobs/view/4412051307/) — Bosch USA
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [AI Engineering - Vice President (Menlo Park, CA)](https://www.linkedin.com/jobs/view/4415136164/) — Goldman Sachs
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-05-15
