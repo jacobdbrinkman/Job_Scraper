@@ -1,87 +1,71 @@
 {
-  "scraped_at": "2026-05-15 02:31 UTC",
-  "total": 5,
-  "new_count": 5,
+  "scraped_at": "2026-05-15 06:27 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Fort",
-      "title": "Founding Machine Learning Engineer, Health Algorithms",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414791192/",
+      "company": "Rakuten Symphony",
+      "title": "AI/ML Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415006393/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "RS Global Services",
-      "title": "Machine Learning Engineer - Onsite - Mountain View, CA",
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Senior Machine Learning Infrastructure Engineer",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414981351/",
+      "url": "https://www.linkedin.com/jobs/view/4411577505/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Data Scientist, Payment Analytics - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414980792/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PHIL, Inc.",
-      "title": "AI Engineering Intern",
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Senior Machine Learning Infrastructure Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414984780/",
+      "url": "https://www.linkedin.com/jobs/view/4411574722/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Shared Context Lab",
-      "title": "AI Engineering Intern",
+      "company": "Plaid",
+      "title": "Senior Machine Learning Engineer (Research Scientist) - Data Foundation & AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414982925/",
+      "url": "https://www.linkedin.com/jobs/view/4415320318/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Fort",
-      "title": "Founding Machine Learning Engineer, Health Algorithms",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414791192/",
+      "company": "Rakuten Symphony",
+      "title": "AI/ML Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415006393/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "RS Global Services",
-      "title": "Machine Learning Engineer - Onsite - Mountain View, CA",
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Senior Machine Learning Infrastructure Engineer",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414981351/",
+      "url": "https://www.linkedin.com/jobs/view/4411577505/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Data Scientist, Payment Analytics - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414980792/",
-      "date_posted": "2026-05-15",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PHIL, Inc.",
-      "title": "AI Engineering Intern",
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Senior Machine Learning Infrastructure Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414984780/",
+      "url": "https://www.linkedin.com/jobs/view/4411574722/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     },
     {
-      "company": "Shared Context Lab",
-      "title": "AI Engineering Intern",
+      "company": "Plaid",
+      "title": "Senior Machine Learning Engineer (Research Scientist) - Data Foundation & AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414982925/",
+      "url": "https://www.linkedin.com/jobs/view/4415320318/",
       "date_posted": "2026-05-15",
       "ats": "LinkedIn"
     }

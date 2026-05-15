@@ -1,24 +1,20 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-15 02:31 UTC*
+*Last updated: 2026-05-15 06:27 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Founding Machine Learning Engineer, Health Algorithms](https://www.linkedin.com/jobs/view/4414791192/) — Fort
-- 📍 **Location:** San Francisco, CA
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4415006393/) — Rakuten Symphony
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Machine Learning Engineer - Onsite - Mountain View, CA](https://www.linkedin.com/jobs/view/4414981351/) — RS Global Services
+### [Senior Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4411577505/) — Unity South APAC (SEA, ANZ, IND Subcont.)
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Senior Data Scientist, Payment Analytics - USDS](https://www.linkedin.com/jobs/view/4414980792/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [AI Engineering Intern](https://www.linkedin.com/jobs/view/4414984780/) — PHIL, Inc.
+### [Senior Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4411574722/) — Unity South APAC (SEA, ANZ, IND Subcont.)
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [AI Engineering Intern](https://www.linkedin.com/jobs/view/4414982925/) — Shared Context Lab
+### [Senior Machine Learning Engineer (Research Scientist) - Data Foundation & AI](https://www.linkedin.com/jobs/view/4415320318/) — Plaid
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-15
