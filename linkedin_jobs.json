@@ -1,40 +1,57 @@
 {
-  "scraped_at": "2026-05-17 22:45 UTC",
-  "total": 4,
-  "new_count": 0,
+  "scraped_at": "2026-05-17 23:52 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "kadence",
-      "title": "Staff Applied ML Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4389453277/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412238697/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "SoFi",
-      "title": "Staff Marketing Data Scientist, Machine Learning",
+      "company": "talentpluto",
+      "title": "Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416054533/",
+      "url": "https://www.linkedin.com/jobs/view/4416060736/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "TalentAlly",
-      "title": "Senior AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413505381/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TalentAlly",
-      "title": "Principal AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413508259/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415465909/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412238697/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "talentpluto",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416060736/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415465909/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    }
+  ]
 }
