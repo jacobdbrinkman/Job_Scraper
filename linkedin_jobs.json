@@ -1,103 +1,71 @@
 {
-  "scraped_at": "2026-05-18 19:28 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-05-18 21:04 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Google",
-      "title": "Senior Research Data Scientist, Search Ads",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415704541/",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Payment Risk - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416424329/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Google",
-      "title": "Senior Business Data Scientist, YouTube Ads GTM Creatives",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415705492/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Senior Business Data Scientist, YouTube Ads GTM Creatives",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415713199/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Intuitive",
-      "title": "Senior Human Factors Research Engineer",
+      "company": "Decagon",
+      "title": "Senior Research Engineer, Voice + Speech",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416284424/",
+      "url": "https://www.linkedin.com/jobs/view/4416410328/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "High Country Search Group",
-      "title": "Agentic AI Engineer",
+      "company": "Philo",
+      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4302123397/",
+      "date_posted": "2026-05-18",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Luma",
+      "title": "Research Engineer - Evaluations",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4416400293/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Love Freedom Solution",
-      "title": "Senior Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415710297/",
+      "url": "https://www.linkedin.com/jobs/view/4378351738/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Google",
-      "title": "Senior Research Data Scientist, Search Ads",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415704541/",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Payment Risk - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416424329/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Google",
-      "title": "Senior Business Data Scientist, YouTube Ads GTM Creatives",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415705492/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Senior Business Data Scientist, YouTube Ads GTM Creatives",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415713199/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Intuitive",
-      "title": "Senior Human Factors Research Engineer",
+      "company": "Decagon",
+      "title": "Senior Research Engineer, Voice + Speech",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416284424/",
+      "url": "https://www.linkedin.com/jobs/view/4416410328/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "High Country Search Group",
-      "title": "Agentic AI Engineer",
+      "company": "Philo",
+      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4302123397/",
+      "date_posted": "2026-05-18",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Luma",
+      "title": "Research Engineer - Evaluations",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4416400293/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Love Freedom Solution",
-      "title": "Senior Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415710297/",
+      "url": "https://www.linkedin.com/jobs/view/4378351738/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
