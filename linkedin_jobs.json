@@ -1,23 +1,135 @@
 {
-  "scraped_at": "2026-05-23 03:17 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-05-23 05:10 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Didit (YC W26)",
-      "title": "AI Engineer \u2014 Biometrics",
+      "company": "UCSF Health",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414378795/",
+      "url": "https://www.linkedin.com/jobs/view/4415570518/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Linktree",
+      "title": "Staff Applied AI Engineer, AI Experiences & Agents",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417544239/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Benchling",
+      "title": "Agentic AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418470446/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior, Data Scientist (Pricing)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414384546/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Distinguished, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414803329/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414399559/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Senior Machine Learning Engineer, Vector Bidding Science",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414389587/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Staff Machine Learning Engineer, Vector Bidding Science",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414382682/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Didit (YC W26)",
-      "title": "AI Engineer \u2014 Biometrics",
+      "company": "UCSF Health",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414378795/",
+      "url": "https://www.linkedin.com/jobs/view/4415570518/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Linktree",
+      "title": "Staff Applied AI Engineer, AI Experiences & Agents",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417544239/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Benchling",
+      "title": "Agentic AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418470446/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior, Data Scientist (Pricing)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414384546/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Distinguished, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414803329/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414399559/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Senior Machine Learning Engineer, Vector Bidding Science",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414389587/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
+      "title": "Staff Machine Learning Engineer, Vector Bidding Science",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414382682/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
