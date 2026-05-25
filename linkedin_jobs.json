@@ -1,39 +1,23 @@
 {
-  "scraped_at": "2026-05-25 02:17 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-05-25 03:17 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Tesla",
-      "title": "Machine Learning Engineer, Maps & Navigation, Robotaxi",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418693704/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UXR Hunt",
-      "title": "Human Factors Research Engineer, AIML Data Operations",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417841481/",
+      "company": "TikTok",
+      "title": "Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417838662/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Tesla",
-      "title": "Machine Learning Engineer, Maps & Navigation, Robotaxi",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418693704/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UXR Hunt",
-      "title": "Human Factors Research Engineer, AIML Data Operations",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417841481/",
+      "company": "TikTok",
+      "title": "Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417838662/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
