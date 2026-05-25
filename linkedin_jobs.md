@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-25 19:17 UTC*
+*Last updated: 2026-05-25 20:17 UTC*
 
-**0 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior/Staff ML Engineer, Model Integration](https://www.linkedin.com/jobs/view/4418994319/) — ComfyUI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-25
