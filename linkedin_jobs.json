@@ -1,7 +1,105 @@
 {
-  "scraped_at": "2026-05-25 05:08 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-05-25 15:17 UTC",
+  "total": 6,
+  "new_count": 6,
+  "jobs": [
+    {
+      "company": "Roblox",
+      "title": "[2026] Senior Machine Learning Engineer, Engine Optimization - PhD Early Career",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4325934502/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Discovery",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322062014/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer/Research Scientist, Pre-training",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4322259770/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417885382/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Life Sciences (Beneficial Deployments)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4369877096/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Delivery Foundation Model",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4315138375/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Roblox",
+      "title": "[2026] Senior Machine Learning Engineer, Engine Optimization - PhD Early Career",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4325934502/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Discovery",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4322062014/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer/Research Scientist, Pre-training",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4322259770/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417885382/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Life Sciences (Beneficial Deployments)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4369877096/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Delivery Foundation Model",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4315138375/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    }
+  ]
 }
