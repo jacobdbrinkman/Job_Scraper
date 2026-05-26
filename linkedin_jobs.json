@@ -1,16 +1,57 @@
 {
-  "scraped_at": "2026-05-26 01:17 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-05-26 02:17 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418217534/",
+      "company": "Tesla",
+      "title": "Machine Learning Engineer, Destination & Special Behaviors, Self-Driving",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419110613/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "AI Engineer, Vision & Foundation Models, Optimus",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419111478/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "AI Engineer, 3D Computer Vision, Self-Driving",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419127289/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Tesla",
+      "title": "Machine Learning Engineer, Destination & Special Behaviors, Self-Driving",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419110613/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "AI Engineer, Vision & Foundation Models, Optimus",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419111478/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tesla",
+      "title": "AI Engineer, 3D Computer Vision, Self-Driving",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419127289/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    }
+  ]
 }
