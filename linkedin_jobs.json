@@ -1,21 +1,45 @@
 {
-  "scraped_at": "2026-05-27 23:01 UTC",
-  "total": 4,
-  "new_count": 4,
+  "scraped_at": "2026-05-27 23:17 UTC",
+  "total": 10,
+  "new_count": 7,
   "jobs": [
-    {
-      "company": "Discord",
-      "title": "Senior Data Scientist, Analytics",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4388983970/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
     {
       "company": "Shipt",
       "title": "Staff Machine Learning Engineer",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4419975655/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Strava",
+      "title": "Staff AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417278084/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Atoms",
+      "title": "Senior Software Engineer - Machine Learning Infrastructure - San Francisco, CA",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418850929/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Thinking Machines Lab",
+      "title": "Research Engineer Infrastructure Inference",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4419990381/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Thinking Machines Lab",
+      "title": "Research Engineer Infrastructure Kernels",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4419990389/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
@@ -28,44 +52,92 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Front",
-      "title": "Operations AI Engineer (Contract)",
+      "company": "Maxonic Inc.",
+      "title": "Data Scientist",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418863593/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Data Scientist, Analytics",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4388983970/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "American Arbitration Association",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419988179/",
+      "url": "https://www.linkedin.com/jobs/view/4418865404/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Data Scientist II, Outcomes Research",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418871090/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Discord",
-      "title": "Senior Data Scientist, Analytics",
+      "company": "Strava",
+      "title": "Staff AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417278084/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Atoms",
+      "title": "Senior Software Engineer - Machine Learning Infrastructure - San Francisco, CA",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418850929/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Thinking Machines Lab",
+      "title": "Research Engineer Infrastructure Inference",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4388983970/",
+      "url": "https://www.linkedin.com/jobs/view/4419990381/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Shipt",
-      "title": "Staff Machine Learning Engineer",
+      "company": "Thinking Machines Lab",
+      "title": "Research Engineer Infrastructure Kernels",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4419990389/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Maxonic Inc.",
+      "title": "Data Scientist",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418863593/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "American Arbitration Association",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419975655/",
+      "url": "https://www.linkedin.com/jobs/view/4418865404/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Google DeepMind",
-      "title": "Research Engineer, Materials Science",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419988251/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Front",
-      "title": "Operations AI Engineer (Contract)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419988179/",
+      "company": "Tempus AI",
+      "title": "Data Scientist II, Outcomes Research",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418871090/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
