@@ -1,24 +1,8 @@
 {
-  "scraped_at": "2026-05-27 02:17 UTC",
-  "total": 10,
-  "new_count": 6,
+  "scraped_at": "2026-05-27 03:17 UTC",
+  "total": 5,
+  "new_count": 4,
   "jobs": [
-    {
-      "company": "Jack & Jill",
-      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405083386/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Machine Learning Engineer, Global Supply Chain",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419564656/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
     {
       "company": "PlusAI",
       "title": "Machine Learning Engineer Intern",
@@ -28,108 +12,68 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Roboflow",
-      "title": "Machine Learning Research Engineer",
+      "company": "Wayve",
+      "title": "System & Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416879667/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Philo",
+      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418547075/",
+      "url": "https://www.linkedin.com/jobs/view/4302123397/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Roboflow",
-      "title": "Machine Learning Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418527731/",
+      "company": "Robert Half",
+      "title": "Data Scientist II",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4379134223/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Scale.jobs",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416870392/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419556662/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419571464/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale.jobs",
-      "title": "MLOps Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416856961/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale.jobs",
-      "title": "LLM / GenAI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416865433/",
+      "company": "Nokia",
+      "title": "AI Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416877245/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jack & Jill",
-      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
+      "company": "Wayve",
+      "title": "System & Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416879667/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Philo",
+      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405083386/",
+      "url": "https://www.linkedin.com/jobs/view/4302123397/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "Machine Learning Engineer, Global Supply Chain",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419564656/",
+      "company": "Robert Half",
+      "title": "Data Scientist II",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4379134223/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "PlusAI",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412893082/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale.jobs",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416870392/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale.jobs",
-      "title": "MLOps Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416856961/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Scale.jobs",
-      "title": "LLM / GenAI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416865433/",
+      "company": "Nokia",
+      "title": "AI Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416877245/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
