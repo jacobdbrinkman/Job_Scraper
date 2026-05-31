@@ -1,119 +1,103 @@
 {
-  "scraped_at": "2026-05-30 23:17 UTC",
-  "total": 8,
+  "scraped_at": "2026-05-31 00:17 UTC",
+  "total": 6,
   "new_count": 6,
   "jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418350818/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AKASA",
-      "title": "Sr. Software Engineer, DevOps",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4286184304/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Xcede",
-      "title": "Senior Staff Software Engineer",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418298255/",
-      "date_posted": "2026-05-30",
+      "url": "https://www.linkedin.com/jobs/view/4418362043/",
+      "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "AKASA",
-      "title": "Software Engineer, Client Solutions",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421374333/",
-      "date_posted": "2026-05-30",
+      "company": "ByteDance",
+      "title": "AI Vision Research Engineer Graduate (PICO) - 2026 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418354915/",
+      "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "Oracle",
-      "title": "Senior Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418335943/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418346911/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer, AI/RL Infrastructure (Research)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421365415/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421382495/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Full-Stack Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418357022/",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418337947/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Backend Developer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421379510/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GenPark",
+      "title": "Frontend Developer Intern",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418355160/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "AKASA",
-      "title": "Sr. Software Engineer, DevOps",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4286184304/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Xcede",
-      "title": "Senior Staff Software Engineer",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418298255/",
-      "date_posted": "2026-05-30",
+      "url": "https://www.linkedin.com/jobs/view/4418362043/",
+      "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "AKASA",
-      "title": "Software Engineer, Client Solutions",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421374333/",
-      "date_posted": "2026-05-30",
+      "company": "ByteDance",
+      "title": "AI Vision Research Engineer Graduate (PICO) - 2026 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418354915/",
+      "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "Oracle",
-      "title": "Senior Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418335943/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer, AI/RL Infrastructure (Research)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421365415/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421382495/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Full-Stack Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418357022/",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418337947/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Backend Developer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421379510/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GenPark",
+      "title": "Frontend Developer Intern",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418355160/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
