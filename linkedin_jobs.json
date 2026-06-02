@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-02 19:02 UTC",
-  "total": 94,
-  "new_count": 87,
+  "scraped_at": "2026-06-02 19:17 UTC",
+  "total": 110,
+  "new_count": 20,
   "jobs": [
     {
       "company": "Applied Intuition",
@@ -12,130 +12,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "K&K Global Talent Solutions INC.",
-      "title": "AI Engineer",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422456834/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413193032/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MaintainX",
-      "title": "Senior Applied Machine Learning Engineer, Asset Intelligence",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422473367/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Block",
-      "title": "Staff Machine Learning Engineer, Credit Products (Square Financial Services)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413173676/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Applied Intuition",
-      "title": "Research Engineer - AI/RL Infrastructure",
+      "title": "Software Engineer - AI Engineering",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947990/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - ML Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423950921/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Embedded AI Engineer \u2013 Android Automotive (On-Device Intelligence)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423956881/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Perception (Fallback Stack)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423961738/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer - Robot Learning",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423958870/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer - Reinforcement Learning, Self-Driving",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423951882/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Validation Toolset",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423953837/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer \u2013 Autonomy Tooling",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423972024/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer \u2013 Autonomy Stack",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955847/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, Payment Analytics - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410250451/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "ML Perception Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423970221/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Scientist - Reinforcement Learning, Self-Driving",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423960800/",
+      "url": "https://www.linkedin.com/jobs/view/4423947984/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -149,9 +29,17 @@
     },
     {
       "company": "Applied Intuition",
-      "title": "Research Intern - Reinforcement Learning, Robotics",
+      "title": "ML Perception Software Engineer",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969284/",
+      "url": "https://www.linkedin.com/jobs/view/4423970221/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413193032/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -165,17 +53,17 @@
     },
     {
       "company": "Applied Intuition",
-      "title": "Research Scientist - Reinforcement Learning, Robotics",
+      "title": "Software Engineer",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423966477/",
+      "url": "https://www.linkedin.com/jobs/view/4423961732/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Research Engineer - 3D Vision and Generation, Self-Driving",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423949911/",
+      "company": "Intelliswift - An LTTS Company",
+      "title": "Senior AI Data Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423955816/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -184,6 +72,294 @@
       "title": "Data & ML Pipeline Software Engineer",
       "location": "Sunnyvale, CA",
       "url": "https://www.linkedin.com/jobs/view/4423954899/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Insights Platform",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423947987/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Calibration",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423969292/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "FutureTech Recruitment",
+      "title": "Senior Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423947964/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer \u2013 Autonomy Tooling",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423972024/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arbor AI, Inc",
+      "title": "Senior Founding Software Engineer / Infrastructure, Backend & Platforms",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4423967360/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - E2E Autonomy",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423954906/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Perception (Fallback Stack)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423961738/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cloudera",
+      "title": "Sr. Fullstack Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423950814/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer \u2013 Autonomy Stack",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423955847/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Developer Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423970213/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Senior Software Engineer - Data Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423967478/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crunchyroll",
+      "title": "Software Engineer III, Apple",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413593777/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CHAOS Industries",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423956987/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Senior Site Reliability Engineer - Data Infrastructure (San Jose)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423957841/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Staff Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423958867/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Senior Software Engineer - Fallback Stack",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423971134/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "RGP",
+      "title": "Data Engineer Consultant",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419609801/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EPITEC",
+      "title": "Firmware Software Engineer V",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422454473/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Applied Scientist II (Bing Places)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401531365/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Prime Video & Amazon MGM Studios",
+      "title": "Applied Scientist , Prime Video Personalization and Discovery",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422473287/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Block",
+      "title": "Staff Machine Learning Engineer, Credit Products (Square Financial Services)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413173676/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lumicity",
+      "title": "Software Engineer - Motion Planning",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423961636/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MaintainX",
+      "title": "Senior Applied Machine Learning Engineer, Asset Intelligence",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422473367/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Mapping and Localization",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423958874/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Planning",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423952820/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Motion Planning (Fallback Stack)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423960803/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Site Reliability Engineer - Data Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423950965/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "itD",
+      "title": "Data Engineer III (6193)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422466576/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - C++",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423971135/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Kafka",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423953843/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Software Engineer 3, Atlas Search Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404369498/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Research Scientist - Reinforcement Learning, Self-Driving",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423960800/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Research Scientist - Reinforcement Learning, Robotics",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423966477/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Research Intern - Reinforcement Learning, Robotics",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423969284/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Research Engineer - Robot Learning",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423958870/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Research Engineer - 3D Vision and Generation, Self-Driving",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423949911/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -205,241 +381,9 @@
     },
     {
       "company": "Applied Intuition",
-      "title": "Software Engineer - Calibration",
+      "title": "Software Engineer - Over-the-Air Updates",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969292/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lumicity",
-      "title": "Software Engineer - Motion Planning",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423961636/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - AI Engineering",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947984/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Sensor Sim - ML Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969295/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Intelliswift - An LTTS Company",
-      "title": "Senior AI Data Engineer",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955816/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Security Engineer (Purple Team)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955852/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Staff Software Engineer, Infrastructure - Marimo",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419602764/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Staff Software Engineer, Infrastructure - Marimo",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419615710/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Redolent, Inc",
-      "title": "AI Engineer (Java) | Hybrid | Full-Time W2",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419221467/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423961732/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cloudera",
-      "title": "Sr. Fullstack Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423950814/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Backend",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955850/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Developer Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423970213/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Kafka",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423953843/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Mapping and Localization",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423958874/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Systems Engineering AI Tooling",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423952827/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Telematics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423958873/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - E2E Autonomy",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423954906/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955848/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FutureTech Recruitment",
-      "title": "Senior Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947964/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - Data Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423967478/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - C++",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423967470/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Embedded Software Engineer - Firmware",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423954903/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Staff Engineer, Data Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422461503/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grid Aero",
-      "title": "Senior Embedded Software Engineer [NO SPONSORSHIP]",
-      "location": "San Leandro, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423961723/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Systems Engineer, Vehicle OS",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969288/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MongoDB",
-      "title": "Software Engineer 3, Atlas Search Systems",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404369498/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CHAOS Industries",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423956987/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Arbor AI, Inc",
-      "title": "Senior Founding Software Engineer / Infrastructure, Backend & Platforms",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4423967360/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Cloud Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969282/",
+      "url": "https://www.linkedin.com/jobs/view/4423949903/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -453,9 +397,129 @@
     },
     {
       "company": "Applied Intuition",
-      "title": "Staff Software Engineer",
+      "title": "Software Engineer - Backend",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423958867/",
+      "url": "https://www.linkedin.com/jobs/view/4423955850/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Sensor Sim - ML Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423969295/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "K&K Global Talent Solutions INC.",
+      "title": "AI Engineer",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422456834/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Research Engineer - AI/RL Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423947990/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Evals and AI Infra",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410364157/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, AI Agents",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4338361913/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Evals and AI Infra",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318298390/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Air AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415804754/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Air AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415808643/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Ambient AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410356514/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Fullstack Engineer, AI Integrations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410359121/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Software Engineer, Ambient AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4335399819/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Fullstack Engineer, AI Integrations",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4372143595/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Commure",
+      "title": "Senior Backend Engineer, RCM AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410371007/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Redolent, Inc",
+      "title": "AI Engineer (Java) | Hybrid | Full-Time W2",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419221467/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Cloud Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423969282/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -469,33 +533,25 @@
     },
     {
       "company": "Applied Intuition",
-      "title": "Senior Software Engineer - Maps Infrastructure",
+      "title": "Software Engineer - Validation Toolset",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423952819/",
+      "url": "https://www.linkedin.com/jobs/view/4423953837/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
       "company": "Applied Intuition",
-      "title": "Senior Android Software Engineer - Platform",
+      "title": "Software Engineer - Telematics",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423957789/",
+      "url": "https://www.linkedin.com/jobs/view/4423958873/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Turing",
-      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422452632/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Turing",
-      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422462578/",
+      "company": "Applied Intuition",
+      "title": "Senior Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423955848/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -511,7 +567,7 @@
       "company": "Turing",
       "title": "Remote Senior Backend Engineer (Python/FastAPI)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422476412/",
+      "url": "https://www.linkedin.com/jobs/view/4422469559/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -519,7 +575,135 @@
       "company": "Turing",
       "title": "Remote Senior Backend Engineer (Python/FastAPI)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422469559/",
+      "url": "https://www.linkedin.com/jobs/view/4422462578/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422459576/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422476412/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Mission Control",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423954902/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Senior Software Engineer, AOSP - Core OS",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423949905/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Embedded Software Engineer - Core OS",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423957791/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Staff Software Engineer, Infrastructure - Marimo",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419615710/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Staff Software Engineer, Infrastructure - Marimo",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419602764/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Senior Neural Rendering Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423963745/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419625121/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Senior Android Software Engineer - Platform",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423957789/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Senior Embedded Software Engineer - Firmware",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423954903/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Grid Aero",
+      "title": "Senior Embedded Software Engineer [NO SPONSORSHIP]",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423961723/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Embedded AI Engineer \u2013 Android Automotive (On-Device Intelligence)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423956881/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422452632/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Tech Lead - Data Infrastructure Site Reliability",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423953874/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Staff Engineer, Data Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422461503/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -532,22 +716,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Site Reliability Engineer - Data Infrastructure",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423950965/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Cloud Security Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423970220/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "NTT DATA North America",
       "title": "OpenShift DevOps Engineer",
       "location": "Concord, CA",
@@ -556,10 +724,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "ByteDance",
-      "title": "Senior Site Reliability Engineer - Data Infrastructure (San Jose)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423957841/",
+      "company": "Applied Intuition",
+      "title": "Cloud Security Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423970220/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -581,22 +749,6 @@
     },
     {
       "company": "Applied Intuition",
-      "title": "Software Engineer - Planning",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423952820/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Insights Platform",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947987/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
       "title": "Senior Embedded Software Engineer",
       "location": "Sunnyvale, CA",
       "url": "https://www.linkedin.com/jobs/view/4423951888/",
@@ -605,25 +757,9 @@
     },
     {
       "company": "Applied Intuition",
-      "title": "Senior Software Engineer, AOSP - Core OS",
+      "title": "Security Engineer (Purple Team)",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423949905/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - C++",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423971135/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - Fallback Stack",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423971134/",
+      "url": "https://www.linkedin.com/jobs/view/4423955852/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -636,6 +772,14 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Andreessen Horowitz",
+      "title": "Partner 34, Lead, Security Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422452868/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Applied Intuition",
       "title": "Embedded Security Engineer",
       "location": "Sunnyvale, CA",
@@ -644,50 +788,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Silicontek Inc",
-      "title": "Senior Tech Lead - Clinical Data Engineering/ Data Platforms",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423953550/",
+      "company": "Applied Intuition",
+      "title": "Software Engineer - Axion Data Engine and ML Ops",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423967477/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
       "company": "Applied Intuition",
-      "title": "Software Engineer - Over-the-Air Updates",
+      "title": "Senior Software Engineer - ML Infrastructure",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423949903/",
+      "url": "https://www.linkedin.com/jobs/view/4423950921/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
       "company": "Applied Intuition",
-      "title": "Business Systems Engineer",
+      "title": "Senior Software Engineer - Maps Infrastructure",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947982/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Crunchyroll",
-      "title": "Software Engineer III, Apple",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413593777/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Mission Control",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423954902/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "itD",
-      "title": "Data Engineer III (6193)",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422466576/",
+      "url": "https://www.linkedin.com/jobs/view/4423952819/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -701,17 +821,25 @@
     },
     {
       "company": "Applied Intuition",
-      "title": "Software Engineer - Axion Data Engine and ML Ops",
+      "title": "Software Engineer - Systems Engineering AI Tooling",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423967477/",
+      "url": "https://www.linkedin.com/jobs/view/4423952827/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "RGP",
-      "title": "Data Engineer Consultant",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419609801/",
+      "company": "Applied Intuition",
+      "title": "Business Systems Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423947982/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Payment Analytics - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410250451/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -733,17 +861,17 @@
     },
     {
       "company": "LatchBio",
-      "title": "Bioinformatics Engineer, Therapeutics",
+      "title": "Bioinformatics Engineer, Genomics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422457723/",
+      "url": "https://www.linkedin.com/jobs/view/4422468659/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
       "company": "LatchBio",
-      "title": "Bioinformatics Engineer, Genomics",
+      "title": "Bioinformatics Engineer, Therapeutics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422468659/",
+      "url": "https://www.linkedin.com/jobs/view/4422457723/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -758,434 +886,114 @@
   ],
   "new_jobs": [
     {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Prediction and Behavior ML",
+      "company": "EPITEC",
+      "title": "Firmware Software Engineer V",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423966480/",
+      "url": "https://www.linkedin.com/jobs/view/4422454473/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "K&K Global Talent Solutions INC.",
-      "title": "AI Engineer",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422456834/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Block",
-      "title": "Staff Machine Learning Engineer, Credit Products (Square Financial Services)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413173676/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer - AI/RL Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947990/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - ML Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423950921/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Embedded AI Engineer \u2013 Android Automotive (On-Device Intelligence)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423956881/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Perception (Fallback Stack)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423961738/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer - Robot Learning",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423958870/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer - Reinforcement Learning, Self-Driving",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423951882/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Validation Toolset",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423953837/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer \u2013 Autonomy Tooling",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423972024/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer \u2013 Autonomy Stack",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955847/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Data Scientist, Payment Analytics - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410250451/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "ML Perception Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423970221/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Scientist - Reinforcement Learning, Self-Driving",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423960800/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Python",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423959813/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Intern - Reinforcement Learning, Robotics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969284/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Scientist - Reinforcement Learning, Robotics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423966477/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Research Engineer - 3D Vision and Generation, Self-Driving",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423949911/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Data & ML Pipeline Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423954899/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Low Speed Motion Planning & Control",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423960801/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Performance Optimization",
+      "company": "Microsoft AI",
+      "title": "Applied Scientist II (Bing Places)",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423973059/",
+      "url": "https://www.linkedin.com/jobs/view/4401531365/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Prime Video & Amazon MGM Studios",
+      "title": "Applied Scientist , Prime Video Personalization and Discovery",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422473287/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
       "company": "Applied Intuition",
-      "title": "Software Engineer - Calibration",
+      "title": "Software Engineer - Motion Planning (Fallback Stack)",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969292/",
+      "url": "https://www.linkedin.com/jobs/view/4423960803/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - AI Engineering",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947984/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Sensor Sim - ML Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969295/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Intelliswift - An LTTS Company",
-      "title": "Senior AI Data Engineer",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955816/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Security Engineer (Purple Team)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955852/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Staff Software Engineer, Infrastructure - Marimo",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419602764/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CoreWeave",
-      "title": "Staff Software Engineer, Infrastructure - Marimo",
+      "company": "Commure",
+      "title": "Senior Software Engineer, Evals and AI Infra",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419615710/",
+      "url": "https://www.linkedin.com/jobs/view/4410364157/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423961732/",
+      "company": "Commure",
+      "title": "Senior Software Engineer, AI Agents",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4338361913/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Backend",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955850/",
+      "company": "Commure",
+      "title": "Senior Software Engineer, Evals and AI Infra",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318298390/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Developer Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423970213/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Kafka",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423953843/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Mapping and Localization",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423958874/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Systems Engineering AI Tooling",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423952827/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Telematics",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423958873/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - E2E Autonomy",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423954906/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423955848/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FutureTech Recruitment",
-      "title": "Senior Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947964/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - Data Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423967478/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - C++",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423967470/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Embedded Software Engineer - Firmware",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423954903/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Staff Engineer, Data Platform",
+      "company": "Commure",
+      "title": "Senior Software Engineer, Air AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422461503/",
+      "url": "https://www.linkedin.com/jobs/view/4415804754/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Grid Aero",
-      "title": "Senior Embedded Software Engineer [NO SPONSORSHIP]",
-      "location": "San Leandro, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423961723/",
+      "company": "Commure",
+      "title": "Senior Software Engineer, Air AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415808643/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Systems Engineer, Vehicle OS",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969288/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "MongoDB",
-      "title": "Software Engineer 3, Atlas Search Systems",
+      "company": "Commure",
+      "title": "Senior Software Engineer, Ambient AI",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404369498/",
+      "url": "https://www.linkedin.com/jobs/view/4410356514/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "CHAOS Industries",
-      "title": "Senior Software Engineer",
+      "company": "Commure",
+      "title": "Fullstack Engineer, AI Integrations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423956987/",
+      "url": "https://www.linkedin.com/jobs/view/4410359121/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Arbor AI, Inc",
-      "title": "Senior Founding Software Engineer / Infrastructure, Backend & Platforms",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4423967360/",
+      "company": "Commure",
+      "title": "Senior Software Engineer, Ambient AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4335399819/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Cloud Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423969282/",
+      "company": "Commure",
+      "title": "Fullstack Engineer, AI Integrations",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4372143595/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Maps Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423954901/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Staff Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423958867/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Middleware",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423966475/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - Maps Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423952819/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Android Software Engineer - Platform",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423957789/",
+      "company": "Commure",
+      "title": "Senior Backend Engineer, RCM AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410371007/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
@@ -1193,263 +1001,47 @@
       "company": "Turing",
       "title": "Remote Senior Backend Engineer (Python/FastAPI)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422452632/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Turing",
-      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422462578/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Turing",
-      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422470508/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Turing",
-      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422476412/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Turing",
-      "title": "Remote Senior Backend Engineer (Python/FastAPI)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422469559/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Okta",
-      "title": "Senior Client Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419606753/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Site Reliability Engineer - Data Infrastructure",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423950965/",
+      "url": "https://www.linkedin.com/jobs/view/4422459576/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
       "company": "Applied Intuition",
-      "title": "Cloud Security Engineer",
+      "title": "Embedded Software Engineer - Core OS",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423970220/",
+      "url": "https://www.linkedin.com/jobs/view/4423957791/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "NTT DATA North America",
-      "title": "OpenShift DevOps Engineer",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422462721/",
+      "company": "Applied Intuition",
+      "title": "Senior Neural Rendering Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423963745/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419625121/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
       "company": "ByteDance",
-      "title": "Senior Site Reliability Engineer - Data Infrastructure (San Jose)",
+      "title": "Tech Lead - Data Infrastructure Site Reliability",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423957841/",
+      "url": "https://www.linkedin.com/jobs/view/4423953874/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - Operating Systems",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423963743/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Model Based Systems Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423957793/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Planning",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423952820/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Insights Platform",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947987/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Embedded Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423951888/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer, AOSP - Core OS",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423949905/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - C++",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423971135/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Senior Software Engineer - Fallback Stack",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423971134/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Product Security Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423949908/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Embedded Security Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423973054/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Over-the-Air Updates",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423949903/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Business Systems Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423947982/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Crunchyroll",
-      "title": "Software Engineer III, Apple",
+      "company": "Andreessen Horowitz",
+      "title": "Partner 34, Lead, Security Engineering",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413593777/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Mission Control",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423954902/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "itD",
-      "title": "Data Engineer III (6193)",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422466576/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OP",
-      "title": "Data Engineer III",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419603764/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer - Axion Data Engine and ML Ops",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423967477/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "RGP",
-      "title": "Data Engineer Consultant",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419609801/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Developer Relations Manager \u2013 Data Processing and Data Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413171999/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LatchBio",
-      "title": "Bioinformatics Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422468494/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LatchBio",
-      "title": "Bioinformatics Engineer, Therapeutics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422457723/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LatchBio",
-      "title": "Bioinformatics Engineer, Genomics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422468659/",
-      "date_posted": "2026-06-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LatchBio",
-      "title": "Bioinformatics Engineer, Epigenetics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422454770/",
+      "url": "https://www.linkedin.com/jobs/view/4422452868/",
       "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     }
