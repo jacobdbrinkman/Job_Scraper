@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-06-05 03:17 UTC",
+  "updated_at": "2026-06-05 06:50 UTC",
   "jobs": [
+    {
+      "company": "Altruist",
+      "title": "Staff Software Engineer, Evals - Hazel.ai",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424178062/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "UMATR",
+      "title": "Backend Engineer \u2013 Rust & C++ (Distributed Systems & Databases)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420113476/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "Backend Software Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424145548/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "Cognichip",
+      "title": "Senior Silicon ML Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423059890/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "UMATR",
+      "title": "AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4410391959/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "UMATR",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419270136/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "AI Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424142669/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "UMATR",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419291299/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "UMATR",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4415251004/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "UMATR",
+      "title": "Senior Rust Engineer - Distributed Systems + Database Internals",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4409602220/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "WindBorne Systems",
+      "title": "Software Engineer - Operational Systems",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419992265/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "Oracle",
+      "title": "Senior Principal Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420798074/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "Oracle",
+      "title": "Senior Principal Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420790403/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "QED Investors",
+      "title": "Staff Security Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424503615/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "Data Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424139691/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T06:50:51Z"
+    },
     {
       "company": "GMI Cloud",
       "title": "Machine Learning Engineer (LLM inference)",

@@ -1,60 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-05 03:17 UTC*
+*Last updated: 2026-06-05 06:50 UTC*
 
-**14 new role(s)** since last run · 23 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Machine Learning Engineer (LLM inference)](https://www.linkedin.com/jobs/view/4411404889/) — GMI Cloud
-- 📍 **Location:** Mountain View, CA
+### [Staff Software Engineer, Evals - Hazel.ai](https://www.linkedin.com/jobs/view/4424178062/) — Altruist
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Machine Learning Engineer / Researcher — Hestus (YC)](https://www.linkedin.com/jobs/view/4424499186/) — David Joseph & Company
-- 📍 **Location:** San Mateo, CA
+### [Backend Engineer – Rust & C++ (Distributed Systems & Databases)](https://www.linkedin.com/jobs/view/4420113476/) — UMATR
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Data Scientist - Materials Characterization, Analytical Sciences & AI Agents](https://www.linkedin.com/jobs/view/4424119851/) — Eurofins | EAG Laboratories
-- 📍 **Location:** Sunnyvale, CA
+### [Backend Software Engineer (Remote)](https://www.linkedin.com/jobs/view/4424145548/) — Hire Feed
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
 
-### [Staff Robotics Software Engineer](https://www.linkedin.com/jobs/view/4424127596/) — Fulfil
-- 📍 **Location:** Mountain View, CA
+### [Senior Silicon ML Engineer](https://www.linkedin.com/jobs/view/4423059890/) — Cognichip
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Senior AI Data Infrastructure/Pipeline Engineer](https://www.linkedin.com/jobs/view/4424129671/) — XPENG
+### [AI Engineer](https://www.linkedin.com/jobs/view/4410391959/) — UMATR
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-05
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4419270136/) — UMATR
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [AI Engineer (Remote)](https://www.linkedin.com/jobs/view/4424142669/) — Hire Feed
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-05
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4419291299/) — UMATR
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4415251004/) — UMATR
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Rust Engineer - Distributed Systems + Database Internals](https://www.linkedin.com/jobs/view/4409602220/) — UMATR
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-05
+
+### [Software Engineer - Operational Systems](https://www.linkedin.com/jobs/view/4419992265/) — WindBorne Systems
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Principal Software Engineer](https://www.linkedin.com/jobs/view/4420798074/) — Oracle
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Data Scientist, Economic Insights & Research](https://www.linkedin.com/jobs/view/4424123686/) — Stripe
+### [Senior Principal Software Engineer](https://www.linkedin.com/jobs/view/4420790403/) — Oracle
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Principal Software Engineer, GPU Compute](https://www.linkedin.com/jobs/view/4424473520/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-06-05
+
+### [Staff Security Engineer](https://www.linkedin.com/jobs/view/4424503615/) — QED Investors
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-05
 
-### [Staff Software Engineer, Stripe Dashboard](https://www.linkedin.com/jobs/view/4424118872/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff Software Engineer: Embedded Power Systems & Functional Safety](https://www.linkedin.com/jobs/view/4420777461/) — SPAN
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4424135121/) — Weave Bio
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Software Developer, AI Labs](https://www.linkedin.com/jobs/view/4424125682/) — TextNow
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Software Developer, AI Labs](https://www.linkedin.com/jobs/view/4424124719/) — TextNow
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff Application Security Engineer](https://www.linkedin.com/jobs/view/4424126626/) — Agility Robotics
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Application Security Engineer](https://www.linkedin.com/jobs/view/4424128614/) — Agility Robotics
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-06-05
-
-### [Staff Information Security Engineer](https://www.linkedin.com/jobs/view/4420762972/) — eBay
-- 📍 **Location:** San Jose, CA
+### [Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4424139691/) — Hire Feed
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-05
