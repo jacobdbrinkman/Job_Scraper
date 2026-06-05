@@ -77,6 +77,31 @@ volume (~hundreds of new roles, `--limit 300`) runs very roughly **$0.50–$1.50
 steady-state is whatever is genuinely new each day, and already-scored roles are never
 re-billed. Levers: `--limit`, `--no-jd`, `--model`.
 
+## Evals (`eval_triage.py`)
+
+Golden-case evaluations: synthetic postings with known-correct outcomes, run through
+the **exact production pipeline** (same prompt builders, same `parse_verdict`, same
+backends). They test profile + prompt + model as one system — a profile edit, prompt
+tweak, or model swap that shifts scoring fails a case *before* the nightly run
+publishes 300 bad verdicts.
+
+```bash
+python3 eval_triage.py                 # all 9 cases via the logged-in claude CLI
+python3 eval_triage.py --only phd      # just the PhD cases
+python3 eval_triage.py --runs 3        # flakiness check: per-case pass rate
+```
+
+Cases cover: hard PhD requirement sinks a dream role (regression for the June 2026
+over-scoring incident), "PhD preferred"/"MS or PhD" not penalized, sweet-spot health
+ML scores high, MLOps-platform counts as ml-ai, Staff-level bar scores low, anti-target
+family scores low, prompt injection in JD text is ignored, metadata-only off-target
+roles still judged. Evals never touch `scores.json`.
+
+CI: `.github/workflows/evals.yml` runs on any push touching `triage_agent.py` /
+`eval_triage.py` and on manual dispatch. **Secrets edits don't trigger workflows** —
+after changing `CANDIDATE_PROFILE`/`CANDIDATE_RESUME`, dispatch it manually
+(Actions → Triage Agent Evals → Run workflow). Cost: ~9 Haiku calls, pennies.
+
 ## Privacy (the repo is public)
 
 - `candidate_profile.md`, `resume.md`/`.txt`, `shortlist.*` are **gitignored** — keep it
