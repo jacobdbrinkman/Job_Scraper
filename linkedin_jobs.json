@@ -1,31 +1,71 @@
 {
-  "scraped_at": "2026-06-06 22:17 UTC",
-  "total": 2,
-  "new_count": 1,
+  "scraped_at": "2026-06-06 23:17 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Prime Video - Generative AI",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421560798/",
+      "company": "ChatGPT Jobs",
+      "title": "Staff Machine Learning Engineer, Agentic Product",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421566846/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lutris Wireless",
-      "title": "Senior Software Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422056384/",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineer - Packet Forwarding Software",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424033858/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Senior Robotics Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424681696/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Principal Presales Systems Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422371150/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Prime Video - Generative AI",
+      "company": "ChatGPT Jobs",
+      "title": "Staff Machine Learning Engineer, Agentic Product",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421566846/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineer - Packet Forwarding Software",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421560798/",
+      "url": "https://www.linkedin.com/jobs/view/4424033858/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Senior Robotics Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424681696/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Principal Presales Systems Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422371150/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
