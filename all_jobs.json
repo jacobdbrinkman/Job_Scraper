@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-06-06 18:17 UTC",
+  "updated_at": "2026-06-06 18:52 UTC",
   "jobs": [
+    {
+      "company": "Fireworks AI",
+      "title": "Member of Technical Staff- Full Stack Software Engineer New",
+      "location": "San Mateo, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5c3a936595a973f4",
+      "date_posted": "2026-06-06",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T18:52:10Z"
+    },
     {
       "company": "NVIDIA",
       "title": "Senior Software Engineer, CUDA Deep Learning Systems",
