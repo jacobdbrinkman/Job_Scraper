@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-06-07 02:17 UTC",
+  "updated_at": "2026-06-07 03:17 UTC",
   "jobs": [
+    {
+      "company": "Tykhe Inc",
+      "title": "Agentic AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424696468/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T03:17:26Z"
+    },
+    {
+      "company": "SynergisticIT",
+      "title": "junior software developer/data scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424692897/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T03:17:26Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425007018/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T03:17:26Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425002067/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T03:17:26Z"
+    },
     {
       "company": "Jack & Jill",
       "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
