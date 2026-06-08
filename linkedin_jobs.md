@@ -1,24 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-07 23:17 UTC*
+*Last updated: 2026-06-08 00:17 UTC*
 
-**5 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 7 total in last 1h
 
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4425069123/) — Jobright.ai
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4421908460/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4389782681/) — Talently
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Senior Frontend Software Engineer](https://www.linkedin.com/jobs/view/4416421169/) — Talently
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-07
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4425062101/) — Aircapture
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4425055146/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Marketing AI Engineer (4 Month Contract )](https://www.linkedin.com/jobs/view/4421902428/) — ChatGPT Jobs
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4425063091/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4421910401/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-06-07

@@ -1,13 +1,29 @@
 {
-  "scraped_at": "2026-06-07 23:17 UTC",
+  "scraped_at": "2026-06-08 00:17 UTC",
   "total": 7,
-  "new_count": 5,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425047661/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421908460/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Talently",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389782681/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Talently",
+      "title": "Senior Frontend Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416421169/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
@@ -20,14 +36,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425049102/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Aircapture",
       "title": "Senior Data Engineer",
       "location": "Berkeley, CA",
@@ -36,18 +44,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425055146/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ChatGPT Jobs",
-      "title": "Marketing AI Engineer (4 Month Contract )",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421902428/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Backend Developer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421910401/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
@@ -62,42 +62,34 @@
   ],
   "new_jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Growth Data Engineer",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421908460/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Talently",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389782681/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Talently",
+      "title": "Senior Frontend Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425069123/",
+      "url": "https://www.linkedin.com/jobs/view/4416421169/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Aircapture",
-      "title": "Senior Data Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425062101/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425055146/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ChatGPT Jobs",
-      "title": "Marketing AI Engineer (4 Month Contract )",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421902428/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Full Stack Engineer - Growth",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425063091/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Backend Developer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421910401/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }

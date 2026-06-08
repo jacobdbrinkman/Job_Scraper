@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-06-07 23:17 UTC",
+  "updated_at": "2026-06-08 00:17 UTC",
   "jobs": [
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421908460/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T00:17:22Z"
+    },
+    {
+      "company": "Talently",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389782681/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T00:17:22Z"
+    },
+    {
+      "company": "Talently",
+      "title": "Senior Frontend Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416421169/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T00:17:22Z"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Backend Developer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421910401/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T00:17:22Z"
+    },
     {
       "company": "Jobright.ai",
       "title": "Growth Data Engineer",
