@@ -1,8 +1,16 @@
 {
-  "scraped_at": "2026-06-08 01:58 UTC",
-  "total": 27,
-  "new_count": 1,
+  "scraped_at": "2026-06-08 07:16 UTC",
+  "total": 29,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "Workday",
+      "title": "Machine Learning Engineer - Document Intelligence",
+      "location": "Pleasanton, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6ba121f12561f2dc",
+      "date_posted": "2026-06-07",
+      "ats": "Indeed"
+    },
     {
       "company": "CLERA",
       "title": "Senior Machine Learning Engineer",
@@ -140,6 +148,14 @@
       "ats": "Indeed"
     },
     {
+      "company": "Unknown",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=92f58a25f4290379",
+      "date_posted": "2026-06-07",
+      "ats": "Indeed"
+    },
+    {
       "company": "CLERA",
       "title": "DevOps Engineer (Kubernetes)",
       "location": "San Francisco, CA, US",
@@ -222,10 +238,18 @@
   ],
   "new_jobs": [
     {
-      "company": "Cribl",
-      "title": "Staff Software Engineer, Cribl AI",
+      "company": "Workday",
+      "title": "Machine Learning Engineer - Document Intelligence",
+      "location": "Pleasanton, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6ba121f12561f2dc",
+      "date_posted": "2026-06-07",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Unknown",
+      "title": "Software Engineer",
       "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=5c7f441e6a328024",
+      "url": "https://www.indeed.com/viewjob?jk=92f58a25f4290379",
       "date_posted": "2026-06-07",
       "ats": "Indeed"
     }
