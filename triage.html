@@ -6,46 +6,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
-<meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#0f172a" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#0a0a0a">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Job Triage">
 <style>
   :root {
-    --bg: #f8fafc;
-    --panel: #ffffff;
-    --ink: #0f172a;
-    --muted: #64748b;
-    --line: #e2e8f0;
-    --linkedin: #3b82f6;
-    --biotech: #14b8a6;
-    --indeed: #8b5cf6;
-    --accent: #6366f1;
-    --accent-soft: rgba(99,102,241,0.14);
-    --pill-bg: #eef2f7;
-    --pill-active: #6366f1;
-    --pill-active-ink: #ffffff;
-    --shadow: 0 1px 2px rgba(15,23,42,0.05), 0 2px 6px rgba(15,23,42,0.05);
-    --save: #d97706;
-    --applied: #059669;
-    --dismiss: #94a3b8;
-  }
-  [data-theme="dark"] {
-    --bg: #0f172a;
-    --panel: #1e293b;
-    --ink: #e2e8f0;
-    --muted: #94a3b8;
-    --line: #334155;
+    color-scheme: dark;
+    --bg: #0a0a0a;
+    --panel: #161212;
+    --ink: #ededed;
+    --muted: #9a9a9a;
+    --line: #2a2424;
     --linkedin: #60a5fa;
-    --biotech: #2dd4bf;
+    --biotech: #34d399;
     --indeed: #a78bfa;
-    --accent: #818cf8;
-    --accent-soft: rgba(129,140,248,0.18);
-    --pill-bg: #28354a;
-    --pill-active: #818cf8;
-    --pill-active-ink: #0f172a;
-    --shadow: 0 1px 2px rgba(0,0,0,0.35), 0 2px 8px rgba(0,0,0,0.25);
+    --accent: #ef4444;
+    --accent-soft: rgba(239,68,68,0.20);
+    --pill-bg: #1f1b1b;
+    --pill-active: #ef4444;
+    --pill-active-ink: #ffffff;
+    --shadow: 0 1px 2px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.35);
+    --save: #f59e0b;
+    --applied: #22c55e;
+    --dismiss: #565656;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink);
@@ -86,7 +70,7 @@
     white-space: nowrap; }
   .bar { background: var(--pill-bg); border-radius: 3px; height: 10px; overflow: hidden; }
   .bar > span { display: block; height: 100%; border-radius: 3px;
-    background: linear-gradient(90deg, var(--accent), var(--indeed)); }
+    background: linear-gradient(90deg, #ef4444, #f43f5e); }
   .barrow .count { font-variant-numeric: tabular-nums; color: var(--muted);
     text-align: right; font-size: 12px; }
 
@@ -126,9 +110,9 @@
   .src { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
     font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
     vertical-align: middle; margin-left: 6px; }
-  .src.linkedin { background: rgba(59,130,246,0.13); color: var(--linkedin); }
-  .src.biotech { background: rgba(20,184,166,0.13); color: var(--biotech); }
-  .src.indeed { background: rgba(139,92,246,0.13); color: var(--indeed); }
+  .src.linkedin { background: rgba(96,165,250,0.14); color: var(--linkedin); }
+  .src.biotech { background: rgba(52,211,153,0.14); color: var(--biotech); }
+  .src.indeed { background: rgba(167,139,250,0.14); color: var(--indeed); }
   .tag { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
     background: var(--pill-bg); color: var(--muted); margin-right: 4px; }
   .tag.role { color: var(--ink); }
@@ -148,17 +132,9 @@
     outline: 2px solid var(--accent); outline-offset: 2px;
   }
 
-  /* Footer / export */
-  .export-bar { position: sticky; bottom: 12px; margin-top: 18px; background: var(--panel);
-    border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px;
-    box-shadow: 0 6px 18px rgba(0,0,0,0.08); display: flex; gap: 10px;
-    align-items: center; flex-wrap: wrap; }
-  .export-bar .label { font-size: 13px; color: var(--muted); }
-  .export-bar .count { color: var(--ink); font-weight: 600; }
   .btn { background: var(--accent); color: #fff; border: none; border-radius: 8px;
     padding: 7px 14px; font-size: 13px; cursor: pointer; font-family: inherit;
     font-weight: 500; }
-  [data-theme="dark"] .btn { color: #0f172a; }
   .btn:hover { opacity: 0.88; }
   .btn.ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); }
   .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
@@ -193,15 +169,15 @@
   .scorechip { display: inline-block; min-width: 30px; text-align: center; font-weight: 700;
     font-size: 11px; border-radius: 10px; padding: 2px 8px; vertical-align: middle;
     margin-right: 7px; font-variant-numeric: tabular-nums; }
-  .scorechip.hi  { background: rgba(5,150,105,0.14); color: var(--applied); }
-  .scorechip.mid { background: rgba(217,119,6,0.14); color: var(--save); }
+  .scorechip.hi  { background: rgba(34,197,94,0.16); color: var(--applied); }
+  .scorechip.mid { background: rgba(245,158,11,0.16); color: var(--save); }
   .scorechip.lo  { background: var(--pill-bg); color: var(--muted); }
   .why { font-size: 12px; color: var(--muted); margin-top: 5px; font-style: italic; }
   #rank-info { font-size: 12.5px; color: var(--muted); margin: 0 0 10px; }
 
   /* Mobile (iPhone 16 Pro + Chrome / iOS Safari WebKit) */
   @media (max-width: 760px) {
-    .wrap { padding: 16px 14px 96px; }
+    .wrap { padding: 16px 14px 40px; }
     .kpis { grid-template-columns: repeat(2, 1fr); }
     .charts { grid-template-columns: 1fr; }
     .job { grid-template-columns: 1fr; }
@@ -217,12 +193,6 @@
     /* Prevent iOS auto-zoom on input focus — any input <16px triggers it */
     .search, .modal textarea { font-size: 16px; }
     .search { padding: 12px 14px; min-height: 44px; }
-
-    /* Fixed (not sticky) export-bar — sticky is flaky on iOS WebKit + jumps
-       with Chrome's auto-hiding toolbar. env() keeps it above the home indicator. */
-    .export-bar { position: fixed; left: 12px; right: 12px; bottom: 12px;
-      padding-bottom: calc(10px + env(safe-area-inset-bottom)); margin-top: 0; }
-    body { padding-bottom: 96px; }
 
     /* Header layout: snapshot line wraps to its own row */
     header { gap: 8px; }
@@ -245,7 +215,6 @@
   <span class="grow"></span>
   <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
   <button type="button" class="iconbtn" id="paste-btn">Paste fresh JSON</button>
-  <button type="button" class="iconbtn" id="theme-btn">Theme</button>
 </header>
 
 <div class="kpis">
@@ -298,13 +267,6 @@
 
 <div id="rank-info" hidden></div>
 <div class="jobs" id="jobs"></div>
-
-<div class="export-bar">
-  <span class="label"><span class="count" id="bar-count">0</span> saved · <span class="count" id="bar-applied-count">0</span> applied</span>
-  <span class="grow"></span>
-  <button type="button" class="btn ghost" id="export-json">Copy saved as JSON</button>
-  <button type="button" class="btn" id="export-prompt">Copy as Claude prompt</button>
-</div>
 
 </div>
 
@@ -610,8 +572,6 @@
     const applied = state.jobs.filter(j => state.triage[j.url] === 'applied').length;
     $('kpi-saved').textContent = saved;
     $('kpi-applied').textContent = applied;
-    $('bar-count').textContent = saved;
-    $('bar-applied-count').textContent = applied;
   }
 
   function renderCharts() {
@@ -816,16 +776,6 @@
     renderAll();
   };
 
-  // Theme
-  function applyTheme(t) {
-    document.documentElement.dataset.theme = t;
-    try { localStorage.setItem('jobTriage:theme', t); } catch {}
-  }
-  applyTheme(localStorage.getItem('jobTriage:theme') ||
-    (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
-  $('theme-btn').onclick = () =>
-    applyTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark');
-
   // Toast
   function toast(msg) {
     const t = $('toast'); t.textContent = msg; t.classList.add('show');
@@ -872,48 +822,17 @@
     }
   };
 
-  // ---------- Export ----------
+  // ---------- Clipboard (used by the ✉ Opener button) ----------
   async function copy(text) {
     try { await navigator.clipboard.writeText(text); toast('Copied to clipboard'); }
     catch { toast('Copy failed — select text manually'); }
   }
-  $('export-json').onclick = () => {
-    const saved = state.jobs.filter(j =>
-      state.triage[j.url] === 'saved' || state.triage[j.url] === 'applied');
-    if (!saved.length) return toast('Nothing saved yet');
-    copy(JSON.stringify(saved.map(slimJob), null, 2));
-  };
-  $('export-prompt').onclick = () => {
-    const saved = state.jobs.filter(j => state.triage[j.url] === 'saved');
-    if (!saved.length) return toast('Save a few jobs first');
-    const list = saved.map((j, i) =>
-      `${i+1}. ${j.title} — ${j.company} (${j.location})\n   ${j.url}`).join('\n');
-    const prompt = `I'm prioritizing my SF Bay Area job applications. Here are ${saved.length} role(s) I've saved from this morning's scrape:
-
-${list}
-
-For each role:
-1. Score fit 1-5 against my background (ML/biotech, looking for senior IC roles).
-2. Flag any signal in the title (founding/staff/seniority, niche domain) that should bump priority.
-3. Suggest one concrete resume bullet tweak per role I'd actually want to apply to.
-4. End with a recommended apply-order top-3 with rationale.`;
-    copy(prompt);
-  };
 
   // ---------- Refresh button + tab-focus auto-refresh ----------
   $('refresh-btn').onclick = refresh;
   document.addEventListener('visibilitychange', () => {
     if (!document.hidden && Date.now() - (state._lastLoaded || 0) > 5 * 60 * 1000) refresh();
   });
-
-  // ---------- Hide export-bar when on-screen keyboard is up (iOS) ----------
-  if (window.visualViewport) {
-    const bar = document.querySelector('.export-bar');
-    window.visualViewport.addEventListener('resize', () => {
-      const kbOpen = window.innerHeight - window.visualViewport.height > 100;
-      if (bar) bar.style.display = kbOpen ? 'none' : '';
-    });
-  }
 
   // ---------- Initial load ----------
   refresh();
