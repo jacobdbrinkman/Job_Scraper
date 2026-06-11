@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-06-11 02:04 UTC",
+  "updated_at": "2026-06-11 02:17 UTC",
   "jobs": [
+    {
+      "company": "Vinci4D.ai",
+      "title": "Simulation Runtime Software Engineer (Senior)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423199037/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T02:17:36Z"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Software Engineer in Test, E-Commerce AI Product Testing - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427146374/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T02:17:36Z"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Visa Independent - AI Engineer (Python + GenAI) - Local to CA",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423176854/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T02:17:36Z"
+    },
     {
       "company": "Zoox",
       "title": "Senior/Staff Software Systems Engineer - Software Health and Complexity",
