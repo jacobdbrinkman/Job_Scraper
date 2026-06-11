@@ -675,6 +675,11 @@ def scrape_indeed_recent() -> list:
                 "url": url,
                 "date_posted": str(row.get("date_posted", "") or ""),
                 "description": str(row.get("description", "") or "")[:INDEED_JD_MAX_CHARS],
+                "salary": format_salary(
+                    row.get("min_amount", ""),
+                    row.get("max_amount", ""),
+                    row.get("interval", ""),
+                ),
                 "ats": "Indeed",
             }
     jobs = list(jobs_by_id.values())
@@ -698,6 +703,35 @@ def scrape_indeed_recent() -> list:
         return prev
 
     return jobs
+
+
+def format_salary(min_amount, max_amount, interval) -> str:
+    """
+    Display string for jobspy's Indeed pay fields, e.g. "$150k–$190k/yr" or
+    "$62.50/hr". Returns "" when neither bound is present.
+    """
+    def _num(v):
+        try:
+            f = float(v)
+        except (TypeError, ValueError):
+            return None
+        return f if f > 0 else None
+
+    def _fmt(n):
+        if n >= 10000:
+            return f"${round(n / 1000)}k"
+        if n == int(n):
+            return f"${int(n)}"
+        return f"${n:.2f}"
+
+    lo, hi = _num(min_amount), _num(max_amount)
+    if lo is None and hi is None:
+        return ""
+    suffix = {"yearly": "/yr", "hourly": "/hr", "monthly": "/mo",
+              "weekly": "/wk", "daily": "/day"}.get(str(interval or "").lower(), "")
+    if lo is not None and hi is not None and lo != hi:
+        return f"{_fmt(lo)}–{_fmt(hi)}{suffix}"
+    return f"{_fmt(lo if lo is not None else hi)}{suffix}"
 
 
 def _iso_to_ts(iso: str) -> float:
@@ -835,6 +869,8 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         for job in new_jobs:
             lines.append(f"### [{job['title']}]({job['url']}) — {job['company']}")
             lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
+            if job.get("salary"):
+                lines.append(f"- 💰 **Salary:** {job['salary']}")
             if job.get("date_posted"):
                 lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
             lines.append("")
@@ -898,6 +934,10 @@ def _render_jobs_html(*, title: str, subtitle: str, timestamp: str,
     else:
         cards = []
         for j in jobs:
+            salary = (
+                f'<span class="meta-item">💰 {html_mod.escape(j["salary"])}</span>'
+                if j.get("salary") else ""
+            )
             posted = (
                 f'<span class="meta-item">🕒 Posted {html_mod.escape(j["date_posted"])}</span>'
                 if j.get("date_posted") else ""
@@ -913,6 +953,7 @@ def _render_jobs_html(*, title: str, subtitle: str, timestamp: str,
                 f'<div class="company">{html_mod.escape(j["company"])} {ats_tag}</div>'
                 f'<div class="meta">'
                 f'<span class="meta-item">📍 {html_mod.escape(j["location"] or "Not specified")}</span>'
+                f'{salary}'
                 f'{posted}'
                 f'</div></div>'
             )

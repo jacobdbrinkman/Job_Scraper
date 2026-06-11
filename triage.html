@@ -666,6 +666,7 @@
           <div class="meta">
             <span class="co">${escape(j.company)}<span class="src ${srcCls}">${j._src}</span></span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
+            ${j.salary ? `<span>💰 ${escape(j.salary)}</span>` : ''}
             <span>🕒 ${escape(j.date_posted || '')}</span>
             <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>

@@ -1,127 +1,279 @@
 {
-  "scraped_at": "2026-06-11 03:17 UTC",
-  "total": 9,
-  "new_count": 6,
+  "scraped_at": "2026-06-11 04:28 UTC",
+  "total": 17,
+  "new_count": 17,
   "jobs": [
     {
-      "company": "Mercor",
-      "title": "Software Engineer - Data Science",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426200227/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer in Test, E-Commerce AI Product Testing - USDS",
+      "company": "ByteDance",
+      "title": "Software engineer - AI Agent Infra",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427146374/",
+      "url": "https://www.linkedin.com/jobs/view/4414071073/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Principal Software Engineer (App-ID Cloud)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423610217/",
+      "company": "Walmart",
+      "title": "(USA) Data Scientist III",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423199692/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Mercor",
-      "title": "Data Science Expert - Fully Remote | Upto $110/hr",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426184414/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zscaler",
-      "title": "Staff DevOps Engineer",
+      "company": "ByteDance",
+      "title": "Software Engineer, Cross Platform",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423195109/",
+      "url": "https://www.linkedin.com/jobs/view/4395972720/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Zoox",
-      "title": "Senior/Staff Software Systems Engineer - Software Health and Complexity",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427152190/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Horizontal Talent",
-      "title": "DevOps/Automation Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423605279/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aurora",
-      "title": "Staff Security Engineer, Enterprise Security",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426187487/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mercor",
-      "title": "Computational Biologist | Upto $150/hr",
+      "company": "Baselayer",
+      "title": "Senior AI Engineer, Agentic Data Enrichment",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426186394/",
+      "url": "https://www.linkedin.com/jobs/view/4421861258/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Harvey Nash",
+      "title": "Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426198629/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Baselayer",
+      "title": "Senior Software Engineer, Identity Graph",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421865244/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395970814/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Senior Software Engineer, Cloud Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395991135/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "adaption",
+      "title": "Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409631138/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer, Unity Engine and XR",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4396302008/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426193694/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423613267/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior, Software Engineer (Backend Java)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423602617/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Security Software Engineer (TDR)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417566519/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer (Technical Leadership)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423193756/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer (Technical Leadership)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423612233/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Tech Lead Software Engineer, Programming Language",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395978773/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Mercor",
-      "title": "Software Engineer - Data Science",
+      "company": "ByteDance",
+      "title": "Software engineer - AI Agent Infra",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414071073/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Data Scientist III",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423199692/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer, Cross Platform",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395972720/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Baselayer",
+      "title": "Senior AI Engineer, Agentic Data Enrichment",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426200227/",
+      "url": "https://www.linkedin.com/jobs/view/4421861258/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Principal Software Engineer (App-ID Cloud)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423610217/",
+      "company": "Harvey Nash",
+      "title": "Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426198629/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Mercor",
-      "title": "Data Science Expert - Fully Remote | Upto $110/hr",
+      "company": "Baselayer",
+      "title": "Senior Software Engineer, Identity Graph",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426184414/",
+      "url": "https://www.linkedin.com/jobs/view/4421865244/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Horizontal Talent",
-      "title": "DevOps/Automation Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423605279/",
+      "company": "ByteDance",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395970814/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Aurora",
-      "title": "Staff Security Engineer, Enterprise Security",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426187487/",
+      "company": "ByteDance",
+      "title": "Senior Software Engineer, Cloud Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395991135/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Mercor",
-      "title": "Computational Biologist | Upto $150/hr",
+      "company": "adaption",
+      "title": "Applied Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426186394/",
+      "url": "https://www.linkedin.com/jobs/view/4409631138/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Software Engineer, Unity Engine and XR",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4396302008/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426193694/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423613267/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior, Software Engineer (Backend Java)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423602617/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Security Software Engineer (TDR)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417566519/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer (Technical Leadership)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423193756/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer (Technical Leadership)",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423612233/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Tech Lead Software Engineer, Programming Language",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4395978773/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     }
