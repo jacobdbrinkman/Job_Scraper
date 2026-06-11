@@ -1,96 +1,72 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-11 21:17 UTC*
+*Last updated: 2026-06-11 22:17 UTC*
 
-**23 new role(s)** since last run · 42 total in last 1h
+**17 new role(s)** since last run · 24 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4423694728/) — MW Partners
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4427651524/) — TigerGraph
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [ML/AI Engineer - Vehicle Intelligence](https://www.linkedin.com/jobs/view/4423693652/) — 42dot
+### [Research Scientist - Computer Vision and Machine Learning](https://www.linkedin.com/jobs/view/4414536608/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-06-11
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4404493168/) — Clover
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [ML/AI Engineer - Vehicle Intelligence](https://www.linkedin.com/jobs/view/4423694640/) — 42dot
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer II - UnderwritingCenter](https://www.linkedin.com/jobs/view/4427644880/) — Guidewire Software
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Expert AI/ML Engineer](https://www.linkedin.com/jobs/view/4427650191/) — Vsolutions Technologies
-- 📍 **Location:** San Francisco Bay Area
+### [GTM AI Engineer](https://www.linkedin.com/jobs/view/4427631739/) — Freshworks
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4423688648/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4416192954/) — Unchained Labs
+- 📍 **Location:** Pleasanton, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4424803742/) — GSOBA
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-11
-
-### [Software Engineer - WAFL RAID](https://www.linkedin.com/jobs/view/4424809557/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4426673084/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4427635445/) — Saige Partners
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Software Engineer, Maps Infra](https://www.linkedin.com/jobs/view/4427644398/) — Aurora
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4424812765/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Sr. Software Engineer (Data Migration & Management)](https://www.linkedin.com/jobs/view/4423698569/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Cellular PHY Layer Software Engineer | 5G Modem Systems](https://www.linkedin.com/jobs/view/4427644181/) — Xoriant US Staffing
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Lead AI Engineer](https://www.linkedin.com/jobs/view/4424809550/) — Yeshnex IT Solutions
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [AI Engineer Fellow (Unpaid, Own-Project Sprint)](https://www.linkedin.com/jobs/view/4426674071/) — tokens&
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4424801761/) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4427636541/) — FutureTech Recruitment
+### [Sr. Product Security Engineer](https://www.linkedin.com/jobs/view/4409717963/) — Rivian and Volkswagen Group Technologies
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)](https://www.linkedin.com/jobs/view/4423690610/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Sr Software Engineer, Fullstack (Developer Productivity)](https://www.linkedin.com/jobs/view/4409735064/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Software Engineer, C/C++](https://www.linkedin.com/jobs/view/4424809725/) — Omnissa
+### [Java fullstack Engineer](https://www.linkedin.com/jobs/view/4426661306/) — Divish Consulting
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Full Stack Engineer - Active IQ Engineering](https://www.linkedin.com/jobs/view/4423693604/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4426662468/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Mandarin Bilingual Mobile Software Engineer](https://www.linkedin.com/jobs/view/4424812573/) — HireIO, Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-11
-
-### [Systems Engineer- SSTA](https://www.linkedin.com/jobs/view/4423697756/) — Lockheed Martin
+### [Sr Server Software Engineer](https://www.linkedin.com/jobs/view/4403663614/) — Clover
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Senior Software Engineer - HashiCorp Terraform Stacks](https://www.linkedin.com/jobs/view/4424812552/) — IBM
-- 📍 **Location:** San Jose, CA
+### [DevOps/Automation Engineer](https://www.linkedin.com/jobs/view/4424801975/) — Solomon Page
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-11
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4427633654/) — Harnham
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-11
+
+### [Ansible Automation and Platform Engineer](https://www.linkedin.com/jobs/view/4427637654/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-11
+
+### [Senior Ansible Automation & Platform Engineer](https://www.linkedin.com/jobs/view/4427646584/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-11
+
+### [Senior Software Engineer – Automation Platform](https://www.linkedin.com/jobs/view/4414761515/) — Bright Machines
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-11
+
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4426658583/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-11
