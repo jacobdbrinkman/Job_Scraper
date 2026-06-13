@@ -300,7 +300,9 @@
   let SCORES = {};
 
   // ---------- Persistence ----------
-  const STORAGE_KEY = 'jobTriage:v1';
+  // v2: retargeted to environmental/toxicology — bump forces a one-time reset
+  // so browsers drop the inherited Bay Area ML/SWE jobs cached under v1.
+  const STORAGE_KEY = 'jobTriage:v2';
   const state = (() => {
     try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
     catch { return {}; }
@@ -692,7 +694,7 @@
   // the scraper — keep this regex in sync with EXCLUDED_SENIORITY_RE in
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
-  const EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship)\b/i;
+  const EXCLUDED_TITLE_RE = /\b(intern|interns|internship|co-?op|trainee|apprentice|technician|research assistant|lab assistant|teaching assistant|undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|ehs|occupational safety|occupational health)\b|health\s*&\s*safety|health and safety/i;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;

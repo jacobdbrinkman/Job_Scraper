@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-13 01:14 UTC",
-  "total": 9,
-  "new_count": 9,
+  "scraped_at": "2026-06-13 02:00 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
       "company": "GHD",
@@ -25,46 +25,6 @@
       "location": "San Diego County, CA",
       "url": "https://www.linkedin.com/jobs/view/4427578309/",
       "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "California Air Resources Board",
-      "title": "Staff Air Pollution Specialist",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427672108/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Exponent",
-      "title": "Senior Managing Regulatory Scientist",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426170923/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AI",
-      "title": "Data Scientist",
-      "location": "Woodland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424814560/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior Scientist, Cellular Pharmacology",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427070905/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Health and Safety Compliance Professional",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426141930/",
-      "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {
@@ -99,46 +59,6 @@
       "location": "San Diego County, CA",
       "url": "https://www.linkedin.com/jobs/view/4427578309/",
       "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "California Air Resources Board",
-      "title": "Staff Air Pollution Specialist",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427672108/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Exponent",
-      "title": "Senior Managing Regulatory Scientist",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426170923/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AI",
-      "title": "Data Scientist",
-      "location": "Woodland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424814560/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior Scientist, Cellular Pharmacology",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427070905/",
-      "date_posted": "2026-06-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Health and Safety Compliance Professional",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426141930/",
-      "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     },
     {

@@ -39,8 +39,8 @@ HEADERS = {
 # "Risk Assessor" and "Risk Assessment Scientist"); single tokens are word-
 # bounded, so list FULL words ("toxicologist", not the stem "toxicolog").
 KEYWORDS = [
-    # ---- Toxicology ----
-    "toxicologist", "toxicology",
+    # ---- Toxicology (core) ----
+    "toxicologist", "toxicology", "toxicological",
     "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
     "environmental toxicolog", "regulatory toxicolog",
     "computational toxicolog", "predictive toxicolog",
@@ -48,40 +48,35 @@ KEYWORDS = [
     # ---- Risk / exposure / hazard assessment ----
     "risk assess", "risk assessor", "human health risk",
     "ecological risk", "exposure scien", "exposure assess",
-    "exposure modeling", "hazard assess", "hazard identification",
-    "dose-response", "pharmacokinetic", "toxicokinetic",
+    "exposure modeling", "exposure modelling", "hazard assess",
+    "hazard identification", "dose-response", "dose response",
+    "pharmacokinetic", "toxicokinetic", "pbpk",
     # ---- Environmental science / health / chemistry ----
     "environmental scien", "environmental health",
     "environmental chemist", "environmental chemistry",
     "environmental specialist", "environmental analyst",
     "environmental engineer", "environmental epidemiolog",
-    "environmental data",
-    "public health", "epidemiologist", "epidemiology",
+    "environmental data", "environmental monitoring",
+    "environmental assessment", "exposure epidemiolog",
     # ---- Water / contaminants ----
-    "water quality", "water resources", "drinking water",
-    "watershed", "marine scien", "aquatic scien", "limnolog",
-    "microplastic", "microplastics", "nanoplastic",
-    "pfas", "emerging contaminant", "contaminant",
-    "pollution", "remediation",
+    "water quality", "drinking water", "watershed",
+    "aquatic scien", "limnolog",
+    "microplastic", "microplastics", "nanoplastic", "nanomaterial",
+    "pfas", "per- and polyfluoro", "emerging contaminant",
+    "contaminant", "pollutant", "air pollution", "water pollution",
+    "remediation", "environmental remediation",
     # ---- Chemical safety / product stewardship / regulatory ----
-    "chemical safety", "product steward", "regulatory scien",
-    "regulatory affairs", "regulatory toxicolog", "chemical regulatory",
-    "registration manager", "reach", "chemical assessor",
-    # ---- Ecology / sustainability ----
-    "ecologist", "ecology", "sustainability scien", "sustainability scientist",
-    "conservation scien",
-    # ---- Scientist / research titles (senior IC + leadership) ----
-    "research scientist", "research associate", "research toxicolog",
-    "staff scientist", "senior scientist", "principal scientist",
-    "lead scientist", "health scientist", "health science",
-    "scientific advisor", "scientific director", "science director",
-    "research director", "director of science",
-    # ---- Data science (his R / ML / Shiny skill set) ----
-    "data scientist", "data science",
-    # ---- Science policy / academia ----
-    "science policy", "policy advisor", "policy analyst",
-    "professor", "faculty",
+    "chemical safety", "chemical risk", "chemical assess",
+    "chemical regulatory", "product steward", "regulatory toxicolog",
+    # ---- Ecotoxicology-adjacent ecology / sustainability ----
+    "ecotoxicolog", "conservation toxicolog",
 ]
+# NOTE: deliberately tight. Generic titles ("Research Scientist", "Senior
+# Scientist", "Data Scientist", "Professor", "Regulatory Affairs") were removed
+# because they pull in pharma/biotech/tech bench roles. Environmental academic,
+# data, and policy roles are still caught via their qualified forms
+# ("Environmental Data Scientist" → "environmental data", "Assistant Professor
+# of Environmental Health" → "environmental health", etc.).
 
 # Seconds to wait between API probes — keeps us polite
 REQUEST_DELAY = 0.3
@@ -96,7 +91,11 @@ FRESH_JOB_LOOKBACK = timedelta(hours=24)
 EXCLUDED_SENIORITY_RE = re.compile(
     r'\b(intern|interns|internship|co-?op|trainee|apprentice|'
     r'technician|research assistant|lab assistant|teaching assistant|'
-    r'undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship)\b',
+    r'undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|'
+    # EHS / workplace-safety compliance — a distinct field from env-tox science.
+    # (Does not touch "Chemical Safety", which has no "health/occupational" stem.)
+    r'ehs|occupational safety|occupational health)\b'
+    r'|health\s*&\s*safety|health and safety',
     re.IGNORECASE)
 
 # Multi-word phrases keep substring semantics; single-word keywords ("mle",
@@ -291,7 +290,7 @@ WORKDAY_SEARCH_TERMS = [
     "environmental scientist",
     "risk assessment",
     "exposure scientist",
-    "research scientist",
+    "environmental health",
     "water quality",
 ]
 
@@ -425,17 +424,17 @@ def scrape_genentech():
 # ---------------------------------------------------------------------------
 
 LINKEDIN_SEARCH_TERMS = [
-    # Toxicology
+    # Toxicology (core)
     "toxicologist",
     "environmental toxicologist",
     "ecotoxicologist",
     "regulatory toxicologist",
     "computational toxicology",
     # Risk / exposure
-    "risk assessor",
     "human health risk assessment",
-    "exposure scientist",
     "ecological risk assessment",
+    "exposure scientist",
+    "exposure assessment",
     # Environmental science / health / chemistry
     "environmental scientist",
     "environmental health scientist",
@@ -443,20 +442,14 @@ LINKEDIN_SEARCH_TERMS = [
     "environmental epidemiologist",
     # Water / contaminants
     "water quality scientist",
-    "drinking water",
     "microplastics",
     "PFAS",
     "emerging contaminants",
-    # Chemical safety / regulatory / stewardship
+    "air quality scientist",
+    # Chemical safety / stewardship / regulatory
     "product stewardship",
     "chemical safety",
-    "regulatory affairs scientist",
-    # Research / leadership + data science
-    "research scientist",
-    "senior scientist",
     "environmental data scientist",
-    # Policy
-    "science policy",
 ]
 
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour

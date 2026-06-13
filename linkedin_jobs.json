@@ -1,29 +1,13 @@
 {
   "scraped_at": "2026-06-13 02:00 UTC",
-  "total": 8,
-  "new_count": 8,
+  "total": 30,
+  "new_count": 30,
   "jobs": [
-    {
-      "company": "Lanteris Space Systems",
-      "title": "Sr. Environmental Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428189983/",
-      "date_posted": "2026-06-13",
-      "ats": "LinkedIn"
-    },
     {
       "company": "Lanteris Space Systems",
       "title": "Sr. Environmental Engineer",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4428306145/",
-      "date_posted": "2026-06-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "California Polytechnic State University-San Luis Obispo",
-      "title": "Tenure Track Position - Public Health",
-      "location": "Greater San Luis Obispo Area",
-      "url": "https://www.linkedin.com/jobs/view/4427252726/",
       "date_posted": "2026-06-13",
       "ats": "LinkedIn"
     },
@@ -36,35 +20,227 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "International Rescue Committee",
-      "title": "Public Health Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428195467/",
+      "company": "Lanteris Space Systems",
+      "title": "Sr. Environmental Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428189983/",
       "date_posted": "2026-06-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "University of California, Berkeley",
-      "title": "Public Education Specialist (4167U), Public Health Administration #86760",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428300387/",
-      "date_posted": "2026-06-13",
+      "company": "Ionis Pharmaceuticals, Inc.",
+      "title": "Associate Director, Toxicology",
+      "location": "Carlsbad, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425319708/",
+      "date_posted": "2026-06-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "Kite Pharma",
-      "title": "Manager, Regulatory Affairs",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4427235651/",
-      "date_posted": "2026-06-13",
+      "company": "Lakefront Biotherapeutics",
+      "title": "Director/Senior Director, Toxicology",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427220157/",
+      "date_posted": "2026-06-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "California Department of Health Care Access and Information",
-      "title": "Lead Regulatory Policy Analyst",
+      "company": "SpaceX",
+      "title": "Environmental Specialist",
+      "location": "Hawthorne, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427689533/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GHD",
+      "title": "Environmental Scientist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427211488/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "J.S. Held LLC",
+      "title": "Director \u2013 Environmental Remediation",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/4419831015/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Remediation Project Manager",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427959150/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "APTIM",
+      "title": "Senior Environmental Scientist",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427950255/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mattson Technology",
+      "title": "Environmental Health Safety Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426947745/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "California Air Resources Board",
+      "title": "Air Pollution Monitoring Technical Support",
       "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428190851/",
-      "date_posted": "2026-06-13",
+      "url": "https://www.linkedin.com/jobs/view/4428168922/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Acadia Pharmaceuticals",
+      "title": "Associate Director Toxicology",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376017105/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ADARx Pharmaceuticals Inc.",
+      "title": "Principal Scientist, Toxicology",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426931052/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Neurocrine Biosciences",
+      "title": "TEMP - Toxicology Operations Specialist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424800900/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mercor",
+      "title": "Environmental Scientist - Fully Remote | Upto $1450 Part-time",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426195330/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "California Department of Toxic Substances Control",
+      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
+      "location": "San Diego County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427578309/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Caltrans",
+      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
+      "location": "Stockton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427646960/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roux",
+      "title": "Senior Environmental Engineer I",
+      "location": "Burbank, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417901914/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Glendale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422484349/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Denali Therapeutics",
+      "title": "Associate Director, Toxicology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416935856/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Neurocrine Biosciences",
+      "title": "Sr. Scientific Director, Toxicology",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394742792/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Herndon Solutions Group",
+      "title": "Environmental Health Lead",
+      "location": "Edwards, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419641486/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arcadis",
+      "title": "Environmental Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426090159/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Synectics",
+      "title": "Environmental Scientist - Data Manager",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4332069803/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NV5",
+      "title": "Senior Stormwater/Environmental Scientist-QSD",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394733492/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist 1",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427084068/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Caltrans",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427097864/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Insignia Environmental",
+      "title": "Lead Environmental Specialist/Planner (QSD/QSP) (Menlo Park and Encinitas, California)",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/4404874145/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "RED Digital Cinema",
+      "title": "Chemical Regulatory Manager",
+      "location": "Orange County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414729720/",
+      "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     }
   ],
@@ -72,24 +248,8 @@
     {
       "company": "Lanteris Space Systems",
       "title": "Sr. Environmental Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428189983/",
-      "date_posted": "2026-06-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lanteris Space Systems",
-      "title": "Sr. Environmental Engineer",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4428306145/",
-      "date_posted": "2026-06-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "California Polytechnic State University-San Luis Obispo",
-      "title": "Tenure Track Position - Public Health",
-      "location": "Greater San Luis Obispo Area",
-      "url": "https://www.linkedin.com/jobs/view/4427252726/",
       "date_posted": "2026-06-13",
       "ats": "LinkedIn"
     },
@@ -102,35 +262,227 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "International Rescue Committee",
-      "title": "Public Health Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428195467/",
+      "company": "Lanteris Space Systems",
+      "title": "Sr. Environmental Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428189983/",
       "date_posted": "2026-06-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "University of California, Berkeley",
-      "title": "Public Education Specialist (4167U), Public Health Administration #86760",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428300387/",
-      "date_posted": "2026-06-13",
+      "company": "Ionis Pharmaceuticals, Inc.",
+      "title": "Associate Director, Toxicology",
+      "location": "Carlsbad, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425319708/",
+      "date_posted": "2026-06-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "Kite Pharma",
-      "title": "Manager, Regulatory Affairs",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4427235651/",
-      "date_posted": "2026-06-13",
+      "company": "Lakefront Biotherapeutics",
+      "title": "Director/Senior Director, Toxicology",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427220157/",
+      "date_posted": "2026-06-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "California Department of Health Care Access and Information",
-      "title": "Lead Regulatory Policy Analyst",
+      "company": "SpaceX",
+      "title": "Environmental Specialist",
+      "location": "Hawthorne, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427689533/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GHD",
+      "title": "Environmental Scientist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427211488/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "J.S. Held LLC",
+      "title": "Director \u2013 Environmental Remediation",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/4419831015/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Remediation Project Manager",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427959150/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "APTIM",
+      "title": "Senior Environmental Scientist",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427950255/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mattson Technology",
+      "title": "Environmental Health Safety Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426947745/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "California Air Resources Board",
+      "title": "Air Pollution Monitoring Technical Support",
       "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428190851/",
-      "date_posted": "2026-06-13",
+      "url": "https://www.linkedin.com/jobs/view/4428168922/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Acadia Pharmaceuticals",
+      "title": "Associate Director Toxicology",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376017105/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ADARx Pharmaceuticals Inc.",
+      "title": "Principal Scientist, Toxicology",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426931052/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Neurocrine Biosciences",
+      "title": "TEMP - Toxicology Operations Specialist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424800900/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mercor",
+      "title": "Environmental Scientist - Fully Remote | Upto $1450 Part-time",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426195330/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "California Department of Toxic Substances Control",
+      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
+      "location": "San Diego County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427578309/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Caltrans",
+      "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
+      "location": "Stockton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427646960/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roux",
+      "title": "Senior Environmental Engineer I",
+      "location": "Burbank, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417901914/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Glendale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422484349/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Denali Therapeutics",
+      "title": "Associate Director, Toxicology",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416935856/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Neurocrine Biosciences",
+      "title": "Sr. Scientific Director, Toxicology",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394742792/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Herndon Solutions Group",
+      "title": "Environmental Health Lead",
+      "location": "Edwards, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419641486/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Arcadis",
+      "title": "Environmental Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426090159/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Synectics",
+      "title": "Environmental Scientist - Data Manager",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4332069803/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NV5",
+      "title": "Senior Stormwater/Environmental Scientist-QSD",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394733492/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist 1",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427084068/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Caltrans",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427097864/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Insignia Environmental",
+      "title": "Lead Environmental Specialist/Planner (QSD/QSP) (Menlo Park and Encinitas, California)",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/4404874145/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "RED Digital Cinema",
+      "title": "Chemical Regulatory Manager",
+      "location": "Orange County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414729720/",
+      "date_posted": "2026-06-10",
       "ats": "LinkedIn"
     }
   ]

@@ -75,20 +75,25 @@ risk`, `ecological risk`, `exposure scien`, `exposure assess`, `hazard assess`,
 `microplastic`, `nanoplastic`, `pfas`, `emerging contaminant`, `contaminant`,
 `pollution`, `remediation`
 
-**Chemical safety / regulatory / stewardship:** `chemical safety`, `product
-steward`, `regulatory scien`, `regulatory affairs`, `chemical regulatory`
+**Chemical safety / regulatory / stewardship:** `chemical safety`, `chemical
+risk`, `chemical assess`, `chemical regulatory`, `product steward`
 
-**Ecology / sustainability / data / policy / academia:** `ecologist`,
-`sustainability scien`, `research scientist`, `senior scientist`, `principal
-scientist`, `health scientist`, `science director`, `data scientist`, `science
-policy`, `professor`, `faculty`
+The list is deliberately **tight** for precision: generic titles (`research
+scientist`, `senior scientist`, `data scientist`, `professor`, `regulatory
+affairs`) are *not* matched on their own, because they pull in pharma / biotech /
+tech bench roles. Environmental academic, data, and policy roles are still caught
+via their qualified forms (`Environmental Data Scientist`, `Assistant Professor
+of Environmental Health`, etc.).
 
-**Excluded (junior / not worth a senior scientist's time):** titles containing
-`intern`, `internship`, `co-op`, `trainee`, `apprentice`, `technician`,
-`research/lab/teaching assistant`, `undergraduate`, `postdoc`, `work-study`,
-`volunteer`, or `fellowship` are dropped everywhere. (Unlike the original, which
-dropped *senior* titles — Dr. Coffin is a senior IC, so senior/principal/lead/
-director roles are **kept**.)
+**Excluded everywhere:**
+- **Junior / training:** `intern`, `internship`, `co-op`, `trainee`,
+  `apprentice`, `technician`, `research/lab/teaching assistant`, `undergraduate`,
+  `postdoc`, `work-study`, `volunteer`, `fellowship`. (Unlike the original, which
+  dropped *senior* titles — Dr. Coffin is a senior IC, so senior / principal /
+  lead / director roles are **kept**.)
+- **EHS / workplace-safety compliance:** `EHS`, `health & safety`, `occupational
+  safety/health` — a distinct field from environmental-tox science. (Does *not*
+  touch `Chemical Safety`, which is in-scope.)
 
 ## Geographic Scope
 
