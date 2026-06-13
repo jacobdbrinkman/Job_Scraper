@@ -524,12 +524,24 @@ def _is_biotech_company(name: str) -> bool:
 # (Corteva, Syngenta, Dow, BASF) are intentionally NOT here — their product-
 # stewardship / chemical-risk roles are in-scope.
 PHARMA_COMPANY_RE = re.compile(
-    r'pharmaceutical|pharma\b|therapeutics|biotherapeutic|biopharma|biologics|'
-    r'biosciences|bioscience\b|\bmedicines\b|drug discovery|oncolog|'
-    r'\bgenentech\b|\bgilead\b|\bpfizer\b|\bmerck\b|novartis|\bamgen\b|abbvie|'
-    r'regeneron|moderna|\bbiogen\b|\bsanofi\b|astrazeneca|\btakeda\b|biomarin|'
-    r'alnylam|incyte|exelixis|neurocrine|\bionis\b|\bdenali\b|\bacadia\b|adarx|'
-    r'genmab|\broche\b|bristol[ -]?myers|eli lilly|\bnuvation\b|exact sciences',
+    # ---- generic pharma / biotech / drug-development name signals (substring) ----
+    r'pharmaceutic|pharma\b|therapeutic|biopharm|biotech|biologic|bioscience|'
+    r'biosystem|genomics|gene therap|cell therap|immunotherap|\bvaccine|'
+    r'\bmedicines\b|drug discovery|oncolog|biomedicine|nanomedicine'
+    # ---- explicit pharma / biotech companies (word-bounded, length >= 5) ----
+    r'|\b(?:'
+    r'pfizer|merck|novartis|roche|abbvie|bristol[ -]?myers|sanofi|astrazeneca|'
+    r'glaxosmithkline|takeda|boehringer|amgen|gilead|genentech|biogen|regeneron|'
+    r'moderna|vertex|novo nordisk|viatris|bausch|alkermes|halozyme|galapagos|'
+    r'insitro|recursion|cytokinetics|arcus|gritstone|sutro|nurix|rigel|corcept|'
+    r'annexon|kodiak|coherus|vaxcyte|allakos|protagonist|kyverna|septerna|'
+    r'sangamo|atara|allogene|intellia|editas|poseida|nkarta|tenaya|pliant|'
+    r'rezolute|aldeyra|arcturus|caribou|chemocentryx|dynavax|geron|iovance|'
+    r'karuna|mersana|mirati|nektar|prothena|revance|seagen|ultragenyx|zentalis|'
+    r'exelixis|biomarin|alnylam|incyte|neurocrine|ionis|denali|acadia|adarx|'
+    r'genmab|nuvation|exact sciences|revolution medicines|structure therapeutics|'
+    r'relay therapeutics|beam therapeutics|sana biotechnology|fate therapeutics'
+    r')\b',
     re.IGNORECASE,
 )
 
