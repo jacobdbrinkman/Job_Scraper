@@ -1,12 +1,7 @@
 # 🟦 Indeed — Environmental / Toxicology / Risk Roles (California)
-*Last updated: 2026-06-13 03:20 UTC*
+*Last updated: 2026-06-13 04:20 UTC*
 
-**5 new role(s)** since last run · 5 total in last 24h
-
-### [Associate Director, Toxicology](https://www.indeed.com/viewjob?jk=83fd3ba53b7abff3) — Ionis Pharmaceuticals
-- 📍 **Location:** Carlsbad, CA, US
-- 💰 **Salary:** $173k–$255k/yr
-- 🕒 **Posted:** 2026-06-12
+**4 new role(s)** since last run · 4 total in last 24h
 
 ### [Director/Senior Director, Toxicology](https://www.indeed.com/viewjob?jk=b50b6806e61b98d0) — galapagos
 - 📍 **Location:** San Francisco, CA, US
@@ -22,7 +17,7 @@
 - 💰 **Salary:** $7820–$11k/mo
 - 🕒 **Posted:** 2026-06-12
 
-### [Senior Safety, Health, and Environmental Specialist](https://www.indeed.com/viewjob?jk=40b33cf753728d91) — Roche
-- 📍 **Location:** Carlsbad, CA, US
-- 💰 **Salary:** $73k–$136k/yr
-- 🕒 **Posted:** 2026-06-11
+### [Environmental Site Investigation and Remediation Project Manager](https://www.indeed.com/viewjob?jk=07e60252d815e08c) — Terracon Consultants Inc
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $85k–$132k/yr
+- 🕒 **Posted:** 2026-06-12
