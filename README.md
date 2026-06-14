@@ -203,6 +203,29 @@ python scrape_jobs.py --calcareers-only  # California state jobs (calcareers.ca.
 The LinkedIn/priority pipelines use only the standard library. Indeed requires
 `pip install -r requirements.txt` (single dep: `python-jobspy`).
 
+### 📲 Phone notifications (Pushover)
+
+Get a push to your phone the moment a **highly-relevant** new role appears. After
+each scrape, `notify.py` pushes any new posting that either touches a priority
+topic (microplastics, ecotoxicology, endocrine-disrupting chemicals, R/Shiny) or
+scores ≥ `NOTIFY_MIN_FIT` (default 75) on the resume-fit model. It dedupes
+against `notified.json`, so the same role is never pushed twice (across sources
+or runs). Priority-topic hits ping at high priority.
+
+To enable, add these in **Settings → Secrets and variables → Actions**:
+
+| Secret | Value |
+|---|---|
+| `PUSHOVER_TOKEN` | Your Pushover **application/API token** (create an app at pushover.net) |
+| `PUSHOVER_USER` | Your Pushover **user key** (top of your pushover.net dashboard) |
+
+Optional **Variable** (not secret): `NOTIFY_MIN_FIT` — lower than 75 for more
+(less selective) pings, higher for fewer. Without the two secrets, notifications
+are simply off (everything else still works). Test locally with:
+```bash
+PUSHOVER_TOKEN=xxx PUSHOVER_USER=yyy python scrape_jobs.py --linkedin-only
+```
+
 ### Optional: nightly fit-scoring agent (`triage.yml`)
 
 `triage_agent.py` scores each new role against your profile with the Claude API.

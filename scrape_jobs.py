@@ -1145,6 +1145,13 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     except Exception as e:
         print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
 
+    # Push the highly-relevant new roles to Pushover (no-op without creds).
+    try:
+        import notify
+        notify.notify_new_jobs(new_jobs, basename)
+    except Exception as e:
+        print(f"  ⚠️  Pushover notify failed (non-fatal): {e}")
+
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     output = {

@@ -34,6 +34,10 @@ jobs:
 
       - name: Scrape LinkedIn (last 1h)
         run: python scrape_jobs.py --linkedin-only
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
 
       - name: Record workflow run
         run: |
@@ -61,7 +65,7 @@ jobs:
         run: |
           git config user.name  "ScottCoffin"
           git config user.email "ScottCoffin@users.noreply.github.com"
-          git add linkedin_jobs.json linkedin_jobs.md linkedin_jobs.html workflow_runs.jsonl all_jobs.json
+          git add linkedin_jobs.json linkedin_jobs.md linkedin_jobs.html workflow_runs.jsonl all_jobs.json notified.json
           git diff --cached --quiet || git commit -m "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase origin main
           git push

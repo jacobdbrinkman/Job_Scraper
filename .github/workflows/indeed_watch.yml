@@ -38,6 +38,10 @@ jobs:
 
       - name: Scrape Indeed (last 24h)
         run: python scrape_jobs.py --indeed-only
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
 
       - name: Record workflow run
         run: |
@@ -65,7 +69,7 @@ jobs:
         run: |
           git config user.name  "ScottCoffin"
           git config user.email "ScottCoffin@users.noreply.github.com"
-          git add indeed_jobs.json indeed_jobs.md indeed_jobs.html workflow_runs.jsonl all_jobs.json
+          git add indeed_jobs.json indeed_jobs.md indeed_jobs.html workflow_runs.jsonl all_jobs.json notified.json
           git diff --cached --quiet || git commit -m "chore: update indeed listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase origin main
           git push
