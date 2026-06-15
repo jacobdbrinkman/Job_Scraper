@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-15 03:58 UTC",
-  "total": 5,
-  "new_count": 5,
+  "scraped_at": "2026-06-15 17:25 UTC",
+  "total": 7,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Consumer Product Safety Commission",
@@ -14,49 +14,11 @@
     },
     {
       "company": "U.S. Marine Corps",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Jacksonville, North Carolina",
-      "url": "https://www.usajobs.gov/job/872813900",
-      "date_posted": "2026-06-12",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "John C. Stennis Space Center",
-      "title": "Environmental Protection Specialist (Direct Hire)",
-      "location": "Stennis Space Center, Mississippi",
-      "url": "https://www.usajobs.gov/job/871675100",
-      "date_posted": "2026-06-11",
-      "salary": "Starting at $89,508 Per year (GS 12-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Environmental Protection Specialist",
-      "location": "Texarkana, Texas",
-      "url": "https://www.usajobs.gov/job/871849500",
-      "date_posted": "2026-06-04",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Consumer Product Safety Commission",
-      "title": "Director for Hazard Identification",
-      "location": "Bethesda, Maryland",
-      "url": "https://www.usajobs.gov/job/872968600",
-      "date_posted": "2026-06-12",
-      "salary": "Starting at $151,661 Per year (ES 00)",
-      "ats": "USAJOBS"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Consumer Product Safety Commission",
-      "title": "Pharmacologist/Physiologist/Toxicologist",
-      "location": "Rockville, Maryland",
-      "url": "https://www.usajobs.gov/job/872779100",
-      "date_posted": "2026-06-11",
-      "salary": "Starting at $85,447 Per year (GS 11-13)",
+      "title": "SUPERVISORY ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Camp Pendleton, California",
+      "url": "https://www.usajobs.gov/job/873069200",
+      "date_posted": "2026-06-15",
+      "salary": "Starting at $85,307 Per year (GS 11)",
       "ats": "USAJOBS"
     },
     {
@@ -93,6 +55,35 @@
       "url": "https://www.usajobs.gov/job/872968600",
       "date_posted": "2026-06-12",
       "salary": "Starting at $151,661 Per year (ES 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Air Force Materiel Command",
+      "title": "Subject Matter Specialist (Air Quality) - DIRECT HIRE AUTHORITY",
+      "location": "Kelly AFB, Texas",
+      "url": "https://www.usajobs.gov/job/872100900",
+      "date_posted": "2026-06-08",
+      "salary": "Starting at $90,823 Per year (NH 3)",
+      "ats": "USAJOBS"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "U.S. Marine Corps",
+      "title": "SUPERVISORY ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Camp Pendleton, California",
+      "url": "https://www.usajobs.gov/job/873069200",
+      "date_posted": "2026-06-15",
+      "salary": "Starting at $85,307 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Air Force Materiel Command",
+      "title": "Subject Matter Specialist (Air Quality) - DIRECT HIRE AUTHORITY",
+      "location": "Kelly AFB, Texas",
+      "url": "https://www.usajobs.gov/job/872100900",
+      "date_posted": "2026-06-08",
+      "salary": "Starting at $90,823 Per year (NH 3)",
       "ats": "USAJOBS"
     }
   ]
