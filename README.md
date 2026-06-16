@@ -12,6 +12,8 @@ point it at your field and locations (or generate it from your CV with an LLM)
 and you have your own tracker. Live example:
 [scottcoff.in/Job_Scraper/triage.html](https://scottcoff.in/Job_Scraper/triage.html).
 
+![The triage dashboard in action — filtering, salary distribution, map, and triage](triage.gif)
+
 > This repo ships configured for **environmental / toxicology** roles (Dr. Scott
 > Coffin's field — [scottcoff.in](https://scottcoff.in)) as a worked example, and
 > began as [Ernesto Diaz](https://github.com/ernestod1998)'s Bay Area ML-engineer
