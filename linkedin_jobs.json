@@ -1,7 +1,27 @@
 {
-  "scraped_at": "2026-06-18 01:29 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-06-18 03:29 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Fyfe",
+      "title": "Principal Environmental Scientist - Contaminated Land",
+      "location": "Adelaide, South Australia, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4428776800/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Fyfe",
+      "title": "Principal Environmental Scientist - Contaminated Land",
+      "location": "Adelaide, South Australia, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4428776800/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ]
 }

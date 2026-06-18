@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-18 01:29 UTC*
+*Last updated: 2026-06-18 03:29 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Principal Environmental Scientist - Contaminated Land](https://www.linkedin.com/jobs/view/4428776800/) — Fyfe
+- 📍 **Location:** Adelaide, South Australia, Australia
+- 🕒 **Posted:** 2026-06-18
