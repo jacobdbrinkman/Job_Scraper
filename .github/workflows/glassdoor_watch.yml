@@ -1,7 +1,9 @@
 name: Glassdoor Watcher
 
 on:
-  # JobSpy-backed Glassdoor pass, offset from LinkedIn (:17) and Indeed (:47).
+  # JobSpy-backed Glassdoor pass. Scheduled runs are opt-in with
+  # repository Variable ENABLE_GLASSDOOR_WATCHER=true because Glassdoor
+  # frequently returns 403/location-parse failures from shared CI IPs.
   schedule:
     - cron: "07 16-23,0-3 * * *"
   workflow_dispatch:
@@ -19,6 +21,7 @@ concurrency:
 jobs:
   scrape:
     name: Glassdoor scrape
+    if: github.event_name == 'workflow_dispatch' || vars.ENABLE_GLASSDOOR_WATCHER == 'true'
     runs-on: ubuntu-latest
 
     permissions:
@@ -49,6 +52,8 @@ jobs:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
+          JOBSPY_PROXIES: ${{ secrets.JOBSPY_PROXIES }}
+          JOBSPY_USER_AGENT: ${{ vars.JOBSPY_USER_AGENT }}
 
       - name: Record workflow run
         run: |

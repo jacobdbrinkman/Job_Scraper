@@ -284,6 +284,7 @@
   <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">California · Environmental / Toxicology · loading…</span>
   <span class="grow"></span>
   <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
+  <a class="iconbtn" id="clear-data-link" href="https://github.com/ScottCoffin/Job_Scraper/actions/workflows/clear_data.yml" target="_blank" rel="noopener" title="Clear all accumulated job data (opens Actions → Run workflow)">🗑 Clear jobs</a>
   <a class="iconbtn" id="repo-link" href="https://github.com/ScottCoffin/Job_Scraper" target="_blank" rel="noopener" title="View source repo">⌥ Repo</a>
 </header>
 
@@ -320,6 +321,14 @@
       <button type="button" class="pill on" id="view-browse" aria-pressed="true">Browse</button>
       <button type="button" class="pill" id="view-rank" aria-pressed="false">★ Best fit</button>
       <button type="button" class="pill" id="view-map" aria-pressed="false">🗺 Map</button>
+    </div>
+  </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Sort by</span>
+    <div id="sort-controls" class="controls-row" style="gap:6px">
+      <button type="button" class="pill on" data-sort="fit" aria-pressed="true">★ Best fit</button>
+      <button type="button" class="pill" data-sort="time" aria-pressed="false">Time posted</button>
+      <button type="button" class="pill" data-sort="location" aria-pressed="false">Location</button>
     </div>
   </div>
   <div class="controls-row">
@@ -952,8 +961,9 @@
     q: '',
   };
 
-  // 'browse' = the classic date-ordered list; 'rank' = fit-score order.
+  // 'browse' = the standard list; 'rank' = fit-score order.
   let viewMode = 'browse';
+  let sortMode = 'fit';
 
   // Parse a job's posted date to epoch ms. Handles ISO 'YYYY-MM-DD' and the relative
   // 'Posted N Days Ago' strings some boards emit. null = unknown (kept under "Any time",
@@ -1010,7 +1020,65 @@
   }
 
   function visibleJobs() {
-    return VIEW.filter(j => matchesFilters(j));
+    return sortJobs(VIEW.filter(j => matchesFilters(j)));
+  }
+
+  function compareText(a, b) {
+    return String(a || '').localeCompare(String(b || ''), undefined, { sensitivity: 'base' });
+  }
+
+  function locationSortKey(j) {
+    const loc = (j.location || '').trim();
+    return loc || 'zzzzzz';
+  }
+
+  function compareStable(a, b) {
+    return compareText(a.title, b.title)
+      || compareText(a.company, b.company)
+      || compareText(a.url, b.url);
+  }
+
+  function fitDelta(a, b) {
+    return (rankScore(b).value - rankScore(a).value)
+      || ((b._fit ?? -1) - (a._fit ?? -1));
+  }
+
+  function timeDelta(a, b) {
+    return (jobFreshMs(b) || 0) - (jobFreshMs(a) || 0);
+  }
+
+  function locationDelta(a, b) {
+    return compareText(locationSortKey(a), locationSortKey(b));
+  }
+
+  function compareByFit(a, b) {
+    return fitDelta(a, b)
+      || timeDelta(a, b)
+      || locationDelta(a, b)
+      || compareStable(a, b);
+  }
+
+  function compareByTime(a, b) {
+    return timeDelta(a, b)
+      || fitDelta(a, b)
+      || locationDelta(a, b)
+      || compareStable(a, b);
+  }
+
+  function compareByLocation(a, b) {
+    return locationDelta(a, b)
+      || fitDelta(a, b)
+      || timeDelta(a, b)
+      || compareStable(a, b);
+  }
+
+  function sortJobs(jobs) {
+    const mode = viewMode === 'rank' ? 'fit' : sortMode;
+    return jobs.slice().sort((a, b) => {
+      if (mode === 'time') return compareByTime(a, b);
+      if (mode === 'location') return compareByLocation(a, b);
+      return compareByFit(a, b);
+    });
   }
 
   // ---------- Render ----------
@@ -1379,7 +1447,7 @@
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
-      const score = viewMode === 'rank' ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
+      const score = (viewMode === 'rank' || sortMode === 'fit') ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
       const note = jobNote(j);
       const typeBits = [
         j.job_type ? escape(j.job_type) : '',
@@ -1633,6 +1701,8 @@
     renderKpis();
     renderCharts();
     renderSalaryChart();
+    renderViewControls();
+    renderSortControls();
     renderJobs();
     save();
   }
@@ -1851,19 +1921,46 @@
     }
   });
 
+  function renderViewControls() {
+    ['browse', 'rank', 'map'].forEach(m => {
+      const b = $('view-' + m);
+      b.classList.toggle('on', viewMode === m);
+      b.setAttribute('aria-pressed', String(viewMode === m));
+    });
+  }
+
+  function renderSortControls() {
+    document.querySelectorAll('#sort-controls [data-sort]').forEach(b => {
+      const active = b.dataset.sort === sortMode;
+      b.classList.toggle('on', active);
+      b.setAttribute('aria-pressed', String(active));
+    });
+  }
+
+  function setSortMode(mode) {
+    if (!['fit', 'time', 'location'].includes(mode)) return;
+    sortMode = mode;
+    if (mode !== 'fit' && viewMode === 'rank') viewMode = 'browse';
+    renderViewControls();
+    renderSortControls();
+    renderJobs();
+  }
+
   // Browse / Best-fit / Map view toggle
   function setView(mode) {
     viewMode = mode;
-    ['browse', 'rank', 'map'].forEach(m => {
-      const b = $('view-' + m);
-      b.classList.toggle('on', mode === m);
-      b.setAttribute('aria-pressed', String(mode === m));
-    });
+    if (mode === 'rank') sortMode = 'fit';
+    renderViewControls();
+    renderSortControls();
     renderJobs();
   }
   $('view-browse').onclick = () => setView('browse');
   $('view-rank').onclick = () => setView('rank');
   $('view-map').onclick = () => setView('map');
+  $('sort-controls').addEventListener('click', e => {
+    const btn = e.target.closest('[data-sort]');
+    if (btn) setSortMode(btn.dataset.sort);
+  });
 
   // Salary slider + "include unlisted" toggle
   $('sal-min').addEventListener('input', e => {
@@ -1908,6 +2005,7 @@
     filters.starOnly = false;
     $('star-only').classList.remove('on'); $('star-only').setAttribute('aria-pressed', 'false');
     filters.q = ''; $('search').value = '';
+    sortMode = 'fit';
     renderAll();
   };
 
@@ -1924,13 +2022,16 @@
     catch { toast('Copy failed — select text manually'); }
   }
 
-  // ---------- Repo link — dynamic on GitHub Pages, fallback to upstream ----------
+  // ---------- Repo + Clear links — dynamic on GitHub Pages, fallback to upstream ----------
   (function () {
     const h = window.location.hostname;
     if (h.endsWith('.github.io')) {
       const user = h.replace('.github.io', '');
       const repo = window.location.pathname.split('/').filter(Boolean)[0] || '';
-      if (repo) $('repo-link').href = `https://github.com/${user}/${repo}`;
+      if (repo) {
+        $('repo-link').href = `https://github.com/${user}/${repo}`;
+        $('clear-data-link').href = `https://github.com/${user}/${repo}/actions/workflows/clear_data.yml`;
+      }
     }
   })();
 

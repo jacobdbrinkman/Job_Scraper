@@ -1,0 +1,53 @@
+name: Clear Job Data
+
+# Resets the accumulated job dataset so you can start fresh — useful when
+# you've changed search terms and want to purge old, irrelevant results.
+# Clears the rolling accumulator (all_jobs.json) and the Pushover dedup
+# tracker (notified.json). Per-source files are overwritten on the next
+# scheduled scraper run anyway and don't need to be cleared here.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  clear:
+    name: Reset job data
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Reset accumulator and notification tracker
+        run: |
+          python - <<'EOF'
+          import json, os
+          from datetime import datetime, timezone
+
+          now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+          os.makedirs("output", exist_ok=True)
+
+          with open("output/all_jobs.json", "w") as f:
+              json.dump({"updated_at": now, "jobs": []}, f)
+          print("✅ output/all_jobs.json cleared")
+
+          with open("output/notified.json", "w") as f:
+              json.dump({"ids": []}, f)
+          print("✅ output/notified.json cleared")
+          EOF
+
+      - name: Commit cleared data
+        if: vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add -f output/all_jobs.json output/notified.json
+          git diff --cached --quiet || git commit -m "chore: clear job data [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase -X ours origin main
+          git push

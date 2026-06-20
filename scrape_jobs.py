@@ -950,6 +950,22 @@ GOOGLE_JOBS_LOOKBACK_HOURS = 24
 GOOGLE_JOBS_BACKFILL_DAYS = 30
 GOOGLE_JOBS_GEOS = _cfg("locations.google_jobs", INDEED_GEOS)
 GOOGLE_JOBS_SEARCH_TERMS = _cfg("search_terms.google_jobs", INDEED_SEARCH_TERMS)
+GOOGLE_JOBS_QUERIES = _cfg("google_jobs.queries", [])
+
+
+def _jobspy_proxies():
+    raw = _cfg("jobspy.proxies", None)
+    if raw in (None, "", []):
+        raw = os.environ.get("JOBSPY_PROXIES", "")
+    if isinstance(raw, str):
+        return [p.strip() for p in raw.split(",") if p.strip()]
+    if isinstance(raw, list):
+        return [str(p).strip() for p in raw if str(p).strip()]
+    return None
+
+
+def _jobspy_user_agent():
+    return str(_cfg("jobspy.user_agent", os.environ.get("JOBSPY_USER_AGENT", "")) or "") or None
 
 # jobspy returns the full JD (markdown) for many boards. We keep a trimmed copy
 # in source JSONs and all_jobs.json so the dashboard, deterministic scorer, and
@@ -964,6 +980,52 @@ def _coerce_bool(value):
     if value in ("", None):
         return None
     return str(value).strip().lower() in {"1", "true", "yes", "remote"}
+
+
+def _ingest_jobspy_df(df, *, label: str, jobs_by_id: dict[str, dict]) -> int:
+    """Normalize a JobSpy dataframe into this repo's jobs_by_id dict. Returns raw row count."""
+    if df is None or df.empty:
+        return 0
+    raw_rows = len(df)
+    df.columns = [c.lower() for c in df.columns]
+    df = df.fillna("")
+    for _, row in df.iterrows():
+        title = str(row.get("title", "") or "")
+        if not is_mle_role(title):
+            continue
+        url = str(row.get("job_url", "") or "")
+        if not url:
+            continue
+        ident = _job_identity(url)
+        if ident in jobs_by_id:
+            continue
+        loc = str(row.get("location", "") or "")
+        if not loc:
+            city = str(row.get("city", "") or "")
+            state = str(row.get("state", "") or "")
+            loc = ", ".join(p for p in [city, state] if p)
+        jobs_by_id[ident] = {
+            "company": str(row.get("company", "") or "Unknown"),
+            "title": title,
+            "location": loc,
+            "url": url,
+            "direct_url": str(row.get("job_url_direct", "") or ""),
+            "company_url": str(row.get("company_url", "") or ""),
+            "date_posted": str(row.get("date_posted", "") or ""),
+            "description": str(row.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
+            "salary": format_salary(
+                row.get("min_amount", ""),
+                row.get("max_amount", ""),
+                row.get("interval", ""),
+            ),
+            "salary_source": str(row.get("salary_source", "") or ""),
+            "salary_currency": str(row.get("currency", "") or ""),
+            "job_type": str(row.get("job_type", "") or ""),
+            "is_remote": _coerce_bool(row.get("is_remote")),
+            "emails": str(row.get("emails", "") or ""),
+            "ats": label,
+        }
+    return raw_rows
 
 
 def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
@@ -996,6 +1058,8 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
                 hours_old=hours_old,
                 country_indeed=geo.get("country", "USA"),
                 enforce_annual_salary=False,
+                proxies=_jobspy_proxies(),
+                user_agent=_jobspy_user_agent(),
                 verbose=0,
             )
         except Exception as e:
@@ -1003,45 +1067,7 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
             print(f"  ⚠️  {label} ({geo['location']} · {term!r}): {e}")
             continue
         ok_terms += 1
-        if df is None or df.empty:
-            continue
-        raw_rows += len(df)
-        df.columns = [c.lower() for c in df.columns]
-        df = df.fillna("")
-        for _, row in df.iterrows():
-            title = str(row.get("title", "") or "")
-            if not is_mle_role(title):
-                continue
-            url = str(row.get("job_url", "") or "")
-            ident = _job_identity(url)
-            if ident in jobs_by_id:
-                continue
-            loc = str(row.get("location", "") or "")
-            if not loc:
-                city = str(row.get("city", "") or "")
-                state = str(row.get("state", "") or "")
-                loc = ", ".join(p for p in [city, state] if p)
-            jobs_by_id[ident] = {
-                "company": str(row.get("company", "") or "Unknown"),
-                "title": title,
-                "location": loc,
-                "url": url,
-                "direct_url": str(row.get("job_url_direct", "") or ""),
-                "company_url": str(row.get("company_url", "") or ""),
-                "date_posted": str(row.get("date_posted", "") or ""),
-                "description": str(row.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
-                "salary": format_salary(
-                    row.get("min_amount", ""),
-                    row.get("max_amount", ""),
-                    row.get("interval", ""),
-                ),
-                "salary_source": str(row.get("salary_source", "") or ""),
-                "salary_currency": str(row.get("currency", "") or ""),
-                "job_type": str(row.get("job_type", "") or ""),
-                "is_remote": _coerce_bool(row.get("is_remote")),
-                "emails": str(row.get("emails", "") or ""),
-                "ats": label,
-            }
+        raw_rows += _ingest_jobspy_df(df, label=label, jobs_by_id=jobs_by_id)
     jobs = list(jobs_by_id.values())
     print(
         f"  📊 {label}: {len(geos)}×{len(terms)} queries → "
@@ -1105,141 +1131,108 @@ def scrape_ziprecruiter_recent(hours_old: int | None = None) -> list:
     )
 
 
+def _google_jobs_time_phrase(hours_old: int) -> str:
+    """Natural-language recency phrase expected by Google Jobs search."""
+    if hours_old <= 24:
+        return "since yesterday"
+    if hours_old <= 72:
+        return "in the last 3 days"
+    if hours_old <= 168:
+        return "in the last week"
+    return "in the last month"
+
+
+def _google_jobs_query(term: str, geo: dict, hours_old: int) -> str:
+    """Build the full google_search_term string JobSpy's Google adapter requires."""
+    q = str(term or "").strip()
+    if re.search(r"\bjobs?\b", q, re.I) and re.search(r"\b(near|remote|since|last)\b", q, re.I):
+        return q
+    loc = str(geo.get("location", "") or "").strip()
+    recency = _google_jobs_time_phrase(hours_old)
+    if loc and loc.lower() not in {"remote", "anywhere"}:
+        return f"{q} jobs near {loc} {recency}"
+    return f"remote {q} jobs {recency}"
+
+
 def scrape_google_jobs_recent(hours_old: int | None = None) -> list:
     """Google Jobs roles posted in the last hours_old hours via JobSpy."""
     h = hours_old if hours_old is not None else GOOGLE_JOBS_LOOKBACK_HOURS
-    return _scrape_jobspy_board(
-        label="GoogleJobs",
-        site_name="google",
-        geos=GOOGLE_JOBS_GEOS,
-        terms=GOOGLE_JOBS_SEARCH_TERMS,
-        hours_old=h,
-        prev_basename="google_jobs",
-        results_wanted=30,
+    print(f"🔎 Scraping GoogleJobs (last {h}h)...")
+    try:
+        from jobspy import scrape_jobs as jobspy_scrape
+    except ImportError:
+        print("  ⚠️  python-jobspy not installed; skipping GoogleJobs")
+        return []
+
+    if GOOGLE_JOBS_QUERIES:
+        queries = [str(q).strip() for q in GOOGLE_JOBS_QUERIES if str(q).strip()]
+    else:
+        queries = [
+            _google_jobs_query(term, geo, h)
+            for geo in GOOGLE_JOBS_GEOS
+            for term in GOOGLE_JOBS_SEARCH_TERMS
+        ]
+
+    jobs_by_id: dict[str, dict] = {}
+    ok_terms = 0
+    errored_terms = 0
+    raw_rows = 0
+    for query in queries:
+        time.sleep(REQUEST_DELAY)
+        try:
+            # Google Jobs is the JobSpy exception: it ignores search_term,
+            # location, hours_old, and country_indeed. The full role, location,
+            # and recency filter must be embedded in google_search_term.
+            df = jobspy_scrape(
+                site_name="google",
+                google_search_term=query,
+                results_wanted=30,
+                enforce_annual_salary=False,
+                proxies=_jobspy_proxies(),
+                user_agent=_jobspy_user_agent(),
+                verbose=0,
+            )
+        except Exception as e:
+            errored_terms += 1
+            print(f"  ⚠️  GoogleJobs ({query!r}): {e}")
+            continue
+        ok_terms += 1
+        raw_rows += _ingest_jobspy_df(df, label="GoogleJobs", jobs_by_id=jobs_by_id)
+
+    jobs = list(jobs_by_id.values())
+    print(
+        f"  📊 GoogleJobs: {len(queries)} queries → "
+        f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
     )
+    if raw_rows == 0:
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "google_jobs.json"))
+        print(
+            f"  ⛔ GoogleJobs returned 0 rows across all queries; "
+            f"preserving previous {len(prev)} result(s)"
+        )
+        return prev
+    return jobs
 
 
 # ---------------------------------------------------------------------------
-# HiringCafe — official search API (direct-from-employer listings)
+# HiringCafe — public SSR search pages (direct-from-employer listings)
 # ---------------------------------------------------------------------------
 
 HIRINGCAFE_LOOKBACK_DAYS = 30
 HIRINGCAFE_BACKFILL_DAYS = 61
-HIRINGCAFE_PAGE_SIZE = int(_cfg("hiring_cafe.page_size", 100))
-HIRINGCAFE_MAX_PAGES = int(_cfg("hiring_cafe.max_pages", 3))
+HIRINGCAFE_MAX_PAGES = max(1, int(_cfg("hiring_cafe.max_pages", 3)))
 HIRINGCAFE_SEARCH_TERMS = _cfg("search_terms.hiring_cafe", INDEED_SEARCH_TERMS)
-HIRINGCAFE_RAW_LOCATIONS = _cfg("locations.hiring_cafe", [{"location": "United States"}])
 
 HIRINGCAFE_HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"),
-    "Accept": "application/json, text/plain, */*",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
-    "Content-Type": "application/json",
-    "Origin": "https://hiring.cafe",
     "Referer": "https://hiring.cafe/",
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
     "Sec-Fetch-Site": "same-origin",
 }
-
-HIRINGCAFE_LOCATION_PRESETS = {
-    "united states": ("United States", "US", ["country"], "39.8283", "-98.5795"),
-    "usa": ("United States", "US", ["country"], "39.8283", "-98.5795"),
-    "california": ("California, United States", "CA", ["administrative_area_level_1"], "36.7783", "-119.4179"),
-    "portland, or": ("Portland, Oregon, United States", "Portland", ["locality"], "45.5152", "-122.6784"),
-    "bend, or": ("Bend, Oregon, United States", "Bend", ["locality"], "44.0582", "-121.3153"),
-    "australia": ("Australia", "AU", ["country"], "-25.2744", "133.7751"),
-}
-
-
-def _hiringcafe_location(entry: dict | str) -> dict:
-    if isinstance(entry, dict) and entry.get("formatted_address"):
-        return entry
-    text = entry if isinstance(entry, str) else (
-        entry.get("location") or entry.get("name") or entry.get("formatted_address") or "United States"
-    )
-    key = str(text).strip().lower()
-    formatted, short_name, types, lat, lon = HIRINGCAFE_LOCATION_PRESETS.get(
-        key, (str(text), str(text).split(",")[0], ["locality"], "", "")
-    )
-    loc = {
-        "formatted_address": formatted,
-        "types": types,
-        "id": "config_" + re.sub(r"[^a-z0-9]+", "_", formatted.lower()).strip("_"),
-        "address_components": [{
-            "long_name": formatted,
-            "short_name": short_name,
-            "types": types,
-        }],
-        "options": {"flexible_regions": ["anywhere_in_continent", "anywhere_in_world"]},
-    }
-    if lat and lon:
-        loc["geometry"] = {"location": {"lat": lat, "lon": lon}}
-    return loc
-
-
-def _hiringcafe_search_state(query: str, days: int) -> dict:
-    return {
-        "locations": [_hiringcafe_location(g) for g in HIRINGCAFE_RAW_LOCATIONS],
-        "workplaceTypes": _cfg("hiring_cafe.workplace_types", ["Remote", "Hybrid", "Onsite"]),
-        "defaultToUserLocation": False,
-        "userLocation": None,
-        "currency": {"label": "Any", "value": None},
-        "frequency": {"label": "Any", "value": None},
-        "restrictJobsToTransparentSalaries": False,
-        "calcFrequency": "Yearly",
-        "commitmentTypes": _cfg(
-            "hiring_cafe.commitment_types",
-            ["Full Time", "Part Time", "Contract", "Temporary", "Seasonal"],
-        ),
-        "seniorityLevel": _cfg(
-            "hiring_cafe.seniority",
-            ["No Prior Experience Required", "Entry Level", "Mid Level", "Senior Level"],
-        ),
-        "roleTypes": ["Individual Contributor", "People Manager"],
-        "roleYoeRange": [0, 30],
-        "managementYoeRange": [0, 30],
-        "securityClearances": ["None", "Confidential", "Secret", "Top Secret", "Top Secret/SCI", "Public Trust", "Interim Clearances", "Other"],
-        "airTravelRequirement": ["None", "Minimal", "Moderate", "Extensive"],
-        "landTravelRequirement": ["None", "Minimal", "Moderate", "Extensive"],
-        "onCallRequirements": ["None", "Occasional (once a month or less)", "Regular (once a week or more)"],
-        "applicationFormEase": [],
-        "companyNames": [],
-        "excludedCompanyNames": [],
-        "industries": [],
-        "excludedIndustries": [],
-        "searchQuery": query,
-        "dateFetchedPastNDays": days,
-        "hiddenCompanies": [],
-        "sortBy": "default",
-    }
-
-
-def _post_hiringcafe_json(path: str, payload: dict) -> dict | list | None:
-    body = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(
-        "https://hiring.cafe" + path,
-        data=body,
-        method="POST",
-        headers=HIRINGCAFE_HEADERS,
-    )
-    with urllib.request.urlopen(req, timeout=35) as resp:
-        return json.loads(resp.read().decode("utf-8"))
-
-
-def _hiringcafe_batch(data) -> list:
-    if isinstance(data, list):
-        return data
-    if not isinstance(data, dict):
-        return []
-    for key in ("results", "jobs", "data", "items", "content"):
-        if isinstance(data.get(key), list):
-            return data[key]
-    hits = data.get("hits")
-    if isinstance(hits, dict) and isinstance(hits.get("hits"), list):
-        return [hit.get("_source", hit) for hit in hits["hits"]]
-    return []
 
 
 def _deep_first(obj, keys: tuple[str, ...]):
@@ -1270,6 +1263,17 @@ def _hiringcafe_salary(raw: dict) -> str:
             salary.get("max") or salary.get("maxAmount") or salary.get("max_amount") or salary.get("highEnd"),
             salary.get("frequency") or salary.get("interval") or salary.get("period"),
         )
+    for prefix, interval in (
+        ("yearly", "yearly"),
+        ("monthly", "monthly"),
+        ("weekly", "weekly"),
+        ("hourly", "hourly"),
+        ("daily", "daily"),
+    ):
+        lo = _deep_first(raw, (f"{prefix}_min_compensation", f"{prefix}_min_amount"))
+        hi = _deep_first(raw, (f"{prefix}_max_compensation", f"{prefix}_max_amount"))
+        if lo or hi:
+            return format_salary(lo, hi, interval)
     return ""
 
 
@@ -1284,29 +1288,84 @@ def _normalize_hiringcafe_job(raw: dict) -> dict | None:
             url = "https://hiring.cafe/job/" + urllib.parse.quote(job_id)
     if not url:
         return None
-    company = str(_deep_first(raw, ("company", "companyName", "source", "employer", "organization")) or "Unknown")
-    location = _deep_first(raw, ("location", "formatted_address", "formattedAddress", "city", "region"))
+    company = str(_deep_first(raw, ("company", "companyName", "company_name", "source", "employer", "organization")) or "Unknown")
+    location = _deep_first(raw, (
+        "location", "formatted_address", "formattedAddress", "formatted_workplace_location",
+        "workplace_cities", "workplace_states", "workplace_countries", "city", "region",
+    ))
     if isinstance(location, dict):
         location = location.get("formatted_address") or location.get("name") or location.get("city")
     if isinstance(location, list):
         location = ", ".join(str(x.get("formatted_address", x.get("name", x)) if isinstance(x, dict) else x) for x in location[:2])
-    desc = _deep_first(raw, ("description_clean", "description", "description_raw", "jobDescription"))
+    desc = _deep_first(raw, ("description_clean", "description", "description_raw", "jobDescription", "requirements_summary"))
     if isinstance(desc, dict):
         desc = json.dumps(desc, ensure_ascii=False)
+    if not desc:
+        desc_parts = []
+        for key in ("requirements_summary", "company_tagline", "role_activities", "technical_tools"):
+            val = _deep_first(raw, (key,))
+            if isinstance(val, list):
+                val = ", ".join(str(x) for x in val)
+            if val:
+                desc_parts.append(str(val))
+        desc = "\n".join(desc_parts)
+    job_type = _deep_first(raw, ("commitmentType", "commitment", "jobType", "employmentType"))
+    if isinstance(job_type, list):
+        job_type = ", ".join(str(x) for x in job_type)
+    workplace_type = str(_deep_first(raw, ("workplace_type", "workplaceType")) or "")
     job = {
         "company": company,
         "title": title,
         "location": str(location or ""),
         "url": url,
         "direct_url": str(_deep_first(raw, ("apply_url", "applyUrl")) or ""),
-        "date_posted": str(_deep_first(raw, ("date_posted", "datePosted", "created_at", "createdAt", "dateFetched")) or ""),
+        "date_posted": str(_deep_first(raw, (
+            "date_posted", "datePosted", "created_at", "createdAt", "dateFetched",
+            "estimated_publish_date",
+        )) or ""),
         "description": re.sub(r"<[^>]+>", " ", str(desc or ""))[:JOBSPY_JD_MAX_CHARS],
         "salary": _hiringcafe_salary(raw),
-        "job_type": str(_deep_first(raw, ("commitmentType", "jobType", "employmentType")) or ""),
-        "is_remote": _coerce_bool(_deep_first(raw, ("isRemote", "remote"))),
+        "job_type": str(job_type or ""),
+        "is_remote": _coerce_bool(_deep_first(raw, ("isRemote", "remote"))) or workplace_type.lower() == "remote",
         "ats": "HiringCafe",
     }
     return job
+
+
+def _hiringcafe_search_slug(term: str) -> str:
+    return urllib.parse.quote(re.sub(r"\s+", "-", str(term).strip()))
+
+
+def _hiringcafe_ssr_hits(term: str, page: int = 0) -> tuple[list[dict], bool]:
+    url = "https://hiring.cafe/jobs/" + _hiringcafe_search_slug(term)
+    if page > 0:
+        url += "?" + urllib.parse.urlencode({"page": page})
+    req = urllib.request.Request(url, headers=HIRINGCAFE_HEADERS)
+    with urllib.request.urlopen(req, timeout=35) as resp:
+        html = resp.read().decode("utf-8", errors="replace")
+    m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html)
+    if not m:
+        return [], True
+    data = json.loads(m.group(1))
+    page_props = data.get("props", {}).get("pageProps", {})
+    hits = page_props.get("ssrHits", [])
+    is_last = bool(page_props.get("ssrIsLastPage", True))
+    return (hits if isinstance(hits, list) else []), is_last
+
+
+def _hiringcafe_recent_enough(job: dict, days: int) -> bool:
+    d = str(job.get("date_posted") or "")
+    if not d:
+        return True
+    t = None
+    try:
+        t = datetime.fromisoformat(d.replace("Z", "+00:00")).timestamp()
+    except ValueError:
+        try:
+            t = datetime.strptime(d[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp()
+        except ValueError:
+            return True
+    return t >= (datetime.now(timezone.utc).timestamp() - days * 86400)
 
 
 def scrape_hiringcafe_recent(days: int | None = None) -> list:
@@ -1315,31 +1374,26 @@ def scrape_hiringcafe_recent(days: int | None = None) -> list:
     jobs_by_id: dict[str, dict] = {}
     ok_pages = errored_pages = raw_rows = 0
     for term in HIRINGCAFE_SEARCH_TERMS:
-        state = _hiringcafe_search_state(term, d)
-        for page in range(max(1, HIRINGCAFE_MAX_PAGES)):
+        for page in range(HIRINGCAFE_MAX_PAGES):
             time.sleep(REQUEST_DELAY)
-            payload = {"size": HIRINGCAFE_PAGE_SIZE, "page": page, "searchState": state}
             try:
-                data = _post_hiringcafe_json("/api/search-jobs", payload)
+                batch, is_last = _hiringcafe_ssr_hits(term, page=page)
             except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as e:
                 errored_pages += 1
                 print(f"  ⚠️  HiringCafe ({term!r} page {page}): {e}")
                 break
             ok_pages += 1
-            batch = _hiringcafe_batch(data)
-            if not batch:
-                break
             raw_rows += len(batch)
             for raw in batch:
                 if not isinstance(raw, dict):
                     continue
                 job = _normalize_hiringcafe_job(raw)
-                if not job:
+                if not job or not _hiringcafe_recent_enough(job, d):
                     continue
                 ident = _job_identity(job.get("url", ""))
                 if ident and ident not in jobs_by_id:
                     jobs_by_id[ident] = job
-            if len(batch) < HIRINGCAFE_PAGE_SIZE:
+            if is_last or not batch:
                 break
     jobs = list(jobs_by_id.values())
     print(

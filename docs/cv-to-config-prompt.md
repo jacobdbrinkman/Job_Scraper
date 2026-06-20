@@ -48,10 +48,11 @@ Produce this exact shape, filled in for ME based on my CV:
     "google_jobs": [ { "location": "<City, ST  OR  State>", "country": "USA" } ],
     "hiring_cafe": [ { "location": "<Country, State, or City>" } ]
   },
+  "google_jobs": {
+    "queries": []
+  },
   "hiring_cafe": {
-    "page_size": 100,
-    "max_pages": 3,
-    "workplace_types": ["Remote", "Hybrid", "Onsite"]
+    "max_pages": 3
   },
   "employers": {
     "priority": [ "<optional: organizations I'd love to work for; [] if none>" ],
@@ -76,9 +77,12 @@ Rules:
 - locations: convert my target places to the format shown. For LinkedIn, set
   "geoId": "" unless I gave you one — the tracker resolves the text. Use a
   separate entry per place. For Indeed/Glassdoor/ZipRecruiter/Google Jobs,
-  "country" is "USA", "Australia", "Canada", "GB", etc. HiringCafe can use
-  broad country/state/city labels such as "United States" or "California".
-- hiring_cafe: keep the default values unless I ask for broader/deeper searches.
+  "country" is "USA", "Australia", "Canada", "GB", etc. HiringCafe's public
+  search route currently defaults to United States, so keep its location as
+  "United States" unless I explicitly ask otherwise.
+- google_jobs.queries: keep [] unless I explicitly provide exact Google Jobs
+  search-box text to use verbatim.
+- hiring_cafe: keep the default max_pages unless I ask for deeper searches.
 - priority_topics: 3-6 of MY standout specialties/skills (these get starred &
   filterable). Each regex is a plain JavaScript regex source string (no slashes,
   no flags). Escape backslashes for JSON (write \\b not \b).

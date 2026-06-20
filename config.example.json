@@ -68,7 +68,7 @@
   },
 
   "locations": {
-    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe accepts broad country/state/city names. The map auto-fits to wherever the jobs are.",
+    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
     "linkedin": [
       { "name": "California",  "location": "California, United States",          "geoId": "102095887" },
       { "name": "Portland OR", "location": "Portland, Oregon Metropolitan Area", "geoId": "90000079" },
@@ -103,11 +103,20 @@
     ]
   },
 
+  "google_jobs": {
+    "_comment": "Optional exact Google Jobs queries. Leave empty to auto-build queries such as '<term> jobs near <location> since yesterday' from search_terms.google_jobs and locations.google_jobs.",
+    "queries": []
+  },
+
+  "jobspy": {
+    "_comment": "Optional. Prefer JOBSPY_PROXIES as a GitHub Actions secret/env var for private proxy credentials. Use only if JobSpy-backed boards are blocked.",
+    "proxies": [],
+    "user_agent": ""
+  },
+
   "hiring_cafe": {
-    "_comment": "Guardrails for HiringCafe's official search API. Increase max_pages cautiously if you broaden search_terms.",
-    "page_size": 100,
-    "max_pages": 3,
-    "workplace_types": ["Remote", "Hybrid", "Onsite"]
+    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages. max_pages caps SEO pagination per query; the public route currently defaults to United States.",
+    "max_pages": 3
   },
 
   "employers": {

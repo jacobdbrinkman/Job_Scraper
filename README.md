@@ -85,7 +85,7 @@ Several watchers have a `backfill` toggle in the "Run workflow" dialog that pull
 |---|---|---|
 | **LinkedIn Watcher** | last 1 hour | last 30 days |
 | **Indeed Watcher** | last 24 hours | last 50 days |
-| **Glassdoor Watcher** | last 24 hours | last 30 days |
+| **Glassdoor Watcher** | last 24 hours | last 30 days; scheduled runs are opt-in |
 | **ZipRecruiter Watcher** | last 24 hours | last 30 days |
 | **Google Jobs Watcher** | last 24 hours | last 30 days |
 | **HiringCafe Watcher** | last 30 days | last 61 days |
@@ -116,6 +116,8 @@ Without these secrets, notifications are simply off and everything else works.
 ### Turning sources on / off
 
 Each source is a workflow in [`.github/workflows/`](.github/workflows). To stop one, **Actions → that workflow → ⋯ → Disable workflow**. The dashboard simply skips any source file that doesn't exist, so nothing breaks.
+
+Glassdoor is currently treated as an opt-in scheduled source because it is prone to upstream blocking and location-parse failures from shared GitHub Actions IPs. Manual **Run workflow** still works for testing. To schedule it, add repository Variable `ENABLE_GLASSDOOR_WATCHER=true`.
 
 ### Running locally {#running-locally}
 
@@ -165,7 +167,9 @@ Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) (Indeed's RSS an
 
 ### 4. Glassdoor watcher — hourly, last 24h
 
-Also uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) to add Glassdoor coverage without adding a second scraping stack. By default it reuses the same search terms and locations as Indeed unless you add `search_terms.glassdoor` or `locations.glassdoor` to `config.json`. Output goes to `glassdoor_jobs.json`, `glassdoor_jobs.md`, and `glassdoor_jobs.html`, deduped against the previous run. Runs at :07 PT, offset from the LinkedIn and Indeed watchers.
+Also uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) to add Glassdoor coverage without adding a second scraping stack. By default it reuses the same search terms and locations as Indeed unless you add `search_terms.glassdoor` or `locations.glassdoor` to `config.json`. Output goes to `glassdoor_jobs.json`, `glassdoor_jobs.md`, and `glassdoor_jobs.html`, deduped against the previous run. Glassdoor often returns 403 or "location not parsed" from shared CI IPs, so its scheduled job is opt-in with repository Variable `ENABLE_GLASSDOOR_WATCHER=true`; manual workflow dispatch remains available for testing.
+
+For blocked JobSpy-backed sources, add a GitHub Actions secret named `JOBSPY_PROXIES` with a comma-separated proxy list accepted by JobSpy, and optionally set repository Variable `JOBSPY_USER_AGENT`. The scraper also reads the same values from `jobspy.proxies` and `jobspy.user_agent` in `config.json`, but secrets are safer for proxy credentials.
 
 ### 5. ZipRecruiter watcher — hourly, last 24h
 
@@ -173,11 +177,11 @@ Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) for ZipRecruiter
 
 ### 6. Google Jobs watcher — hourly, last 24h
 
-Uses JobSpy's Google Jobs adapter, which keeps this repo free of paid proxy APIs and browser automation. Configure with `search_terms.google_jobs` and `locations.google_jobs`. Output goes to `google_jobs.json`, `google_jobs.md`, and `google_jobs.html`, deduped against the previous run. Runs at :37 PT.
+Uses JobSpy's Google Jobs adapter, which keeps this repo free of paid proxy APIs and browser automation. Google is different from the other JobSpy boards: the scraper builds full `google_search_term` strings such as `toxicologist jobs near California since yesterday`, because Google Jobs ignores JobSpy's generic `search_term`, `location`, and `hours_old` parameters. Configure with `search_terms.google_jobs` and `locations.google_jobs`, or set exact strings in `google_jobs.queries`. Output goes to `google_jobs.json`, `google_jobs.md`, and `google_jobs.html`, deduped against the previous run. Runs at :37 PT.
 
 ### 7. HiringCafe watcher — hourly, last 30d
 
-Searches HiringCafe's public search API for direct-from-employer listings, with conservative `hiring_cafe.page_size` and `hiring_cafe.max_pages` guardrails. Configure with `search_terms.hiring_cafe`, `locations.hiring_cafe`, and the optional `hiring_cafe` settings in `config.json`. If the API returns no rows or errors for every page, the scraper preserves the previous `hiringcafe_jobs.*` files instead of wiping the dashboard source. Runs at :57 PT.
+Searches HiringCafe's public SSR `/jobs/<query>` pages for direct-from-employer listings, because the old unauthenticated API endpoint now returns 401/405. Configure with `search_terms.hiring_cafe` and cap pagination with `hiring_cafe.max_pages` in `config.json`. The public SEO route currently defaults to United States results. If HiringCafe returns no rows or errors for every page, the scraper preserves the previous `hiringcafe_jobs.*` files instead of wiping the dashboard source.
 
 ## Keywords Matched
 
@@ -202,8 +206,9 @@ The list is deliberately **tight** for precision: generic titles (`research scie
 **You define the locations** in [`config.json`](config.json) → `locations` (no code edits). The shipped example searches California, Portland & Bend OR, and Australia, but it works for anywhere — add/remove entries to suit:
 
 -   **LinkedIn** — `locations.linkedin`: each is a `location` + LinkedIn `geoId`. Leave `geoId` blank to let LinkedIn resolve the text (works for most cities/metros), or fill in the numeric id for tighter filtering. A geoId reference table is in [`docs/cv-to-config-prompt.md`](docs/cv-to-config-prompt.md).
--   **Indeed / Glassdoor / ZipRecruiter / Google Jobs** — each JobSpy-backed source takes a `location` + `country` (`USA`, `Australia`, `GB`, `Canada`, …). Glassdoor and Google Jobs fall back to Indeed locations if omitted; ZipRecruiter defaults to the US Indeed locations.
--   **HiringCafe** — `locations.hiring_cafe`: broad country/state/city labels such as `United States`, `California`, or `Portland, OR`; page depth is capped by `hiring_cafe.max_pages`.
+-   **Indeed / Glassdoor / ZipRecruiter** — each takes a `location` + `country` (`USA`, `Australia`, `GB`, `Canada`, …). Glassdoor falls back to Indeed locations if omitted; ZipRecruiter defaults to the US Indeed locations.
+-   **Google Jobs** — `locations.google_jobs` is used to build the full `google_search_term` text JobSpy requires; advanced users can bypass auto-building with `google_jobs.queries`.
+-   **HiringCafe** — currently uses HiringCafe's public US SEO search route; page depth is capped by `hiring_cafe.max_pages`.
 -   **USAJOBS** is nationwide US (federal); **NEOGOV** is filtered to your configured locations; **CalCareers** and **CalOpps** are California-only boards by nature (disable them if you're not searching California).
 -   The map and dashboard auto-fit to wherever your jobs are.
 
@@ -492,6 +497,6 @@ Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage
 
 ## Tuning the search
 
-Everything you'd adjust lives in [**`config.json`**](config.json) (no code edits) — the scraper and dashboard both read it: - `keywords.include` — title-match terms · `keywords.exclude` — titles to drop. - `search_terms.*` — queries sent to LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google Jobs, and HiringCafe. - `locations.*` — LinkedIn `geoId`, JobSpy `location` + `country`, and HiringCafe broad place labels. - `hiring_cafe` — optional page/workplace guardrails. - `employers.priority` (allowlist for the digest) / `employers.exclude` (drop). - `priority_topics` (⭐ highlights) · `role_categories` (Role-filter buckets) · `profile` (dashboard + digest branding).
+Everything you'd adjust lives in [**`config.json`**](config.json) (no code edits) — the scraper and dashboard both read it: - `keywords.include` — title-match terms · `keywords.exclude` — titles to drop. - `search_terms.*` — queries sent to LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google Jobs, and HiringCafe. - `locations.*` — LinkedIn `geoId`, JobSpy `location` + `country`, and Google query location text. - `google_jobs.queries` — optional exact Google Jobs search-box strings. - `jobspy` — optional proxies/user-agent for blocked JobSpy-backed boards; prefer GitHub Actions secrets for proxy credentials. - `hiring_cafe` — optional page-depth guardrail. - `employers.priority` (allowlist for the digest) / `employers.exclude` (drop). - `priority_topics` (⭐ highlights) · `role_categories` (Role-filter buckets) · `profile` (dashboard + digest branding).
 
 Generate the whole file from your CV with [`docs/cv-to-config-prompt.md`](docs/cv-to-config-prompt.md), or edit it by hand (every key is commented).
