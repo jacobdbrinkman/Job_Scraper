@@ -3,14 +3,14 @@ Environmental / Toxicology Job Scraper — tailored for Dr. Scott Coffin
 (environmental toxicology, risk assessment, exposure science, water quality,
 microplastics/PFAS, and supporting data science), California-wide.
 
-Three pipelines (see __main__): a LinkedIn guest-endpoint watcher, Indeed via
-python-jobspy, and a priority-employer sweep (allowlist-filtered LinkedIn +
-optional direct Greenhouse/Workday probes). Each writes {basename}.{json,md,html}
-digests and accumulates into all_jobs.json for the dashboard and triage agent.
+Pipelines (see __main__) include LinkedIn's guest endpoint, JobSpy-backed
+Indeed/Glassdoor, public-sector boards, and a priority-employer sweep
+(allowlist-filtered LinkedIn + optional direct Greenhouse/Workday probes). Each
+writes {basename}.{json,md,html} digests and accumulates into all_jobs.json for
+the dashboard and triage agent.
 
-Tune the search by editing KEYWORDS, LINKEDIN_SEARCH_TERMS,
-BIOTECH_COMPANY_NAMES (the priority-employer allowlist), TARGET_LOCATIONS, and
-the LinkedIn geoId / Indeed location.
+Tune the search in config.json: title keywords, board-specific search terms,
+priority employers, locations, and LinkedIn geoIds / JobSpy locations.
 """
 
 import http.cookiejar
@@ -322,7 +322,7 @@ def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
 # Environmental / toxicology employers (Ramboll, Exponent, ToxStrategies, Tetra
 # Tech, ICF, NGOs, etc.) overwhelmingly use iCIMS / Taleo / SuccessFactors,
 # which have no clean public JSON endpoint — so this direct-ATS path is left
-# EMPTY and the LinkedIn + Indeed keyword watchers (which need no slug) are the
+# EMPTY and the LinkedIn + JobSpy keyword watchers (which need no slug) are the
 # primary sources. To add a verified board here, confirm it returns JSON first:
 #   curl https://boards-api.greenhouse.io/v1/boards/<slug>/jobs   # Greenhouse
 # then add e.g.:
@@ -911,10 +911,9 @@ def scrape_linkedin_biotech() -> list:
 
 
 # ---------------------------------------------------------------------------
-# Indeed — via python-jobspy (Indeed's RSS feeds + Publisher API were both
-# deprecated in 2026, and indeed.com sits behind Cloudflare top-tier bot
-# protection. JobSpy uses Indeed's mobile-app API internally — no proxies
-# required, no documented rate limit.)
+# JobSpy-backed broad boards. Indeed is the primary existing source; Glassdoor
+# is optional extra coverage inspired by JobOps' multi-board extractor model.
+# Both reuse python-jobspy so the repo keeps its single optional dependency.
 # ---------------------------------------------------------------------------
 
 INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h window
@@ -935,46 +934,50 @@ INDEED_SEARCH_TERMS = _cfg("search_terms.indeed", [
     "exposure scientist", "ecotoxicologist", "microplastics",
     "water quality scientist", "environmental health scientist",
 ])
+GLASSDOOR_LOOKBACK_HOURS = 24
+GLASSDOOR_BACKFILL_DAYS = 30
+GLASSDOOR_GEOS = _cfg("locations.glassdoor", INDEED_GEOS)
+GLASSDOOR_SEARCH_TERMS = _cfg("search_terms.glassdoor", INDEED_SEARCH_TERMS)
 
-# jobspy returns the full JD (markdown) for Indeed rows. We keep a trimmed copy
-# in indeed_jobs.json and all_jobs.json so the dashboard, deterministic scorer,
-# and optional triage agent can judge roles from the actual description instead
-# of the title alone.
-INDEED_JD_MAX_CHARS = 6000
+# jobspy returns the full JD (markdown) for many boards. We keep a trimmed copy
+# in source JSONs and all_jobs.json so the dashboard, deterministic scorer, and
+# optional triage agent can judge roles from the actual description instead of
+# title alone.
+JOBSPY_JD_MAX_CHARS = 6000
 
 
-def scrape_indeed_recent(hours_old: int | None = None) -> list:
-    """Indeed MLE/DS roles posted in the last hours_old hours (default INDEED_LOOKBACK_HOURS)."""
-    h = hours_old if hours_old is not None else INDEED_LOOKBACK_HOURS
-    print(f"🟦 Scraping Indeed (last {h}h)...")
+def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
+                         hours_old: int, prev_basename: str) -> list:
+    """Scrape one JobSpy-supported board and normalize rows into this repo's schema."""
+    print(f"🟦 Scraping {label} (last {hours_old}h)...")
     try:
         from jobspy import scrape_jobs as jobspy_scrape
     except ImportError:
-        print("  ⚠️  python-jobspy not installed; skipping Indeed")
+        print(f"  ⚠️  python-jobspy not installed; skipping {label}")
         return []
 
     jobs_by_id: dict[str, dict] = {}
     ok_terms = 0
     errored_terms = 0
     raw_rows = 0
-    for geo in INDEED_GEOS:
-      for term in INDEED_SEARCH_TERMS:
+    for geo in geos:
+      for term in terms:
         time.sleep(REQUEST_DELAY)  # throttle: back-to-back calls invite blocking on CI IPs
         try:
-            # JobSpy Indeed gotcha: hours_old / is_remote / job_type / easy_apply
+            # JobSpy gotcha: hours_old / is_remote / job_type / easy_apply
             # are mutually exclusive — only one may be set, or the time filter
             # silently breaks. Keep hours_old; do not add the others.
             df = jobspy_scrape(
-                site_name=["indeed"],
+                site_name=[site_name],
                 search_term=term,
                 location=geo["location"],
                 results_wanted=50,
-                hours_old=h,
+                hours_old=hours_old,
                 country_indeed=geo["country"],
             )
         except Exception as e:
             errored_terms += 1
-            print(f"  ⚠️  Indeed ({geo['location']} · {term!r}): {e}")
+            print(f"  ⚠️  {label} ({geo['location']} · {term!r}): {e}")
             continue
         ok_terms += 1
         if df is None or df.empty:
@@ -1001,35 +1004,61 @@ def scrape_indeed_recent(hours_old: int | None = None) -> list:
                 "location": loc,
                 "url": url,
                 "date_posted": str(row.get("date_posted", "") or ""),
-                "description": str(row.get("description", "") or "")[:INDEED_JD_MAX_CHARS],
+                "description": str(row.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
                 "salary": format_salary(
                     row.get("min_amount", ""),
                     row.get("max_amount", ""),
                     row.get("interval", ""),
                 ),
-                "ats": "Indeed",
+                "ats": label,
             }
     jobs = list(jobs_by_id.values())
     print(
-        f"  📊 Indeed: {len(INDEED_GEOS)}×{len(INDEED_SEARCH_TERMS)} queries → "
+        f"  📊 {label}: {len(geos)}×{len(terms)} queries → "
         f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
     )
 
-    # Block guard: zero rows pulled across every term means Indeed gave us no data
+    # Block guard: zero rows pulled across every term means the board gave us no data
     # — a hard block (calls raised) or a soft block (empty frames). This is NOT the
     # same as "rows returned but none matched our keywords" (raw_rows > 0, jobs == []),
     # which is a legitimate empty result. On a no-data run, reuse the previous results
-    # so we don't clobber the dedupe baseline (and the dashboard's Indeed column) with
-    # an empty file; save_indeed_results() then reports 0 new (all already seen).
+    # so we don't clobber the dedupe baseline (and the dashboard's source column) with
+    # an empty file; the saver then reports 0 new (all already seen).
     if raw_rows == 0:
-        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "indeed_jobs.json"))
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, f"{prev_basename}.json"))
         print(
-            f"  ⛔ Indeed returned 0 rows across all terms (likely blocked); "
+            f"  ⛔ {label} returned 0 rows across all terms (likely blocked); "
             f"preserving previous {len(prev)} result(s)"
         )
         return prev
 
     return jobs
+
+
+def scrape_indeed_recent(hours_old: int | None = None) -> list:
+    """Indeed roles posted in the last hours_old hours (default INDEED_LOOKBACK_HOURS)."""
+    h = hours_old if hours_old is not None else INDEED_LOOKBACK_HOURS
+    return _scrape_jobspy_board(
+        label="Indeed",
+        site_name="indeed",
+        geos=INDEED_GEOS,
+        terms=INDEED_SEARCH_TERMS,
+        hours_old=h,
+        prev_basename="indeed_jobs",
+    )
+
+
+def scrape_glassdoor_recent(hours_old: int | None = None) -> list:
+    """Glassdoor roles posted in the last hours_old hours (default GLASSDOOR_LOOKBACK_HOURS)."""
+    h = hours_old if hours_old is not None else GLASSDOOR_LOOKBACK_HOURS
+    return _scrape_jobspy_board(
+        label="Glassdoor",
+        site_name="glassdoor",
+        geos=GLASSDOOR_GEOS,
+        terms=GLASSDOOR_SEARCH_TERMS,
+        hours_old=h,
+        prev_basename="glassdoor_jobs",
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -1724,6 +1753,18 @@ def save_indeed_results(jobs: list):
     )
 
 
+def save_glassdoor_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="glassdoor_jobs",
+        title=f"🟩 Glassdoor — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · last {GLASSDOOR_LOOKBACK_HOURS}h",
+        accent="#0caa41",
+        empty_message="No new roles since the last run.",
+        window_label=f"last {GLASSDOOR_LOOKBACK_HOURS}h",
+    )
+
+
 def save_biotech_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
@@ -1859,6 +1900,15 @@ if __name__ == "__main__":
     if "--indeed-backfill" in sys.argv:
         print(f"🔁 Indeed backfill (last {INDEED_BACKFILL_DAYS} days)…")
         save_indeed_results(scrape_indeed_recent(hours_old=INDEED_BACKFILL_DAYS * 24))
+        sys.exit(0)
+
+    if "--glassdoor-only" in sys.argv:
+        save_glassdoor_results(scrape_glassdoor_recent())
+        sys.exit(0)
+
+    if "--glassdoor-backfill" in sys.argv:
+        print(f"🔁 Glassdoor backfill (last {GLASSDOOR_BACKFILL_DAYS} days)…")
+        save_glassdoor_results(scrape_glassdoor_recent(hours_old=GLASSDOOR_BACKFILL_DAYS * 24))
         sys.exit(0)
 
     if "--linkedin-only" in sys.argv:

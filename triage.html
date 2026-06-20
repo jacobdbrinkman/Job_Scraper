@@ -21,6 +21,7 @@
     --linkedin: #60a5fa;
     --priority: #34d399;
     --indeed: #a78bfa;
+    --glassdoor: #4ade80;
     --accent: #ef4444;
     --accent-soft: rgba(239,68,68,0.20);
     --pill-bg: #1f1b1b;
@@ -101,6 +102,8 @@
   .job[data-state="dismissed"] { opacity: 0.38; }
   .job[data-state="saved"] { border-left: 3px solid var(--save); }
   .job[data-state="applied"] { border-left: 3px solid var(--applied); }
+  .job[data-focused="true"] { outline: 2px solid rgba(239,68,68,0.55); outline-offset: 2px; }
+  .job[data-selected="true"] { box-shadow: 0 0 0 2px rgba(239,68,68,0.28), var(--shadow); }
   .job-main .title { font-size: 15px; font-weight: 600; line-height: 1.35;
     margin-bottom: 4px; }
   .job-main .title a { color: var(--ink); }
@@ -113,6 +116,7 @@
   .src.linkedin { background: rgba(96,165,250,0.14); color: var(--linkedin); }
   .src.priority { background: rgba(52,211,153,0.14); color: var(--priority); }
   .src.indeed { background: rgba(167,139,250,0.14); color: var(--indeed); }
+  .src.glassdoor { background: rgba(74,222,128,0.14); color: var(--glassdoor); }
   .tag { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
     background: var(--pill-bg); color: var(--muted); margin-right: 4px; }
   .tag.role { color: var(--ink); }
@@ -125,6 +129,22 @@
   .act.on.save { background: var(--save); color: white; border-color: var(--save); }
   .act.on.applied { background: var(--applied); color: white; border-color: var(--applied); }
   .act.on.dismiss { background: var(--dismiss); color: white; border-color: var(--dismiss); }
+  .selectbox { display: inline-flex; align-items: center; gap: 6px; margin-right: 4px; }
+  .selectbox input { width: 16px; height: 16px; accent-color: var(--accent); }
+  .note-row { margin-top: 8px; grid-column: 1 / -1; }
+  .note-input {
+    width: 100%; min-height: 36px; resize: vertical; border: 1px solid var(--line);
+    border-radius: 8px; padding: 7px 9px; font: inherit; font-size: 12px; line-height: 1.35;
+    background: #0f0d0d; color: var(--ink);
+  }
+  .note-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  .bulkbar {
+    display: none; align-items: center; gap: 8px; flex-wrap: wrap; position: sticky; top: 0;
+    z-index: 20; margin: 0 0 10px; padding: 8px 10px; border: 1px solid var(--line);
+    border-radius: 10px; background: rgba(22,18,18,.97); box-shadow: var(--shadow);
+  }
+  .bulkbar.show { display: flex; }
+  .bulkbar .count { font-size: 12px; color: var(--muted); margin-right: auto; }
 
   /* Focus visibility — only for keyboard nav, not mouse */
   .pill:focus-visible, .act:focus-visible, .iconbtn:focus-visible,
@@ -326,6 +346,14 @@
 <div id="rank-info" hidden></div>
 <div id="map" hidden></div>
 <div id="map-note" class="map-note" hidden></div>
+<div class="bulkbar" id="bulkbar" role="region" aria-live="polite">
+  <span class="count" id="bulk-count">0 selected</span>
+  <button type="button" class="act save" data-bulk="saved">Save</button>
+  <button type="button" class="act applied" data-bulk="applied">Applied</button>
+  <button type="button" class="act dismiss" data-bulk="dismissed">Dismiss</button>
+  <button type="button" class="act irrelevant" data-bulk="irrelevant">Not relevant</button>
+  <button type="button" class="act" id="bulk-clear">Clear</button>
+</div>
 <div class="jobs" id="jobs"></div>
 
 </div>
@@ -339,6 +367,7 @@
     { name: 'output/jobs.json',          src: 'Priority'   },
     { name: 'output/linkedin_jobs.json', src: 'LinkedIn'   },
     { name: 'output/indeed_jobs.json',   src: 'Indeed'     },
+    { name: 'output/glassdoor_jobs.json', src: 'Glassdoor' },
     { name: 'output/calcareers_jobs.json', src: 'CalCareers' },
     { name: 'output/usajobs_jobs.json',  src: 'USAJOBS'    },
     { name: 'output/governmentjobs_jobs.json', src: 'NEOGOV' },
@@ -360,7 +389,11 @@
     catch { return {}; }
   })();
   state.triage = state.triage || {};
+  state.notes = state.notes || {};
   state.jobs = state.jobs || [];
+  const selectedUrls = new Set();
+  let focusedUrl = '';
+  let RENDERED = [];
 
   // ---------- Config (config.json drives branding, role buckets, priority
   //            topics, and company exclusion). These are the fallback defaults;
@@ -441,6 +474,7 @@
     if (j.ats === 'LinkedIn') return 'LinkedIn';
     if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Priority';
     if (j.ats === 'Indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
+    if (j.ats === 'Glassdoor' || (j.url || '').includes('glassdoor.')) return 'Glassdoor';
     return 'Other';
   }
   // ---------- Resume-fit scoring (client-side, deterministic) ----------
@@ -1147,6 +1181,55 @@
     return `<span class="scorechip fit ${cls}" title="${escape(s.detail)}">${s.value}</span>`;
   }
 
+  function jobForUrl(url) {
+    return VIEW.find(j => j.url === url) || state.jobs.find(j => j.url === url) || null;
+  }
+
+  function triageUrlsForJob(j) {
+    return (j && j._dupUrls && j._dupUrls.length) ? j._dupUrls : (j && j.url ? [j.url] : []);
+  }
+
+  function applyTriage(j, act, { toggle = true } = {}) {
+    if (!j || !act) return;
+    const urls = triageUrlsForJob(j);
+    const was = state.triage[j.url];
+    urls.forEach(u => {
+      if (toggle && was === act) delete state.triage[u];
+      else state.triage[u] = act;
+    });
+    if (act === 'irrelevant' || was === 'irrelevant') {
+      refreshIrrelevantCorpus();
+      state.jobs.forEach(enrich);
+    }
+  }
+
+  function setFocusedUrl(url, { scroll = false } = {}) {
+    focusedUrl = url || '';
+    document.querySelectorAll('.job[data-focused="true"]').forEach(el => {
+      el.dataset.focused = 'false';
+    });
+    if (!focusedUrl) return;
+    const card = document.querySelector(`.job[data-url="${CSS.escape(focusedUrl)}"]`);
+    if (card) {
+      card.dataset.focused = 'true';
+      if (scroll) card.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    }
+  }
+
+  function updateBulkBar() {
+    const live = new Set(RENDERED.map(j => j.url));
+    [...selectedUrls].forEach(u => { if (!live.has(u)) selectedUrls.delete(u); });
+    const n = selectedUrls.size;
+    $('bulkbar').classList.toggle('show', n > 0);
+    $('bulk-count').textContent = `${n} selected`;
+    document.querySelectorAll('.job').forEach(card => {
+      const selected = selectedUrls.has(card.dataset.url);
+      card.dataset.selected = String(selected);
+      const cb = card.querySelector('input[data-select]');
+      if (cb) cb.checked = selected;
+    });
+  }
+
   function renderJobs() {
     const el = $('jobs'), mapEl = $('map'), mapNote = $('map-note'), info = $('rank-info');
     // Map view: hand off to the Leaflet renderer and hide the list.
@@ -1173,22 +1256,29 @@
     } else {
       info.hidden = true;
     }
+    RENDERED = jobs;
+    if (!focusedUrl && jobs.length) focusedUrl = jobs[0].url;
+    if (focusedUrl && !jobs.some(j => j.url === focusedUrl)) focusedUrl = jobs[0]?.url || '';
+
     if (!jobs.length) {
       el.innerHTML = '<div class="empty">No jobs match the current filters.</div>';
+      updateBulkBar();
       return;
     }
     el.innerHTML = jobs.map(j => {
       const st = state.triage[j.url] || 'active';
+      const selected = selectedUrls.has(j.url);
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
       const score = viewMode === 'rank' ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
+      const note = state.notes[j.url] || '';
       const star = j._star
         ? `<span class="starbadge" title="Priority topic: ${escape((j._stars || []).join(', '))}">★</span>`
         : '';
-      return `<div class="job${j._star ? ' starred' : ''}" data-url="${escape(j.url)}" data-state="${st}">
+      return `<div class="job${j._star ? ' starred' : ''}" data-url="${escape(j.url)}" data-state="${st}" data-focused="${j.url === focusedUrl}" data-selected="${selected}">
         <div class="job-main">
-          <div class="title">${star}${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
+          <div class="title"><label class="selectbox" title="Select for bulk actions"><input type="checkbox" data-select aria-label="Select ${escape(j.title)}" ${selected ? 'checked' : ''}></label>${star}${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
             <span class="co">${escape(j.company)}</span>
             <span class="src-item">🔗 ${srcBadges}</span>
@@ -1199,6 +1289,7 @@
             <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
+          <div class="note-row"><textarea class="note-input" data-note rows="1" placeholder="Notes, follow-up, contact, deadline...">${escape(note)}</textarea></div>
         </div>
         <div class="actions">
           ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
@@ -1209,6 +1300,7 @@
         </div>
       </div>`;
     }).join('');
+    updateBulkBar();
   }
 
   // ---------- Map view (Leaflet) ----------
@@ -1413,7 +1505,7 @@
 
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
-    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'CalCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'CalCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
     renderFilterGroup('filter-role', 'role', ROLE_NAMES);   // from config.json → role_categories
     renderFilterGroup('filter-sen', 'sen',
       ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);
@@ -1474,6 +1566,8 @@
     if (state.jobs.length < before) {
       console.info(`[pruneState] dropped ${before - state.jobs.length} stale/excluded job(s)`);
     }
+    const live = new Set(state.jobs.map(j => j.url));
+    Object.keys(state.notes).forEach(url => { if (!live.has(url) && !state.triage[url]) delete state.notes[url]; });
   }
 
   // ---------- Refresh flow ----------
@@ -1516,6 +1610,8 @@
 
   // ---------- Events ----------
   $('jobs').addEventListener('click', e => {
+    const cardForFocus = e.target.closest('.job');
+    if (cardForFocus) setFocusedUrl(cardForFocus.dataset.url);
     const btn = e.target.closest('.act');
     if (!btn) return;
     const card = btn.closest('.job');
@@ -1526,19 +1622,92 @@
       if (s.outreach_opener) copy(s.outreach_opener);
       return;
     }
-    // Apply the decision to every URL merged into this card (cross-posts), so
-    // the LinkedIn and Indeed copies stay in lockstep.
-    const j = VIEW.find(x => x.url === url);
-    const urls = (j && j._dupUrls) ? j._dupUrls : [url];
-    const was = state.triage[url];
-    urls.forEach(u => { if (was === act) delete state.triage[u]; else state.triage[u] = act; });
-    // "Not relevant" feeds the learning penalty — rebuild the corpus and
-    // re-score so similar roles immediately drop in Best fit.
-    if (act === 'irrelevant' || was === 'irrelevant') {
-      refreshIrrelevantCorpus();
-      state.jobs.forEach(enrich);
-    }
+    applyTriage(jobForUrl(url), act);
     renderAll();
+  });
+
+  $('jobs').addEventListener('change', e => {
+    const cb = e.target.closest('input[data-select]');
+    if (!cb) return;
+    const card = cb.closest('.job');
+    setFocusedUrl(card.dataset.url);
+    if (cb.checked) selectedUrls.add(card.dataset.url);
+    else selectedUrls.delete(card.dataset.url);
+    updateBulkBar();
+  });
+
+  $('jobs').addEventListener('input', e => {
+    const note = e.target.closest('textarea[data-note]');
+    if (!note) return;
+    const url = note.closest('.job').dataset.url;
+    const value = note.value.trim();
+    if (value) state.notes[url] = note.value;
+    else delete state.notes[url];
+    save();
+  });
+
+  $('bulkbar').addEventListener('click', e => {
+    const btn = e.target.closest('[data-bulk]');
+    if (!btn) return;
+    const selected = [...selectedUrls].map(jobForUrl).filter(Boolean);
+    selected.forEach(j => applyTriage(j, btn.dataset.bulk, { toggle: false }));
+    selectedUrls.clear();
+    renderAll();
+  });
+  $('bulk-clear').onclick = () => { selectedUrls.clear(); updateBulkBar(); };
+
+  function moveFocus(delta) {
+    if (!RENDERED.length) return;
+    const i = Math.max(0, RENDERED.findIndex(j => j.url === focusedUrl));
+    const next = RENDERED[(i + delta + RENDERED.length) % RENDERED.length];
+    if (next) setFocusedUrl(next.url, { scroll: true });
+  }
+
+  function actOnFocused(act) {
+    const j = jobForUrl(focusedUrl) || RENDERED[0];
+    if (!j) return;
+    applyTriage(j, act);
+    focusedUrl = j.url;
+    renderAll();
+  }
+
+  document.addEventListener('keydown', e => {
+    const tag = (e.target.tagName || '').toLowerCase();
+    const typing = tag === 'input' || tag === 'textarea' || tag === 'select' || e.target.isContentEditable;
+    if (typing) {
+      if (e.key === 'Escape') e.target.blur();
+      return;
+    }
+    if (e.key === '/' && !e.ctrlKey && !e.metaKey && !e.altKey) {
+      e.preventDefault(); $('search').focus(); return;
+    }
+    if (e.key === '?' && !e.ctrlKey && !e.metaKey && !e.altKey) {
+      toast('Shortcuts: j/k move · x select · s save · a applied · d dismiss · n note · / search · 1/2/3 views');
+      return;
+    }
+    if (e.key === 'j' || e.key === 'ArrowDown') { e.preventDefault(); moveFocus(1); return; }
+    if (e.key === 'k' || e.key === 'ArrowUp') { e.preventDefault(); moveFocus(-1); return; }
+    if (e.key === '1') { setView('browse'); return; }
+    if (e.key === '2') { setView('rank'); return; }
+    if (e.key === '3') { setView('map'); return; }
+    if (e.key === 'Escape') { selectedUrls.clear(); updateBulkBar(); return; }
+    const j = jobForUrl(focusedUrl) || RENDERED[0];
+    if (!j) return;
+    if (e.key === 'x') {
+      e.preventDefault();
+      if (selectedUrls.has(j.url)) selectedUrls.delete(j.url); else selectedUrls.add(j.url);
+      updateBulkBar();
+      return;
+    }
+    if (e.key === 's') { e.preventDefault(); actOnFocused('saved'); return; }
+    if (e.key === 'a') { e.preventDefault(); actOnFocused('applied'); return; }
+    if (e.key === 'd') { e.preventDefault(); actOnFocused('dismissed'); return; }
+    if (e.key === 'n') {
+      e.preventDefault();
+      const card = document.querySelector(`.job[data-url="${CSS.escape(j.url)}"]`);
+      const note = card && card.querySelector('textarea[data-note]');
+      if (note) note.focus();
+    }
   });
 
   // Browse / Best-fit / Map view toggle
