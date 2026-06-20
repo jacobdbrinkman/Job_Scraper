@@ -1,7 +1,7 @@
-# 🏛 CalCareers — California State Environmental / Toxicology Roles
-*Last updated: 2026-06-20 19:03 UTC*
+# 🏛 CalCareers — California State Geospatial & Environmental Data Roles
+*Last updated: 2026-06-20 19:55 UTC*
 
-**11 new role(s)** since last run · 11 total in current CalCareers postings
+**14 new role(s)** since last run · 14 total in current CalCareers postings
 
 ### [Environmental Scientist](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=510577) — Department of Fish and Wildlife
 - 📍 **Location:** Yolo County
@@ -53,7 +53,22 @@
 - 💰 **Salary:** $4418.00 - $9321.00
 - 🕒 **Posted:** 2026-06-12
 
-### [Environmental Health Education and Community Science Program Specialist](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518467) — Environmental Health Hazard Assessment Office
-- 📍 **Location:** United States
-- 💰 **Salary:** $7820.00 - $10732.00
-- 🕒 **Posted:** 2026-05-14
+### [Senior Engineering Geologist](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=516437) — State Water Resources Control Board
+- 📍 **Location:** San Luis Obispo County
+- 💰 **Salary:** $11437.00 - $14315.00
+- 🕒 **Posted:** 2026-04-29
+
+### [ENGINEERING GEOLOGIST](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520460) — State Water Resources Control Board
+- 📍 **Location:** Los Angeles County
+- 💰 **Salary:** $6488.00 - $12215.00
+- 🕒 **Posted:** 2026-06-03
+
+### [ENGINEERING GEOLOGIST](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=516195) — Department of Water Resources
+- 📍 **Location:** Los Angeles County
+- 💰 **Salary:** $6488.00 - $12215.00
+- 🕒 **Posted:** 2026-06-02
+
+### [ENGINEERING GEOLOGIST](https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520774) — State Water Resources Control Board
+- 📍 **Location:** Sacramento County
+- 💰 **Salary:** $6488.00 - $12215.00
+- 🕒 **Posted:** 2026-06-11
