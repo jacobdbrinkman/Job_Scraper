@@ -49,7 +49,10 @@ Produce this exact shape, filled in for ME based on my CV:
     "hiring_cafe": [ { "location": "<Country, State, or City>" } ]
   },
   "google_jobs": {
-    "queries": []
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
   },
   "hiring_cafe": {
     "max_pages": 3
@@ -82,6 +85,9 @@ Rules:
   "United States" unless I explicitly ask otherwise.
 - google_jobs.queries: keep [] unless I explicitly provide exact Google Jobs
   search-box text to use verbatim.
+- google_jobs API credentials: keep serpapi_api_key, oxylabs_username, and
+  oxylabs_password empty; these should be GitHub Actions secrets, not generated
+  into config.json, unless I explicitly ask for local-only config credentials.
 - hiring_cafe: keep the default max_pages unless I ask for deeper searches.
 - priority_topics: 3-6 of MY standout specialties/skills (these get starred &
   filterable). Each regex is a plain JavaScript regex source string (no slashes,

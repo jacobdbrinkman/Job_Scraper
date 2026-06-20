@@ -51,6 +51,9 @@ jobs:
           NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
           JOBSPY_PROXIES: ${{ secrets.JOBSPY_PROXIES }}
           JOBSPY_USER_AGENT: ${{ vars.JOBSPY_USER_AGENT }}
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+          OXYLABS_USERNAME: ${{ secrets.OXYLABS_USERNAME }}
+          OXYLABS_PASSWORD: ${{ secrets.OXYLABS_PASSWORD }}
 
       - name: Record workflow run
         run: |

@@ -14,6 +14,7 @@ priority employers, locations, and LinkedIn geoIds / JobSpy locations.
 """
 
 import http.cookiejar
+import base64
 import json
 import os
 import random
@@ -1157,6 +1158,288 @@ def _google_jobs_query(term: str, geo: dict, hours_old: int) -> str:
     return f"remote {q} jobs {recency}"
 
 
+def _google_jobs_query_contexts(hours_old: int) -> list[tuple[str, dict]]:
+    if GOOGLE_JOBS_QUERIES:
+        return [(str(q).strip(), {}) for q in GOOGLE_JOBS_QUERIES if str(q).strip()]
+    return [
+        (_google_jobs_query(term, geo, hours_old), geo)
+        for geo in GOOGLE_JOBS_GEOS
+        for term in GOOGLE_JOBS_SEARCH_TERMS
+    ]
+
+
+def _google_jobs_secret(name: str, env_name: str) -> str:
+    return str(_cfg(f"google_jobs.{name}", os.environ.get(env_name, "")) or "").strip()
+
+
+def _google_jobs_gl(geo: dict) -> str:
+    country = str(geo.get("country", "") or "").strip().lower()
+    return {
+        "usa": "us",
+        "us": "us",
+        "united states": "us",
+        "america": "us",
+        "australia": "au",
+        "canada": "ca",
+        "gb": "gb",
+        "uk": "gb",
+        "united kingdom": "gb",
+    }.get(country, country[:2] or "us")
+
+
+def _posted_text_to_iso(text: str) -> str:
+    s = str(text or "").strip().lower()
+    if not s:
+        return ""
+    now = datetime.now(timezone.utc)
+    if any(token in s for token in ("just", "today", "hour", "minute", "moment")):
+        return now.date().isoformat()
+    if "yesterday" in s:
+        return (now - timedelta(days=1)).date().isoformat()
+    m = re.search(r"(\d+)\s*(day|week|month)", s)
+    if not m:
+        return text
+    n = int(m.group(1))
+    unit = m.group(2)
+    days = n if unit == "day" else n * 7 if unit == "week" else n * 30
+    return (now - timedelta(days=days)).date().isoformat()
+
+
+def _first_apply_link(raw: dict) -> str:
+    apply_options = raw.get("apply_options")
+    if isinstance(apply_options, list):
+        for option in apply_options:
+            if isinstance(option, dict) and option.get("link"):
+                return str(option["link"])
+    related = raw.get("related_links")
+    if isinstance(related, list):
+        for option in related:
+            if isinstance(option, dict) and option.get("link"):
+                return str(option["link"])
+    return ""
+
+
+def _google_jobs_description(raw: dict) -> str:
+    parts = [str(raw.get("description", "") or "")]
+    highlights = raw.get("job_highlights")
+    if isinstance(highlights, list):
+        for group in highlights:
+            if not isinstance(group, dict):
+                continue
+            title = str(group.get("title", "") or "").strip()
+            items = group.get("items")
+            if title:
+                parts.append(title)
+            if isinstance(items, list):
+                parts.extend(str(item) for item in items if item)
+    return "\n".join(p for p in parts if p).strip()[:JOBSPY_JD_MAX_CHARS]
+
+
+def _normalize_serpapi_google_job(raw: dict) -> dict | None:
+    title = str(raw.get("title", "") or "")
+    if not title or not is_mle_role(title):
+        return None
+    detected = raw.get("detected_extensions") if isinstance(raw.get("detected_extensions"), dict) else {}
+    extensions = raw.get("extensions") if isinstance(raw.get("extensions"), list) else []
+    posted = detected.get("posted_at") or next(
+        (str(x) for x in extensions if re.search(r"\b(?:hour|day|week|month|yesterday|today)\b", str(x), re.I)),
+        "",
+    )
+    salary = str(detected.get("salary", "") or "")
+    if not salary:
+        salary = next((str(x) for x in extensions if "$" in str(x)), "")
+    direct_url = _first_apply_link(raw)
+    url = direct_url or str(raw.get("share_link") or raw.get("link") or raw.get("serpapi_link") or "")
+    if not url:
+        return None
+    return {
+        "company": str(raw.get("company_name", "") or "Unknown"),
+        "title": title,
+        "location": str(raw.get("location", "") or ""),
+        "url": url,
+        "direct_url": direct_url,
+        "date_posted": _posted_text_to_iso(posted),
+        "description": _google_jobs_description(raw),
+        "salary": salary,
+        "job_type": str(detected.get("schedule_type", "") or ""),
+        "is_remote": _coerce_bool(detected.get("work_from_home")) or bool(re.search(r"\bremote\b", str(raw.get("location", "")), re.I)),
+        "ats": "GoogleJobs",
+    }
+
+
+def _normalize_oxylabs_google_job(raw: dict) -> dict | None:
+    title = str(raw.get("job_title") or raw.get("title") or "")
+    if not title or not is_mle_role(title):
+        return None
+    url = str(raw.get("URL") or raw.get("url") or raw.get("share_url") or "")
+    if not url:
+        return None
+    return {
+        "company": str(raw.get("company_name") or raw.get("company") or "Unknown"),
+        "title": title,
+        "location": str(raw.get("location", "") or ""),
+        "url": url,
+        "direct_url": "",
+        "date_posted": _posted_text_to_iso(str(raw.get("date") or raw.get("posted_at") or "")),
+        "description": str(raw.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
+        "salary": str(raw.get("salary", "") or ""),
+        "job_type": "",
+        "is_remote": bool(re.search(r"\bremote\b", str(raw.get("location", "")), re.I)),
+        "ats": "GoogleJobs",
+    }
+
+
+def _http_json(url: str, *, payload: dict | None = None, headers: dict | None = None,
+               basic_auth: tuple[str, str] | None = None, timeout: int = 45) -> dict:
+    body = json.dumps(payload).encode("utf-8") if payload is not None else None
+    req_headers = {"Accept": "application/json"}
+    if body is not None:
+        req_headers["Content-Type"] = "application/json"
+    if headers:
+        req_headers.update(headers)
+    if basic_auth:
+        token = base64.b64encode(f"{basic_auth[0]}:{basic_auth[1]}".encode("utf-8")).decode("ascii")
+        req_headers["Authorization"] = f"Basic {token}"
+    req = urllib.request.Request(url, data=body, headers=req_headers, method="POST" if body is not None else "GET")
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode("utf-8", errors="replace")[:500]
+        raise RuntimeError(f"HTTP {e.code}: {detail}") from e
+
+
+def _scrape_google_jobs_serpapi(contexts: list[tuple[str, dict]]) -> tuple[int, list[dict]]:
+    api_key = _google_jobs_secret("serpapi_api_key", "SERPAPI_API_KEY")
+    if not api_key:
+        return 0, []
+    jobs_by_id: dict[str, dict] = {}
+    raw_rows = 0
+    for query, geo in contexts:
+        time.sleep(REQUEST_DELAY)
+        params = {
+            "engine": "google_jobs",
+            "q": query,
+            "api_key": api_key,
+            "hl": "en",
+            "gl": _google_jobs_gl(geo),
+        }
+        loc = str(geo.get("location", "") or "").strip()
+        if loc:
+            params["location"] = loc
+        try:
+            data = _http_json("https://serpapi.com/search.json?" + urllib.parse.urlencode(params))
+        except Exception as e:
+            print(f"  ⚠️  GoogleJobs SerpApi ({query!r}): {e}")
+            continue
+        if data.get("error"):
+            print(f"  ⚠️  GoogleJobs SerpApi ({query!r}): {data.get('error')}")
+            continue
+        rows = data.get("jobs_results") or []
+        if not isinstance(rows, list):
+            rows = []
+        raw_rows += len(rows)
+        for raw in rows:
+            if not isinstance(raw, dict):
+                continue
+            job = _normalize_serpapi_google_job(raw)
+            if not job:
+                continue
+            ident = _job_identity(job.get("url", ""))
+            if ident and ident not in jobs_by_id:
+                jobs_by_id[ident] = job
+    return raw_rows, list(jobs_by_id.values())
+
+
+OXYLABS_GOOGLE_JOBS_PARSE = {
+    "jobs": {
+        "_fns": [{"_fn": "xpath", "_args": ["//div[@class='nJXhWc']//ul/li"]}],
+        "_items": {
+            "job_title": {"_fns": [{"_fn": "xpath_one", "_args": [".//div[@class='BjJfJf PUpOsf']/text()"]}]},
+            "company_name": {"_fns": [{"_fn": "xpath_one", "_args": [".//div[@class='vNEEBe']/text()"]}]},
+            "location": {"_fns": [{"_fn": "xpath_one", "_args": [".//div[@class='Qk80Jf'][1]/text()"]}]},
+            "date": {"_fns": [{"_fn": "xpath_one", "_args": [".//div[@class='PuiEXc']//span[@class='LL4CDc' and contains(@aria-label, 'Posted')]/span/text()"]}]},
+            "salary": {"_fns": [{"_fn": "xpath_one", "_args": [".//div[@class='PuiEXc']//div[@class='I2Cbhb bSuYSc']//span[@aria-hidden='true']/text()"]}]},
+            "posted_via": {"_fns": [{"_fn": "xpath_one", "_args": [".//div[@class='Qk80Jf'][2]/text()"]}]},
+            "URL": {"_fns": [{"_fn": "xpath_one", "_args": [".//div[@data-share-url]/@data-share-url"]}]},
+        },
+    }
+}
+
+
+def _scrape_google_jobs_oxylabs(contexts: list[tuple[str, dict]]) -> tuple[int, list[dict]]:
+    username = _google_jobs_secret("oxylabs_username", "OXYLABS_USERNAME")
+    password = _google_jobs_secret("oxylabs_password", "OXYLABS_PASSWORD")
+    if not username or not password:
+        return 0, []
+    jobs_by_id: dict[str, dict] = {}
+    raw_rows = 0
+    for query, geo in contexts:
+        time.sleep(REQUEST_DELAY)
+        gl = _google_jobs_gl(geo)
+        url = "https://www.google.com/search?" + urllib.parse.urlencode({
+            "q": query,
+            "ibp": "htl;jobs",
+            "hl": "en",
+            "gl": gl,
+        })
+        payload = {
+            "source": "google",
+            "url": url,
+            "geo_location": str(geo.get("location", "") or "United States"),
+            "user_agent_type": "desktop",
+            "render": "html",
+            "parse": True,
+            "parsing_instructions": OXYLABS_GOOGLE_JOBS_PARSE,
+        }
+        try:
+            data = _http_json(
+                "https://realtime.oxylabs.io/v1/queries",
+                payload=payload,
+                basic_auth=(username, password),
+                timeout=90,
+            )
+        except Exception as e:
+            print(f"  ⚠️  GoogleJobs Oxylabs ({query!r}): {e}")
+            continue
+        rows = data.get("results", [])
+        if isinstance(rows, list) and rows:
+            content = rows[0].get("content") if isinstance(rows[0], dict) else None
+            rows = content.get("jobs", []) if isinstance(content, dict) else []
+        if not isinstance(rows, list):
+            rows = []
+        raw_rows += len(rows)
+        for raw in rows:
+            if not isinstance(raw, dict):
+                continue
+            job = _normalize_oxylabs_google_job(raw)
+            if not job:
+                continue
+            ident = _job_identity(job.get("url", ""))
+            if ident and ident not in jobs_by_id:
+                jobs_by_id[ident] = job
+    return raw_rows, list(jobs_by_id.values())
+
+
+def _scrape_google_jobs_api_fallback(contexts: list[tuple[str, dict]]) -> tuple[str, int, list[dict]]:
+    providers = [
+        ("SerpApi", _scrape_google_jobs_serpapi),
+        ("Oxylabs", _scrape_google_jobs_oxylabs),
+    ]
+    any_configured = False
+    for label, fn in providers:
+        raw_rows, jobs = fn(contexts)
+        if raw_rows:
+            return label, raw_rows, jobs
+        if label == "SerpApi" and _google_jobs_secret("serpapi_api_key", "SERPAPI_API_KEY"):
+            any_configured = True
+        if label == "Oxylabs" and _google_jobs_secret("oxylabs_username", "OXYLABS_USERNAME") and _google_jobs_secret("oxylabs_password", "OXYLABS_PASSWORD"):
+            any_configured = True
+    if not any_configured:
+        print("  ℹ️  No Google Jobs API fallback configured (set SERPAPI_API_KEY or OXYLABS_USERNAME/OXYLABS_PASSWORD).")
+    return "", 0, []
+
+
 def scrape_google_jobs_recent(hours_old: int | None = None) -> list:
     """Google Jobs roles posted in the last hours_old hours via JobSpy."""
     h = hours_old if hours_old is not None else GOOGLE_JOBS_LOOKBACK_HOURS
@@ -1167,20 +1450,13 @@ def scrape_google_jobs_recent(hours_old: int | None = None) -> list:
         print("  ⚠️  python-jobspy not installed; skipping GoogleJobs")
         return []
 
-    if GOOGLE_JOBS_QUERIES:
-        queries = [str(q).strip() for q in GOOGLE_JOBS_QUERIES if str(q).strip()]
-    else:
-        queries = [
-            _google_jobs_query(term, geo, h)
-            for geo in GOOGLE_JOBS_GEOS
-            for term in GOOGLE_JOBS_SEARCH_TERMS
-        ]
+    contexts = _google_jobs_query_contexts(h)
 
     jobs_by_id: dict[str, dict] = {}
     ok_terms = 0
     errored_terms = 0
     raw_rows = 0
-    for query in queries:
+    for query, _geo in contexts:
         time.sleep(REQUEST_DELAY)
         try:
             # Google Jobs is the JobSpy exception: it ignores search_term,
@@ -1204,10 +1480,17 @@ def scrape_google_jobs_recent(hours_old: int | None = None) -> list:
 
     jobs = list(jobs_by_id.values())
     print(
-        f"  📊 GoogleJobs: {len(queries)} queries → "
+        f"  📊 GoogleJobs: {len(contexts)} queries → "
         f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
     )
     if raw_rows == 0:
+        label, fallback_raw, fallback_jobs = _scrape_google_jobs_api_fallback(contexts)
+        if fallback_raw:
+            print(
+                f"  ✅ GoogleJobs {label} fallback: "
+                f"{fallback_raw} raw, {len(fallback_jobs)} matched"
+            )
+            return fallback_jobs
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "google_jobs.json"))
         print(
             f"  ⛔ GoogleJobs returned 0 rows across all queries; "
