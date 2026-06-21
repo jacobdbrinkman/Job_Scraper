@@ -1,23 +1,27 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-21 20:19 UTC*
+*Last updated: 2026-06-21 22:07 UTC*
 
-**4 new role(s)** since last run · 100 total in last 30d
+**5 new role(s)** since last run · 98 total in last 30d
 
-### [GIS Analyst](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131925984-gis-analyst) — Veolia Environnement SA
-- 📍 **Location:** Boise, Idaho, United States
-- 💰 **Salary:** $60k–$65k/yr
-- 🕒 **Posted:** 2026-06-12T14:56:42.511Z
+### [GIS Analyst](https://careers-consoreng.icims.com/jobs/6485/gis-analyst/job?in_iframe=1) — Consor
+- 📍 **Location:** Houston, Texas, United States
+- 🕒 **Posted:** 2026-06-18T04:00:00.000Z
 
-### [Geologist](https://arcadis.eightfold.ai/careers/job/563671532029025) — Arcadis
-- 📍 **Location:** Philadelphia or Conshohocken or East Windsor
-- 💰 **Salary:** $55k–$83k/yr
-- 🕒 **Posted:** 2026-05-29T13:58:24.000Z
-
-### [Geologist / Geologist-In-Training](https://careers-parkhill.icims.com/jobs/2219/geologist---geologist-in-training/job?in_iframe=1) — Parkhill
-- 📍 **Location:** Rio Rancho or Texas or New Mexico or Oklahoma
+### [Geologist / Geologist-In-Training](https://careers-parkhill.icims.com/jobs/2218/geologist---geologist-in-training/job?in_iframe=1) — Parkhill
+- 📍 **Location:** Lubbock or Texas or New Mexico or Oklahoma
 - 🕒 **Posted:** 2026-06-05T04:00:00.000Z
 
-### [Natural Resources Specialist](http://lakecountygovernment.applytojob.com/apply/trGWEC4Li1/Natural-Resources-Specialist) — Lake County Government
-- 📍 **Location:** Leadville or Lake County
-- 💰 **Salary:** $65k–$75k/yr
-- 🕒 **Posted:** 2026-06-03T00:00:00.000Z
+### [Senior Geologist](https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542) — Fugro
+- 📍 **Location:** Walnut Creek, California, United States
+- 💰 **Salary:** $123k/yr
+- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
+
+### [Geologist I](https://recruiting.ultipro.ca/dah5100dhgc/JobBoard/3b0cf590-6e9b-4343-b719-fb8c3db27e64/OpportunityDetail?opportunityId=a64f52b0-5455-4230-a9f7-d159cdb07219) — Dahrouge Geological Consulting
+- 📍 **Location:** Centennial, Colorado, United States
+- 💰 **Salary:** $52k–$78k/yr
+- 🕒 **Posted:** 2026-05-29T16:59:58.836Z
+
+### [Geologist (Entry-Level)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4217008) — Shannon & Wilson Inc
+- 📍 **Location:** Seattle, Washington, United States
+- 💰 **Salary:** $62k–$76k/yr
+- 🕒 **Posted:** 2026-06-03T00:54:00.729Z
