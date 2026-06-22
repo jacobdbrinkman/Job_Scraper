@@ -1,51 +1,34 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-21 22:50 UTC*
+*Last updated: 2026-06-22 00:36 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Data Analyst (Seattle)](https://www.linkedin.com/jobs/view/4430364117/) — Jobright.ai
-- 📍 **Location:** Seattle, WA
+### [Data Analyst (Entry-Level / Junior)](https://www.linkedin.com/jobs/view/4428583842/) — Diario mexicano Excélsior
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Data Analyst – Palantir Foundry - Must be government clearance eligible](https://www.linkedin.com/jobs/view/4431630120/) — Navaide
+- 📍 **Location:** Arlington, VA
+- 💰 **Salary:** $78,000 - $145,000
+- 🕒 **Posted:** 2026-06-22
+
+### [Environmental Scientist I-C-E-000006465](https://www.linkedin.com/jobs/view/4431612353/) — UCF Office of Military and Veteran Student Success
+- 📍 **Location:** Greater Tampa Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4428721034/) — HireTalent - Staffing & Recruiting Firm
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-06-22
+
+### [MIS Product Configurator and Data Analyst](https://www.linkedin.com/jobs/view/4406805353/) — Talently
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $75,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-06-21
 
-### [Sr. Health & Benefits Data Analyst](https://www.linkedin.com/jobs/view/4428294195/) — SGS
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $115,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-06-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4430353143/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-21
-
-### [Data Analyst (New York)](https://www.linkedin.com/jobs/view/4430362696/) — Jobright.ai
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-06-21
-
-### [Data Analyst (Chicago)](https://www.linkedin.com/jobs/view/4430348131/) — Jobright.ai
+### [Project Data Analyst (Entry / Junior Level)](https://www.linkedin.com/jobs/view/4430371373/) — The Journalist
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-06-21
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4430352127/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4428587811/) — LivaNova
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $70,000 - $100,000
-- 🕒 **Posted:** 2026-06-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4430367138/) — FetchJobs.co
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-21
-
-### [Data Analyst - Procurement](https://www.linkedin.com/jobs/view/4430350117/) — HF Sinclair
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-06-21
-
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4428592771/) — JnS Education
-- 📍 **Location:** Worcester, MA
-- 🕒 **Posted:** 2026-06-21
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4431615037/) — Apex Sign Group, Inc.
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $40,000.00/yr - $50,000.00/yr
+### [Youth Project Coordinator](https://www.linkedin.com/jobs/view/4430359323/) — State of South Carolina
+- 📍 **Location:** Columbia, SC
 - 🕒 **Posted:** 2026-06-21
