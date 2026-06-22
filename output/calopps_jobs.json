@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-21 17:57 UTC",
-  "total": 4,
-  "new_count": 4,
+  "scraped_at": "2026-06-22 19:50 UTC",
+  "total": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Daly City",
@@ -10,15 +10,6 @@
       "url": "https://www.calopps.org/daly-city/job-20749975",
       "date_posted": "",
       "salary": "$7,808.00-$9,492.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Association Of California Water Agencies Joint Powers Insurance Authority",
-      "title": "Business Data Analyst",
-      "location": "Sacramento/Metro Area",
-      "url": "https://www.calopps.org/association-of-california-water-agencies-joint-powers-insurance-authority/job-20748703",
-      "date_posted": "",
-      "salary": "$80,292.00-$120,439.00 Annually",
       "ats": "CalOpps"
     },
     {
@@ -40,42 +31,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Daly City",
-      "title": "Support Dog Program Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20749975",
-      "date_posted": "",
-      "salary": "$7,808.00-$9,492.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Association Of California Water Agencies Joint Powers Insurance Authority",
-      "title": "Business Data Analyst",
-      "location": "Sacramento/Metro Area",
-      "url": "https://www.calopps.org/association-of-california-water-agencies-joint-powers-insurance-authority/job-20748703",
-      "date_posted": "",
-      "salary": "$80,292.00-$120,439.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Redwood City",
-      "title": "Water Resources Specialist #26A-20",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/redwood-city/job-20739377",
-      "date_posted": "",
-      "salary": "$9,272.00-$11,275.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Santa Clara County Housing Authority",
-      "title": "Project Coordinator- Real Estate",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/santa-clara-county-housing-authority/job-20724661",
-      "date_posted": "",
-      "salary": "$44.31-$59.38 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
