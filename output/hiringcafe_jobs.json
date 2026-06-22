@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-21 22:07 UTC",
+  "scraped_at": "2026-06-22 00:00 UTC",
   "total": 98,
-  "new_count": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Corn Belt Energy Cooperative",
@@ -1278,71 +1278,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Consor",
-      "title": "GIS Analyst",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers-consoreng.icims.com/jobs/6485/gis-analyst/job?in_iframe=1",
-      "direct_url": "https://careers-consoreng.icims.com/jobs/6485/gis-analyst/job?in_iframe=1",
-      "date_posted": "2026-06-18T04:00:00.000Z",
-      "description": "Experience with environmental or transportation geospatial datasets; spatial analysis, data management, and geoprocessing skills; field data collection with GPS/GNSS; GIS cartography and visualization; QA/QC and strong communication.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Parkhill",
-      "title": "Geologist / Geologist-In-Training",
-      "location": "Lubbock or Texas or New Mexico or Oklahoma",
-      "url": "https://careers-parkhill.icims.com/jobs/2218/geologist---geologist-in-training/job?in_iframe=1",
-      "direct_url": "https://careers-parkhill.icims.com/jobs/2218/geologist---geologist-in-training/job?in_iframe=1",
-      "date_posted": "2026-06-05T04:00:00.000Z",
-      "description": "Bachelor's in geology or related field, GIT or PG (or ability to obtain), valid driver\\u0002s license, strong technical writing and communication, ability to perform field investigations and travel regionally.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Fugro",
-      "title": "Senior Geologist",
-      "location": "Walnut Creek, California, United States",
-      "url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "direct_url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Master's in Engineering Geology or Geological Engineering; 2 years field experience in soil/rock logging, mapping, site characterization and fault investigations; report writing, data interpretation, and project management skills.",
-      "salary": "$123k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Dahrouge Geological Consulting",
-      "title": "Geologist I",
-      "location": "Centennial, Colorado, United States",
-      "url": "https://recruiting.ultipro.ca/dah5100dhgc/JobBoard/3b0cf590-6e9b-4343-b719-fb8c3db27e64/OpportunityDetail?opportunityId=a64f52b0-5455-4230-a9f7-d159cdb07219",
-      "direct_url": "https://recruiting.ultipro.ca/dah5100dhgc/JobBoard/3b0cf590-6e9b-4343-b719-fb8c3db27e64/OpportunityDetail?opportunityId=a64f52b0-5455-4230-a9f7-d159cdb07219",
-      "date_posted": "2026-05-29T16:59:58.836Z",
-      "description": "Bachelor’s degree in Geology; 0-2 years experience; Standard First Aid and CPR; able to work in office and field; proficient in MS Office and geological software.",
-      "salary": "$52k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Shannon & Wilson Inc",
-      "title": "Geologist (Entry-Level)",
-      "location": "Seattle, Washington, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4217008",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4217008",
-      "date_posted": "2026-06-03T00:54:00.729Z",
-      "description": "BS in Geology or related earth science; 0-6 years; field exploration; data collection/reporting; travel; valid driver’s license.",
-      "salary": "$62k–$76k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
