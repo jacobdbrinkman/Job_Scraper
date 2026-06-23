@@ -1,27 +1,29 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-23 04:47 UTC*
+*Last updated: 2026-06-23 17:46 UTC*
 
-**5 new role(s)** since last run · 12 total in last 24h
+**5 new role(s)** since last run · 14 total in last 24h
 
-### [Staff Environmental Scientist / Geologist / Engineer](https://www.indeed.com/viewjob?jk=d9cdbed7ea95eac9) — AEI Consultants
-- 📍 **Location:** Walnut Creek, CA, US
-- 🕒 **Posted:** 2026-06-18
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=5d515c558b4e7140) — California Department of Pesticide Regulation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-06-23
 
-### [Data Analyst Sr, Finance - Encounter Data - Covered California](https://www.indeed.com/viewjob?jk=5cf98c27695f4ad8) — Caloptima
-- 📍 **Location:** Orange, CA, US
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=8b09479d19535875) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7820–$11k/mo
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior GIS Analyst](https://www.indeed.com/viewjob?jk=24c232d0d41f852f) — City of San Bernardino, CA
+- 📍 **Location:** San Bernardino, CA, US
+- 💰 **Salary:** $88k–$106k/yr
 - 🕒 **Posted:** 2026-06-22
 
-### [Environmental Scientist IV](https://www.indeed.com/viewjob?jk=0040df5a5cde809d) — King County, WA
-- 📍 **Location:** Renton, WA, US
-- 💰 **Salary:** $62–$79/hr
-- 🕒 **Posted:** 2026-06-18
+### [Mid-level Environmental Scientist](https://www.indeed.com/viewjob?jk=1505aa1502e6812f) — AECOM
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $85k–$115k/yr
+- 🕒 **Posted:** 2026-06-23
 
-### [Environmental Project Manager (Geologist, Scientist, Engineer)](https://www.indeed.com/viewjob?jk=d24beb4550f39b0d) — Onterris
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $120k–$150k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Environmental Professional (Scientist, Geologist, Engineer)](https://www.indeed.com/viewjob?jk=8431c3e51e4741d3) — Onterris
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-06-22
+### [On-Call Archaeological Field Technician - Intermountain West (WY, CO, ID) & Southwest (NM, AZ, TX)](https://www.indeed.com/viewjob?jk=2ba5e37e0fed4479) — Tetra Tech
+- 📍 **Location:** Lakewood, CO, US
+- 💰 **Salary:** $23–$32/hr
+- 🕒 **Posted:** 2026-06-23
