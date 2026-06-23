@@ -1,24 +1,27 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-22 21:59 UTC*
+*Last updated: 2026-06-23 04:47 UTC*
 
-**4 new role(s)** since last run · 7 total in last 24h
+**5 new role(s)** since last run · 12 total in last 24h
 
-### [STAFF GEOLOGIST / STAFF ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=be619b224fcb1d84) — Unknown
-- 📍 **Location:** Castle Pines, CO, US
-- 💰 **Salary:** $23–$25/hr
+### [Staff Environmental Scientist / Geologist / Engineer](https://www.indeed.com/viewjob?jk=d9cdbed7ea95eac9) — AEI Consultants
+- 📍 **Location:** Walnut Creek, CA, US
+- 🕒 **Posted:** 2026-06-18
+
+### [Data Analyst Sr, Finance - Encounter Data - Covered California](https://www.indeed.com/viewjob?jk=5cf98c27695f4ad8) — Caloptima
+- 📍 **Location:** Orange, CA, US
 - 🕒 **Posted:** 2026-06-22
 
-### [Senior Project Hydrogeologist](https://www.indeed.com/viewjob?jk=8278b5d78d6edfe0) — Unknown
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $85k–$105k/yr
-- 🕒 **Posted:** 2026-06-01
+### [Environmental Scientist IV](https://www.indeed.com/viewjob?jk=0040df5a5cde809d) — King County, WA
+- 📍 **Location:** Renton, WA, US
+- 💰 **Salary:** $62–$79/hr
+- 🕒 **Posted:** 2026-06-18
 
-### [Senior Hydrogeologist/Groundwater Modeler](https://www.indeed.com/viewjob?jk=ab526cb16e4b1a83) — Unknown
+### [Environmental Project Manager (Geologist, Scientist, Engineer)](https://www.indeed.com/viewjob?jk=d24beb4550f39b0d) — Onterris
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $105k–$130k/yr
-- 🕒 **Posted:** 2026-06-01
+- 💰 **Salary:** $120k–$150k/yr
+- 🕒 **Posted:** 2026-06-22
 
-### [Senior Hydrogeologist](https://www.indeed.com/viewjob?jk=847d56fd52d3c1c8) — Unknown
+### [Environmental Professional (Scientist, Geologist, Engineer)](https://www.indeed.com/viewjob?jk=8431c3e51e4741d3) — Onterris
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $105k–$130k/yr
-- 🕒 **Posted:** 2026-06-01
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-06-22
