@@ -1,23 +1,22 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-23 00:05 UTC*
+*Last updated: 2026-06-23 04:52 UTC*
 
-**4 new role(s)** since last run · 113 total in last 30d
+**4 new role(s)** since last run · 112 total in last 30d
 
-### [Senior GIS Analyst](https://www.governmentjobs.com/careers/citysanbernardino/jobs/5382904) — City of San Bernardino
-- 📍 **Location:** San Bernardino, California, United States
-- 💰 **Salary:** $88k–$106k/yr
-- 🕒 **Posted:** 2026-06-22T19:31:48.000Z
+### [Geospatial Analyst](https://careers-tatitlek.icims.com/jobs/2662/geospatial-analyst/job?in_iframe=1) — Tatitlek Corporation
+- 📍 **Location:** Hurlburt Field, Florida, United States
+- 💰 **Salary:** $70k–$90k/yr
+- 🕒 **Posted:** 2026-06-22T04:00:00.000Z
 
-### [GIS Analyst](https://jobs.dayforcehcm.com/en-US/canyoncounty/candidateportal/jobs/503) — Canyon County
-- 📍 **Location:** Caldwell, Idaho, United States
-- 💰 **Salary:** $62k–$73k/yr
-- 🕒 **Posted:** 2026-06-05T08:00:00.000Z
+### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/n5vPdWvbMi9uRMKtA2wMP9/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies) — CDR Companies
+- 📍 **Location:** Elmira, New York, United States
+- 🕒 **Posted:** 2026-06-22T15:14:28.011Z
 
-### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/7bZwVpC4Eu4eUjR1gAYcma/environmental-scientist-ii---williamsport-in-allentown-at-cdr-companies) — CDR Companies
-- 📍 **Location:** Allentown, Pennsylvania, United States
-- 🕒 **Posted:** 2026-06-22T15:14:26.368Z
+### [Geologist / Geologist-In-Training](https://careers-parkhill.icims.com/jobs/2218/geologist---geologist-in-training/job?in_iframe=1) — Parkhill
+- 📍 **Location:** Lubbock or Texas or New Mexico or Oklahoma
+- 🕒 **Posted:** 2026-06-05T04:00:00.000Z
 
-### [Geologist](https://workforindiana.in.gov/job/Indianapolis-Geologist-IN-46204/1398250200/) — State of Indiana
-- 📍 **Location:** Indianapolis, Indiana, United States
-- 💰 **Salary:** $60k/yr
-- 🕒 **Posted:** 2026-06-09T00:00:00.000Z
+### [Associate Geologist/Hydrogeologists](https://jobs.smartrecruiters.com/Ramboll3/744000132475979-associate-geologist-hydrogeologists) — Ramboll
+- 📍 **Location:** Syracuse, New York, United States
+- 💰 **Salary:** $58k–$73k/yr
+- 🕒 **Posted:** 2026-06-16T17:32:28.664Z
