@@ -1,29 +1,23 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-23 17:46 UTC*
+*Last updated: 2026-06-23 19:32 UTC*
 
-**5 new role(s)** since last run · 14 total in last 24h
+**4 new role(s)** since last run · 16 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=5d515c558b4e7140) — California Department of Pesticide Regulation
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-06-23
-
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=8b09479d19535875) — STATE WATER RESOURCES CONTROL BOARD
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=0a3bc8ebc2c3b019) — DEPARTMENT OF FISH AND WILDLIFE
 - 📍 **Location:** CA, US
 - 💰 **Salary:** $7820–$11k/mo
 - 🕒 **Posted:** 2026-06-23
 
-### [Senior GIS Analyst](https://www.indeed.com/viewjob?jk=24c232d0d41f852f) — City of San Bernardino, CA
-- 📍 **Location:** San Bernardino, CA, US
-- 💰 **Salary:** $88k–$106k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Mid-level Environmental Scientist](https://www.indeed.com/viewjob?jk=1505aa1502e6812f) — AECOM
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $85k–$115k/yr
+### [RESEARCH DATA SPECIALIST I](https://www.indeed.com/viewjob?jk=4ec3bb68e77b2fa4) — US Department of Veterans Affairs
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $6955–$8706/mo
 - 🕒 **Posted:** 2026-06-23
 
-### [On-Call Archaeological Field Technician - Intermountain West (WY, CO, ID) & Southwest (NM, AZ, TX)](https://www.indeed.com/viewjob?jk=2ba5e37e0fed4479) — Tetra Tech
-- 📍 **Location:** Lakewood, CO, US
-- 💰 **Salary:** $23–$32/hr
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=7c8fc8f07c01b6e3) — Caltrans - CA Dept. of Transportation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7820–$11k/mo
+- 🕒 **Posted:** 2026-06-23
+
+### [Data Analyst](https://www.indeed.com/viewjob?jk=b99f446699682f86) — Koniag Government Services
+- 📍 **Location:** Denver, CO, US
 - 🕒 **Posted:** 2026-06-23
