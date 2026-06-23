@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-23 22:59 UTC",
-  "total": 120,
-  "new_count": 5,
+  "scraped_at": "2026-06-23 23:54 UTC",
+  "total": 118,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Corn Belt Energy Cooperative",
@@ -420,19 +420,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Booz Allen",
-      "title": "Geospatial Analyst, Senior",
-      "location": "Fort Gordon, Georgia, United States",
-      "url": "https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0242455/126008",
-      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0242455/126008",
-      "date_posted": "2026-06-17T12:00:00.000Z",
-      "description": "TS/SCI clearance required, 5+ years geospatial experience (varies by degree), experience with spatial databases, GIS tools, SOCET GXP/iSpy, and presenting geospatial products; ability to work rotating shifts.",
-      "salary": "$78k–$176k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "NV5 Geospatial",
       "title": "Senior Geospatial Analyst",
       "location": "Saint Louis or Sun Prairie",
@@ -441,6 +428,19 @@
       "date_posted": "2026-06-07T04:00:00.000Z",
       "description": "5+ years geospatial analysis experience, DoD/Air Force experience required, bachelor's degree in GIS-related field, expertise with ArcGIS/QGIS and DoD geospatial systems, ability to obtain security clearance.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Booz Allen",
+      "title": "Geospatial Analyst, Senior",
+      "location": "Fort Gordon, Georgia, United States",
+      "url": "https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0242455/126008",
+      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0242455/126008",
+      "date_posted": "2026-06-17T12:00:00.000Z",
+      "description": "TS/SCI clearance required, 5+ years geospatial experience (varies by degree), experience with spatial databases, GIS tools, SOCET GXP/iSpy, and presenting geospatial products; ability to work rotating shifts.",
+      "salary": "$78k–$176k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -875,19 +875,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Brown and Caldwell",
-      "title": "Environmental Scientist I - Stormwater",
-      "location": "Walnut Creek, California, United States",
-      "url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
-      "direct_url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
-      "date_posted": "2026-06-05T18:29:26.526Z",
-      "description": "Bachelor's in chemistry, physics, environmental or life sciences (or equivalent), 0-2 years environmental/life sciences experience, California driver's license, Excel/Word proficiency, strong written/verbal and quantitative skills, ability to perform field sampling and travel up to 50%.",
-      "salary": "$59k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Department of the Air Force",
       "title": "AIR FORCE HYDROLOGIST - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB or Lackland AFB or San Antonio",
@@ -1031,19 +1018,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SLB",
-      "title": "Geologist",
-      "location": "Houston, Texas, United States",
-      "url": "https://slb.eightfold.ai/careers/job/563499731420396",
-      "direct_url": "https://slb.eightfold.ai/careers/job/563499731420396",
-      "date_posted": "2026-06-04T20:31:09.000Z",
-      "description": "Bachelor's degree in Geology required, recent graduate acceptable (<1 year). Strong communication and presentation skills, customer-service orientation, ability to work independently and collaboratively. Familiarity with Petrel and reservoir modeling. Must have legal right to work in the U.S. without visa sponsorship.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Arcadis",
       "title": "Geologist",
       "location": "Philadelphia or Conshohocken or East Windsor",
@@ -1052,19 +1026,6 @@
       "date_posted": "2026-05-29T13:58:24.000Z",
       "description": "Bachelor's in geology or related field required; OSHA 40-hour HAZWOPER preferred; valid driver's license; field sampling and report-writing skills; able to travel regionally (50–75% first two years).",
       "salary": "$55k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Chord Energy",
-      "title": "Geologist",
-      "location": "Houston or North Dakota or Montana",
-      "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Geologist_R0002427",
-      "direct_url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Geologist_R0002427",
-      "date_posted": "2026-06-09T00:00:00.000Z",
-      "description": "Bachelor's in geology or related field, 3+ years upstream oil & gas experience, familiarity with interpretation/mapping software, working knowledge of geologic and geophysical datasets, exposure to Python, strong technical and communication skills.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1091,6 +1052,32 @@
       "date_posted": "2026-05-29T13:58:24.000Z",
       "description": "Bachelor’s degree in Geology, Hydrogeology, or related field; field and office work; travel; OSHA 40-hour HAZWOPER preferred.",
       "salary": "$55k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "SLB",
+      "title": "Geologist",
+      "location": "Houston, Texas, United States",
+      "url": "https://slb.eightfold.ai/careers/job/563499731420396",
+      "direct_url": "https://slb.eightfold.ai/careers/job/563499731420396",
+      "date_posted": "2026-06-04T20:31:09.000Z",
+      "description": "Bachelor's degree in Geology required, recent graduate acceptable (<1 year). Strong communication and presentation skills, customer-service orientation, ability to work independently and collaboratively. Familiarity with Petrel and reservoir modeling. Must have legal right to work in the U.S. without visa sponsorship.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Chord Energy",
+      "title": "Geologist",
+      "location": "Houston or North Dakota or Montana",
+      "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Geologist_R0002427",
+      "direct_url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Geologist_R0002427",
+      "date_posted": "2026-06-09T00:00:00.000Z",
+      "description": "Bachelor's in geology or related field, 3+ years upstream oil & gas experience, familiarity with interpretation/mapping software, working knowledge of geologic and geophysical datasets, exposure to Python, strong technical and communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1169,32 +1156,6 @@
       "date_posted": "2026-05-28T22:11:21.000Z",
       "description": "Developing and constructing geologic maps; managing datasets; GIS; independent research; fieldwork; and driving field travel.",
       "salary": "$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Fugro",
-      "title": "Senior Geologist",
-      "location": "Walnut Creek, California, United States",
-      "url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "direct_url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Master's in Engineering Geology or Geological Engineering; 2 years field experience in soil/rock logging, mapping, site characterization and fault investigations; report writing, data interpretation, and project management skills.",
-      "salary": "$123k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Paragon Professional Services",
-      "title": "Staff Geologist",
-      "location": "Folsom or Seattle",
-      "url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
-      "direct_url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
-      "date_posted": "2026-06-11T20:58:04.355Z",
-      "description": "Bachelor's in geology or related, minimum 3 years environmental consulting experience, PG or GIT progressing, valid driver’s license, ability to lift 50 lbs, OSHA HAZWOPER preferred, willingness to travel and pass drug/background checks.",
-      "salary": "$78k–$107k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1408,6 +1369,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Deschutes County Human Resources",
+      "title": "Natural Resources Specialist",
+      "location": "Bend or Deschutes County",
+      "url": "https://www.governmentjobs.com/careers/deschutes/jobs/5385124",
+      "direct_url": "https://www.governmentjobs.com/careers/deschutes/jobs/5385124",
+      "date_posted": "2026-06-23T16:33:09.000Z",
+      "description": "Associate's degree in related field and 3 years program management experience required (or equivalent). Must be able to drive throughout Deschutes County; grant/contract administration, GIS, CWPPs, and natural resource management experience preferred.",
+      "salary": "$72k–$97k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Department of the Army",
       "title": "Natural Resources Specialist",
       "location": "South El Monte, California, United States",
@@ -1566,66 +1540,14 @@
   ],
   "new_jobs": [
     {
-      "company": "WSP",
-      "title": "Intermediate GIS Analyst",
-      "location": "Phoenix or Phoenix",
-      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/88978",
-      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/88978",
-      "date_posted": "2026-06-23T16:38:40.000Z",
-      "description": "Bachelor's in GIS or related field, 1+ years GIS experience, proficiency with ESRI Arc GIS, AutoCAD, Python/Visual Basic/Arcade/SQL, GIS field equipment, cartography, data management, and strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pae",
-      "title": "Environmental Scientist",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-PA-Pittsburgh/Environmental-Scientist_R0164261",
-      "direct_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-PA-Pittsburgh/Environmental-Scientist_R0164261",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "Bachelor's in geology/engineering, valid driver license, 2+ years environmental experience (2-4 preferred), ability to travel and stay overnight, pass drug screen, work in PPE/respirator; 40-hour OSHA HAZWOPER available if needed.",
-      "salary": "$60k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brown and Caldwell",
-      "title": "Environmental Scientist I - Stormwater",
-      "location": "Walnut Creek, California, United States",
-      "url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
-      "direct_url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
-      "date_posted": "2026-06-05T18:29:26.526Z",
-      "description": "Bachelor's in chemistry, physics, environmental or life sciences (or equivalent), 0-2 years environmental/life sciences experience, California driver's license, Excel/Word proficiency, strong written/verbal and quantitative skills, ability to perform field sampling and travel up to 50%.",
-      "salary": "$59k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Northern Star Resources Ltd",
-      "title": "Senior Geologist - Growth",
-      "location": "Kalgoorlie-Boulder or Western Australia or Alaska",
-      "url": "https://careers.nsrltd.com/job/Kalgoorlie-Boulder-Senior-Geologist-Growth-WA/1363137566/",
-      "direct_url": "https://careers.nsrltd.com/job/Kalgoorlie-Boulder-Senior-Geologist-Growth-WA/1363137566/",
-      "date_posted": "2026-06-22T00:00:00.000Z",
-      "description": "Tertiary degree in geology, extensive geology experience (preferably gold mining), WA C Class manual drivers licence, QAQC and block modelling experience, leadership and contractor management, pre-employment medical/drug/alcohol screening and national police clearance.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ramboll",
-      "title": "Associate Geologist/Hydrogeologists",
-      "location": "Syracuse, New York, United States",
-      "url": "https://jobs.smartrecruiters.com/Ramboll3/744000132475979-associate-geologist-hydrogeologists",
-      "direct_url": "https://jobs.smartrecruiters.com/Ramboll3/744000132475979-associate-geologist-hydrogeologists",
-      "date_posted": "2026-06-16T17:32:28.664Z",
-      "description": "B.S. or M.S. in Geology/Environmental Science, 0-3 years field investigation experience, valid driver's license, OSHA 40-hour HAZWOPER (8-hour refresher a plus), familiarity with field equipment and MS Office; US work authorization required.",
-      "salary": "$58k–$73k/yr",
+      "company": "Deschutes County Human Resources",
+      "title": "Natural Resources Specialist",
+      "location": "Bend or Deschutes County",
+      "url": "https://www.governmentjobs.com/careers/deschutes/jobs/5385124",
+      "direct_url": "https://www.governmentjobs.com/careers/deschutes/jobs/5385124",
+      "date_posted": "2026-06-23T16:33:09.000Z",
+      "description": "Associate's degree in related field and 3 years program management experience required (or equivalent). Must be able to drive throughout Deschutes County; grant/contract administration, GIS, CWPPs, and natural resource management experience preferred.",
+      "salary": "$72k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
