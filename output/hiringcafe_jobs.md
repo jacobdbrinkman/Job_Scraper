@@ -1,23 +1,31 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-24 06:33 UTC*
+*Last updated: 2026-06-24 18:24 UTC*
 
-**4 new role(s)** since last run · 122 total in last 30d
+**6 new role(s)** since last run · 124 total in last 30d
 
-### [Environmental Scientist I - Stormwater](https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc) — Brown and Caldwell
-- 📍 **Location:** Walnut Creek, California, United States
-- 💰 **Salary:** $59k–$95k/yr
-- 🕒 **Posted:** 2026-06-05T18:29:26.526Z
+### [Environmental Scientist](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Environmental-Scientist_R-158303-1) — AtkinsRéalis
+- 📍 **Location:** Tampa or Florida
+- 💰 **Salary:** $55k–$58k/yr
+- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
 
-### [Environmental Scientist](https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906) — Audubon
-- 📍 **Location:** Canonsburg, Pennsylvania, United States
-- 🕒 **Posted:** 2026-06-01T21:05:40.988Z
+### [Experienced Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1) — Kimley-Horn
+- 📍 **Location:** Philadelphia, Pennsylvania, United States
+- 🕒 **Posted:** 2026-05-28T04:00:00.000Z
 
-### [Geologist 5](https://careers.cdmsmith.com/jobs/3267/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — CDM Smith
-- 📍 **Location:** Houston, Texas, United States
-- 💰 **Salary:** $87k–$143k/yr
-- 🕒 **Posted:** 2026-06-23T21:47:00.000Z
+### [Lead Environmental Scientist](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439) — WSP
+- 📍 **Location:** Durham or Charlotte or Wilmington
+- 🕒 **Posted:** 2026-06-19T14:02:18.000Z
 
-### [Staff Geologist](https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb) — Paragon Professional Services
-- 📍 **Location:** Folsom or Seattle
-- 💰 **Salary:** $78k–$107k/yr
-- 🕒 **Posted:** 2026-06-11T20:58:04.355Z
+### [Public Water Protection Hydrologist - Hydrologist 2](https://careers.mn.gov/psc/mnjobacc/MNCAREERSACCESSIBLE/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1002&JobOpeningId=94406&PostingSeq=1) — State of Minnesota
+- 📍 **Location:** Sauk Rapids, Minnesota, United States
+- 💰 **Salary:** $63k–$93k/yr
+- 🕒 **Posted:** 2026-05-28T00:00:00.000Z
+
+### [Geologist](https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1) — Kleinfelder
+- 📍 **Location:** Kingsville, Texas, United States
+- 🕒 **Posted:** 2026-06-24T04:00:00.000Z
+
+### [Geologist Supervisor (Indianapolis, IN, US, 46204)](https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/) — Department of Natural Resources (State of Indiana)
+- 📍 **Location:** Indianapolis, Indiana, United States
+- 💰 **Salary:** $75k/yr
+- 🕒 **Posted:** 2026-06-22T20:34:02.919Z
