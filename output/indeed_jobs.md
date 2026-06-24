@@ -1,6 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-24 05:51 UTC*
+*Last updated: 2026-06-24 17:40 UTC*
 
-**0 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Survey Operations & Data Analyst](https://www.indeed.com/viewjob?jk=ebabc06b32660585) — YIIU
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $18–$20/hr
+- 🕒 **Posted:** 2026-06-24
