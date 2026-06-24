@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-24 02:13 UTC",
-  "total": 121,
+  "scraped_at": "2026-06-24 06:33 UTC",
+  "total": 122,
   "new_count": 4,
   "jobs": [
     {
@@ -251,19 +251,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Consor",
-      "title": "GIS Analyst",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers-consoreng.icims.com/jobs/6485/gis-analyst/job?in_iframe=1",
-      "direct_url": "https://careers-consoreng.icims.com/jobs/6485/gis-analyst/job?in_iframe=1",
-      "date_posted": "2026-06-18T04:00:00.000Z",
-      "description": "Experience with environmental or transportation geospatial datasets; spatial analysis, data management, and geoprocessing skills; field data collection with GPS/GNSS; GIS cartography and visualization; QA/QC and strong communication.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "TRC Companies, Inc.",
       "title": "GIS Analyst I",
       "location": "Portland, Maine, United States",
@@ -420,19 +407,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Booz Allen",
-      "title": "Geospatial Analyst, Senior",
-      "location": "Fort Gordon, Georgia, United States",
-      "url": "https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0242455/126008",
-      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0242455/126008",
-      "date_posted": "2026-06-17T12:00:00.000Z",
-      "description": "TS/SCI clearance required, 5+ years geospatial experience (varies by degree), experience with spatial databases, GIS tools, SOCET GXP/iSpy, and presenting geospatial products; ability to work rotating shifts.",
-      "salary": "$78k–$176k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "NV5 Geospatial",
       "title": "Senior Geospatial Analyst",
       "location": "Saint Louis or Sun Prairie",
@@ -441,6 +415,19 @@
       "date_posted": "2026-06-07T04:00:00.000Z",
       "description": "5+ years geospatial analysis experience, DoD/Air Force experience required, bachelor's degree in GIS-related field, expertise with ArcGIS/QGIS and DoD geospatial systems, ability to obtain security clearance.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Booz Allen",
+      "title": "Geospatial Analyst, Senior",
+      "location": "Fort Gordon, Georgia, United States",
+      "url": "https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0242455/126008",
+      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0242455/126008",
+      "date_posted": "2026-06-17T12:00:00.000Z",
+      "description": "TS/SCI clearance required, 5+ years geospatial experience (varies by degree), experience with spatial databases, GIS tools, SOCET GXP/iSpy, and presenting geospatial products; ability to work rotating shifts.",
+      "salary": "$78k–$176k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -570,19 +557,6 @@
       "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/42784",
       "date_posted": "2026-06-12T21:36:17.000Z",
       "description": "Active Secret clearance required; 3+ years administering Esri ArcGIS desktop/server; proficiency with ArcGIS Pro/Server/ArcSDE/Online/Portal, Python/ArcPy, ModelBuilder or SQL; High School required, Bachelor's/Master's preferred; CompTIA Security+ preferred/required within 3 months.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Bechtel: Engineering, Construction, Procurement & Project Management",
-      "title": "Environmental Scientist",
-      "location": "New Albany, Ohio, United States",
-      "url": "https://jobs.bechtel.com/job/New-Albany-Environmental-Scientist-OH-43031/1391379100/",
-      "direct_url": "https://jobs.bechtel.com/job/New-Albany-Environmental-Scientist-OH-43031/1391379100/",
-      "date_posted": "2026-06-16T07:00:00.000Z",
-      "description": "Bachelor's in environmental science or related field, 4+ years environmental experience, valid driver’s license, skills in permitting, monitoring, sampling, data analysis, and environmental impact assessment.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -888,6 +862,32 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Brown and Caldwell",
+      "title": "Environmental Scientist I - Stormwater",
+      "location": "Walnut Creek, California, United States",
+      "url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
+      "direct_url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
+      "date_posted": "2026-06-05T18:29:26.526Z",
+      "description": "Bachelor's in chemistry, physics, environmental or life sciences (or equivalent), 0-2 years environmental/life sciences experience, California driver's license, Excel/Word proficiency, strong written/verbal and quantitative skills, ability to perform field sampling and travel up to 50%.",
+      "salary": "$59k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Audubon",
+      "title": "Environmental Scientist",
+      "location": "Canonsburg, Pennsylvania, United States",
+      "url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
+      "direct_url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
+      "date_posted": "2026-06-01T21:05:40.988Z",
+      "description": "Bachelor’s degree and 5+ years of experience; wetland surveys and permitting; field and project coordination.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Department of the Air Force",
       "title": "AIR FORCE HYDROLOGIST - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB or Lackland AFB or San Antonio",
@@ -948,6 +948,19 @@
       "date_posted": "2026-06-19T12:00:00.000Z",
       "description": "Bachelor's in science or equivalent experience, licensed Professional Geologist (ASBOG), ~7 years related experience, valid driver's license, field sampling and remediation experience, CADD and Microsoft Office proficiency.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "CDM Smith",
+      "title": "Geologist 5",
+      "location": "Houston, Texas, United States",
+      "url": "https://careers.cdmsmith.com/jobs/3267/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers.cdmsmith.com/jobs/3267/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-06-23T21:47:00.000Z",
+      "description": "Licensed Professional Geologist (ASBOG), 7 years related experience, bachelor's in science (or equivalent experience), CADD and Microsoft Excel/Word proficiency, valid driver's license, ability to travel 20–40%.",
+      "salary": "$87k–$143k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1187,6 +1200,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Paragon Professional Services",
+      "title": "Staff Geologist",
+      "location": "Folsom or Seattle",
+      "url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
+      "direct_url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
+      "date_posted": "2026-06-11T20:58:04.355Z",
+      "description": "Bachelor's in geology or related, minimum 3 years environmental consulting experience, PG or GIT progressing, valid driver’s license, ability to lift 50 lbs, OSHA HAZWOPER preferred, willingness to travel and pass drug/background checks.",
+      "salary": "$78k–$107k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "SSR Mining",
       "title": "Senior Geologist",
       "location": "Denver, Colorado, United States",
@@ -1382,19 +1408,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lake County Government",
-      "title": "Natural Resources Specialist",
-      "location": "Leadville or Lake County",
-      "url": "http://lakecountygovernment.applytojob.com/apply/trGWEC4Li1/Natural-Resources-Specialist",
-      "direct_url": "http://lakecountygovernment.applytojob.com/apply/trGWEC4Li1/Natural-Resources-Specialist",
-      "date_posted": "2026-06-03T00:00:00.000Z",
-      "description": "Bachelor's in a related field, 2+ years natural resource or sustainability experience, project management and inter-agency coordination skills, GIS and office software proficiency, valid driver’s license, ability to perform fieldwork.",
-      "salary": "$65k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Deschutes County Human Resources",
       "title": "Natural Resources Specialist",
       "location": "Bend or Deschutes County",
@@ -1579,53 +1592,53 @@
   ],
   "new_jobs": [
     {
-      "company": "Allen Integrated Solutions",
-      "title": "Geospatial Analyst - Middle      Job#823",
-      "location": "Springfield, Virginia, United States",
-      "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/7782131003",
-      "direct_url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/7782131003",
-      "date_posted": "2026-06-23T17:38:37.000Z",
-      "description": "TS/SCI clearance with CI polygraph required. Experience analyzing imagery, conducting multi-INT analysis, exploiting structured and unstructured data, programming/scripting, and advanced geospatial skills; ML experience desired.",
+      "company": "Brown and Caldwell",
+      "title": "Environmental Scientist I - Stormwater",
+      "location": "Walnut Creek, California, United States",
+      "url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
+      "direct_url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
+      "date_posted": "2026-06-05T18:29:26.526Z",
+      "description": "Bachelor's in chemistry, physics, environmental or life sciences (or equivalent), 0-2 years environmental/life sciences experience, California driver's license, Excel/Word proficiency, strong written/verbal and quantitative skills, ability to perform field sampling and travel up to 50%.",
+      "salary": "$59k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Audubon",
+      "title": "Environmental Scientist",
+      "location": "Canonsburg, Pennsylvania, United States",
+      "url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
+      "direct_url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
+      "date_posted": "2026-06-01T21:05:40.988Z",
+      "description": "Bachelor’s degree and 5+ years of experience; wetland surveys and permitting; field and project coordination.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Aksteel",
-      "title": "Geologist",
-      "location": "Eveleth, Minnesota, United States",
-      "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/United-Taconite---Eveleth/Geologist_R12947",
-      "direct_url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/United-Taconite---Eveleth/Geologist_R12947",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "B.S. in geology/metallurgy/earth sciences, 3+ years supervisory experience at a mining/mineral processing facility, mine planning and geological modeling experience, ability to manage drilling programs, travel <5%.",
-      "salary": "$80k–$100k/yr",
+      "company": "CDM Smith",
+      "title": "Geologist 5",
+      "location": "Houston, Texas, United States",
+      "url": "https://careers.cdmsmith.com/jobs/3267/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers.cdmsmith.com/jobs/3267/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-06-23T21:47:00.000Z",
+      "description": "Licensed Professional Geologist (ASBOG), 7 years related experience, bachelor's in science (or equivalent experience), CADD and Microsoft Excel/Word proficiency, valid driver's license, ability to travel 20–40%.",
+      "salary": "$87k–$143k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
-      "title": "Senior Mineral Resource Geologist",
-      "location": "Chandler or Salt Lake City or Denver",
-      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
-      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
-      "date_posted": "2026-06-23T17:52:25.000Z",
-      "description": "B.S. in Geology (M.S. preferred), 10+ years mining/geologic modeling experience, familiarity with NI43-101/JORC/SK-1300 reporting, strong QA/QC, technical writing, and willingness to travel to remote sites.",
-      "salary": "$122k–$184k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Blaine",
-      "title": "GIS Coordinator",
-      "location": "Blaine, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/blaine/jobs/5386326",
-      "direct_url": "https://www.governmentjobs.com/careers/blaine/jobs/5386326",
-      "date_posted": "2026-06-23T20:04:56.354Z",
-      "description": "Manage and oversee the city GIS program, supervise GIS staff, maintain GIS data/hardware/software, coordinate with IT and consultants; requires bachelor’s in GIS/CS/Geography/Urban Planning, 3 years municipal GIS management, 2 years supervision.",
-      "salary": "$90k–$102k/yr",
+      "company": "Paragon Professional Services",
+      "title": "Staff Geologist",
+      "location": "Folsom or Seattle",
+      "url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
+      "direct_url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
+      "date_posted": "2026-06-11T20:58:04.355Z",
+      "description": "Bachelor's in geology or related, minimum 3 years environmental consulting experience, PG or GIT progressing, valid driver’s license, ability to lift 50 lbs, OSHA HAZWOPER preferred, willingness to travel and pass drug/background checks.",
+      "salary": "$78k–$107k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
