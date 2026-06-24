@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-23 23:54 UTC",
-  "total": 118,
-  "new_count": 1,
+  "scraped_at": "2026-06-24 02:13 UTC",
+  "total": 121,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Corn Belt Energy Cooperative",
@@ -420,19 +420,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "NV5 Geospatial",
-      "title": "Senior Geospatial Analyst",
-      "location": "Saint Louis or Sun Prairie",
-      "url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
-      "direct_url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
-      "date_posted": "2026-06-07T04:00:00.000Z",
-      "description": "5+ years geospatial analysis experience, DoD/Air Force experience required, bachelor's degree in GIS-related field, expertise with ArcGIS/QGIS and DoD geospatial systems, ability to obtain security clearance.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Booz Allen",
       "title": "Geospatial Analyst, Senior",
       "location": "Fort Gordon, Georgia, United States",
@@ -441,6 +428,19 @@
       "date_posted": "2026-06-17T12:00:00.000Z",
       "description": "TS/SCI clearance required, 5+ years geospatial experience (varies by degree), experience with spatial databases, GIS tools, SOCET GXP/iSpy, and presenting geospatial products; ability to work rotating shifts.",
       "salary": "$78k–$176k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "NV5 Geospatial",
+      "title": "Senior Geospatial Analyst",
+      "location": "Saint Louis or Sun Prairie",
+      "url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
+      "direct_url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
+      "date_posted": "2026-06-07T04:00:00.000Z",
+      "description": "5+ years geospatial analysis experience, DoD/Air Force experience required, bachelor's degree in GIS-related field, expertise with ArcGIS/QGIS and DoD geospatial systems, ability to obtain security clearance.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -506,6 +506,19 @@
       "date_posted": "2026-06-17T00:00:00.000Z",
       "description": "TS/SCI required; experience with geospatial/remote sensing analysis, spatial databases (Oracle, MSSQL, PostGreSQL/PostGIS), SOCET GXP/iSpy, SOM, ArcGIS/QGIS/MapBox; ability to work rotating shifts; education/experience combinations from HS+15 to Master's+5 years.",
       "salary": "$78k–$176k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Allen Integrated Solutions",
+      "title": "Geospatial Analyst - Middle      Job#823",
+      "location": "Springfield, Virginia, United States",
+      "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/7782131003",
+      "direct_url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/7782131003",
+      "date_posted": "2026-06-23T17:38:37.000Z",
+      "description": "TS/SCI clearance with CI polygraph required. Experience analyzing imagery, conducting multi-INT analysis, exploiting structured and unstructured data, programming/scripting, and advanced geospatial skills; ML experience desired.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1044,6 +1057,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Aksteel",
+      "title": "Geologist",
+      "location": "Eveleth, Minnesota, United States",
+      "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/United-Taconite---Eveleth/Geologist_R12947",
+      "direct_url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/United-Taconite---Eveleth/Geologist_R12947",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "B.S. in geology/metallurgy/earth sciences, 3+ years supervisory experience at a mining/mineral processing facility, mine planning and geological modeling experience, ability to manage drilling programs, travel <5%.",
+      "salary": "$80k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "ANA United States",
       "title": "Geologist",
       "location": "Philadelphia or East Windsor",
@@ -1239,6 +1265,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Stantec",
+      "title": "Senior Mineral Resource Geologist",
+      "location": "Chandler or Salt Lake City or Denver",
+      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
+      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
+      "date_posted": "2026-06-23T17:52:25.000Z",
+      "description": "B.S. in Geology (M.S. preferred), 10+ years mining/geologic modeling experience, familiarity with NI43-101/JORC/SK-1300 reporting, strong QA/QC, technical writing, and willingness to travel to remote sites.",
+      "salary": "$122k–$184k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Commonwealth of Pennsylvania",
       "title": "Professional Geologist Manager, DEP",
       "location": "Wilkes-Barre or Luzerne County or Harrisburg or Pennsylvania",
@@ -1260,19 +1299,6 @@
       "date_posted": "2026-06-22T00:00:00.000Z",
       "description": "Tertiary degree in geology, extensive geology experience (preferably gold mining), WA C Class manual drivers licence, QAQC and block modelling experience, leadership and contractor management, pre-employment medical/drug/alcohol screening and national police clearance.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ramboll",
-      "title": "Associate Geologist/Hydrogeologists",
-      "location": "Syracuse, New York, United States",
-      "url": "https://jobs.smartrecruiters.com/Ramboll3/744000132475979-associate-geologist-hydrogeologists",
-      "direct_url": "https://jobs.smartrecruiters.com/Ramboll3/744000132475979-associate-geologist-hydrogeologists",
-      "date_posted": "2026-06-16T17:32:28.664Z",
-      "description": "B.S. or M.S. in Geology/Environmental Science, 0-3 years field investigation experience, valid driver's license, OSHA 40-hour HAZWOPER (8-hour refresher a plus), familiarity with field equipment and MS Office; US work authorization required.",
-      "salary": "$58k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1512,6 +1538,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "City of Blaine",
+      "title": "GIS Coordinator",
+      "location": "Blaine, Minnesota, United States",
+      "url": "https://www.governmentjobs.com/careers/blaine/jobs/5386326",
+      "direct_url": "https://www.governmentjobs.com/careers/blaine/jobs/5386326",
+      "date_posted": "2026-06-23T20:04:56.354Z",
+      "description": "Manage and oversee the city GIS program, supervise GIS staff, maintain GIS data/hardware/software, coordinate with IT and consultants; requires bachelor’s in GIS/CS/Geography/Urban Planning, 3 years municipal GIS management, 2 years supervision.",
+      "salary": "$90k–$102k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "SWCA Environmental Consultants",
       "title": "Project GIS Specialist",
       "location": "Phoenix or Arizona",
@@ -1540,14 +1579,53 @@
   ],
   "new_jobs": [
     {
-      "company": "Deschutes County Human Resources",
-      "title": "Natural Resources Specialist",
-      "location": "Bend or Deschutes County",
-      "url": "https://www.governmentjobs.com/careers/deschutes/jobs/5385124",
-      "direct_url": "https://www.governmentjobs.com/careers/deschutes/jobs/5385124",
-      "date_posted": "2026-06-23T16:33:09.000Z",
-      "description": "Associate's degree in related field and 3 years program management experience required (or equivalent). Must be able to drive throughout Deschutes County; grant/contract administration, GIS, CWPPs, and natural resource management experience preferred.",
-      "salary": "$72k–$97k/yr",
+      "company": "Allen Integrated Solutions",
+      "title": "Geospatial Analyst - Middle      Job#823",
+      "location": "Springfield, Virginia, United States",
+      "url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/7782131003",
+      "direct_url": "https://job-boards.greenhouse.io/allenintegratedsolutions/jobs/7782131003",
+      "date_posted": "2026-06-23T17:38:37.000Z",
+      "description": "TS/SCI clearance with CI polygraph required. Experience analyzing imagery, conducting multi-INT analysis, exploiting structured and unstructured data, programming/scripting, and advanced geospatial skills; ML experience desired.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Aksteel",
+      "title": "Geologist",
+      "location": "Eveleth, Minnesota, United States",
+      "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/United-Taconite---Eveleth/Geologist_R12947",
+      "direct_url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/United-Taconite---Eveleth/Geologist_R12947",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "B.S. in geology/metallurgy/earth sciences, 3+ years supervisory experience at a mining/mineral processing facility, mine planning and geological modeling experience, ability to manage drilling programs, travel <5%.",
+      "salary": "$80k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Senior Mineral Resource Geologist",
+      "location": "Chandler or Salt Lake City or Denver",
+      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
+      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
+      "date_posted": "2026-06-23T17:52:25.000Z",
+      "description": "B.S. in Geology (M.S. preferred), 10+ years mining/geologic modeling experience, familiarity with NI43-101/JORC/SK-1300 reporting, strong QA/QC, technical writing, and willingness to travel to remote sites.",
+      "salary": "$122k–$184k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Blaine",
+      "title": "GIS Coordinator",
+      "location": "Blaine, Minnesota, United States",
+      "url": "https://www.governmentjobs.com/careers/blaine/jobs/5386326",
+      "direct_url": "https://www.governmentjobs.com/careers/blaine/jobs/5386326",
+      "date_posted": "2026-06-23T20:04:56.354Z",
+      "description": "Manage and oversee the city GIS program, supervise GIS staff, maintain GIS data/hardware/software, coordinate with IT and consultants; requires bachelor’s in GIS/CS/Geography/Urban Planning, 3 years municipal GIS management, 2 years supervision.",
+      "salary": "$90k–$102k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
