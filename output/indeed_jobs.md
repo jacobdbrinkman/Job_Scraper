@@ -1,19 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-24 19:23 UTC*
+*Last updated: 2026-06-24 21:17 UTC*
 
-**3 new role(s)** since last run · 5 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=e987014a37968e30) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [Business Data Analyst](https://www.indeed.com/viewjob?jk=42d86327aa43ccac) — Teledyne FLIR
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $63k–$84k/yr
 - 🕒 **Posted:** 2026-06-24
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=5505e415ba589b55) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
-- 🕒 **Posted:** 2026-06-24
-
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=152875dc4ccd99e5) — DEPARTMENT OF WATER RESOURCES
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7820–$11k/mo
+### [Research Data Management Specialist](https://www.indeed.com/viewjob?jk=26b70e8e4605ad62) — Univeristy Of Colorado Boulder
+- 📍 **Location:** Boulder, CO, US
+- 💰 **Salary:** $53k–$75k/yr
 - 🕒 **Posted:** 2026-06-24
