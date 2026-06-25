@@ -1,13 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-25 01:50 UTC*
+*Last updated: 2026-06-25 06:36 UTC*
 
-**2 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 10 total in last 24h
 
-### [Associate Environmental Scientist](https://www.indeed.com/viewjob?jk=6f46e12c1c7dae99) — WSP
-- 📍 **Location:** Redmond, WA, US
-- 💰 **Salary:** $77k–$90k/yr
-- 🕒 **Posted:** 2026-06-24
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=38c36f2d039ef78f) — Unknown
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $25–$53/hr
+- 🕒 **Posted:** 2026-06-25
 
-### [Environmental Scientist - Entry to Junior](https://www.indeed.com/viewjob?jk=50de1d5260a11c55) — Tetra Tech
-- 📍 **Location:** Portland, OR, US
-- 🕒 **Posted:** 2026-06-24
+### [Senior Environmental Scientist](https://www.indeed.com/viewjob?jk=4fcb3259f8a27b77) — QK
+- 📍 **Location:** Clovis, CA, US
+- 💰 **Salary:** $105k–$120k/yr
+- 🕒 **Posted:** 2026-06-01
