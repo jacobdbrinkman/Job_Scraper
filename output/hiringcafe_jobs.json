@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-25 02:32 UTC",
-  "total": 121,
-  "new_count": 0,
+  "scraped_at": "2026-06-25 06:36 UTC",
+  "total": 124,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Corn Belt Energy Cooperative",
@@ -395,12 +395,12 @@
     },
     {
       "company": "Geo Owl",
-      "title": "Geospatial Analyst",
-      "location": "Springfield, Virginia, United States",
-      "url": "http://geoowl.applytojob.com/apply/BkEuobToY7/Geospatial-Analyst",
-      "direct_url": "http://geoowl.applytojob.com/apply/BkEuobToY7/Geospatial-Analyst",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Experience with GEOINT and GIS technologies, imagery exploitation, spatial/temporal analysis; Python or other scripting experience preferred; familiarity with machine learning concepts.",
+      "title": "Senior Geospatial Analyst JSOC",
+      "location": "Fort Bragg, North Carolina, United States",
+      "url": "http://geoowl.applytojob.com/apply/65OKR0qPvX/Senior-Geospatial-Analyst-JSOC",
+      "direct_url": "http://geoowl.applytojob.com/apply/65OKR0qPvX/Senior-Geospatial-Analyst-JSOC",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "TS/SCI clearance required; 6+ years of progressive geospatial/topographic/imagery analysis experience; proficient with GIS and intelligence automation; broad understanding of collection processes; scripting knowledge desired (Python, JavaScript, HTML, R, SAS).",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -524,6 +524,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "GiveDirectly",
+      "title": "Remote Sensing Analyst [Contractor]",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/givedirectly/jobs/4702835005",
+      "direct_url": "https://job-boards.greenhouse.io/givedirectly/jobs/4702835005",
+      "date_posted": "2026-06-04T11:08:56.000Z",
+      "description": "Expertise in satellite imagery and geospatial analysis (ArcGIS, QGIS, Sentinel-2/Landsat/VIIRS), proficiency in Python or R and geospatial libraries, experience with large-scale spatial data and HPC/cloud resources, strong communication and documentation skills.",
+      "salary": "",
+      "job_type": "Contract, Part Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Oneida Total Integrated Enterprises",
       "title": "Environmental Scientist",
       "location": "Fairfield, California, United States",
@@ -589,19 +602,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "WSP",
-      "title": "Lead Environmental Scientist",
-      "location": "Durham or Charlotte or Wilmington",
-      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
-      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
-      "date_posted": "2026-06-19T14:02:18.000Z",
-      "description": "Bachelor's in environmental or related life science, 7+ years environmental science experience, knowledge of environmental laws and compliance, leadership and communication skills, proficiency with office technology, occasional travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kimley-Horn",
       "title": "Experienced Environmental Scientist",
       "location": "Philadelphia, Pennsylvania, United States",
@@ -609,6 +609,19 @@
       "direct_url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
       "date_posted": "2026-05-28T04:00:00.000Z",
       "description": "4+ years in environmental consulting; BS or MS in Environmental Science, Geology, Environmental Engineering, or related; strong regulatory knowledge; excellent writing; client-facing; willingness to travel ~40%.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "WSP",
+      "title": "Lead Environmental Scientist",
+      "location": "Durham or Charlotte or Wilmington",
+      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
+      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
+      "date_posted": "2026-06-19T14:02:18.000Z",
+      "description": "Bachelor's in environmental or related life science, 7+ years environmental science experience, knowledge of environmental laws and compliance, leadership and communication skills, proficiency with office technology, occasional travel.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -753,6 +766,19 @@
       "date_posted": "2026-06-01T14:47:34.077Z",
       "description": "Bachelor’s in environmental science or related field; 3–5 years environmental consulting; strong writing; travel ability; familiarity with regulations.",
       "salary": "$68k–$72k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -948,6 +974,19 @@
       "date_posted": "2026-06-12T00:45:04.829Z",
       "description": "Bachelor's in Geology/Hydrogeology, minimum 7 years' related experience; certification in field required and ability to obtain Professional Geologist (PG) registration; master's or PhD preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Indiana - Department of Natural Resources",
+      "title": "Geologist Supervisor",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
+      "direct_url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
+      "date_posted": "2026-06-22T00:00:00.000Z",
+      "description": "Licensed Professional Geologist in Indiana; Bachelor’s in geology or related field; minimum 8 years geology/hydrogeology experience; supervisory experience preferred; strong regulatory, hydrogeologic, and analytical skills.",
+      "salary": "$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1213,27 +1252,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport-McMoRan",
-      "title": "Senior Geologist",
-      "location": "Climax, Colorado, United States",
-      "url": "https://talent.fmjobs.com/careers/job/42007298",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42007298",
-      "date_posted": "2026-05-27T21:16:31.000Z",
-      "description": "Bachelor's in Geology +5 yrs or Master's in Geology +3 yrs; experience logging drill samples, geologic mapping, resource block modeling, supervising drilling, and interpreting geological and assay data.",
-      "salary": "$105k–$145k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Robinson Nevada Mining Company",
-      "title": "Senior Geologist",
-      "location": "Ruth or Ely",
-      "url": "https://tre.tbe.taleo.net/tre01/ats/careers/requisition.jsp?org=BAA9G6&cws=40&rid=876",
-      "direct_url": "https://tre.tbe.taleo.net/tre01/ats/careers/requisition.jsp?org=BAA9G6&cws=40&rid=876",
-      "date_posted": "2026-06-11T18:54:13.000Z",
-      "description": "Bachelor's in Geology or related field, 5+ years mining/exploration experience, valid driver’s license, ability to lift up to 50 lbs, mentoring and supervisory experience, proficiency with MinePlan, AutoCAD, Leapfrog, AcQuire, Deswik, SGS, ERSI, and Microsoft Excel.",
-      "salary": "",
+      "company": "Paragon Professional Services",
+      "title": "Staff Geologist",
+      "location": "Folsom or Seattle",
+      "url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
+      "direct_url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
+      "date_posted": "2026-06-11T20:58:04.355Z",
+      "description": "Bachelor's in geology or related, minimum 3 years environmental consulting experience, PG or GIT progressing, valid driver’s license, ability to lift 50 lbs, OSHA HAZWOPER preferred, willingness to travel and pass drug/background checks.",
+      "salary": "$78k–$107k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1252,19 +1278,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Fugro",
-      "title": "Senior Geologist",
-      "location": "Walnut Creek, California, United States",
-      "url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "direct_url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Master's in Engineering Geology or Geological Engineering; 2 years field experience in soil/rock logging, mapping, site characterization and fault investigations; report writing, data interpretation, and project management skills.",
-      "salary": "$123k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Imerys",
       "title": "Jr. Geologist",
       "location": "Willsboro, New York, United States",
@@ -1273,6 +1286,19 @@
       "date_posted": "2026-06-11T00:00:00.000Z",
       "description": "BS in geology or related preferred, 0–3 years technical experience; site-based geology support including ore control, drilling support, environmental monitoring; willing to obtain MSHA and site safety certifications.",
       "salary": "$65k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Robinson Nevada Mining Company",
+      "title": "Senior Geologist",
+      "location": "Ruth or Ely",
+      "url": "https://tre.tbe.taleo.net/tre01/ats/careers/requisition.jsp?org=BAA9G6&cws=37&rid=876",
+      "direct_url": "https://tre.tbe.taleo.net/tre01/ats/careers/requisition.jsp?org=BAA9G6&cws=37&rid=876",
+      "date_posted": "2026-06-11T18:54:13.000Z",
+      "description": "Bachelor's in geology or related field, 5+ years mining/exploration experience, valid driver’s license, ability to lift 20–50 lbs, mentoring experience, proficiency with MinePlan, AutoCAD, Leapfrog, AcQuire, Deswik, SGS, ERSI, Microsoft Excel, and drone mapping.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1291,14 +1317,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Paragon Professional Services",
-      "title": "Staff Geologist",
-      "location": "Folsom or Seattle",
-      "url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
-      "direct_url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
-      "date_posted": "2026-06-11T20:58:04.355Z",
-      "description": "Bachelor's in geology or related, minimum 3 years environmental consulting experience, PG or GIT progressing, valid driver’s license, ability to lift 50 lbs, OSHA HAZWOPER preferred, willingness to travel and pass drug/background checks.",
-      "salary": "$78k–$107k/yr",
+      "company": "Freeport-McMoRan",
+      "title": "Senior Geologist",
+      "location": "Climax, Colorado, United States",
+      "url": "https://talent.fmjobs.com/careers/job/42007298",
+      "direct_url": "https://talent.fmjobs.com/careers/job/42007298",
+      "date_posted": "2026-05-27T21:16:31.000Z",
+      "description": "Bachelor's in Geology +5 yrs or Master's in Geology +3 yrs; experience logging drill samples, geologic mapping, resource block modeling, supervising drilling, and interpreting geological and assay data.",
+      "salary": "$105k–$145k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1325,6 +1351,19 @@
       "date_posted": "2026-06-12T00:00:00.000Z",
       "description": "Active Pennsylvania professional geologist license, minimum 2 years professional geology experience, bachelor's degree in a related field (as applicable), and a valid Pennsylvania Class C non-commercial driver's license.",
       "salary": "$77k–$117k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Northern Star Resources Ltd",
+      "title": "Senior Geologist - Growth",
+      "location": "Kalgoorlie-Boulder or Western Australia or Alaska",
+      "url": "https://careers.nsrltd.com/job/Kalgoorlie-Boulder-Senior-Geologist-Growth-WA/1363137566/",
+      "direct_url": "https://careers.nsrltd.com/job/Kalgoorlie-Boulder-Senior-Geologist-Growth-WA/1363137566/",
+      "date_posted": "2026-06-22T00:00:00.000Z",
+      "description": "Tertiary degree in geology, extensive geology experience (preferably gold mining), WA C Class manual drivers licence, QAQC and block modelling experience, leadership and contractor management, pre-employment medical/drug/alcohol screening and national police clearance.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1577,5 +1616,71 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Geo Owl",
+      "title": "Senior Geospatial Analyst JSOC",
+      "location": "Fort Bragg, North Carolina, United States",
+      "url": "http://geoowl.applytojob.com/apply/65OKR0qPvX/Senior-Geospatial-Analyst-JSOC",
+      "direct_url": "http://geoowl.applytojob.com/apply/65OKR0qPvX/Senior-Geospatial-Analyst-JSOC",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "TS/SCI clearance required; 6+ years of progressive geospatial/topographic/imagery analysis experience; proficient with GIS and intelligence automation; broad understanding of collection processes; scripting knowledge desired (Python, JavaScript, HTML, R, SAS).",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GiveDirectly",
+      "title": "Remote Sensing Analyst [Contractor]",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/givedirectly/jobs/4702835005",
+      "direct_url": "https://job-boards.greenhouse.io/givedirectly/jobs/4702835005",
+      "date_posted": "2026-06-04T11:08:56.000Z",
+      "description": "Expertise in satellite imagery and geospatial analysis (ArcGIS, QGIS, Sentinel-2/Landsat/VIIRS), proficiency in Python or R and geospatial libraries, experience with large-scale spatial data and HPC/cloud resources, strong communication and documentation skills.",
+      "salary": "",
+      "job_type": "Contract, Part Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Indiana - Department of Natural Resources",
+      "title": "Geologist Supervisor",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
+      "direct_url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
+      "date_posted": "2026-06-22T00:00:00.000Z",
+      "description": "Licensed Professional Geologist in Indiana; Bachelor’s in geology or related field; minimum 8 years geology/hydrogeology experience; supervisory experience preferred; strong regulatory, hydrogeologic, and analytical skills.",
+      "salary": "$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Northern Star Resources Ltd",
+      "title": "Senior Geologist - Growth",
+      "location": "Kalgoorlie-Boulder or Western Australia or Alaska",
+      "url": "https://careers.nsrltd.com/job/Kalgoorlie-Boulder-Senior-Geologist-Growth-WA/1363137566/",
+      "direct_url": "https://careers.nsrltd.com/job/Kalgoorlie-Boulder-Senior-Geologist-Growth-WA/1363137566/",
+      "date_posted": "2026-06-22T00:00:00.000Z",
+      "description": "Tertiary degree in geology, extensive geology experience (preferably gold mining), WA C Class manual drivers licence, QAQC and block modelling experience, leadership and contractor management, pre-employment medical/drug/alcohol screening and national police clearance.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
