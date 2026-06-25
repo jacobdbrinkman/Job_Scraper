@@ -1,84 +1,62 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-25 00:41 UTC*
+*Last updated: 2026-06-25 05:31 UTC*
 
-**17 new role(s)** since last run · 18 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Project Coordinator - Custom Solutions](https://www.linkedin.com/jobs/view/4432125756/) — Revvity
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $26.44 - $30.00/hr
+### [Program Coordinator IV](https://www.linkedin.com/jobs/view/4432172688/) — Sutter Health
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $34.25 to $51.38
 - 🕒 **Posted:** 2026-06-25
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4432134046/) — Ulteig
-- 📍 **Location:** St Louis Park, MN
-- 💰 **Salary:** $25.00 - $34.00/hour
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4430144058/) — UCSF Health
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-25
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4433001420/) — Apex Companies
-- 📍 **Location:** Omaha, NE
-- 💰 **Salary:** $55,000 - $65,000 USD
+### [Project Coordinator (Contract)](https://www.linkedin.com/jobs/view/4433044205/) — Lunar Energy
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $35-$55 USD
 - 🕒 **Posted:** 2026-06-25
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4432896582/) — KellyOCG
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** $40.00/hr - $42.00/hr
+### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4433036663/) — California Department of Water Resources
+- 📍 **Location:** Sacramento County, CA
+- 💰 **Salary:** $7,820.00/mo - $10,732.00/mo
 - 🕒 **Posted:** 2026-06-25
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4432131340/) — Mercer County Works
-- 📍 **Location:** Boston, MA
+### [Senior Conservation Data Analyst/Engineer](https://www.linkedin.com/jobs/view/4431873448/) — World Wildlife Fund
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-06-25
 
-### [Data Analyst IV-#26-14952](https://www.linkedin.com/jobs/view/4432896532/) — US Tech Solutions
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $60.00/hr - $120.00/hr
+### [Senior Data Analyst, Credit](https://www.linkedin.com/jobs/view/4433051233/) — Brigit
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125,000 - $150,000
 - 🕒 **Posted:** 2026-06-25
 
-### [Data Analyst - Payroll](https://www.linkedin.com/jobs/view/4432890659/) — Montefiore Health System
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $60,000.00-$75,000.00
+### [Associate Director - Data Analyst](https://www.linkedin.com/jobs/view/4432178543/) — PassFort - A Moody's Company
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $169,541 to $206,700/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4432132285/) — Mercer County Works
-- 📍 **Location:** San Antonio, TX
+### [Consulting Geologist](https://www.linkedin.com/jobs/view/4433051353/) — Cresta Exploration
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $5,500.00/mo - $8,200.00/mo
 - 🕒 **Posted:** 2026-06-25
 
-### [Research & Data Analyst](https://www.linkedin.com/jobs/view/4432892598/) — CompoSecure
-- 📍 **Location:** Somerset, NJ
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4428012780/) — Kleinschmidt Associates
+- 📍 **Location:** Madison, WI
+- 💰 **Salary:** $30-$40/hour
 - 🕒 **Posted:** 2026-06-25
 
-### [Ground Software Solutions Engineer](https://www.linkedin.com/jobs/view/4432109731/) — Loft Orbital
-- 📍 **Location:** Golden, CO
-- 💰 **Salary:** $120,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-06-24
+### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4433034530/) — McKinstry
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $24.36 - $35.35 per hour
+- 🕒 **Posted:** 2026-06-25
 
-### [Data Analyst, US Consumer Services](https://www.linkedin.com/jobs/view/4432125347/) — Western Union
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $70,000 - $90,000 USD per year
-- 🕒 **Posted:** 2026-06-24
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4433034761/) — Floor Interior Services Corp
+- 📍 **Location:** Sarasota, FL
+- 💰 **Salary:** $17.00/hr - $18.00/hr
+- 🕒 **Posted:** 2026-06-25
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4432892464/) — Environmental Design Group
-- 📍 **Location:** Mason, OH
-- 💰 **Salary:** $26.50-$30.00
-- 🕒 **Posted:** 2026-06-24
-
-### [Survey Technician](https://www.linkedin.com/jobs/view/4429698167/) — Bolton & Menk, Inc.
-- 📍 **Location:** Fargo, ND
-- 🕒 **Posted:** 2026-06-24
-
-### [Process Imporvement Data Analyst II](https://www.linkedin.com/jobs/view/4432271771/) — Total Quality Logistics
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $63,000 - $78,000
-- 🕒 **Posted:** 2026-06-24
-
-### [Senior Healthcare Data Analyst - St. Luke's Health Plan   -   155564](https://www.linkedin.com/jobs/view/4432895446/) — St. Luke's Health System
-- 📍 **Location:** Boise, ID
-- 🕒 **Posted:** 2026-06-24
-
-### [Technical Project Coordinator](https://www.linkedin.com/jobs/view/4432121591/) — John W. Danforth Company
-- 📍 **Location:** Tonawanda, NY
-- 💰 **Salary:** $55,000-$70,000
-- 🕒 **Posted:** 2026-06-24
-
-### [Falcon Program Coordinator - 1446](https://www.linkedin.com/jobs/view/4432891264/) — West Star Aviation Inc.
-- 📍 **Location:** East Alton, IL
-- 💰 **Salary:** $125,000-$130,000
-- 🕒 **Posted:** 2026-06-24
+### [Program Coordinator - Brooklyn](https://www.linkedin.com/jobs/view/4433044257/) — NYU Langone Health
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $52,228.33 - $57,750.00 Annually
+- 🕒 **Posted:** 2026-06-25
