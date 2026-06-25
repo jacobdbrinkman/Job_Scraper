@@ -1,32 +1,23 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-25 18:59 UTC*
+*Last updated: 2026-06-25 21:19 UTC*
 
-**6 new role(s)** since last run · 127 total in last 30d
+**4 new role(s)** since last run · 131 total in last 30d
 
-### [Environmental Scientist](https://job-boards.greenhouse.io/apexcompanies/jobs/5278671008) — Apex Companies
-- 📍 **Location:** Omaha or Nebraska or Iowa
-- 💰 **Salary:** $55k–$65k/yr
-- 🕒 **Posted:** 2026-06-24T22:26:49.000Z
+### [GIS Analyst](https://www.governmentjobs.com/careers/roundrock/jobs/5388996) — City of Round Rock, TX
+- 📍 **Location:** Round Rock, Texas, United States
+- 💰 **Salary:** $58k–$71k/yr
+- 🕒 **Posted:** 2026-06-25T19:20:52.314Z
 
-### [Physical Scientist/Meteorologist/Hydrologist](https://www.usajobs.gov/job/872876500) — Department of Commerce
-- 📍 **Location:** Tallahassee, Florida, United States
-- 💰 **Salary:** $106k–$138k/yr
-- 🕒 **Posted:** 2026-06-15T00:00:00.000Z
+### [GIS Analyst](https://www.governmentjobs.com/careers/tacoma/jobs/5290997) — City of Tacoma
+- 📍 **Location:** Tacoma, Washington, United States
+- 💰 **Salary:** $106k–$149k/yr
+- 🕒 **Posted:** 2026-06-25T19:03:44.000Z
 
-### [Geologist](https://diamondbackenergy.wd12.myworkdayjobs.com/dbe/job/Midland-TX/Senior-Staff-Geologist_R100654) — Diamondback Energy
-- 📍 **Location:** Midland, Texas, United States
-- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
+### [GIS Analyst/PW -Admin](https://www.governmentjobs.com/careers/athensclarke/jobs/5389526) — Unified Government of Athens-Clarke County, GA
+- 📍 **Location:** Athens, Georgia, United States
+- 💰 **Salary:** $54k/yr
+- 🕒 **Posted:** 2026-06-25T19:32:27.815Z
 
-### [Senior Geologist](https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542) — Fugro
-- 📍 **Location:** Walnut Creek, California, United States
-- 💰 **Salary:** $123k/yr
-- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
-
-### [GIS Consultant/Project Manager](https://boards.greenhouse.io/ardentmc/jobs/8027265?gh_jid=8027265) — Ardent
-- 📍 **Location:** Washington, District of Columbia, United States
-- 🕒 **Posted:** 2026-06-25T12:52:35.000Z
-
-### [Consultant, Environmental Engineer / Scientist / Geologist](https://erm.wd3.myworkdayjobs.com/erm_earlycareers/job/Ewing-New-Jersey/Consultant--Environmental-Engineer---Scientist---Geologist_R00030854) — Erm
-- 📍 **Location:** Ewing, New Jersey, United States
-- 💰 **Salary:** $74k–$103k/yr
-- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
+### [Environmental Scientist](https://job-boards.greenhouse.io/bgeinc/jobs/5282386008) — BGE, Inc
+- 📍 **Location:** Frisco, Texas, United States
+- 🕒 **Posted:** 2026-06-25T17:13:32.000Z
