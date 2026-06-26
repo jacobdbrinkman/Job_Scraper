@@ -1,156 +1,62 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-26 01:50 UTC*
+*Last updated: 2026-06-26 06:36 UTC*
 
-**33 new role(s)** since last run · 33 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Lead AI and Data Solutions Engineer II](https://www.linkedin.com/jobs/view/4433549215/) — Deloitte
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** $134,500 to $224,100
+### [Consultant, Environmental Engineer / Scientist / Geologist](https://www.linkedin.com/jobs/view/4433587624/) — ERM
+- 📍 **Location:** Titusville, NJ
+- 💰 **Salary:** $74,250–$103,128
 - 🕒 **Posted:** 2026-06-26
 
-### [Manager, Solutions Engineering, Mid-Market](https://www.linkedin.com/jobs/view/4432927138/) — Product Pioneers Podcast
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $255,000 - $285,000
+### [Data Analyst / Front End](https://www.linkedin.com/jobs/view/4433594510/) — Stellantis
+- 📍 **Location:** Auburn Hills, MI
 - 🕒 **Posted:** 2026-06-26
 
-### [Senior Data Analyst - Corporate Financial](https://www.linkedin.com/jobs/view/4430285713/) — ŌURA
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $172,550 - $203,000
+### [Healthcare Data Analyst - Hybrid After Onsite Training](https://www.linkedin.com/jobs/view/4432948247/) — Emerson Health
+- 📍 **Location:** Concord, MA
+- 💰 **Salary:** $28.00 - $32.00
 - 🕒 **Posted:** 2026-06-26
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4430287007/) — UC Santa Barbara
-- 📍 **Location:** Santa Barbara, CA
-- 💰 **Salary:** $29.35 to $32.18/per
+### [DATA ANALYST 4](https://www.linkedin.com/jobs/view/4432945260/) — HII
+- 📍 **Location:** Pascagoula, MS
 - 🕒 **Posted:** 2026-06-26
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4432929011/) — Tacoma Public Utilities
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $105,643.20 - $148,740.80
-- 🕒 **Posted:** 2026-06-26
-
-### [Data Analyst, MFN RCX](https://www.linkedin.com/jobs/view/4433549072/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-06-26
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4432919226/) — HDR
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-06-26
-
-### [Social Work Program Coordinator](https://www.linkedin.com/jobs/view/4432926122/) — Neighborhood Clinic
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $90,000–$100,000/year
-- 🕒 **Posted:** 2026-06-26
-
-### [Geospatial Analyst III](https://www.linkedin.com/jobs/view/4432917235/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $77,000-$99,000 annually
-- 🕒 **Posted:** 2026-06-26
-
-### [Salary and Data Analyst HR Analyst IV DBM](https://www.linkedin.com/jobs/view/4433538773/) — State of Maryland
-- 📍 **Location:** Maryland, United States
-- 🕒 **Posted:** 2026-06-26
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4427883776/) — Gainwell Technologies
-- 📍 **Location:** Nevada, United States
-- 💰 **Salary:** $69,400.00 - $99,200.00 per year
-- 🕒 **Posted:** 2026-06-26
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4433549205/) — DC Department of Human Resources
+### [Physical Scientist, AST, Physical Science Technical Management (Direct Hire)](https://www.linkedin.com/jobs/view/4432955132/) — NASA - National Aeronautics and Space Administration
 - 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-06-26
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4433549164/) — Serco
-- 📍 **Location:** United States
+### [Public Water Protection Hydrologist - Hydrologist 2](https://www.linkedin.com/jobs/view/4432930939/) — Minnesota Direct Care and Treatment
+- 📍 **Location:** Sauk Rapids, MN
+- 💰 **Salary:** $30.23 - $44.48
 - 🕒 **Posted:** 2026-06-26
 
-### [Data Analyst - Rollins School of Public Health](https://www.linkedin.com/jobs/view/4430283934/) — Emory University
-- 📍 **Location:** Atlanta, GA
+### [Senior Consultant, Geologist/Engineer](https://www.linkedin.com/jobs/view/4433577855/) — ERM
+- 📍 **Location:** Hurricane, WV
 - 🕒 **Posted:** 2026-06-26
 
-### [Data Analyst - Rollins School of Public Health](https://www.linkedin.com/jobs/view/4430264835/) — Emory University
-- 📍 **Location:** Atlanta, GA
+### [Farmed Wildlife and Feral Swine Coordinator - NR Program Coordinator](https://www.linkedin.com/jobs/view/4432937508/) — Minnesota Direct Care and Treatment
+- 📍 **Location:** Brainerd, MN
+- 💰 **Salary:** $32.40 - $47.76
 - 🕒 **Posted:** 2026-06-26
 
-### [Senior Data Analyst, Advanced Analytics](https://www.linkedin.com/jobs/view/4433533642/) — Cityblock Health
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $117,000.00 - $130,000.00
+### [Project Coordinator (Non-Tech)](https://www.linkedin.com/jobs/view/4432946430/) — Core & Main
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-06-26
 
-### [Workforce Data Analyst](https://www.linkedin.com/jobs/view/4382706342/) — Love's Travel Stops
-- 📍 **Location:** Oklahoma City, OK
-- 🕒 **Posted:** 2026-06-26
-
-### [Senior ETL Data Analyst](https://www.linkedin.com/jobs/view/4427807025/) — Gainwell Technologies
-- 📍 **Location:** Illinois, United States
-- 💰 **Salary:** $69,400.00 - $99,200.00 per year
-- 🕒 **Posted:** 2026-06-26
-
-### [Business Data Analyst II- Human Capital Data and Analytics Enablement](https://www.linkedin.com/jobs/view/4433538803/) — Truist
+### [Construction Project Coordinator (Hybrid)](https://www.linkedin.com/jobs/view/4432947401/) — LPC.COM
 - 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $90,000 - $115,000
 - 🕒 **Posted:** 2026-06-26
 
-### [Business Data Analyst II- Human Capital Data and Analytics Enablement](https://www.linkedin.com/jobs/view/4433554022/) — Truist
+### [Program Coordinator I](https://www.linkedin.com/jobs/view/4432949170/) — Research Compliance Office of the Texas A&M University System
+- 📍 **Location:** College Station, TX
+- 🕒 **Posted:** 2026-06-26
+
+### [Program Coordinator (DOH/PHD/PCHB #37625)](https://www.linkedin.com/jobs/view/4430264732/) — New Mexico Department of Health
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $24.16 - $36.24 Hourly
+- 🕒 **Posted:** 2026-06-26
+
+### [Capital Project Coordinator-Housing and Residence Life Department](https://www.linkedin.com/jobs/view/4432952287/) — Inside Higher Ed
 - 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $90,000 - $115,000
-- 🕒 **Posted:** 2026-06-26
-
-### [Business Data Analyst II- Human Capital Data and Analytics Enablement](https://www.linkedin.com/jobs/view/4433551136/) — Truist
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $90,000 - $115,000
-- 🕒 **Posted:** 2026-06-26
-
-### [Senior Business Intelligence Data Analyst](https://www.linkedin.com/jobs/view/4419639231/) — Gainwell Technologies
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $69,400.00 - $99,200.00 per year
-- 🕒 **Posted:** 2026-06-26
-
-### [Business Data Analyst II- Outside Plant Field Service](https://www.linkedin.com/jobs/view/4432918242/) — EnerSys
-- 📍 **Location:** Pennsylvania, United States
-- 🕒 **Posted:** 2026-06-26
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4430276885/) — HGA
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $80,100 - $92,000
-- 🕒 **Posted:** 2026-06-26
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4414069179/) — Black Box
-- 📍 **Location:** Bowling Green, OH
-- 🕒 **Posted:** 2026-06-26
-
-### [Project Coordinator (Hybrid) - 29123](https://www.linkedin.com/jobs/view/4432924122/) — Mission Technologies, a division of HII
-- 📍 **Location:** Columbia, MD
-- 💰 **Salary:** $69,885.00 - $105,000.00
-- 🕒 **Posted:** 2026-06-26
-
-### [Assembly Project Coordinator](https://www.linkedin.com/jobs/view/4433542375/) — Smurfit Westrock
-- 📍 **Location:** Bolingbrook, IL
-- 💰 **Salary:** $75,375.00 - $125,625.00
-- 🕒 **Posted:** 2026-06-26
-
-### [Project Coordinator - Construction](https://www.linkedin.com/jobs/view/4387113394/) — Crawford Thomas Recruiting
-- 📍 **Location:** Apopka, FL
-- 💰 **Salary:** $60,000 – $70,000
-- 🕒 **Posted:** 2026-06-26
-
-### [Project Coordinator -3487](https://www.linkedin.com/jobs/view/4433541325/) — Randstad Digital Americas
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-06-26
-
-### [Project Coordinator I-Parenting Center-Pediatrics](https://www.linkedin.com/jobs/view/4433549646/) — Mount Sinai Morningside
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $66482.07 - $75000 Annually
-- 🕒 **Posted:** 2026-06-26
-
-### [Project Coordinator I-Pediatrics](https://www.linkedin.com/jobs/view/4433539969/) — Mount Sinai Morningside
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $66482.07 - $75000 Annually
-- 🕒 **Posted:** 2026-06-26
-
-### [Dual Language Program Coordinator](https://www.linkedin.com/jobs/view/4430279843/) — Everett Public Schools
-- 📍 **Location:** Everett, WA
-- 🕒 **Posted:** 2026-06-26
-
-### [Patman Center Program Coordinator](https://www.linkedin.com/jobs/view/4433555160/) — The University of Texas at Austin
-- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $66,883-$77,086/yr
 - 🕒 **Posted:** 2026-06-26
