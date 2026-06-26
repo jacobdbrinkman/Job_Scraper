@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-26 21:58 UTC",
+  "scraped_at": "2026-06-26 23:52 UTC",
   "total": 126,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -511,19 +511,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "VA Dept of Human Resource Management",
-      "title": "Geospatial Data Analyst #20025 #00359",
-      "location": "North Chesterfield, Virginia, United States",
-      "url": "https://careers.pageuppeople.com/1125/cw/en/job/5106380",
-      "direct_url": "https://careers.pageuppeople.com/1125/cw/en/job/5106380",
-      "date_posted": "2026-06-15T14:35:00.000Z",
-      "description": "Extensive experience with ESRI ArcGIS, geospatial data maintenance and publication (road centerlines, building footprints, parcels, address points), reporting, collaboration, and familiarity with the Virginia Base Mapping Program.",
-      "salary": "$68k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Texas Health and Human Services Commission (HHSC)",
       "title": "Geospatial Data Analyst (AUSTIN, TX)",
       "location": "Austin, Texas, United States",
@@ -532,6 +519,19 @@
       "date_posted": "2026-06-22T23:00:16.036Z",
       "description": "Bachelor's degree (or equivalent) and 4 years' experience with data acquisition, management, analysis and visualization; experience with geospatial data, SQL, Python, ArcGIS, Snowflake, and statistical tools (SAS/SPSS).",
       "salary": "$77k–$103k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "VA Dept of Human Resource Management",
+      "title": "Geospatial Data Analyst #20025 #00359",
+      "location": "North Chesterfield, Virginia, United States",
+      "url": "https://careers.pageuppeople.com/1125/cw/en/job/5106380",
+      "direct_url": "https://careers.pageuppeople.com/1125/cw/en/job/5106380",
+      "date_posted": "2026-06-15T14:35:00.000Z",
+      "description": "Extensive experience with ESRI ArcGIS, geospatial data maintenance and publication (road centerlines, building footprints, parcels, address points), reporting, collaboration, and familiarity with the Virginia Base Mapping Program.",
+      "salary": "$68k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -550,16 +550,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GiveDirectly",
-      "title": "Remote Sensing Analyst [Contractor]",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/givedirectly/jobs/4702835005",
-      "direct_url": "https://job-boards.greenhouse.io/givedirectly/jobs/4702835005",
-      "date_posted": "2026-06-04T11:08:56.000Z",
-      "description": "Expertise in satellite imagery and geospatial analysis (ArcGIS, QGIS, Sentinel-2/Landsat/VIIRS), proficiency in Python or R and geospatial libraries, experience with large-scale spatial data and HPC/cloud resources, strong communication and documentation skills.",
-      "salary": "",
-      "job_type": "Contract, Part Time",
-      "is_remote": true,
+      "company": "State of South Carolina",
+      "title": "Geospatial Analyst I - CJIS/GIS",
+      "location": "Richland County, South Carolina, United States",
+      "url": "https://www.governmentjobs.com/careers/sc/jobs/5389218",
+      "direct_url": "https://www.governmentjobs.com/careers/sc/jobs/5389218",
+      "date_posted": "2026-06-26T17:29:27.000Z",
+      "description": "Collect, process, analyze, validate, and visualize crime and criminal justice spatial/tabular data; develop maps, dashboards, reports; proficiency with ArcGIS, Microsoft Excel, Office Suite, SQL, Python; NCIC certification or ability to obtain; pass fingerprint background check; some statewide travel.",
+      "salary": "$47k–$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -823,19 +823,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Senior Environmental Scientist",
-      "location": "Clovis, California, United States",
-      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "date_posted": "2026-06-24T19:55:12.571Z",
-      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
-      "salary": "$105k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Johnson, Mirmiran & Thompson, Inc.",
       "title": "Senior Environmental Scientist",
       "location": "Jacksonville, Florida, United States",
@@ -844,6 +831,19 @@
       "date_posted": "2026-06-05T18:16:04.721Z",
       "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1644,27 +1644,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Select",
-      "title": "GIS Analyst",
-      "location": "Carlsbad, New Mexico, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31660",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31660",
-      "date_posted": "2026-06-26T06:00:00.000Z",
-      "description": "3+ years ESRI experience, 2+ years ArcGIS Pro, working knowledge of ArcGIS Enterprise, strong cartographic and project management skills, bachelor's degree preferred in GIS or related field.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Canacre",
-      "title": "Senior Environmental Scientist",
-      "location": "Raleigh, North Carolina, United States",
-      "url": "https://careers2-quanta.icims.com/jobs/16589/senior-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers2-quanta.icims.com/jobs/16589/senior-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-26T04:00:00.000Z",
-      "description": "Requires a bachelor’s (master’s preferred) in environmental science/ecology/environmental planning or related, 2+ years relevant experience, familiarity with GIS, Microsoft Office proficiency, fieldwork capability, and strong communication skills.",
-      "salary": "",
+      "company": "State of South Carolina",
+      "title": "Geospatial Analyst I - CJIS/GIS",
+      "location": "Richland County, South Carolina, United States",
+      "url": "https://www.governmentjobs.com/careers/sc/jobs/5389218",
+      "direct_url": "https://www.governmentjobs.com/careers/sc/jobs/5389218",
+      "date_posted": "2026-06-26T17:29:27.000Z",
+      "description": "Collect, process, analyze, validate, and visualize crime and criminal justice spatial/tabular data; develop maps, dashboards, reports; proficiency with ArcGIS, Microsoft Excel, Office Suite, SQL, Python; NCIC certification or ability to obtain; pass fingerprint background check; some statewide travel.",
+      "salary": "$47k–$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
