@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-26 18:19 UTC",
-  "total": 127,
-  "new_count": 7,
+  "scraped_at": "2026-06-26 20:24 UTC",
+  "total": 126,
+  "new_count": 2,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -160,19 +160,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Nevada (NV)",
-      "title": "GIS ANALYST 2",
-      "location": "Carson City, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5382610",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5382610",
-      "date_posted": "2026-06-18T17:24:40.000Z",
-      "description": "Education/experience combinations required (Bachelor's +2 yrs GIS experience; Associate +3 yrs; HS +4 yrs; or 1 yr as GIS Analyst I in Nevada). Must be able to maintain enterprise GIS, administer spatial databases, use GPS/UAS, write basic scripts, and possess a valid Nevada driver’s license.",
-      "salary": "$67k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Springfield (MO)",
       "title": "GIS Analyst",
       "location": "Springfield, Missouri, United States",
@@ -298,6 +285,19 @@
       "date_posted": "2026-06-22T19:31:48.000Z",
       "description": "Bachelor's degree in GIS, computer science, MIS or related field; 5+ years progressive GIS experience designing, implementing, and administering enterprise GIS databases and applications; valid California Class C driver; must pass background check and be able to respond to emergencies.",
       "salary": "$88k–$106k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Sunoco LP",
+      "title": "GIS Analyst",
+      "location": "San Antonio, Texas, United States",
+      "url": "https://energytransfer.taleo.net/careersection/etp_ext_sun/jobdetail.ftl?job=2610001783&lang=en",
+      "direct_url": "https://energytransfer.taleo.net/careersection/etp_ext_sun/jobdetail.ftl?job=2610001783&lang=en",
+      "date_posted": "2026-06-26T19:03:18.000Z",
+      "description": "Bachelor's in Geography/GIS or equivalent; experience with ArcGIS Pro/Portal/Online, Field Maps, Survey123, Quick Capture, Dashboards, Insights, Experience Builder, Arcade, Python/ArcPy, Model Builder; strong communication, attention to detail, and ability to work independently.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -550,19 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Oneida Total Integrated Enterprises",
-      "title": "Environmental Scientist",
-      "location": "Fairfield, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4187878",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4187878",
-      "date_posted": "2026-05-27T19:49:26.128Z",
-      "description": "Bachelor's in environmental engineering/science with 3+ years federal environmental compliance; knowledge of Clean Air and Clean Water Acts; MS Office; DoD background check; US citizenship; able to travel up to 30%.",
-      "salary": "$65k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GEI Consultants",
       "title": "Environmental Scientist",
       "location": "New York, New York, United States",
@@ -719,19 +706,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BGE, Inc",
-      "title": "Environmental Scientist",
-      "location": "Frisco, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "date_posted": "2026-06-25T17:13:32.000Z",
-      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Arcadis",
       "title": "Environmental Scientist",
       "location": "Bluefield, Virginia, United States",
@@ -745,14 +719,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ri",
-      "title": "ENVIRONMENTAL SCIENTIST II",
-      "location": "Rhode Island or United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "Bachelor's in an environmental/physical/biological science or related field and minimum 2 years environmental science/engineering experience; knowledge of environmental laws/regulations, ability to analyze data, conduct inspections, prepare technical documents, and communicate findings.",
-      "salary": "$82k–$93k/yr",
+      "company": "BGE, Inc",
+      "title": "Environmental Scientist",
+      "location": "Frisco, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "date_posted": "2026-06-25T17:13:32.000Z",
+      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -766,6 +740,19 @@
       "date_posted": "2026-06-24T18:43:25.000Z",
       "description": "Bachelor's in environmental science or related field, 1+ years post-education environmental field experience, GIS and Trimble GPS experience, knowledge of environmental laws, field sampling and data analysis skills, strong communication and safety compliance.",
       "salary": "$77k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ri",
+      "title": "ENVIRONMENTAL SCIENTIST II",
+      "location": "Rhode Island or United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "Bachelor's in an environmental/physical/biological science or related field and minimum 2 years environmental science/engineering experience; knowledge of environmental laws/regulations, ability to analyze data, conduct inspections, prepare technical documents, and communicate findings.",
+      "salary": "$82k–$93k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1265,6 +1252,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "HDR",
+      "title": "Senior Geologist",
+      "location": "Tampa, Florida, United States",
+      "url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=193819&lang=en",
+      "direct_url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=193819&lang=en",
+      "date_posted": "2026-06-26T12:00:00.000Z",
+      "description": "Bachelor's in geology or related, minimum 10 years' experience (advanced degree may offset years), fieldwork experience, project/staff/client management, Microsoft Office proficiency, strong communication and leadership; travel may be required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Freeport-McMoRan",
       "title": "Senior Geologist",
       "location": "Climax, Colorado, United States",
@@ -1486,19 +1486,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Association of Village Council Presidents",
-      "title": "Natural Resources Program Coordinator",
-      "location": "Bethel, Alaska, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4203267",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4203267",
-      "date_posted": "2026-05-27T19:22:37.604Z",
-      "description": "Coordinate natural resources programs; manage communications, budgeting, grants; travel; Alaska driver license; Native preference; Yup’ik/Cup’ik familiarity preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Acrt",
       "title": "Natural Resources Field Technician",
       "location": "Stow or Hendersonville or United States",
@@ -1657,91 +1644,26 @@
   ],
   "new_jobs": [
     {
-      "company": "GEI Consultants",
-      "title": "Environmental Scientist",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.jobvite.com/gei-consultants/job/oRm3zfwz?nl=1&fr=true",
-      "direct_url": "https://jobs.jobvite.com/gei-consultants/job/oRm3zfwz?nl=1&fr=true",
-      "date_posted": "2026-06-10T20:14:09.699Z",
-      "description": "B.S. in Environmental Science/Geology/Engineering, 3+ years environmental consulting experience, field remedial action oversight, 40-hour HAZWOPER and OSHA 30 training, proficiency with Microsoft Office and spatial tools, valid U.S. driver’s license, willingness to travel to NYC sites.",
-      "salary": "$79k–$92k/yr",
+      "company": "Sunoco LP",
+      "title": "GIS Analyst",
+      "location": "San Antonio, Texas, United States",
+      "url": "https://energytransfer.taleo.net/careersection/etp_ext_sun/jobdetail.ftl?job=2610001783&lang=en",
+      "direct_url": "https://energytransfer.taleo.net/careersection/etp_ext_sun/jobdetail.ftl?job=2610001783&lang=en",
+      "date_posted": "2026-06-26T19:03:18.000Z",
+      "description": "Bachelor's in Geography/GIS or equivalent; experience with ArcGIS Pro/Portal/Online, Field Maps, Survey123, Quick Capture, Dashboards, Insights, Experience Builder, Arcade, Python/ArcPy, Model Builder; strong communication, attention to detail, and ability to work independently.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "GEI Consultants",
-      "title": "Environmental Scientist",
-      "location": "New York City, New York, United States",
-      "url": "https://geicareers.ttcportals.com/jobs/17672909",
-      "direct_url": "https://geicareers.ttcportals.com/jobs/17672909",
-      "date_posted": "2026-06-10T18:08:18.000Z",
-      "description": "B.S. in Environmental Science, Geology, or Engineering; 3+ years environmental consulting experience; 40-hour HAZWOPER and OSHA 30-hour Construction; experience with remedial actions, field sampling, report writing, Microsoft Office; valid U.S. driver's license; willingness to travel within NYC/tri-state.",
-      "salary": "$79k–$92k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "WSP",
-      "title": "Associate Environmental Scientist",
-      "location": "Redmond, Washington, United States",
-      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
-      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
-      "date_posted": "2026-06-24T18:43:25.000Z",
-      "description": "Bachelor's in environmental science or related field, 1+ years post-education environmental field experience, GIS and Trimble GPS experience, knowledge of environmental laws, field sampling and data analysis skills, strong communication and safety compliance.",
-      "salary": "$77k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Spheros Environmental",
-      "title": "Environmental Scientist I/II",
-      "location": "Springfield or Chicago or United States",
-      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604475169",
-      "direct_url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604475169",
-      "date_posted": "2026-06-18T01:47:11.696Z",
-      "description": "Bachelor's in environmental science or related field required; 1+ years professional experience preferred. Experience with environmental monitoring, scientific instrumentation, telemetry, GIS (ESRI ArcPro), Microsoft Office/Excel, data management, and valid driver's license required.",
-      "salary": "$52k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Minnesota",
-      "title": "Groundwater Hydrologist - Hydrologist 1",
-      "location": "St. Paul, Minnesota, United States",
-      "url": "https://careers.mn.gov/psc/mnjobacc/MNCAREERSACCESSIBLE/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1002&JobOpeningId=95016&PostingSeq=1",
-      "direct_url": "https://careers.mn.gov/psc/mnjobacc/MNCAREERSACCESSIBLE/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1002&JobOpeningId=95016&PostingSeq=1",
-      "date_posted": "2026-06-26T00:00:00.000Z",
-      "description": "Bachelor's degree in a related field required; transcripts and hydrology coursework required. Must be able to use GIS and basic office software, perform hydrogeologic analysis, conduct fieldwork (carry equipment, rugged terrain), have an unrestricted Class D driver’s license, and be authorized to work in the U.S.",
-      "salary": "$58k–$79k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Texas Water Development Board",
-      "title": "TWDB - 26-99: Groundwater Grant Technical Specialist (Hydrologist II-III)",
-      "location": "Austin, Texas, United States",
-      "url": "https://capps.taleo.net/careersection/ex/jobdetail.ftl?job=00058552&lang=en",
-      "direct_url": "https://capps.taleo.net/careersection/ex/jobdetail.ftl?job=00058552&lang=en",
-      "date_posted": "2026-06-09T16:41:28.000Z",
-      "description": "Bachelor's in hydrology/engineering/geology/math/natural or physical science; Hydrologist II requires 2 years relevant experience, Hydrologist III 5 years; able to meet in-office requirements, travel 25%, maintain licenses/certifications, and operate a vehicle.",
-      "salary": "$51k–$73k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Doe Run Company",
-      "title": "Geologist III",
-      "location": "Viburnum or St. Louis or Missouri or Washington or Arizona",
-      "url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=56b71bd2-d432-4e48-91a7-ab3bc1b072df",
-      "direct_url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=56b71bd2-d432-4e48-91a7-ab3bc1b072df",
-      "date_posted": "2026-06-26T13:35:26.359Z",
-      "description": "Bachelor's in Geology, valid driver's license, minimum 5 years geological experience, proficiency in two+ areas (core logging, exploration, drill program management, modeling, or resource estimation), advanced spreadsheet/database skills and 3D modeling software experience.",
+      "company": "HDR",
+      "title": "Senior Geologist",
+      "location": "Tampa, Florida, United States",
+      "url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=193819&lang=en",
+      "direct_url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=193819&lang=en",
+      "date_posted": "2026-06-26T12:00:00.000Z",
+      "description": "Bachelor's in geology or related, minimum 10 years' experience (advanced degree may offset years), fieldwork experience, project/staff/client management, Microsoft Office proficiency, strong communication and leadership; travel may be required.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
