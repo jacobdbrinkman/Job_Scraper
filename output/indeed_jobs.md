@@ -1,14 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-26 19:28 UTC*
+*Last updated: 2026-06-26 21:18 UTC*
 
-**2 new role(s)** since last run · 5 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [RESEARCH DATA SPECIALIST I](https://www.indeed.com/viewjob?jk=7c07c7f103d2ba27) — Department of Developmental Services - Headquarters
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $6955–$8706/mo
-- 🕒 **Posted:** 2026-06-26
+### [Senior Associate Environmental Scientist](https://www.indeed.com/viewjob?jk=33b064d475a355b4) — QK
+- 📍 **Location:** Clovis, CA, US
+- 💰 **Salary:** $41–$47/hr
+- 🕒 **Posted:** 2026-06-01
 
-### [Data Analyst, Energy Markets](https://www.indeed.com/viewjob?jk=7fdd937d792c741e) — Generate Upcycle
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $65k–$85k/yr
+### [Consumer Protection Program Coordinator](https://www.indeed.com/viewjob?jk=55107d033ad3ee4a) — Weld County, CO
+- 📍 **Location:** Greeley, CO, US
+- 💰 **Salary:** $88k–$119k/yr
 - 🕒 **Posted:** 2026-06-26
