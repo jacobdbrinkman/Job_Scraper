@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-26 01:56 UTC",
-  "total": 129,
-  "new_count": 3,
+  "scraped_at": "2026-06-26 06:07 UTC",
+  "total": 127,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -498,15 +498,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Dewberry",
-      "title": "Geospatial Analyst II",
-      "location": "Los Angeles or Sacramento",
-      "url": "https://careers-dewberry.icims.com/jobs/15605/geospatial-analyst-ii/job?in_iframe=1",
-      "direct_url": "https://careers-dewberry.icims.com/jobs/15605/geospatial-analyst-ii/job?in_iframe=1",
-      "date_posted": "2026-05-27T04:00:00.000Z",
-      "description": "Bachelor's degree in emergency management, public administration, planning, data science, or related field; minimum 3 years emergency management planning experience; strong data analysis and GIS skills; eligible for Public Trust clearance; valid driver’s license.",
-      "salary": "",
-      "job_type": "Contract, Temporary",
+      "company": "Texas Health and Human Services Commission (HHSC)",
+      "title": "Geospatial Data Analyst (AUSTIN, TX)",
+      "location": "Austin, Texas, United States",
+      "url": "https://careers.hhs.texas.gov/hhscjobs/job/AUSTIN-Geospatial-Data-Analyst-TX-73301/1401466100/",
+      "direct_url": "https://careers.hhs.texas.gov/hhscjobs/job/AUSTIN-Geospatial-Data-Analyst-TX-73301/1401466100/",
+      "date_posted": "2026-06-22T23:00:16.036Z",
+      "description": "Bachelor's degree (or equivalent) and 4 years' experience with data acquisition, management, analysis and visualization; experience with geospatial data, SQL, Python, ArcGIS, Snowflake, and statistical tools (SAS/SPSS).",
+      "salary": "$77k–$103k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -519,19 +519,6 @@
       "date_posted": "2026-06-15T14:35:00.000Z",
       "description": "Extensive experience with ESRI ArcGIS, geospatial data maintenance and publication (road centerlines, building footprints, parcels, address points), reporting, collaboration, and familiarity with the Virginia Base Mapping Program.",
       "salary": "$68k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Texas Health and Human Services Commission (HHSC)",
-      "title": "Geospatial Data Analyst (AUSTIN, TX)",
-      "location": "Austin, Texas, United States",
-      "url": "https://careers.hhs.texas.gov/hhscjobs/job/AUSTIN-Geospatial-Data-Analyst-TX-73301/1401466100/",
-      "direct_url": "https://careers.hhs.texas.gov/hhscjobs/job/AUSTIN-Geospatial-Data-Analyst-TX-73301/1401466100/",
-      "date_posted": "2026-06-22T23:00:16.036Z",
-      "description": "Bachelor's degree (or equivalent) and 4 years' experience with data acquisition, management, analysis and visualization; experience with geospatial data, SQL, Python, ArcGIS, Snowflake, and statistical tools (SAS/SPSS).",
-      "salary": "$77k–$103k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -758,6 +745,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Ri",
+      "title": "ENVIRONMENTAL SCIENTIST II",
+      "location": "Rhode Island or United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "Bachelor's in an environmental/physical/biological science or related field and minimum 2 years environmental science/engineering experience; knowledge of environmental laws/regulations, ability to analyze data, conduct inspections, prepare technical documents, and communicate findings.",
+      "salary": "$82k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "King County, WA",
       "title": "Environmental Scientist IV",
       "location": "Renton or Seattle or Washington",
@@ -940,19 +940,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Spheros Environmental",
-      "title": "Environmental Scientist I/II",
-      "location": "Springfield or Chicago or United States",
-      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604475169",
-      "direct_url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604475169",
-      "date_posted": "2026-06-18T01:47:11.696Z",
-      "description": "Bachelor's in environmental science or related field required; 1+ years professional experience preferred. Experience with environmental monitoring, scientific instrumentation, telemetry, GIS (ESRI ArcPro), Microsoft Office/Excel, data management, and valid driver's license required.",
-      "salary": "$52k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Department of the Air Force",
       "title": "AIR FORCE HYDROLOGIST - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB or Lackland AFB or San Antonio",
@@ -1096,27 +1083,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Arcadis",
+      "company": "Select",
       "title": "Geologist",
-      "location": "Philadelphia or Conshohocken or East Windsor",
-      "url": "https://arcadis.eightfold.ai/careers/job/563671532029025",
-      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532029025",
-      "date_posted": "2026-05-29T13:58:24.000Z",
-      "description": "Bachelor's in geology or related field required; OSHA 40-hour HAZWOPER preferred; valid driver's license; field sampling and report-writing skills; able to travel regionally (50–75% first two years).",
-      "salary": "$55k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of the Interior",
-      "title": "Geologist",
-      "location": "Lakewood, Colorado, United States",
-      "url": "https://www.usajobs.gov/job/873802100",
-      "direct_url": "https://www.usajobs.gov/job/873802100",
-      "date_posted": "2026-06-22T11:45:04.447Z",
-      "description": "Bachelor's degree in geology (plus 20 semester hours in related sciences/engineering) or equivalent experience; GS-13 requires ≥1 year specialized experience in oil, gas, helium, or geothermal development on Federal land; must provide transcripts.",
-      "salary": "$119k–$154k/yr",
+      "location": "Midland-Odessa or Dallas or Oklahoma City or Houston",
+      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
+      "date_posted": "2026-06-24T06:00:00.000Z",
+      "description": "Bachelor's in geology or related field required; 3+ years oil & gas geology experience; proficiency with Petra, Geographix, Petrel, Kingdom, ArcGIS; knowledge of Class II injection well regulations.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1135,14 +1109,40 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ANA United States",
+      "company": "SLB",
       "title": "Geologist",
-      "location": "Philadelphia or East Windsor",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/41330",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/41330",
+      "location": "Houston, Texas, United States",
+      "url": "https://slb.eightfold.ai/careers/job/563499731420396",
+      "direct_url": "https://slb.eightfold.ai/careers/job/563499731420396",
+      "date_posted": "2026-06-04T20:31:09.000Z",
+      "description": "Bachelor's degree in Geology required, recent graduate acceptable (<1 year). Strong communication and presentation skills, customer-service orientation, ability to work independently and collaboratively. Familiarity with Petrel and reservoir modeling. Must have legal right to work in the U.S. without visa sponsorship.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Arcadis",
+      "title": "Geologist",
+      "location": "Philadelphia or Conshohocken or East Windsor",
+      "url": "https://arcadis.eightfold.ai/careers/job/563671532029025",
+      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532029025",
       "date_posted": "2026-05-29T13:58:24.000Z",
-      "description": "Bachelor’s degree in Geology, Hydrogeology, or related field; field and office work; travel; OSHA 40-hour HAZWOPER preferred.",
+      "description": "Bachelor's in geology or related field required; OSHA 40-hour HAZWOPER preferred; valid driver's license; field sampling and report-writing skills; able to travel regionally (50–75% first two years).",
       "salary": "$55k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Chord Energy",
+      "title": "Geologist",
+      "location": "Houston or North Dakota or Montana",
+      "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Geologist_R0002427",
+      "direct_url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Geologist_R0002427",
+      "date_posted": "2026-06-09T00:00:00.000Z",
+      "description": "Bachelor's in geology or related field, 3+ years upstream oil & gas experience, familiarity with interpretation/mapping software, working knowledge of geologic and geophysical datasets, exposure to Python, strong technical and communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1161,40 +1161,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SLB",
+      "company": "Department of the Interior",
       "title": "Geologist",
-      "location": "Houston, Texas, United States",
-      "url": "https://slb.eightfold.ai/careers/job/563499731420396",
-      "direct_url": "https://slb.eightfold.ai/careers/job/563499731420396",
-      "date_posted": "2026-06-04T20:31:09.000Z",
-      "description": "Bachelor's degree in Geology required, recent graduate acceptable (<1 year). Strong communication and presentation skills, customer-service orientation, ability to work independently and collaboratively. Familiarity with Petrel and reservoir modeling. Must have legal right to work in the U.S. without visa sponsorship.",
-      "salary": "",
+      "location": "Lakewood, Colorado, United States",
+      "url": "https://www.usajobs.gov/job/873802100",
+      "direct_url": "https://www.usajobs.gov/job/873802100",
+      "date_posted": "2026-06-22T11:45:04.447Z",
+      "description": "Bachelor's degree in geology (plus 20 semester hours in related sciences/engineering) or equivalent experience; GS-13 requires ≥1 year specialized experience in oil, gas, helium, or geothermal development on Federal land; must provide transcripts.",
+      "salary": "$119k–$154k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Select",
+      "company": "ANA United States",
       "title": "Geologist",
-      "location": "Midland-Odessa or Dallas or Oklahoma City or Houston",
-      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
-      "date_posted": "2026-06-24T06:00:00.000Z",
-      "description": "Bachelor's in geology or related field required; 3+ years oil & gas geology experience; proficiency with Petra, Geographix, Petrel, Kingdom, ArcGIS; knowledge of Class II injection well regulations.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Chord Energy",
-      "title": "Geologist",
-      "location": "Houston or North Dakota or Montana",
-      "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Geologist_R0002427",
-      "direct_url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Geologist_R0002427",
-      "date_posted": "2026-06-09T00:00:00.000Z",
-      "description": "Bachelor's in geology or related field, 3+ years upstream oil & gas experience, familiarity with interpretation/mapping software, working knowledge of geologic and geophysical datasets, exposure to Python, strong technical and communication skills.",
-      "salary": "",
+      "location": "Philadelphia or East Windsor",
+      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/41330",
+      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/41330",
+      "date_posted": "2026-05-29T13:58:24.000Z",
+      "description": "Bachelor’s degree in Geology, Hydrogeology, or related field; field and office work; travel; OSHA 40-hour HAZWOPER preferred.",
+      "salary": "$55k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1447,19 +1434,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ri",
-      "title": "ENVIRONMENTAL SCIENTIST II",
-      "location": "Rhode Island or United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "Bachelor's in an environmental/physical/biological science or related field and minimum 2 years environmental science/engineering experience; knowledge of environmental laws/regulations, ability to analyze data, conduct inspections, prepare technical documents, and communicate findings.",
-      "salary": "$82k–$93k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Apex Companies",
       "title": "Environmental Scientist 1",
       "location": "Fullerton, California, United States",
@@ -1681,45 +1655,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "CSU Fullerton Auxiliary Services Corporation (ASC)",
-      "title": "GIS Analyst",
-      "location": "Fullerton, California, United States",
-      "url": "https://www.governmentjobs.com/careers/csufasc/jobs/5387638",
-      "direct_url": "https://www.governmentjobs.com/careers/csufasc/jobs/5387638",
-      "date_posted": "2026-06-24T17:03:49.000Z",
-      "description": "1.5+ years GIS experience, proficiency with Esri ArcGIS Pro 3.x+ and ArcGIS Online, Bachelor's degree in GIS/related field required, MS Office/Excel/Access proficiency, strong communication and project management skills, familiarity with Census data.",
-      "salary": "$77k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Michigan",
-      "title": "Geologist 9-P11 - Water Use Program Geologist",
-      "location": "East Lansing, Michigan, United States",
-      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
-      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
-      "date_posted": "2026-06-25T22:16:28.000Z",
-      "description": "Bachelor's in geology or related with specified core geology coursework; preferred training in glacial geology/hydrogeology; experience range 0–2 years depending on level; experience with GIS/GPS and hydrogeologic analysis.",
-      "salary": "$52k–$88k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ri",
-      "title": "ENVIRONMENTAL SCIENTIST II",
-      "location": "Rhode Island or United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "Bachelor's in an environmental/physical/biological science or related field and minimum 2 years environmental science/engineering experience; knowledge of environmental laws/regulations, ability to analyze data, conduct inspections, prepare technical documents, and communicate findings.",
-      "salary": "$82k–$93k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
