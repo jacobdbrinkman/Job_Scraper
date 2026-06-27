@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26 18:02 UTC",
-  "total": 14,
+  "scraped_at": "2026-06-27 17:20 UTC",
+  "total": 15,
   "new_count": 0,
   "jobs": [
     {
@@ -85,11 +85,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Transportation",
-      "title": "Senior Environmental Scientist - Lead Worker",
-      "location": "Inyo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522299",
-      "date_posted": "2026-06-22",
+      "company": "Department of Fish and Wildlife",
+      "title": "Senior Environmental Scientist (Specialist)",
+      "location": "San Joaquin County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522382",
+      "date_posted": "2026-06-23",
       "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
@@ -113,6 +113,15 @@
     },
     {
       "company": "State Water Resources Control Board",
+      "title": "Senior Environmental Scientist (Specialist)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521406",
+      "date_posted": "2026-06-22",
+      "salary": "$7820.00 - $10732.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
       "title": "ENGINEERING GEOLOGIST",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520774",
@@ -121,11 +130,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
+      "company": "Department of Resources Recycling & Recovery",
       "title": "Senior Environmental Scientist (Specialist)",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522382",
-      "date_posted": "2026-06-23",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518460",
+      "date_posted": "2026-06-26",
       "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     }
