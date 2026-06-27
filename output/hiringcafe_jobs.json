@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-27 18:57 UTC",
-  "total": 126,
-  "new_count": 1,
+  "scraped_at": "2026-06-27 20:46 UTC",
+  "total": 124,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -641,19 +641,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GEI Consultants",
-      "title": "Environmental Scientist",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.jobvite.com/gei-consultants/job/oRm3zfwz?nl=1&fr=true",
-      "direct_url": "https://jobs.jobvite.com/gei-consultants/job/oRm3zfwz?nl=1&fr=true",
-      "date_posted": "2026-06-10T20:14:09.699Z",
-      "description": "B.S. in Environmental Science/Geology/Engineering, 3+ years environmental consulting experience, field remedial action oversight, 40-hour HAZWOPER and OSHA 30 training, proficiency with Microsoft Office and spatial tools, valid U.S. driver’s license, willingness to travel to NYC sites.",
-      "salary": "$79k–$92k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Trilon Group",
       "title": "Environmental Scientist I",
       "location": "Waynesburg, Pennsylvania, United States",
@@ -662,6 +649,19 @@
       "date_posted": "2026-05-29T18:17:40.956Z",
       "description": "Entry-level environmental scientist; field data collection, data processing, quality control, outdoor work; GIS/GPS experience; weekend/holiday work.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GEI Consultants",
+      "title": "Environmental Scientist",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.jobvite.com/gei-consultants/job/oRm3zfwz?nl=1&fr=true",
+      "direct_url": "https://jobs.jobvite.com/gei-consultants/job/oRm3zfwz?nl=1&fr=true",
+      "date_posted": "2026-06-10T20:14:09.699Z",
+      "description": "B.S. in Environmental Science/Geology/Engineering, 3+ years environmental consulting experience, field remedial action oversight, 40-hour HAZWOPER and OSHA 30 training, proficiency with Microsoft Office and spatial tools, valid U.S. driver’s license, willingness to travel to NYC sites.",
+      "salary": "$79k–$92k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -888,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Johnson, Mirmiran & Thompson, Inc.",
-      "title": "Senior Environmental Scientist",
-      "location": "Jacksonville, Florida, United States",
-      "url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
-      "date_posted": "2026-06-05T18:16:04.721Z",
-      "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Senior Environmental Scientist",
       "location": "Clovis, California, United States",
@@ -909,6 +896,19 @@
       "date_posted": "2026-06-24T19:55:12.571Z",
       "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
       "salary": "$105k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville, Florida, United States",
+      "url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
+      "date_posted": "2026-06-05T18:16:04.721Z",
+      "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -966,19 +966,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport-McMoRan",
-      "title": "Environmental Scientist II",
-      "location": "Phoenix or Tucson",
-      "url": "https://talent.fmjobs.com/careers/job/42580930",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42580930",
-      "date_posted": "2026-06-24T15:41:01.000Z",
-      "description": "Bachelor's in related field plus 3 years' environmental experience OR Master's plus 1 year. Certifications such as HAZWOPER, Method 9, DOT, EMS Auditor, asbestos, water treatment operator, or CHMM may be required. Willingness to travel and perform fieldwork; project management and data analysis experience preferred.",
-      "salary": "$88k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Minnesota",
       "title": "Groundwater Hydrologist - Hydrologist 1",
       "location": "St. Paul, Minnesota, United States",
@@ -1001,19 +988,6 @@
       "description": "Bachelor's degree in physical/natural science or engineering with specified hydrology coursework, plus 1 year of specialized experience at NH-02/GS-11 level; expertise in hydrogeology, contaminant transport, remediation strategy, regulations, communication, planning, and interdisciplinary coordination.",
       "salary": "$91k–$140k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Texas Water Development Board",
-      "title": "TWDB - 26-99: Groundwater Grant Technical Specialist (Hydrologist II-III)",
-      "location": "Austin, Texas, United States",
-      "url": "https://capps.taleo.net/careersection/ex/jobdetail.ftl?job=00058552&lang=en",
-      "direct_url": "https://capps.taleo.net/careersection/ex/jobdetail.ftl?job=00058552&lang=en",
-      "date_posted": "2026-06-09T16:41:28.000Z",
-      "description": "Bachelor's in hydrology/engineering/geology/math/natural or physical science; Hydrologist II requires 2 years relevant experience, Hydrologist III 5 years; able to meet in-office requirements, travel 25%, maintain licenses/certifications, and operate a vehicle.",
-      "salary": "$51k–$73k/yr",
-      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -1642,19 +1616,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "State of Michigan",
-      "title": "Geologist 9-P11 - Water Use Program Geologist",
-      "location": "East Lansing, Michigan, United States",
-      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
-      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
-      "date_posted": "2026-06-25T22:16:28.000Z",
-      "description": "Bachelor's in geology or related with specified core geology coursework; preferred training in glacial geology/hydrogeology; experience range 0–2 years depending on level; experience with GIS/GPS and hydrogeologic analysis.",
-      "salary": "$52k–$88k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
