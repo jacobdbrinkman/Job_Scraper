@@ -1,102 +1,75 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-27 00:40 UTC*
+*Last updated: 2026-06-27 05:20 UTC*
 
-**22 new role(s)** since last run · 26 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4434058704/) — KPFF Consulting Engineers
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $35-$40
+### [Senior Business Data Analyst](https://www.linkedin.com/jobs/view/4430668691/) — VSP Vision Care
+- 📍 **Location:** Rancho Cordova, CA
+- 💰 **Salary:** $63,000.00 - $108,675.00
 - 🕒 **Posted:** 2026-06-27
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4434074122/) — DRMP
-- 📍 **Location:** Orlando, FL
-- 🕒 **Posted:** 2026-06-27
-
-### [Nuisance Wildlife Field Technician](https://www.linkedin.com/jobs/view/4434049977/) — Rusty's Animal Control (RAC)
-- 📍 **Location:** Greenfield, IN
-- 🕒 **Posted:** 2026-06-27
-
-### [Survey Technician](https://www.linkedin.com/jobs/view/4434064625/) — val's services
-- 📍 **Location:** Cockeysville, MD
-- 🕒 **Posted:** 2026-06-27
-
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4430651387/) — TRC Companies, Inc.
-- 📍 **Location:** Riverside, RI
-- 💰 **Salary:** USD $64,584.00 - USD $85,000.00 /Yr
-- 🕒 **Posted:** 2026-06-27
-
-### [Geologist  - Exploration Project](https://www.linkedin.com/jobs/view/4433428576/) — Northern Star Pogo Mine
-- 📍 **Location:** Delta Junction, AK
-- 💰 **Salary:** $103,500.00/yr - $113,500.00/yr
-- 🕒 **Posted:** 2026-06-27
-
-### [Data Analyst (Entry-Level / Junior)](https://www.linkedin.com/jobs/view/4430637608/) — Eryx Digital
+### [Data Analyst II, Tech](https://www.linkedin.com/jobs/view/4434094328/) — Uber
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-06-27
 
-### [Data Analyst (Power BI | Project Controls | Program Analytics).](https://www.linkedin.com/jobs/view/4434060568/) — Oceaneering
-- 📍 **Location:** Houston, TX
+### [Lead Healthcare Data Analyst (Pre-sale)](https://www.linkedin.com/jobs/view/4428856469/) — HealthVerity
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $150,000 - 190,000
 - 🕒 **Posted:** 2026-06-27
 
-### [HIM Data Analyst](https://www.linkedin.com/jobs/view/4434060941/) — Massachusetts General Hospital
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $63,648.00 - $92,570.40/Annual
+### [Lead Healthcare Data Analyst (Post-sale)](https://www.linkedin.com/jobs/view/4428846431/) — HealthVerity
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $150,000 - 190,000
 - 🕒 **Posted:** 2026-06-27
 
-### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4430657376/) — MetroPower
-- 📍 **Location:** Macon, GA
+### [Hydrogeologist/Hydrologist](https://www.linkedin.com/jobs/view/4430680502/) — The Foth Companies
+- 📍 **Location:** Duluth, MN
+- 💰 **Salary:** $50,000.00/yr - $70,000.00/yr
 - 🕒 **Posted:** 2026-06-27
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4434055672/) — TestEquity LLC
-- 📍 **Location:** North Richland Hills, TX
+### [Hydrogeologist/Hydrologist](https://www.linkedin.com/jobs/view/4430662660/) — The Foth Companies
+- 📍 **Location:** Green Bay, WI
+- 💰 **Salary:** $50,000.00/yr - $70,000.00/yr
 - 🕒 **Posted:** 2026-06-27
 
-### [Care Management Program Coordinator | 1.0 FT](https://www.linkedin.com/jobs/view/4433430433/) — Phelps Health
-- 📍 **Location:** Rolla, MO
+### [Hydrogeologist/Hydrologist](https://www.linkedin.com/jobs/view/4430660710/) — The Foth Companies
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $50,000.00/yr - $70,000.00/yr
 - 🕒 **Posted:** 2026-06-27
 
-### [ProServe Solutions Engineer](https://www.linkedin.com/jobs/view/4434064409/) — SewerAI
-- 📍 **Location:** United States
-- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-06-26
+### [Lead Hydrogeologist](https://www.linkedin.com/jobs/view/4430660706/) — The Foth Companies
+- 📍 **Location:** Green Bay, WI
+- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-06-27
 
-### [Sr Data Analyst - Store Analytics](https://www.linkedin.com/jobs/view/4434050768/) — Tailored Brands, Inc.
-- 📍 **Location:** Dublin, CA
-- 💰 **Salary:** $106,800 – $145,000
-- 🕒 **Posted:** 2026-06-26
+### [Lead Hydrogeologist](https://www.linkedin.com/jobs/view/4430678542/) — The Foth Companies
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-06-27
 
-### [Research Data Analyst 2 RP](https://www.linkedin.com/jobs/view/4434051695/) — UCLA
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $33.96/hr - $69.54/hr
-- 🕒 **Posted:** 2026-06-26
+### [Lead Hydrogeologist](https://www.linkedin.com/jobs/view/4430671563/) — The Foth Companies
+- 📍 **Location:** Duluth, MN
+- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-06-27
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4434065239/) — Addison Group
-- 📍 **Location:** Anaheim, CA
-- 💰 **Salary:** $35-$40/per
-- 🕒 **Posted:** 2026-06-26
+### [Lead Hydrogeologist](https://www.linkedin.com/jobs/view/4430676504/) — The Foth Companies
+- 📍 **Location:** Madison, WI
+- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-06-27
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4434044975/) — W3Global
-- 📍 **Location:** Bridgewater, NJ
-- 💰 **Salary:** $80,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-06-26
+### [Training Project Coordinator](https://www.linkedin.com/jobs/view/4433452263/) — Siemens
+- 📍 **Location:** Wendell, NC
+- 🕒 **Posted:** 2026-06-27
 
-### [Clinical Research Data Specialist II](https://www.linkedin.com/jobs/view/4434047444/) — University of Southern California
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $34.38 - $38.46
-- 🕒 **Posted:** 2026-06-26
+### [PROJECT COORDINATOR (ONSITE)](https://www.linkedin.com/jobs/view/4434200059/) — TSP
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-06-27
 
-### [Metadata Analyst - 17052](https://www.linkedin.com/jobs/view/4424604310/) — Seneca Resources
-- 📍 **Location:** Gambrills, MD
-- 🕒 **Posted:** 2026-06-26
+### [IT, Project Coordinator](https://www.linkedin.com/jobs/view/4430661650/) — Miami Dolphins and Hard Rock Stadium
+- 📍 **Location:** Miami Gardens, FL
+- 🕒 **Posted:** 2026-06-27
 
-### [Project Coordinator | Full-Time | Days](https://www.linkedin.com/jobs/view/4433364490/) — UF Health Central Florida
-- 📍 **Location:** Leesburg, FL
-- 🕒 **Posted:** 2026-06-26
-
-### [Construction Project Coordinator (Assistant Project Manager)](https://www.linkedin.com/jobs/view/4434048887/) — Qualdoc
-- 📍 **Location:** Falls Church, VA
-- 🕒 **Posted:** 2026-06-26
-
-### [Program Coordinator - Research Office LaunchLab](https://www.linkedin.com/jobs/view/4431876458/) — West Virginia University
-- 📍 **Location:** Morgantown, WV
-- 🕒 **Posted:** 2026-06-26
+### [GME Program Coordinator](https://www.linkedin.com/jobs/view/4434085940/) — UNC Health
+- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
+- 💰 **Salary:** $20.74 - $29.52 per hour
+- 🕒 **Posted:** 2026-06-27
