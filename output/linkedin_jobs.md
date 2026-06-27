@@ -1,85 +1,62 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-27 20:35 UTC*
+*Last updated: 2026-06-27 22:30 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4434245314/) — Ideal Restoration, Inc
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4430691574/) — The AI Synergy
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433465960/) — Minute of law
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-06-27
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433470865/) — Minute of law
+### [Senior Project Manager/Environmental Scientist](https://www.linkedin.com/jobs/view/4433469903/) — GHD
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $85,000-$145,000
+- 🕒 **Posted:** 2026-06-27
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4433482428/) — Forgeworks.ai
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $60,000–$70,000
+- 🕒 **Posted:** 2026-06-27
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4433489004/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $97,000.00/yr - $97,000.00/yr
+- 🕒 **Posted:** 2026-06-27
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4431011276/) — Synergy LATAM
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-06-27
 
-### [Remote Project Coordinator](https://www.linkedin.com/jobs/view/4431004995/) — Synergy CropScience Private Limited
-- 📍 **Location:** California, United States
+### [Project Data Analyst (Entry / Junior Level)](https://www.linkedin.com/jobs/view/4431010308/) — Score Distribuição SA
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-06-27
 
-### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4433479553/) — Cape Environmental Management Inc
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $80K - $102K
+### [Data Analyst](https://www.linkedin.com/jobs/view/4434244508/) — Chir Sarathi
+- 📍 **Location:** Active, AL
 - 🕒 **Posted:** 2026-06-27
 
-### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4433479552/) — Cape Environmental Management Inc
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $80K - $102K
+### [Revenue Data Analyst](https://www.linkedin.com/jobs/view/4433465937/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $100,600 to $148,000 USD
 - 🕒 **Posted:** 2026-06-27
 
-### [Research Data Analyst Associate (1-year Term) [Multiple Openings]](https://www.linkedin.com/jobs/view/4434247347/) — Northwestern University
-- 📍 **Location:** Evanston, IL
-- 💰 **Salary:** $57,000-$72,000 per year
+### [Clinical Data Analyst](https://www.linkedin.com/jobs/view/4433477743/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $28.37/hr - $48.96/hr
 - 🕒 **Posted:** 2026-06-27
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4433477674/) — Jobright.ai
+### [Data Analyst](https://www.linkedin.com/jobs/view/4433483414/) — FetchJobs.co
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-06-27
 
-### [PROJECT GEOLOGIST / PROJECT ENVIRONMENTAL SCIENTIST](https://www.linkedin.com/jobs/view/4434247228/) — Broadbent & Associates, Inc.
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-06-27
-
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4434248399/) — Synergy LATAM
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-06-27
-
-### [Healthcare Data Analyst](https://www.linkedin.com/jobs/view/4433477679/) — RemoteHunter
+### [Lead Field Technician - REMOTE](https://www.linkedin.com/jobs/view/4433466969/) — RemoteHunter
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-06-27
 
-### [NY Seasonal Field Technician](https://www.linkedin.com/jobs/view/4434240563/) — Trout Unlimited
-- 📍 **Location:** New York, United States
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4429111963/) — Motion Recruitment
+- 📍 **Location:** Bay Shore, NY
+- 💰 **Salary:** $70,000.00/yr - $72,000.00/yr
 - 🕒 **Posted:** 2026-06-27
 
-### [Data Analyst, Senior (Pending Contract Award) SBG](https://www.linkedin.com/jobs/view/4434250135/) — Document Storage Systems
-- 📍 **Location:** Alexandria, VA
-- 🕒 **Posted:** 2026-06-27
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4434253139/) — Radiant Digital Solutions LLC
-- 📍 **Location:** Rhode Island, United States
-- 🕒 **Posted:** 2026-06-27
-
-### [Multi-Family Project Coordinator](https://www.linkedin.com/jobs/view/4434241533/) — Energy Panel Structures
-- 📍 **Location:** Perryville, MO
-- 🕒 **Posted:** 2026-06-27
-
-### [Planning Project Coordinator - Commercial Plan Review](https://www.linkedin.com/jobs/view/4434239542/) — City of Charlotte
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $79,245.00 - $113,915
-- 🕒 **Posted:** 2026-06-27
-
-### [Undergraduate Program Coordinator & Major/Minor Advisor](https://www.linkedin.com/jobs/view/4433510011/) — University of Michigan
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $47,600.00/yr - $59,500.00/yr
-- 🕒 **Posted:** 2026-06-27
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4434248349/) — Northwestern University
-- 📍 **Location:** Evanston, IL
-- 🕒 **Posted:** 2026-06-27
-
-### [Utility Project Coordinator](https://www.linkedin.com/jobs/view/4434245356/) — Indian River County Board of County Commissioners
-- 📍 **Location:** Vero Beach, FL
+### [Foundation Project Coordinator](https://www.linkedin.com/jobs/view/4433464975/) — Missouri Western State University
+- 📍 **Location:** St Joseph, MO
 - 🕒 **Posted:** 2026-06-27
