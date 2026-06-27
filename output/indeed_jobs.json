@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-26 22:58 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-06-27 01:35 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Department of Developmental Services - Headquarters",
@@ -33,6 +33,23 @@
       "salary_source": "direct_data",
       "salary_currency": "USD",
       "job_type": "fulltime",
+      "is_remote": false,
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "University of Southern California",
+      "title": "Clinical Research Data Specialist II",
+      "location": "Los Angeles, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=46aec85cb4b2ef4a",
+      "direct_url": "https://usccareers.usc.edu/job/los-angeles/clinical-research-data-specialist-ii/1209/96973070432",
+      "company_url": "https://www.indeed.com/cmp/University-of-Southern-California",
+      "date_posted": "2026-06-26",
+      "description": "**Job ID** REQ20176921 **Category** Nursing\n  \nThe University of Southern California (USC), founded in 1880, is the largest private employer in the City of Los Angeles. As an employee of USC, you will be a part of a world\\-class research university and a member of the \"Trojan Family,\" which is comprised of the faculty, students and staff that make the university what it is.\n\n\nWe are looking for a highly motivated and qualified candidate with experience in clinical trials data management.\n\n\nSpecific Job Duties:\n\n* Coordinates and manages the clinical data for various phases of clinical study. Ensures data is documented and recorded as appropriate. Reads and understands clinical data from medical records and assists in obtaining outside documents. Extracts and enters required clinical data from medical records and patient research charts/reports into Clinical Research Forms (eCRFs/CRFs). Notifies PI or Study Coordinator of issues or violations.\n* Acts as primary site contact with sponsor’s Clinical Research Associate (CRA) for externally sponsored trials. Provides timely data entry, plans and organizes monitoring visits and responds to inquiries. Addresses all queries during and after audit for resolution.\n* Maintains currency of federal regulations governing the protection of human subjects such as Food and Drug Administration (FDA), Good Clinical Practice/International Conference on Harmonisation (GCP/ICH) guidelines, Office of Human Research Protections (OHRP), Health Insurance Portability and Accountability Act (HIPAA), rules concerning reporting of Serious Adverse Events (SAEs) and violations with department training and feedback.\n* Interacts closely with quality assurance teams to ensure data accuracy on Clinical Research Forms (eCRFs/CRFs) prior to submission for in\\-house, National Cancer Institute (NCI) sponsored and Cooperative Group studies. Discerns basic data discrepancies/protocol violations.\n* Performs follow up for study patient survival by reviewing medical records. Contacts other institutions for data on patients hospitalized at other institutions.\n* Assists with study specimen procurement and handling.\n* Participates and attends internal and external new protocol start\\-up orientations and completes required protocol specific training.\n* Prepares and participates in audits of assigned studies such as National Cancer Institute (NCI), Food and Drug Administration (FDA) and pharmaceutical audits.\n* Participates in Quality Assurance Monitoring Committee (QAMC) in\\-house audits by reviewing assigned patient chart and reporting on findings as relates to protocol/patient compliance.\n* Completes spreadsheets for industry studies in real time to ensure sponsor is invoiced appropriately and timely.\n* Ensures confidentiality, accuracy, security and appropriate access of all data and records.\n* Performs other related duties as assigned or requested.\n\n\nThe hourly rate range for this position is **$34\\.38 \\- $38\\.46**. When extending an offer of employment, the University of Southern California considers factors such as (but not limited to) the scope and responsibilities of the position, the candidate's work experience, education/training, key skills, internal peer equity, federal, state and local laws, contractual stipulations, grant funding, as well as external market and organizational considerations.\n\n  \n\nMinimum Education: Bachelor's degree, Combined experience/education as substitute for minimum education Minimum Experience: 1 year Minimum Field of Expertise: Experience in clinical trials data management. Requires strong attention to detail with prior data entry experience. Basic medical knowledge such as understanding medical terms and familiarity with various assessment criteria. Strong verbal and written communication skills. Able to manage time efficiently.\n**Job ID** REQ20176921 **Posted Date** 06/26/2026",
+      "salary": "$34–$38/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "",
       "is_remote": false,
       "emails": "",
       "ats": "Indeed"
@@ -89,5 +106,23 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "University of Southern California",
+      "title": "Clinical Research Data Specialist II",
+      "location": "Los Angeles, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=46aec85cb4b2ef4a",
+      "direct_url": "https://usccareers.usc.edu/job/los-angeles/clinical-research-data-specialist-ii/1209/96973070432",
+      "company_url": "https://www.indeed.com/cmp/University-of-Southern-California",
+      "date_posted": "2026-06-26",
+      "description": "**Job ID** REQ20176921 **Category** Nursing\n  \nThe University of Southern California (USC), founded in 1880, is the largest private employer in the City of Los Angeles. As an employee of USC, you will be a part of a world\\-class research university and a member of the \"Trojan Family,\" which is comprised of the faculty, students and staff that make the university what it is.\n\n\nWe are looking for a highly motivated and qualified candidate with experience in clinical trials data management.\n\n\nSpecific Job Duties:\n\n* Coordinates and manages the clinical data for various phases of clinical study. Ensures data is documented and recorded as appropriate. Reads and understands clinical data from medical records and assists in obtaining outside documents. Extracts and enters required clinical data from medical records and patient research charts/reports into Clinical Research Forms (eCRFs/CRFs). Notifies PI or Study Coordinator of issues or violations.\n* Acts as primary site contact with sponsor’s Clinical Research Associate (CRA) for externally sponsored trials. Provides timely data entry, plans and organizes monitoring visits and responds to inquiries. Addresses all queries during and after audit for resolution.\n* Maintains currency of federal regulations governing the protection of human subjects such as Food and Drug Administration (FDA), Good Clinical Practice/International Conference on Harmonisation (GCP/ICH) guidelines, Office of Human Research Protections (OHRP), Health Insurance Portability and Accountability Act (HIPAA), rules concerning reporting of Serious Adverse Events (SAEs) and violations with department training and feedback.\n* Interacts closely with quality assurance teams to ensure data accuracy on Clinical Research Forms (eCRFs/CRFs) prior to submission for in\\-house, National Cancer Institute (NCI) sponsored and Cooperative Group studies. Discerns basic data discrepancies/protocol violations.\n* Performs follow up for study patient survival by reviewing medical records. Contacts other institutions for data on patients hospitalized at other institutions.\n* Assists with study specimen procurement and handling.\n* Participates and attends internal and external new protocol start\\-up orientations and completes required protocol specific training.\n* Prepares and participates in audits of assigned studies such as National Cancer Institute (NCI), Food and Drug Administration (FDA) and pharmaceutical audits.\n* Participates in Quality Assurance Monitoring Committee (QAMC) in\\-house audits by reviewing assigned patient chart and reporting on findings as relates to protocol/patient compliance.\n* Completes spreadsheets for industry studies in real time to ensure sponsor is invoiced appropriately and timely.\n* Ensures confidentiality, accuracy, security and appropriate access of all data and records.\n* Performs other related duties as assigned or requested.\n\n\nThe hourly rate range for this position is **$34\\.38 \\- $38\\.46**. When extending an offer of employment, the University of Southern California considers factors such as (but not limited to) the scope and responsibilities of the position, the candidate's work experience, education/training, key skills, internal peer equity, federal, state and local laws, contractual stipulations, grant funding, as well as external market and organizational considerations.\n\n  \n\nMinimum Education: Bachelor's degree, Combined experience/education as substitute for minimum education Minimum Experience: 1 year Minimum Field of Expertise: Experience in clinical trials data management. Requires strong attention to detail with prior data entry experience. Basic medical knowledge such as understanding medical terms and familiarity with various assessment criteria. Strong verbal and written communication skills. Able to manage time efficiently.\n**Job ID** REQ20176921 **Posted Date** 06/26/2026",
+      "salary": "$34–$38/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "",
+      "is_remote": false,
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
