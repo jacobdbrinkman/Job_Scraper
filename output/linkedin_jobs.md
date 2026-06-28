@@ -1,16 +1,19 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-27 23:31 UTC*
+*Last updated: 2026-06-28 05:02 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4434239830/) — The AI Synergy
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-06-27
+### [Data Analyst III](https://www.linkedin.com/jobs/view/4431019718/) — Thermo Fisher Scientific
+- 📍 **Location:** Carlsbad, CA
+- 💰 **Salary:** $83,300.00–$100,000.00
+- 🕒 **Posted:** 2026-06-28
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4434250390/) — VCMAX
+### [Program Coordinator - Foster Grandparent Program](https://www.linkedin.com/jobs/view/4433606272/) — Volunteers of America Colorado
+- 📍 **Location:** Commerce City, CO
+- 💰 **Salary:** $19.37-$21.37 /hr
+- 🕒 **Posted:** 2026-06-28
+
+### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4433488696/) — Langan Ski Turs International
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-06-27
-
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433478842/) — Minute of law
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-06-27
+- 💰 **Salary:** $26 - $36
+- 🕒 **Posted:** 2026-06-28
