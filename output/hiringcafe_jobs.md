@@ -1,9 +1,9 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-28 17:55 UTC*
+*Last updated: 2026-06-28 19:10 UTC*
 
 **1 new role(s)** since last run · 118 total in last 30d
 
-### [Geologist I](https://talent.fmjobs.com/careers/job/42603715) — Freeport-McMoRan
-- 📍 **Location:** Tucson or Sahuarita or Green Valley
-- 💰 **Salary:** $80k–$110k/yr
-- 🕒 **Posted:** 2026-06-25T16:21:45.000Z
+### [GIS Analyst/PW -Admin](https://www.governmentjobs.com/careers/athensclarke/jobs/5389526) — Unified Government of Athens-Clarke County, GA
+- 📍 **Location:** Athens, Georgia, United States
+- 💰 **Salary:** $54k/yr
+- 🕒 **Posted:** 2026-06-25T19:32:27.815Z
