@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28 22:48 UTC",
+  "scraped_at": "2026-06-28 23:56 UTC",
   "total": 118,
   "new_count": 1,
   "jobs": [
@@ -147,19 +147,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Select",
-      "title": "GIS Analyst",
-      "location": "Carlsbad, New Mexico, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31660",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31660",
-      "date_posted": "2026-06-26T06:00:00.000Z",
-      "description": "3+ years ESRI experience, 2+ years ArcGIS Pro, working knowledge of ArcGIS Enterprise, strong cartographic and project management skills, bachelor's degree preferred in GIS or related field.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Tacoma",
       "title": "GIS Analyst",
       "location": "Tacoma, Washington, United States",
@@ -168,6 +155,19 @@
       "date_posted": "2026-06-25T19:03:44.000Z",
       "description": "Bachelor's in public/business administration, IT, or related; 4+ years relevant analytical or database maintenance experience; expertise in GIS geodatabase administration, QA/QC, scripting, SAP integration, and stakeholder collaboration.",
       "salary": "$106k–$149k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Select",
+      "title": "GIS Analyst",
+      "location": "Carlsbad, New Mexico, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31660",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31660",
+      "date_posted": "2026-06-26T06:00:00.000Z",
+      "description": "3+ years ESRI experience, 2+ years ArcGIS Pro, working knowledge of ArcGIS Enterprise, strong cartographic and project management skills, bachelor's degree preferred in GIS or related field.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -563,19 +563,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Texas Health and Human Services Commission (HHSC)",
-      "title": "Geospatial Data Analyst (AUSTIN, TX)",
-      "location": "Austin, Texas, United States",
-      "url": "https://careers.hhs.texas.gov/hhscjobs/job/AUSTIN-Geospatial-Data-Analyst-TX-73301/1401466100/",
-      "direct_url": "https://careers.hhs.texas.gov/hhscjobs/job/AUSTIN-Geospatial-Data-Analyst-TX-73301/1401466100/",
-      "date_posted": "2026-06-22T23:00:16.036Z",
-      "description": "Bachelor's degree (or equivalent) and 4 years' experience with data acquisition, management, analysis and visualization; experience with geospatial data, SQL, Python, ArcGIS, Snowflake, and statistical tools (SAS/SPSS).",
-      "salary": "$77k–$103k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "VA Dept of Human Resource Management",
       "title": "Geospatial Data Analyst #20025 #00359",
       "location": "North Chesterfield, Virginia, United States",
@@ -584,6 +571,19 @@
       "date_posted": "2026-06-15T14:35:00.000Z",
       "description": "Extensive experience with ESRI ArcGIS, geospatial data maintenance and publication (road centerlines, building footprints, parcels, address points), reporting, collaboration, and familiarity with the Virginia Base Mapping Program.",
       "salary": "$68k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Texas Health and Human Services Commission (HHSC)",
+      "title": "Geospatial Data Analyst (AUSTIN, TX)",
+      "location": "Austin, Texas, United States",
+      "url": "https://careers.hhs.texas.gov/hhscjobs/job/AUSTIN-Geospatial-Data-Analyst-TX-73301/1401466100/",
+      "direct_url": "https://careers.hhs.texas.gov/hhscjobs/job/AUSTIN-Geospatial-Data-Analyst-TX-73301/1401466100/",
+      "date_posted": "2026-06-22T23:00:16.036Z",
+      "description": "Bachelor's degree (or equivalent) and 4 years' experience with data acquisition, management, analysis and visualization; experience with geospatial data, SQL, Python, ArcGIS, Snowflake, and statistical tools (SAS/SPSS).",
+      "salary": "$77k–$103k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1005,6 +1005,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "State of Indiana - Department of Natural Resources",
+      "title": "Geologist Supervisor",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
+      "direct_url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
+      "date_posted": "2026-06-22T00:00:00.000Z",
+      "description": "Licensed Professional Geologist in Indiana; Bachelor’s in geology or related field; minimum 8 years geology/hydrogeology experience; supervisory experience preferred; strong regulatory, hydrogeologic, and analytical skills.",
+      "salary": "$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "CDM Smith",
       "title": "Geologist 5",
       "location": "Houston, Texas, United States",
@@ -1317,19 +1330,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Michigan",
-      "title": "Geologist 9-P11 - Water Use Program Geologist",
-      "location": "East Lansing, Michigan, United States",
-      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
-      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
-      "date_posted": "2026-06-25T22:16:28.000Z",
-      "description": "Bachelor's in geology or related with specified core geology coursework; preferred training in glacial geology/hydrogeology; experience range 0–2 years depending on level; experience with GIS/GPS and hydrogeologic analysis.",
-      "salary": "$52k–$88k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Glendale (AZ)",
       "title": "Water Resources Analyst",
       "location": "Glendale, Arizona, United States",
@@ -1540,14 +1540,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Unified Government of Athens-Clarke County, GA",
-      "title": "GIS Analyst/PW -Admin",
-      "location": "Athens, Georgia, United States",
-      "url": "https://www.governmentjobs.com/careers/athensclarke/jobs/5389526",
-      "direct_url": "https://www.governmentjobs.com/careers/athensclarke/jobs/5389526",
-      "date_posted": "2026-06-25T19:32:27.815Z",
-      "description": "Bachelor's in planning/public administration or related field with GIS coursework and 2 years GIS database design/implementation experience; valid driver's license; GIS/mapping, dashboard, research, training, and basic computer maintenance skills.",
-      "salary": "$54k/yr",
+      "company": "State of Indiana - Department of Natural Resources",
+      "title": "Geologist Supervisor",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
+      "direct_url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
+      "date_posted": "2026-06-22T00:00:00.000Z",
+      "description": "Licensed Professional Geologist in Indiana; Bachelor’s in geology or related field; minimum 8 years geology/hydrogeology experience; supervisory experience preferred; strong regulatory, hydrogeologic, and analytical skills.",
+      "salary": "$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
