@@ -1,6 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-27 23:45 UTC*
+*Last updated: 2026-06-28 01:56 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-No new roles since the last run.
+### [Data Analyst III](https://www.indeed.com/viewjob?jk=d08ac2b93d866030) — Thermo Fisher Scientific
+- 📍 **Location:** Carlsbad, CA, US
+- 💰 **Salary:** $83k–$100k/yr
+- 🕒 **Posted:** 2026-06-27
