@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-06-27 17:33 UTC",
-  "total": 2,
+  "scraped_at": "2026-06-28 17:39 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Daly City",
-      "title": "Support Dog Program Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20749975",
-      "date_posted": "",
-      "salary": "$7,808.00-$9,492.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Santa Clara County Housing Authority",
-      "title": "Project Coordinator- Real Estate",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/santa-clara-county-housing-authority/job-20724661",
-      "date_posted": "",
-      "salary": "$44.31-$59.38 Hourly",
-      "ats": "CalOpps"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
