@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-28 21:50 UTC",
-  "total": 117,
-  "new_count": 0,
+  "scraped_at": "2026-06-28 22:48 UTC",
+  "total": 118,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -147,19 +147,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Tacoma",
-      "title": "GIS Analyst",
-      "location": "Tacoma, Washington, United States",
-      "url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
-      "direct_url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
-      "date_posted": "2026-06-25T19:03:44.000Z",
-      "description": "Bachelor's in public/business administration, IT, or related; 4+ years relevant analytical or database maintenance experience; expertise in GIS geodatabase administration, QA/QC, scripting, SAP integration, and stakeholder collaboration.",
-      "salary": "$106k–$149k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Select",
       "title": "GIS Analyst",
       "location": "Carlsbad, New Mexico, United States",
@@ -168,6 +155,19 @@
       "date_posted": "2026-06-26T06:00:00.000Z",
       "description": "3+ years ESRI experience, 2+ years ArcGIS Pro, working knowledge of ArcGIS Enterprise, strong cartographic and project management skills, bachelor's degree preferred in GIS or related field.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Tacoma",
+      "title": "GIS Analyst",
+      "location": "Tacoma, Washington, United States",
+      "url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
+      "direct_url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
+      "date_posted": "2026-06-25T19:03:44.000Z",
+      "description": "Bachelor's in public/business administration, IT, or related; 4+ years relevant analytical or database maintenance experience; expertise in GIS geodatabase administration, QA/QC, scripting, SAP integration, and stakeholder collaboration.",
+      "salary": "$106k–$149k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -259,6 +259,19 @@
       "date_posted": "2026-06-24T17:03:49.000Z",
       "description": "1.5+ years GIS experience, proficiency with Esri ArcGIS Pro 3.x+ and ArcGIS Online, Bachelor's degree in GIS/related field required, MS Office/Excel/Access proficiency, strong communication and project management skills, familiarity with Census data.",
       "salary": "$77k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Unified Government of Athens-Clarke County, GA",
+      "title": "GIS Analyst/PW -Admin",
+      "location": "Athens, Georgia, United States",
+      "url": "https://www.governmentjobs.com/careers/athensclarke/jobs/5389526",
+      "direct_url": "https://www.governmentjobs.com/careers/athensclarke/jobs/5389526",
+      "date_posted": "2026-06-25T19:32:27.815Z",
+      "description": "Bachelor's in planning/public administration or related field with GIS coursework and 2 years GIS database design/implementation experience; valid driver's license; GIS/mapping, dashboard, research, training, and basic computer maintenance skills.",
+      "salary": "$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -433,19 +446,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "NV5 Geospatial",
-      "title": "Senior Geospatial Analyst",
-      "location": "Saint Louis or Sun Prairie",
-      "url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
-      "direct_url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
-      "date_posted": "2026-06-07T04:00:00.000Z",
-      "description": "5+ years geospatial analysis experience, DoD/Air Force experience required, bachelor's degree in GIS-related field, expertise with ArcGIS/QGIS and DoD geospatial systems, ability to obtain security clearance.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Booz Allen",
       "title": "Geospatial Analyst, Senior",
       "location": "Fort Gordon, Georgia, United States",
@@ -454,6 +454,19 @@
       "date_posted": "2026-06-17T12:00:00.000Z",
       "description": "TS/SCI clearance required, 5+ years geospatial experience (varies by degree), experience with spatial databases, GIS tools, SOCET GXP/iSpy, and presenting geospatial products; ability to work rotating shifts.",
       "salary": "$78k–$176k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "NV5 Geospatial",
+      "title": "Senior Geospatial Analyst",
+      "location": "Saint Louis or Sun Prairie",
+      "url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
+      "direct_url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
+      "date_posted": "2026-06-07T04:00:00.000Z",
+      "description": "5+ years geospatial analysis experience, DoD/Air Force experience required, bachelor's degree in GIS-related field, expertise with ArcGIS/QGIS and DoD geospatial systems, ability to obtain security clearance.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -745,19 +758,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BGE, Inc",
-      "title": "Environmental Scientist",
-      "location": "Frisco, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "date_posted": "2026-06-25T17:13:32.000Z",
-      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Arcadis",
       "title": "Environmental Scientist",
       "location": "Bluefield, Virginia, United States",
@@ -766,6 +766,19 @@
       "date_posted": "2026-06-15T13:57:24.000Z",
       "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
       "salary": "$50k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BGE, Inc",
+      "title": "Environmental Scientist",
+      "location": "Frisco, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "date_posted": "2026-06-25T17:13:32.000Z",
+      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1187,27 +1200,40 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Doe Run Company",
-      "title": "Geologist I",
-      "location": "Viburnum or St. Louis or Boss or Missouri or Washington or Arizona",
-      "url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6",
-      "direct_url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6",
-      "date_posted": "2026-06-26T20:22:47.413Z",
-      "description": "Bachelor's degree in Geology (required), valid driver's license, proficiency with spreadsheets/databases, AcQuire and Vulcan knowledge preferred, strong attention to detail and geological interpretation skills.",
-      "salary": "",
+      "company": "Fugro",
+      "title": "Senior Geologist",
+      "location": "Walnut Creek, California, United States",
+      "url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
+      "direct_url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Master's in Engineering Geology or Geological Engineering; 2 years field experience in soil/rock logging, mapping, site characterization and fault investigations; report writing, data interpretation, and project management skills.",
+      "salary": "$123k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "HDR",
-      "title": "Senior Geologist",
-      "location": "Tampa, Florida, United States",
-      "url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=193819&lang=en",
-      "direct_url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=193819&lang=en",
-      "date_posted": "2026-06-26T12:00:00.000Z",
-      "description": "Bachelor's in geology or related, minimum 10 years' experience (advanced degree may offset years), fieldwork experience, project/staff/client management, Microsoft Office proficiency, strong communication and leadership; travel may be required.",
-      "salary": "",
+      "company": "Paragon Professional Services",
+      "title": "Staff Geologist",
+      "location": "Folsom or Seattle",
+      "url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
+      "direct_url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
+      "date_posted": "2026-06-11T20:58:04.355Z",
+      "description": "Bachelor's in geology or related, minimum 3 years environmental consulting experience, PG or GIT progressing, valid driver’s license, ability to lift 50 lbs, OSHA HAZWOPER preferred, willingness to travel and pass drug/background checks.",
+      "salary": "$78k–$107k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freeport-McMoRan",
+      "title": "Geologist I",
+      "location": "Tucson or Sahuarita or Green Valley",
+      "url": "https://talent.fmjobs.com/careers/job/42603715",
+      "direct_url": "https://talent.fmjobs.com/careers/job/42603715",
+      "date_posted": "2026-06-25T16:21:45.000Z",
+      "description": "Bachelor's degree in geology or closely related field required; no prior experience necessary. Field logging, mapping, sampling, database and modeling support; may require up to 50% domestic travel and medical/drug testing.",
+      "salary": "$80k–$110k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1226,14 +1252,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Fugro",
-      "title": "Senior Geologist",
-      "location": "Walnut Creek, California, United States",
-      "url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "direct_url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Master's in Engineering Geology or Geological Engineering; 2 years field experience in soil/rock logging, mapping, site characterization and fault investigations; report writing, data interpretation, and project management skills.",
-      "salary": "$123k/yr",
+      "company": "The Doe Run Company",
+      "title": "Geologist I",
+      "location": "Viburnum or St. Louis or Boss or Missouri or Washington or Arizona",
+      "url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6",
+      "direct_url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6",
+      "date_posted": "2026-06-26T20:22:47.413Z",
+      "description": "Bachelor's degree in Geology (required), valid driver's license, proficiency with spreadsheets/databases, AcQuire and Vulcan knowledge preferred, strong attention to detail and geological interpretation skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1265,27 +1291,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Paragon Professional Services",
-      "title": "Staff Geologist",
-      "location": "Folsom or Seattle",
-      "url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
-      "direct_url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
-      "date_posted": "2026-06-11T20:58:04.355Z",
-      "description": "Bachelor's in geology or related, minimum 3 years environmental consulting experience, PG or GIT progressing, valid driver’s license, ability to lift 50 lbs, OSHA HAZWOPER preferred, willingness to travel and pass drug/background checks.",
-      "salary": "$78k–$107k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Geologist I",
-      "location": "Tucson or Sahuarita or Green Valley",
-      "url": "https://talent.fmjobs.com/careers/job/42603715",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42603715",
-      "date_posted": "2026-06-25T16:21:45.000Z",
-      "description": "Bachelor's degree in geology or closely related field required; no prior experience necessary. Field logging, mapping, sampling, database and modeling support; may require up to 50% domestic travel and medical/drug testing.",
-      "salary": "$80k–$110k/yr",
+      "company": "HDR",
+      "title": "Senior Geologist",
+      "location": "Tampa, Florida, United States",
+      "url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=193819&lang=en",
+      "direct_url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=193819&lang=en",
+      "date_posted": "2026-06-26T12:00:00.000Z",
+      "description": "Bachelor's in geology or related, minimum 10 years' experience (advanced degree may offset years), fieldwork experience, project/staff/client management, Microsoft Office proficiency, strong communication and leadership; travel may be required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1525,5 +1538,19 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Unified Government of Athens-Clarke County, GA",
+      "title": "GIS Analyst/PW -Admin",
+      "location": "Athens, Georgia, United States",
+      "url": "https://www.governmentjobs.com/careers/athensclarke/jobs/5389526",
+      "direct_url": "https://www.governmentjobs.com/careers/athensclarke/jobs/5389526",
+      "date_posted": "2026-06-25T19:32:27.815Z",
+      "description": "Bachelor's in planning/public administration or related field with GIS coursework and 2 years GIS database design/implementation experience; valid driver's license; GIS/mapping, dashboard, research, training, and basic computer maintenance skills.",
+      "salary": "$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
