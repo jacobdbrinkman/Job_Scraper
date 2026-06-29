@@ -1,53 +1,62 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-28 23:32 UTC*
+*Last updated: 2026-06-29 05:15 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Data Analyst (W2 only)](https://www.linkedin.com/jobs/view/4431206551/) — Innovatech Staffing
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433636641/) — Enercon Services, Inc.
+- 📍 **Location:** Emeryville, CA
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433636637/) — Enercon Services, Inc.
+- 📍 **Location:** Glendale, AZ
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433644456/) — Enercon Services, Inc.
+- 📍 **Location:** Kennesaw, GA
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433654163/) — Enercon Services, Inc.
+- 📍 **Location:** Palm Beach Gardens, FL
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433649330/) — Enercon Services, Inc.
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433638504/) — Enercon Services, Inc.
+- 📍 **Location:** Baton Rouge, LA
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433652217/) — Enercon Services, Inc.
+- 📍 **Location:** Chattanooga, TN
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433634972/) — Enercon Services, Inc.
+- 📍 **Location:** Kennewick, WA
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433640495/) — Enercon Services, Inc.
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4433652214/) — Enercon Services, Inc.
+- 📍 **Location:** Overland Park, KS
+- 💰 **Salary:** USD $82,000.00 - USD $145,000.00 /Yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4433636591/) — Manha Tech Solutions
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-28
+- 🕒 **Posted:** 2026-06-29
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4434406676/) — Atlas NextWave
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-28
-
-### [Data Analyst (Entry-Level / Junior)](https://www.linkedin.com/jobs/view/4433630610/) — Raven Labs
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-06-28
-
-### [Data analyst](https://www.linkedin.com/jobs/view/4433623655/) — FetchJobs.co
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-28
-
-### [Senior Environmental Scientist/Specialist - Restoration Crew Leader | South St. Paul, MN](https://www.linkedin.com/jobs/view/4434406658/) — The Davey Tree Expert Company
-- 📍 **Location:** South St Paul, MN
-- 💰 **Salary:** $22 - $27 per hour
-- 🕒 **Posted:** 2026-06-28
-
-### [Project Data Analyst (Entry / Junior Level)](https://www.linkedin.com/jobs/view/4431044782/) — Perth Disability Services
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-06-28
-
-### [Data Analyst - Data & Analytics](https://www.linkedin.com/jobs/view/4433627605/) — Everest
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $88,000 - $125,000 annually
-- 🕒 **Posted:** 2026-06-28
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4431041736/) — Careerscape
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $70,000 - $95,000 per year
-- 🕒 **Posted:** 2026-06-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4434298704/) — The Gregory Marcinski Project
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-28
-
-### [PROGRAM COORDINATOR – WORKFORCE & OPERATIONS](https://www.linkedin.com/jobs/view/4434414207/) — Entryway NC
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $50,000–$52,000
-- 🕒 **Posted:** 2026-06-28
-
-### [PROGRAM COORDINATOR – WORKFORCE & OPERATIONS](https://www.linkedin.com/jobs/view/4434407723/) — Entryway NC
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $58,000–$60,000
-- 🕒 **Posted:** 2026-06-28
+### [Technical Solutions Engineer II](https://www.linkedin.com/jobs/view/4433649373/) — Cortec Israel
+- 📍 **Location:** Indiana, United States
+- 🕒 **Posted:** 2026-06-29
