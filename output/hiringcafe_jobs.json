@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-29 18:55 UTC",
+  "scraped_at": "2026-06-29 20:47 UTC",
   "total": 116,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -1512,45 +1512,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "State of Nevada (NV)",
-      "title": "ENVIRONMENTAL SCIENTIST 3",
-      "location": "Reno, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
-      "date_posted": "2026-06-24T22:17:30.000Z",
-      "description": "Bachelor's in physical/natural resource/life sciences or engineering with 3 years environmental experience OR HS +5 years OR 1 year as Environmental Scientist 2 in Nevada; valid driver's license and MSHA 24-hour training for mine access; inspection, permitting, monitoring, enforcement, and technical reporting skills.",
-      "salary": "$67k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stantec",
-      "title": "Senior Mineral Resource Geologist",
-      "location": "Chandler or Salt Lake City or Denver",
-      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
-      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
-      "date_posted": "2026-06-23T17:52:25.000Z",
-      "description": "B.S. in Geology (M.S. preferred), 10+ years mining/geologic modeling experience, familiarity with NI43-101/JORC/SK-1300 reporting, strong QA/QC, technical writing, and willingness to travel to remote sites.",
-      "salary": "$122k–$184k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Michigan",
-      "title": "Geologist 9-P11 - Water Use Program Geologist",
-      "location": "East Lansing, Michigan, United States",
-      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
-      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
-      "date_posted": "2026-06-25T22:16:28.000Z",
-      "description": "Bachelor's in geology or related with specified core geology coursework; preferred training in glacial geology/hydrogeology; experience range 0–2 years depending on level; experience with GIS/GPS and hydrogeologic analysis.",
-      "salary": "$52k–$88k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
