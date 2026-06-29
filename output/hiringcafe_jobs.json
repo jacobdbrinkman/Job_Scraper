@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-29 08:46 UTC",
-  "total": 118,
-  "new_count": 2,
+  "scraped_at": "2026-06-29 18:55 UTC",
+  "total": 116,
+  "new_count": 3,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -355,19 +355,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Flagstaff",
-      "title": "GIS Analyst I",
-      "location": "Flagstaff, Arizona, United States",
-      "url": "https://www.governmentjobs.com/careers/flagstaff/jobs/5376054",
-      "direct_url": "https://www.governmentjobs.com/careers/flagstaff/jobs/5376054",
-      "date_posted": "2026-06-12T19:51:25.000Z",
-      "description": "Associate's degree or two years college coursework in a related field (or equivalent combination of education/experience); valid driver's license; GIS data editing, basic spatial analysis, ArcGIS Pro/Enterprise experience; willingness to respond to after-hours emergency work.",
-      "salary": "$53k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Canyon County",
       "title": "GIS Analyst",
       "location": "Caldwell, Idaho, United States",
@@ -563,19 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "VA Dept of Human Resource Management",
-      "title": "Geospatial Data Analyst #20025 #00359",
-      "location": "North Chesterfield, Virginia, United States",
-      "url": "https://careers.pageuppeople.com/1125/cw/en/job/5106380",
-      "direct_url": "https://careers.pageuppeople.com/1125/cw/en/job/5106380",
-      "date_posted": "2026-06-15T14:35:00.000Z",
-      "description": "Extensive experience with ESRI ArcGIS, geospatial data maintenance and publication (road centerlines, building footprints, parcels, address points), reporting, collaboration, and familiarity with the Virginia Base Mapping Program.",
-      "salary": "$68k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Texas Health and Human Services Commission (HHSC)",
       "title": "Geospatial Data Analyst (AUSTIN, TX)",
       "location": "Austin, Texas, United States",
@@ -612,6 +586,19 @@
       "salary": "",
       "job_type": "Contract, Part Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Nevada (NV)",
+      "title": "ENVIRONMENTAL SCIENTIST 3",
+      "location": "Reno, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
+      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
+      "date_posted": "2026-06-24T22:17:30.000Z",
+      "description": "Bachelor's in physical/natural resource/life sciences or engineering with 3 years environmental experience OR HS +5 years OR 1 year as Environmental Scientist 2 in Nevada; valid driver's license and MSHA 24-hour training for mine access; inspection, permitting, monitoring, enforcement, and technical reporting skills.",
+      "salary": "$67k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -849,19 +836,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Johnson, Mirmiran & Thompson, Inc.",
-      "title": "Senior Environmental Scientist",
-      "location": "Jacksonville, Florida, United States",
-      "url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
-      "date_posted": "2026-06-05T18:16:04.721Z",
-      "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Senior Environmental Scientist",
       "location": "Clovis, California, United States",
@@ -870,6 +844,19 @@
       "date_posted": "2026-06-24T19:55:12.571Z",
       "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
       "salary": "$105k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville, Florida, United States",
+      "url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
+      "date_posted": "2026-06-05T18:16:04.721Z",
+      "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -922,19 +909,6 @@
       "date_posted": "2026-06-12T00:00:00.000Z",
       "description": "5+ years environmental consulting experience, Bachelor’s degree in a related field, PE or PG required/obtainable, HAZWOPER 40-hour preferred (training provided if needed), valid driver’s license, ability to travel regionally, strong communication and data skills, MS Office proficiency.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Environmental Scientist II",
-      "location": "Phoenix or Tucson",
-      "url": "https://talent.fmjobs.com/careers/job/42580930",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42580930",
-      "date_posted": "2026-06-24T15:41:01.000Z",
-      "description": "Bachelor's in related field plus 3 years' environmental experience OR Master's plus 1 year. Certifications such as HAZWOPER, Method 9, DOT, EMS Auditor, asbestos, water treatment operator, or CHMM may be required. Willingness to travel and perform fieldwork; project management and data analysis experience preferred.",
-      "salary": "$88k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1018,19 +992,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Indiana - Department of Natural Resources",
-      "title": "Geologist Supervisor",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
-      "direct_url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
-      "date_posted": "2026-06-22T00:00:00.000Z",
-      "description": "Licensed Professional Geologist in Indiana; Bachelor’s in geology or related field; minimum 8 years geology/hydrogeology experience; supervisory experience preferred; strong regulatory, hydrogeologic, and analytical skills.",
-      "salary": "$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "CDM Smith",
       "title": "Geologist 5",
       "location": "Houston, Texas, United States",
@@ -1096,14 +1057,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Select",
+      "company": "Department of the Interior",
       "title": "Geologist",
-      "location": "Midland-Odessa or Dallas or Oklahoma City or Houston",
-      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
-      "date_posted": "2026-06-24T06:00:00.000Z",
-      "description": "Bachelor's in geology or related field required; 3+ years oil & gas geology experience; proficiency with Petra, Geographix, Petrel, Kingdom, ArcGIS; knowledge of Class II injection well regulations.",
-      "salary": "",
+      "location": "Lakewood, Colorado, United States",
+      "url": "https://www.usajobs.gov/job/873802100",
+      "direct_url": "https://www.usajobs.gov/job/873802100",
+      "date_posted": "2026-06-22T11:45:04.447Z",
+      "description": "Bachelor's degree in geology (plus 20 semester hours in related sciences/engineering) or equivalent experience; GS-13 requires ≥1 year specialized experience in oil, gas, helium, or geothermal development on Federal land; must provide transcripts.",
+      "salary": "$119k–$154k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1122,6 +1083,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kleinfelder",
+      "title": "Geologist",
+      "location": "Kingsville, Texas, United States",
+      "url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
+      "direct_url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
+      "date_posted": "2026-06-24T04:00:00.000Z",
+      "description": "B.S. in geology/engineering/science required, 3+ years' experience, OSHA 40HR HAZWOPER required, E.I.T. preferred; field sampling, monitoring well installation, data analysis, and report writing experience; background checks and MVR required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "SLB",
       "title": "Geologist",
       "location": "Houston, Texas, United States",
@@ -1129,6 +1103,19 @@
       "direct_url": "https://slb.eightfold.ai/careers/job/563499731420396",
       "date_posted": "2026-06-04T20:31:09.000Z",
       "description": "Bachelor's degree in Geology required, recent graduate acceptable (<1 year). Strong communication and presentation skills, customer-service orientation, ability to work independently and collaboratively. Familiarity with Petrel and reservoir modeling. Must have legal right to work in the U.S. without visa sponsorship.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Select",
+      "title": "Geologist",
+      "location": "Midland-Odessa or Dallas or Oklahoma City or Houston",
+      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
+      "date_posted": "2026-06-24T06:00:00.000Z",
+      "description": "Bachelor's in geology or related field required; 3+ years oil & gas geology experience; proficiency with Petra, Geographix, Petrel, Kingdom, ArcGIS; knowledge of Class II injection well regulations.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1143,32 +1130,6 @@
       "date_posted": "2026-06-09T00:00:00.000Z",
       "description": "Bachelor's in geology or related field, 3+ years upstream oil & gas experience, familiarity with interpretation/mapping software, working knowledge of geologic and geophysical datasets, exposure to Python, strong technical and communication skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kleinfelder",
-      "title": "Geologist",
-      "location": "Kingsville, Texas, United States",
-      "url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
-      "direct_url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
-      "date_posted": "2026-06-24T04:00:00.000Z",
-      "description": "B.S. in geology/engineering/science required, 3+ years' experience, OSHA 40HR HAZWOPER required, E.I.T. preferred; field sampling, monitoring well installation, data analysis, and report writing experience; background checks and MVR required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of the Interior",
-      "title": "Geologist",
-      "location": "Lakewood, Colorado, United States",
-      "url": "https://www.usajobs.gov/job/873802100",
-      "direct_url": "https://www.usajobs.gov/job/873802100",
-      "date_posted": "2026-06-22T11:45:04.447Z",
-      "description": "Bachelor's degree in geology (plus 20 semester hours in related sciences/engineering) or equivalent experience; GS-13 requires ≥1 year specialized experience in oil, gas, helium, or geothermal development on Federal land; must provide transcripts.",
-      "salary": "$119k–$154k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1252,19 +1213,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport-McMoRan",
-      "title": "Geologist I",
-      "location": "Tucson or Sahuarita or Green Valley",
-      "url": "https://talent.fmjobs.com/careers/job/42603715",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42603715",
-      "date_posted": "2026-06-25T16:21:45.000Z",
-      "description": "Bachelor's degree in geology or closely related field required; no prior experience necessary. Field logging, mapping, sampling, database and modeling support; may require up to 50% domestic travel and medical/drug testing.",
-      "salary": "$80k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "SSR Mining",
       "title": "Senior Geologist",
       "location": "Denver, Colorado, United States",
@@ -1325,6 +1273,32 @@
       "date_posted": "2026-06-26T12:00:00.000Z",
       "description": "Bachelor's in geology or related, minimum 10 years' experience (advanced degree may offset years), fieldwork experience, project/staff/client management, Microsoft Office proficiency, strong communication and leadership; travel may be required.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Senior Mineral Resource Geologist",
+      "location": "Chandler or Salt Lake City or Denver",
+      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
+      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
+      "date_posted": "2026-06-23T17:52:25.000Z",
+      "description": "B.S. in Geology (M.S. preferred), 10+ years mining/geologic modeling experience, familiarity with NI43-101/JORC/SK-1300 reporting, strong QA/QC, technical writing, and willingness to travel to remote sites.",
+      "salary": "$122k–$184k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Michigan",
+      "title": "Geologist 9-P11 - Water Use Program Geologist",
+      "location": "East Lansing, Michigan, United States",
+      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
+      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
+      "date_posted": "2026-06-25T22:16:28.000Z",
+      "description": "Bachelor's in geology or related with specified core geology coursework; preferred training in glacial geology/hydrogeology; experience range 0–2 years depending on level; experience with GIS/GPS and hydrogeologic analysis.",
+      "salary": "$52k–$88k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1540,27 +1514,40 @@
   ],
   "new_jobs": [
     {
-      "company": "Freeport-McMoRan",
-      "title": "Environmental Scientist II",
-      "location": "Phoenix or Tucson",
-      "url": "https://talent.fmjobs.com/careers/job/42580930",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42580930",
-      "date_posted": "2026-06-24T15:41:01.000Z",
-      "description": "Bachelor's in related field plus 3 years' environmental experience OR Master's plus 1 year. Certifications such as HAZWOPER, Method 9, DOT, EMS Auditor, asbestos, water treatment operator, or CHMM may be required. Willingness to travel and perform fieldwork; project management and data analysis experience preferred.",
-      "salary": "$88k–$120k/yr",
+      "company": "State of Nevada (NV)",
+      "title": "ENVIRONMENTAL SCIENTIST 3",
+      "location": "Reno, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
+      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5388506",
+      "date_posted": "2026-06-24T22:17:30.000Z",
+      "description": "Bachelor's in physical/natural resource/life sciences or engineering with 3 years environmental experience OR HS +5 years OR 1 year as Environmental Scientist 2 in Nevada; valid driver's license and MSHA 24-hour training for mine access; inspection, permitting, monitoring, enforcement, and technical reporting skills.",
+      "salary": "$67k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Arch Environmental Group Inc",
-      "title": "Professional Geologist",
-      "location": "Southfield, Michigan, United States",
-      "url": "https://arch-environmental-group-inc.careerplug.com/jobs/3437277",
-      "direct_url": "https://arch-environmental-group-inc.careerplug.com/jobs/3437277",
-      "date_posted": "2026-06-03T19:56:22.730Z",
-      "description": "Licensed Professional Geologist with 8+ years environmental field and project management experience, OSHA 40-hour HAZWOPER, strong report-writing and proposal skills, MS Word/Excel and GIS experience, authorized to work in the U.S.",
-      "salary": "$80k–$90k/yr",
+      "company": "Stantec",
+      "title": "Senior Mineral Resource Geologist",
+      "location": "Chandler or Salt Lake City or Denver",
+      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
+      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006320",
+      "date_posted": "2026-06-23T17:52:25.000Z",
+      "description": "B.S. in Geology (M.S. preferred), 10+ years mining/geologic modeling experience, familiarity with NI43-101/JORC/SK-1300 reporting, strong QA/QC, technical writing, and willingness to travel to remote sites.",
+      "salary": "$122k–$184k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Michigan",
+      "title": "Geologist 9-P11 - Water Use Program Geologist",
+      "location": "East Lansing, Michigan, United States",
+      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
+      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5382209",
+      "date_posted": "2026-06-25T22:16:28.000Z",
+      "description": "Bachelor's in geology or related with specified core geology coursework; preferred training in glacial geology/hydrogeology; experience range 0–2 years depending on level; experience with GIS/GPS and hydrogeologic analysis.",
+      "salary": "$52k–$88k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
