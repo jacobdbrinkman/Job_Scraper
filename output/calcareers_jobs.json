@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28 17:24 UTC",
-  "total": 16,
+  "scraped_at": "2026-06-29 18:19 UTC",
+  "total": 15,
   "new_count": 0,
   "jobs": [
     {
@@ -85,15 +85,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522382",
-      "date_posted": "2026-06-23",
-      "salary": "$7820.00 - $10732.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Water Resources Control Board",
       "title": "Senior Engineering Geologist",
       "location": "San Luis Obispo County",
@@ -104,20 +95,20 @@
     },
     {
       "company": "State Water Resources Control Board",
+      "title": "RESEARCH DATA SPECIALIST III",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522594",
+      "date_posted": "2026-06-29",
+      "salary": "$8392.00 - $10505.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
       "title": "ENGINEERING GEOLOGIST",
       "location": "Los Angeles County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520460",
       "date_posted": "2026-06-03",
       "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521406",
-      "date_posted": "2026-06-22",
-      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {
