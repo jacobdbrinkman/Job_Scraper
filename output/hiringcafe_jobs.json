@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-29 03:26 UTC",
-  "total": 116,
-  "new_count": 0,
+  "scraped_at": "2026-06-29 08:46 UTC",
+  "total": 118,
+  "new_count": 2,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -147,19 +147,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Tacoma",
-      "title": "GIS Analyst",
-      "location": "Tacoma, Washington, United States",
-      "url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
-      "direct_url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
-      "date_posted": "2026-06-25T19:03:44.000Z",
-      "description": "Bachelor's in public/business administration, IT, or related; 4+ years relevant analytical or database maintenance experience; expertise in GIS geodatabase administration, QA/QC, scripting, SAP integration, and stakeholder collaboration.",
-      "salary": "$106k–$149k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Select",
       "title": "GIS Analyst",
       "location": "Carlsbad, New Mexico, United States",
@@ -168,6 +155,19 @@
       "date_posted": "2026-06-26T06:00:00.000Z",
       "description": "3+ years ESRI experience, 2+ years ArcGIS Pro, working knowledge of ArcGIS Enterprise, strong cartographic and project management skills, bachelor's degree preferred in GIS or related field.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Tacoma",
+      "title": "GIS Analyst",
+      "location": "Tacoma, Washington, United States",
+      "url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
+      "direct_url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
+      "date_posted": "2026-06-25T19:03:44.000Z",
+      "description": "Bachelor's in public/business administration, IT, or related; 4+ years relevant analytical or database maintenance experience; expertise in GIS geodatabase administration, QA/QC, scripting, SAP integration, and stakeholder collaboration.",
+      "salary": "$106k–$149k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -849,19 +849,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Senior Environmental Scientist",
-      "location": "Clovis, California, United States",
-      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "date_posted": "2026-06-24T19:55:12.571Z",
-      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
-      "salary": "$105k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Johnson, Mirmiran & Thompson, Inc.",
       "title": "Senior Environmental Scientist",
       "location": "Jacksonville, Florida, United States",
@@ -870,6 +857,19 @@
       "date_posted": "2026-06-05T18:16:04.721Z",
       "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -922,6 +922,19 @@
       "date_posted": "2026-06-12T00:00:00.000Z",
       "description": "5+ years environmental consulting experience, Bachelor’s degree in a related field, PE or PG required/obtainable, HAZWOPER 40-hour preferred (training provided if needed), valid driver’s license, ability to travel regionally, strong communication and data skills, MS Office proficiency.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freeport-McMoRan",
+      "title": "Environmental Scientist II",
+      "location": "Phoenix or Tucson",
+      "url": "https://talent.fmjobs.com/careers/job/42580930",
+      "direct_url": "https://talent.fmjobs.com/careers/job/42580930",
+      "date_posted": "2026-06-24T15:41:01.000Z",
+      "description": "Bachelor's in related field plus 3 years' environmental experience OR Master's plus 1 year. Certifications such as HAZWOPER, Method 9, DOT, EMS Auditor, asbestos, water treatment operator, or CHMM may be required. Willingness to travel and perform fieldwork; project management and data analysis experience preferred.",
+      "salary": "$88k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1057,6 +1070,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Arch Environmental Group Inc",
+      "title": "Professional Geologist",
+      "location": "Southfield, Michigan, United States",
+      "url": "https://arch-environmental-group-inc.careerplug.com/jobs/3437277",
+      "direct_url": "https://arch-environmental-group-inc.careerplug.com/jobs/3437277",
+      "date_posted": "2026-06-03T19:56:22.730Z",
+      "description": "Licensed Professional Geologist with 8+ years environmental field and project management experience, OSHA 40-hour HAZWOPER, strong report-writing and proposal skills, MS Word/Excel and GIS experience, authorized to work in the U.S.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Icf",
       "title": "Geologist - On Call - Florida",
       "location": "Tallahassee or Orlando or Miami or Florida",
@@ -1070,14 +1096,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of the Interior",
+      "company": "Select",
       "title": "Geologist",
-      "location": "Lakewood, Colorado, United States",
-      "url": "https://www.usajobs.gov/job/873802100",
-      "direct_url": "https://www.usajobs.gov/job/873802100",
-      "date_posted": "2026-06-22T11:45:04.447Z",
-      "description": "Bachelor's degree in geology (plus 20 semester hours in related sciences/engineering) or equivalent experience; GS-13 requires ≥1 year specialized experience in oil, gas, helium, or geothermal development on Federal land; must provide transcripts.",
-      "salary": "$119k–$154k/yr",
+      "location": "Midland-Odessa or Dallas or Oklahoma City or Houston",
+      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
+      "date_posted": "2026-06-24T06:00:00.000Z",
+      "description": "Bachelor's in geology or related field required; 3+ years oil & gas geology experience; proficiency with Petra, Geographix, Petrel, Kingdom, ArcGIS; knowledge of Class II injection well regulations.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1096,19 +1122,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kleinfelder",
-      "title": "Geologist",
-      "location": "Kingsville, Texas, United States",
-      "url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
-      "direct_url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
-      "date_posted": "2026-06-24T04:00:00.000Z",
-      "description": "B.S. in geology/engineering/science required, 3+ years' experience, OSHA 40HR HAZWOPER required, E.I.T. preferred; field sampling, monitoring well installation, data analysis, and report writing experience; background checks and MVR required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "SLB",
       "title": "Geologist",
       "location": "Houston, Texas, United States",
@@ -1116,19 +1129,6 @@
       "direct_url": "https://slb.eightfold.ai/careers/job/563499731420396",
       "date_posted": "2026-06-04T20:31:09.000Z",
       "description": "Bachelor's degree in Geology required, recent graduate acceptable (<1 year). Strong communication and presentation skills, customer-service orientation, ability to work independently and collaboratively. Familiarity with Petrel and reservoir modeling. Must have legal right to work in the U.S. without visa sponsorship.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Select",
-      "title": "Geologist",
-      "location": "Midland-Odessa or Dallas or Oklahoma City or Houston",
-      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
-      "date_posted": "2026-06-24T06:00:00.000Z",
-      "description": "Bachelor's in geology or related field required; 3+ years oil & gas geology experience; proficiency with Petra, Geographix, Petrel, Kingdom, ArcGIS; knowledge of Class II injection well regulations.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1143,6 +1143,32 @@
       "date_posted": "2026-06-09T00:00:00.000Z",
       "description": "Bachelor's in geology or related field, 3+ years upstream oil & gas experience, familiarity with interpretation/mapping software, working knowledge of geologic and geophysical datasets, exposure to Python, strong technical and communication skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kleinfelder",
+      "title": "Geologist",
+      "location": "Kingsville, Texas, United States",
+      "url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
+      "direct_url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
+      "date_posted": "2026-06-24T04:00:00.000Z",
+      "description": "B.S. in geology/engineering/science required, 3+ years' experience, OSHA 40HR HAZWOPER required, E.I.T. preferred; field sampling, monitoring well installation, data analysis, and report writing experience; background checks and MVR required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of the Interior",
+      "title": "Geologist",
+      "location": "Lakewood, Colorado, United States",
+      "url": "https://www.usajobs.gov/job/873802100",
+      "direct_url": "https://www.usajobs.gov/job/873802100",
+      "date_posted": "2026-06-22T11:45:04.447Z",
+      "description": "Bachelor's degree in geology (plus 20 semester hours in related sciences/engineering) or equivalent experience; GS-13 requires ≥1 year specialized experience in oil, gas, helium, or geothermal development on Federal land; must provide transcripts.",
+      "salary": "$119k–$154k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1512,5 +1538,32 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Freeport-McMoRan",
+      "title": "Environmental Scientist II",
+      "location": "Phoenix or Tucson",
+      "url": "https://talent.fmjobs.com/careers/job/42580930",
+      "direct_url": "https://talent.fmjobs.com/careers/job/42580930",
+      "date_posted": "2026-06-24T15:41:01.000Z",
+      "description": "Bachelor's in related field plus 3 years' environmental experience OR Master's plus 1 year. Certifications such as HAZWOPER, Method 9, DOT, EMS Auditor, asbestos, water treatment operator, or CHMM may be required. Willingness to travel and perform fieldwork; project management and data analysis experience preferred.",
+      "salary": "$88k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Arch Environmental Group Inc",
+      "title": "Professional Geologist",
+      "location": "Southfield, Michigan, United States",
+      "url": "https://arch-environmental-group-inc.careerplug.com/jobs/3437277",
+      "direct_url": "https://arch-environmental-group-inc.careerplug.com/jobs/3437277",
+      "date_posted": "2026-06-03T19:56:22.730Z",
+      "description": "Licensed Professional Geologist with 8+ years environmental field and project management experience, OSHA 40-hour HAZWOPER, strong report-writing and proposal skills, MS Word/Excel and GIS experience, authorized to work in the U.S.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
