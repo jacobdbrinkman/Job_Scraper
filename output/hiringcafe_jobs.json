@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-30 18:26 UTC",
+  "scraped_at": "2026-06-30 20:48 UTC",
   "total": 117,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -1525,84 +1525,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Canyon County",
-      "title": "GIS Analyst",
-      "location": "Caldwell, Idaho, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/canyoncounty/candidateportal/jobs/563",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/canyoncounty/candidateportal/jobs/563",
-      "date_posted": "2026-06-30T08:00:00.000Z",
-      "description": "Perform complex GIS spatial data maintenance and analysis to produce maps and reports; proficiency with ArcGIS Pro/Enterprise, SQL Server, Python/R/SQL; interpret maps/surveys; valid driver’s license and background investigation including NCIC polygraph required.",
-      "salary": "$62k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pueblo County",
-      "title": "Planning & GIS Analyst",
-      "location": "Pueblo, Colorado, United States",
-      "url": "https://www.governmentjobs.com/careers/puebloco/jobs/5369903",
-      "direct_url": "https://www.governmentjobs.com/careers/puebloco/jobs/5369903",
-      "date_posted": "2026-06-08T23:11:55.000Z",
-      "description": "Bachelor's in planning/GIS required (substitution possible), Master’s preferred, minimum 4 years planning/GIS experience, valid driver's license, pass background check, GIS/spatial analysis and mapping experience, strong presentation skills.",
-      "salary": "$65k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "SOSi",
-      "title": "Geospatial Analyst Expert",
-      "location": "Fort Gordon or Tampa or Aurora or Springfield or Vicenza or Wiesbaden or Honolulu",
-      "url": "https://jobs.smartrecruiters.com/SOSi1/3743990013848266-geospatial-analyst-expert",
-      "direct_url": "https://jobs.smartrecruiters.com/SOSi1/3743990013848266-geospatial-analyst-expert",
-      "date_posted": "2026-06-29T22:40:05.875Z",
-      "description": "Requires MA/MS +10 yrs or BA/BS +15 yrs in geomatics/geospatial fields, active TS/SCI with SSBI, expert ArcGIS/QGIS/MapBox/GeoServer, spatial DB (Oracle, MSSQL, PostgreSQL/PostGIS), scripting (Python, R, SAS, Java), and advanced geospatial analysis and visualization experience.",
-      "salary": "$79k–$165k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Reston, Virginia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kansas Department of Agriculture",
-      "title": "Environmental Scientist",
-      "location": "Topeka or Manhattan or Shawnee County or Kansas",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221393&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221393&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-04T12:00:00.000Z",
-      "description": "Four years of experience in environmental/physical/biological sciences, math, or engineering (or combination of education and experience); ability to perform strenuous outdoor fieldwork, lift 35 lbs, operate field instrumentation, valid Class C KS driver’s license, strong oral/written communication.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Indiana - Department of Natural Resources",
-      "title": "Geologist Supervisor",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
-      "direct_url": "https://workforindiana.in.gov/job/Indianapolis-Geologist-Supervisor-IN-46204/1402192000/",
-      "date_posted": "2026-06-22T00:00:00.000Z",
-      "description": "Licensed Professional Geologist in Indiana; Bachelor’s in geology or related field; minimum 8 years geology/hydrogeology experience; supervisory experience preferred; strong regulatory, hydrogeologic, and analytical skills.",
-      "salary": "$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
