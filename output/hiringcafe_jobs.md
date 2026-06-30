@@ -1,33 +1,36 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-06-30 01:54 UTC*
+*Last updated: 2026-06-30 06:03 UTC*
 
-**7 new role(s)** since last run · 117 total in last 30d
+**7 new role(s)** since last run · 118 total in last 30d
 
-### [GIS Analyst](https://tetratech.referrals.selectminds.com/jobs/gis-analyst-55248) — Tetra Tech
-- 📍 **Location:** Norfolk, Virginia, United States
-- 🕒 **Posted:** 2026-06-16T12:00:00.000Z
+### [GIS Analyst](https://www.governmentjobs.com/careers/goodyear/jobs/5393247) — City of Goodyear, AZ
+- 📍 **Location:** Goodyear, Arizona, United States
+- 💰 **Salary:** $82k–$122k/yr
+- 🕒 **Posted:** 2026-06-30T01:18:42.807Z
 
-### [GIS Analyst](https://energytransfer.referrals.selectminds.com/jobs/gis-analyst-17685) — Energy Transfer Family of Partnerships
-- 📍 **Location:** San Antonio or North America or Europe
-- 🕒 **Posted:** 2026-06-26T16:04:26.701Z
+### [GIS Analyst - Extra Help ](https://www.governmentjobs.com/careers/cityofoxnard/jobs/5391530) — City of Oxnard
+- 📍 **Location:** Oxnard, California, United States
+- 💰 **Salary:** $81k–$107k/yr
+- 🕒 **Posted:** 2026-06-26T21:48:07.000Z
 
-### [Geospatial Analyst - Mid](https://job-boards.greenhouse.io/grvty/jobs/4300865009) — GRVTY
-- 📍 **Location:** Falls Church, Virginia, United States
-- 💰 **Salary:** $85k–$105k/yr
-- 🕒 **Posted:** 2026-06-29T19:19:07.000Z
-
-### [Environmental Scientist](https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061) — Tetra Tech
-- 📍 **Location:** Portland or Oregon or California or Washington or Alaska
-- 🕒 **Posted:** 2026-06-05T12:00:00.000Z
-
-### [Senior Environmental Scientist](https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878) — HDR
-- 📍 **Location:** Seattle or Gig Harbor or Everett or Bellevue or Olympia
+### [Senior GIS Analyst](https://jobs.jobvite.com/sdipresence/job/oT6jAfwC?nl=1&fr=true) — SDI Presence
+- 📍 **Location:** Chicago, Illinois, United States
+- 💰 **Salary:** $100k–$130k/yr
 - 🕒 **Posted:** 2026-06-08T12:00:00.000Z
 
-### [Geologist](https://recruiting.ultipro.com/hoc10001bflo/JobBoard/d01e5d97-4afa-4035-828d-9d0340039b25/OpportunityDetail?opportunityId=d7fdbf61-4a3d-4513-b79e-3402dafd3b55) — Rochester Americans
-- 📍 **Location:** Sewickley, Pennsylvania, United States
-- 🕒 **Posted:** 2026-06-29T17:58:30.748Z
+### [Environmental Scientist](https://careers.teamues.com/jobs/4233?lang=en-us) — Universal Engineering Sciences
+- 📍 **Location:** Las Vegas, Nevada, United States
+- 🕒 **Posted:** 2026-06-29T21:36:53.000Z
 
-### [Geologist](https://recruiting.ultipro.com/hoc10001bflo/JobBoard/21121b32-5e02-47fe-b087-ed7f2f363892/OpportunityDetail?opportunityId=d7fdbf61-4a3d-4513-b79e-3402dafd3b55) — LECOM Harborcenter
-- 📍 **Location:** Sewickley, Pennsylvania, United States
-- 🕒 **Posted:** 2026-06-29T17:58:30.748Z
+### [Senior Geologist](https://hdr.referrals.selectminds.com/jobs/senior-geologist-44136) — HDR
+- 📍 **Location:** Tampa, Florida, United States
+- 🕒 **Posted:** 2026-06-26T12:55:11.039Z
+
+### [Professional Geologist (Regulatory & Economic Resources)](https://jobs.miamidade.gov/psc/JOBS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=100430&PostingSeq=1&SiteId=1) — Miami-Dade County
+- 📍 **Location:** Miami or Miami-Dade County
+- 🕒 **Posted:** 2026-06-15T12:00:00.000Z
+
+### [Water Resources Analyst](https://cityofprescott.applicantpro.com/jobs/4132113) — City of Prescott
+- 📍 **Location:** Prescott, Arizona, United States
+- 💰 **Salary:** $54k–$67k/yr
+- 🕒 **Posted:** 2026-06-29T00:00:00.000Z
