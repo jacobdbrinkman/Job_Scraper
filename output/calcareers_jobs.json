@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-29 18:19 UTC",
-  "total": 15,
+  "scraped_at": "2026-06-30 18:08 UTC",
+  "total": 17,
   "new_count": 0,
   "jobs": [
     {
@@ -67,20 +67,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522611",
-      "date_posted": "2026-06-24",
-      "salary": "$25.48 - $53.77",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522430",
       "date_posted": "2026-06-23",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Parks & Recreation",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522744",
+      "date_posted": "2026-06-29",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -121,12 +121,30 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Water Resources",
+      "title": "Engineering Geologist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521760",
+      "date_posted": "2026-06-30",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of FISCal",
       "title": "Project Coordinator",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521524",
       "date_posted": "2026-06-22",
       "salary": "$4935.00 - $8740.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Research Data Specialist I",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523054",
+      "date_posted": "2026-06-29",
+      "salary": "$6955.00 - $8706.00",
       "ats": "CalCareers"
     },
     {
