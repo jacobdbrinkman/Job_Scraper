@@ -1,6 +1,13 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-01 21:13 UTC*
+*Last updated: 2026-07-01 22:53 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**2 new role(s)** since last run · 8 total in last 24h
 
-No new roles since the last run.
+### [Environmental Field Technician](https://www.indeed.com/viewjob?jk=af9ca9dc99f32641) — Blaine Tech Services, Inc.
+- 📍 **Location:** Auburn, WA, US
+- 💰 **Salary:** $21–$25/hr
+- 🕒 **Posted:** 2026-07-01
+
+### [Geologist (Entry-Level)](https://www.indeed.com/viewjob?jk=d9ba737c64ac3889) — Shannon & Wilson Inc.
+- 📍 **Location:** Lake Oswego, OR, US
+- 🕒 **Posted:** 2026-07-01
