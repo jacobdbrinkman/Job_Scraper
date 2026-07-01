@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-01 19:24 UTC",
+  "scraped_at": "2026-07-01 21:13 UTC",
   "total": 6,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department Of Forestry & Fire Protection",
@@ -106,23 +106,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Epoch Geoservices, LLC",
-      "title": "Remote Geosteering Geologist",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=d6dbed445c3c704b",
-      "direct_url": "http://www.indeed.com/job/remote-geosteering-geologist-d6dbed445c3c704b",
-      "company_url": "https://www.indeed.com/cmp/Epoch-Geoservices,-LLC",
-      "date_posted": "2026-07-01",
-      "description": "**\\<Job Overview\\>**  \nWe are seeking a Remote Geosteering Geologist to provide critical real\\-time support for active drilling operations. The ideal candidate will have prior geosteering experience and a strong understanding of drilling operations, with the ability to quickly integrate into active projects and operate with minimal oversight. This role requires exceptional communication skills and a high level of attention to detail. Candidates must have experience with StarSteer (familiarity with ZoneVu preferred). The successful applicant will be capable of accurately interpreting log data, leveraging well control data to predict structural changes for accurate targeting, and providing precise guidance to drilling teams while maintaining consistent communication with the operations geologists. We are looking for a motivated professional who can hit the ground running, work independently in a remote environment, and help maintain the high standards of accuracy, reliability, and communication that define our geosteering operations.\n\n**\\<Responsibilities\\>**\n\n* Analyze real\\-time geological data collected during drilling operations to inform geosteering decisions.\n* Interpret offset logs, seismic, petrophysical, or core data to understand subsurface structures and formations.\n* Leverage well control data to predict structural changes for accurate targeting\n* Provide precise guidance to drilling teams while maintaining consistent communication with the operations geologists\n* Conduct data collection and analysis to refine geological models and improve accuracy.\n* Collaborate well with all personnel involved in accurate and successful wellbore targeting including operations geologist, directional drillers, drilling consultants, drilling engineers and mudloggers.\n\n**\\<Skills\\>**\n\n* Familiarity with geosteering software including Starsteer and ZoneVu\n* Proven experience in scientific research related to geology or geosciences with a focus on hydrocarbon exploration.\n* Strong communication skills to clearly and concisely relay geosteering information to onsite and offsite teams.\n* Excellent technical writing abilities for clear documentation of complex geological concepts.\n* Knowledge of data collection techniques during drilling operations and ability to interpret petrophysical logs, mudlogs and other relevant subsurface data.\n* Knowledge relevant to wellbore stability, drilling rigs, and personnel.\n\nPay: $80,000\\.00 \\- $120,000\\.00 per year\n\nEducation:\n\n* Bachelor's (Required)\n\nExperience:\n\n* Geosteering: 2 years (Preferred)\n\nLanguage:\n\n* English (Required)\n\nShift availability:\n\n* Day Shift (Required)\n* Night Shift (Required)\n\nWork Location: Remote",
-      "salary": "$80k–$120k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
