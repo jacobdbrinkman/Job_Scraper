@@ -1,19 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-01 06:59 UTC*
+*Last updated: 2026-07-01 17:48 UTC*
 
-**3 new role(s)** since last run · 8 total in last 24h
+**2 new role(s)** since last run · 6 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=7b09eb1b891ed025) — Department Of Forestry & Fire Protection
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [Staff Geologist](https://www.indeed.com/viewjob?jk=aa9fc7b5ef1d35fa) — Kleinfelder
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $62k–$83k/yr
 - 🕒 **Posted:** 2026-07-01
 
-### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=9be7a77b51db9acb) — DEPARTMENT OF WATER RESOURCES
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $6488–$12k/mo
-- 🕒 **Posted:** 2026-07-01
-
-### [Environmental Field Technician](https://www.indeed.com/viewjob?jk=0cecdacc167f5e13) — SC&A Inc
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $68k–$74k/yr
+### [Staff Engineer / Staff Geologist](https://www.indeed.com/viewjob?jk=2318d39aafd077d1) — Trinity Geotechnical Engineering
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $25–$35/hr
 - 🕒 **Posted:** 2026-07-01
