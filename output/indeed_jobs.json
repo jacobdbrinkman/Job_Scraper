@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-01 17:48 UTC",
+  "scraped_at": "2026-07-01 19:24 UTC",
   "total": 6,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Department Of Forestry & Fire Protection",
@@ -72,23 +72,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Sentinel Science",
-      "title": "GIS Analyst",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=b603c542798b5b45",
-      "direct_url": "http://www.indeed.com/job/gis-analyst-b603c542798b5b45",
-      "company_url": "https://www.indeed.com/cmp/Sentinel-Science",
-      "date_posted": "2026-06-30",
-      "description": "Sentinel Science Inc. is seeking a GIS Analyst/ Technician capable of building job specific maps using geographic information systems (GIS) databases and tools; Applicants need to be able to generates custom and standard maps, spatial analyses and other GIS products to meet customer requirements. Experience with creating Field Maps is highly favored. GIS employees will need to be able to create all required maps without assistance.\n\nJob Types: Part\\-time, Full\\-time\n\nPay: $20\\.00 \\- $45\\.00 per hour\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Flexible schedule\n* Health insurance\n* Retirement plan\n\nEducation:\n\n* Bachelor's (Preferred)\n\nWork Location: Remote",
-      "salary": "$20–$45/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime, fulltime",
-      "is_remote": true,
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
       "company": "SC&A Inc",
       "title": "Environmental Field Technician",
       "location": "Remote, US",
@@ -104,40 +87,40 @@
       "is_remote": true,
       "emails": "",
       "ats": "Indeed"
+    },
+    {
+      "company": "Epoch Geoservices, LLC",
+      "title": "Remote Geosteering Geologist",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=d6dbed445c3c704b",
+      "direct_url": "http://www.indeed.com/job/remote-geosteering-geologist-d6dbed445c3c704b",
+      "company_url": "https://www.indeed.com/cmp/Epoch-Geoservices,-LLC",
+      "date_posted": "2026-07-01",
+      "description": "**\\<Job Overview\\>**  \nWe are seeking a Remote Geosteering Geologist to provide critical real\\-time support for active drilling operations. The ideal candidate will have prior geosteering experience and a strong understanding of drilling operations, with the ability to quickly integrate into active projects and operate with minimal oversight. This role requires exceptional communication skills and a high level of attention to detail. Candidates must have experience with StarSteer (familiarity with ZoneVu preferred). The successful applicant will be capable of accurately interpreting log data, leveraging well control data to predict structural changes for accurate targeting, and providing precise guidance to drilling teams while maintaining consistent communication with the operations geologists. We are looking for a motivated professional who can hit the ground running, work independently in a remote environment, and help maintain the high standards of accuracy, reliability, and communication that define our geosteering operations.\n\n**\\<Responsibilities\\>**\n\n* Analyze real\\-time geological data collected during drilling operations to inform geosteering decisions.\n* Interpret offset logs, seismic, petrophysical, or core data to understand subsurface structures and formations.\n* Leverage well control data to predict structural changes for accurate targeting\n* Provide precise guidance to drilling teams while maintaining consistent communication with the operations geologists\n* Conduct data collection and analysis to refine geological models and improve accuracy.\n* Collaborate well with all personnel involved in accurate and successful wellbore targeting including operations geologist, directional drillers, drilling consultants, drilling engineers and mudloggers.\n\n**\\<Skills\\>**\n\n* Familiarity with geosteering software including Starsteer and ZoneVu\n* Proven experience in scientific research related to geology or geosciences with a focus on hydrocarbon exploration.\n* Strong communication skills to clearly and concisely relay geosteering information to onsite and offsite teams.\n* Excellent technical writing abilities for clear documentation of complex geological concepts.\n* Knowledge of data collection techniques during drilling operations and ability to interpret petrophysical logs, mudlogs and other relevant subsurface data.\n* Knowledge relevant to wellbore stability, drilling rigs, and personnel.\n\nPay: $80,000\\.00 \\- $120,000\\.00 per year\n\nEducation:\n\n* Bachelor's (Required)\n\nExperience:\n\n* Geosteering: 2 years (Preferred)\n\nLanguage:\n\n* English (Required)\n\nShift availability:\n\n* Day Shift (Required)\n* Night Shift (Required)\n\nWork Location: Remote",
+      "salary": "$80k–$120k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "emails": "",
+      "ats": "Indeed"
     }
   ],
   "new_jobs": [
     {
-      "company": "Kleinfelder",
-      "title": "Staff Geologist",
-      "location": "San Diego, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=aa9fc7b5ef1d35fa",
-      "direct_url": "https://careers-kleinfelder.icims.com/jobs/9930/staff-geologist/job",
-      "company_url": "https://www.indeed.com/cmp/Kleinfelder",
+      "company": "Epoch Geoservices, LLC",
+      "title": "Remote Geosteering Geologist",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=d6dbed445c3c704b",
+      "direct_url": "http://www.indeed.com/job/remote-geosteering-geologist-d6dbed445c3c704b",
+      "company_url": "https://www.indeed.com/cmp/Epoch-Geoservices,-LLC",
       "date_posted": "2026-07-01",
-      "description": "**Job Description**\n-------------------\n\n**Take Your Environmental Career to the Next Level**\nKleinfelder, a Forbes' Top Employer for Engineers in North America, is committed to a people\\-first culture, technical excellence, and creating opportunities where employees can thrive!  \n\nAre you ready to be challenged, make a difference, and experience professional growth in your career? Kleinfelder's Environmental team is looking for you! From environmental planning, permitting, remediation, and site characterization to chemical data management and hydrogeology, Kleinfelder offers a variety of services designed to provide technically appropriate and cost\\-effective solutions.  \n\n\n**Step Into Your Next Role**\n\n**Kleinfelder is currently seeking a Staff Geologist to serve Southern California and surrounding areas.** Working out of Kleinfelder’s San Diego office and serving the region, the successful candidate will perform environmental due diligence and site investigations / field sampling services. We are seeking a candidate that is motivated, can work independently, has strong technical writing skills, and enjoys working a mix of office and outdoors. The candidate will conduct environmental site work and field sampling that include, but are not limited to, the following:\n\n\n* Performing and supporting environmental field work / analysis including soil boring logging, sampling, and testing.\n* Conducting site inspections as part of Phase I Environmental Site Assessments (ESAs) and compliance audits.\n* Preparation of proposals, cost estimates, plans, and technical specifications, including day\\-to\\-day client and stakeholder correspondence.\n* Review and interpret environmental data and analytical laboratory results.\n* Prepare technical reports, field reports, and internal / external correspondence.\n* Soil boring and monitoring well installation.\n* Soil, sediment, surface water, and groundwater screening and sampling.\n* Storm water, wastewater, and influent/effluent process water sampling.\n* Oversight of subcontractors and vendors performing drilling, laboratory analytical services, maintenance, and excavation activities.\n\nThe candidate must have an appreciation for the importance of adhering to a safety culture that believes that all accidents are preventable. Additionally, the candidate will be expected to follow written technical procedures and document field activities commensurate with individual project expectations.\n\n  \n\n\n\n**Qualifications:**\n\n\n* Bachelor's.degree in geology \\- Master's preferred\n* GIT certification\n* 3\\-6 years of experience in the consulting business with demonstrated experience in geology\n* Experience with drilling including soil logging, sample collection and drilling subcontractor management.\n* Experience in the preparation of technical reports, proposals, and cost estimates.\n* Ability for meeting and exceeding deadlines while maintaining project budgets and regulatory compliance status.\n* Ability to employ loss prevention and quality control systems.\n* Excellent oral and written communication skills, positive attitude, and ability to work both independently and within groups.\n* 40\\-hour OSHA HAZWOPER health and safety training \\- preferred\nFollowing an offer, candidates will be required to satisfactorily complete employment reference checks, verification of professional licensure and/or educational credentials, a motor vehicle report (MVR), and a comprehensive background check.  \n\n**Move Forward with Kleinfelder:** Kleinfelder and its’ subsidiaries and affiliates, has been connecting great people to the best work since 1961\\. We are engineers, scientists, and construction professionals providing solutions that improve our clients’ transportation, water, energy, and other private infrastructure. As a responsive, cross\\-disciplinary team of bright, curious, and innovative problem\\-solvers, we are dedicated to doing the right thing, every day, on every project from over 110 offices in the US, Canada, and Australia. Connecting great people to the best work is our purpose – together, we deliver.  \n\n**Progress with an Employer that Values You**\nKleinfelder, and its’ subsidiaries and affiliates, is an inclusive organization free from discrimination. We are a stronger organization when we are a diverse workforce and believe that through diversity, equity, and inclusion comes creativity, innovation, and unity. We are proud to offer the following:  \n\n***Benefits:***Kleinfelder, and its’ subsidiaries and affiliates, offers an excellent compensation and benefits package, including: medical, dental, vision, life insurance, 401(k) plan, and paid holidays. The expected salary range for the position is displayed in accordance with the California Pay Transparency Law. Final agreed upon compensation is based upon individual qualifications and experience. Salary Range: $61,734 \\- $82,934\\.  \n\n***Career Development:***We are committed to investing in the professional development of our staff, offering each employee every opportunity to grow, develop, and take control of their career paths. We support these efforts through reimbursements for continuing education as well as many of the expenses associated with trainings and certifications, and opportunities for career development through our internal Mentoring Program.  \n\n\n***Equal Opportunity:***Kleinfelder, and its’ subsidiaries and affiliates, is an Equal Opportunity Employer – Minorities/Women/Disabled/Veterans. (Compliant with the new VEVRAA and Section 503 rules)\n**NOTICE TO THIRD PARTY AGENCIES**\nPlease note that Kleinfelder, and its’ subsidiaries and affiliates, does not accept unsolicited resumes from recruiters or employment agencies. In the absence of a signed Recruitment Fee Agreement, Kleinfelder, and its’ subsidiaries and affiliates, will not consider or agree to payment for any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without a previously signed agreement, Klein",
-      "salary": "$62k–$83k/yr",
+      "description": "**\\<Job Overview\\>**  \nWe are seeking a Remote Geosteering Geologist to provide critical real\\-time support for active drilling operations. The ideal candidate will have prior geosteering experience and a strong understanding of drilling operations, with the ability to quickly integrate into active projects and operate with minimal oversight. This role requires exceptional communication skills and a high level of attention to detail. Candidates must have experience with StarSteer (familiarity with ZoneVu preferred). The successful applicant will be capable of accurately interpreting log data, leveraging well control data to predict structural changes for accurate targeting, and providing precise guidance to drilling teams while maintaining consistent communication with the operations geologists. We are looking for a motivated professional who can hit the ground running, work independently in a remote environment, and help maintain the high standards of accuracy, reliability, and communication that define our geosteering operations.\n\n**\\<Responsibilities\\>**\n\n* Analyze real\\-time geological data collected during drilling operations to inform geosteering decisions.\n* Interpret offset logs, seismic, petrophysical, or core data to understand subsurface structures and formations.\n* Leverage well control data to predict structural changes for accurate targeting\n* Provide precise guidance to drilling teams while maintaining consistent communication with the operations geologists\n* Conduct data collection and analysis to refine geological models and improve accuracy.\n* Collaborate well with all personnel involved in accurate and successful wellbore targeting including operations geologist, directional drillers, drilling consultants, drilling engineers and mudloggers.\n\n**\\<Skills\\>**\n\n* Familiarity with geosteering software including Starsteer and ZoneVu\n* Proven experience in scientific research related to geology or geosciences with a focus on hydrocarbon exploration.\n* Strong communication skills to clearly and concisely relay geosteering information to onsite and offsite teams.\n* Excellent technical writing abilities for clear documentation of complex geological concepts.\n* Knowledge of data collection techniques during drilling operations and ability to interpret petrophysical logs, mudlogs and other relevant subsurface data.\n* Knowledge relevant to wellbore stability, drilling rigs, and personnel.\n\nPay: $80,000\\.00 \\- $120,000\\.00 per year\n\nEducation:\n\n* Bachelor's (Required)\n\nExperience:\n\n* Geosteering: 2 years (Preferred)\n\nLanguage:\n\n* English (Required)\n\nShift availability:\n\n* Day Shift (Required)\n* Night Shift (Required)\n\nWork Location: Remote",
+      "salary": "$80k–$120k/yr",
       "salary_source": "direct_data",
       "salary_currency": "USD",
       "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Trinity Geotechnical Engineering",
-      "title": "Staff Engineer / Staff Geologist",
-      "location": "San Diego, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=2318d39aafd077d1",
-      "direct_url": "http://www.indeed.com/job/staff-engineer-staff-geologist-2318d39aafd077d1",
-      "company_url": "https://www.indeed.com/cmp/Trinity-Geotechnical-Engineering",
-      "date_posted": "2026-07-01",
-      "description": "**About us**\n\nTrinity Geotechnical Engineering, Inc. (TGE) is a San Diego\\-based geotechnical consulting firm specializing in utility infrastructure projects throughout Southern California. Since 2013, we have built a reputation for delivering practical, cost\\-effective geotechnical engineering and engineering geology solutions with a commitment to ingenuity, integrity, and responsible purpose. Our team supports the planning, design, construction, and inspection of critical infrastructure for natural gas, electric transmission and distribution, substations, water, wastewater, and telecommunications systems. We take pride in developing long\\-term client relationships while providing high\\-quality technical services that help keep essential infrastructure safe, reliable, and resilient.\n\n**Position Summary**\n\nWe are seeking a motivated and detail\\-oriented **Staff Geologist or Staff Engineer** to join our geotechnical team supporting utility infrastructure projects throughout the region. This position offers an excellent opportunity to gain hands\\-on experience in field investigations, construction observation, geotechnical engineering, and geological evaluations.\n\n**Key Responsibilities**\n\n* Perform geotechnical and geological field investigations, including soil and rock logging, drilling oversight, and sampling.\n* Monitor drilling operations and coordinate with drilling subcontractors to ensure work is completed safely and in accordance with project requirements.\n* Classify soil and rock in accordance with applicable standards.\n* Conduct geologic mapping, site reconnaissance, and evaluate surface and subsurface conditions.\n* Perform construction observation and inspection during excavation, foundation installation, grading, and concrete placement.\n* Document field activities through detailed daily field reports, field logs, and photographic documentation.\n* Assist with geotechnical analyses and preparation of engineering reports, technical memoranda, and recommendations.\n* Review laboratory test results and incorporate findings into project evaluations.\n* Coordinate with project managers, clients, contractors, and utility representatives.\n* Maintain a strong commitment to safety and comply with company and client health and safety requirements.\n* Travel to project sites throughout the service area, with occasional overnight travel as required.\n\n**Qualifications**\n\n* Bachelor's degree in Geology, Geological Engineering, Civil Engineering, or a related discipline.\n* 0–5 years of relevant experience in geotechnical engineering, engineering geology, or construction observation.\n* Valid driver's license with a clean driving record.\n* Ability to work outdoors in varying weather and terrain conditions.\n* Strong written and verbal communication skills.\n* Proficiency with Microsoft Office applications.\n* Ability to lift up to 50 pounds and perform field duties on active construction sites.\n\n**Preferred**\n\n* Engineer\\-in\\-Training (EIT) certification or Geologist\\-in\\-Training (GIT) certification.\n* ACI Concrete Field Testing Grade Technician I.\n* 4x4 / AWD SUV or Truck\n* OSHA 10\\-Hour or OSHA 40\\-Hour HAZWOPER certification\n* APNGA Nuclear Gauge Certification\n\n**What We Offer**\n\n* Medical, dental, and vision insurance\n* 401(k)\n* Paid vacation, sick leave, and holidays\n* Licensure support for EIT, PE, GIT, PG advancement\n* Opportunities for career growth within a collaborative team environment\n\nPay: $25\\.00 \\- $35\\.00 per hour\n\nWork Location: In person",
-      "salary": "$25–$35/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
+      "is_remote": true,
       "emails": "",
       "ats": "Indeed"
     }
