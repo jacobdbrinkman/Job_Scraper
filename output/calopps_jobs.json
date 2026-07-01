@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-30 18:17 UTC",
+  "scraped_at": "2026-07-01 18:19 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Daly City",
@@ -22,15 +22,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Santa Clara County Housing Authority",
-      "title": "Project Coordinator- Real Estate",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/santa-clara-county-housing-authority/job-20724661",
-      "date_posted": "",
-      "salary": "$44.31-$59.38 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
