@@ -1,90 +1,55 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-02 04:49 UTC*
+*Last updated: 2026-07-02 18:21 UTC*
 
-**18 new role(s)** since last run · 135 total in last 30d
+**11 new role(s)** since last run · 139 total in last 30d
 
-### [GIS Analyst 3](https://fa-eqto-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/260504) — City Of Chattanooga Career Site
-- 📍 **Location:** Chattanooga, Tennessee, United States
-- 💰 **Salary:** $65k–$79k/yr
-- 🕒 **Posted:** 2026-07-01T18:47:43.000Z
-
-### [Environmental Scientist I](https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9) — Vistal
-- 📍 **Location:** Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado
-- 💰 **Salary:** $71k–$97k/yr
-- 🕒 **Posted:** 2026-07-01T18:47:25.002Z
-
-### [Environmental Scientist I](https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9) — Moore Engineering, Inc.
-- 📍 **Location:** Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado
-- 💰 **Salary:** $71k–$97k/yr
-- 🕒 **Posted:** 2026-07-01T18:47:25.002Z
-
-### [Groundwater Hydrologist - Hydrologist 1](https://careers.mn.gov/psc/mnjobacc/MNCAREERSACCESSIBLE/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1002&JobOpeningId=95016&PostingSeq=1) — State of Minnesota
-- 📍 **Location:** St. Paul, Minnesota, United States
-- 💰 **Salary:** $58k–$79k/yr
+### [GIS Analyst III](https://css-idaho-prd.tam.inforgov.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(LUMA,24128,2).JobPostingDisplayNav?csk.HROrganization=LUMA&csk.JobBoard=STATEOFIDAHO) — Idaho Department of Fish and Game
+- 📍 **Location:** Boise, Idaho, United States
+- 💰 **Salary:** $75k–$94k/yr
 - 🕒 **Posted:** 2026-06-26T00:00:00.000Z
 
-### [Hydrologist (Tropical Watersheds)](https://hr.rcuh.com/psp/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=226393&PostingSeq=1&languageCd=ENG) — Research Corporation of the University of Hawaii (RCUH)
-- 📍 **Location:** Hilo, Hawaii, United States
-- 💰 **Salary:** $48k–$60k/yr
-- 🕒 **Posted:** 2026-07-01T00:00:00.000Z
+### [Student GIS Analyst](https://unm.csod.com/ux/ats/careersite/18/home/requisition/37057?c=unm) — University of New Mexico
+- 📍 **Location:** Albuquerque, New Mexico, United States
+- 💰 **Salary:** $35k/yr
+- 🕒 **Posted:** 2026-06-23T00:00:00.000Z
 
-### [Senior Geologist](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?jid=651979&cid=6549&locvalue=1081) — RIZZO International, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $60k–$140k/yr
-- 🕒 **Posted:** 2026-07-01T00:00:00.000Z
+### [C-UAS Data Analyst](https://knowledgemanagement.isolvedhire.com/jobs/1796679) — Knowledge Management
+- 📍 **Location:** Landover, Maryland, United States
+- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
 
-### [Geologist - Geotechnical](https://careers.langan.com/job/Milwaukee-Geologist-Geotechnical-WI-53202/1396392300/) — Langan | A Premier Engineering & Environmental Services Consulting Firm
-- 📍 **Location:** Milwaukee, Wisconsin, United States
-- 🕒 **Posted:** 2026-06-03T00:00:00.000Z
+### [ENVIRONMENTAL SCIENTIST 3](https://www.governmentjobs.com/careers/nv/jobs/5392997) — State of Nevada
+- 📍 **Location:** Reno, Nevada, United States
+- 💰 **Salary:** $67k–$100k/yr
+- 🕒 **Posted:** 2026-06-29T21:06:20.000Z
 
-### [Environmental Data Management Specialist III - EQuIS - Anchorage, Alaska, United States](https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Data-Management-Specialist-III-EQuIS/41034) — Jacobs
-- 📍 **Location:** Anchorage or Fairbanks or Prudhoe Bay
-- 💰 **Salary:** $94k–$135k/yr
-- 🕒 **Posted:** 2026-06-17T12:00:00.000Z
+### [Environmental Scientist](https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/) — Stantec
+- 📍 **Location:** Buffalo, New York, United States
+- 💰 **Salary:** $73k–$106k/yr
+- 🕒 **Posted:** 2026-06-25T13:03:00.000Z
 
-### [Environmental Training Specialist and Data Analyst](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Environmental-Training-Specialist-and-Data-Analyst_RQ221715) — Gdit
-- 📍 **Location:** United States or Virginia
-- 💰 **Salary:** $94k–$104k/yr
-- 🕒 **Posted:** 2026-06-07T00:00:00.000Z
+### [Senior Environmental Scientist](https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878) — HDR
+- 📍 **Location:** Seattle or Gig Harbor or Everett or Bellevue or Olympia
+- 🕒 **Posted:** 2026-06-08T12:00:00.000Z
 
-### [Environmental Analyst](https://www.governmentjobs.com/careers/sbmwd/jobs/5382958) — City of San Bernardino Municipal Water Department
-- 📍 **Location:** San Bernardino, California, United States
-- 💰 **Salary:** $100k–$128k/yr
-- 🕒 **Posted:** 2026-06-22T14:32:27.000Z
+### [Environmental Scientist III](https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968) — Verdantas
+- 📍 **Location:** Tampa or Florida or United States
+- 🕒 **Posted:** 2026-06-12T00:00:00.000Z
 
-### [Environmental Scientist 1](https://job-boards.greenhouse.io/apexcompanies/jobs/5272472008) — Apex Companies
-- 📍 **Location:** Fullerton, California, United States
-- 💰 **Salary:** $70k–$86k/yr
-- 🕒 **Posted:** 2026-06-19T23:07:01.000Z
+### [Physical Scientist/Hydrologist/Geologist](https://www.usajobs.gov/job/875192500) — Environmental Protection Agency
+- 📍 **Location:** Chicago, Illinois, United States
+- 💰 **Salary:** $56k–$90k/yr
+- 🕒 **Posted:** 2026-07-02T08:44:35.817Z
 
-### [Natural Resources Field Technician](https://acrt.wd1.myworkdayjobs.com/enviroscienceinc/job/Stow-OH/Natural-Resources-Field-Technician_R9078-1) — Acrt
-- 📍 **Location:** Stow or Hendersonville or United States
-- 🕒 **Posted:** 2026-06-16T00:00:00.000Z
+### [ENVIRONMENTAL SCIENTIST 3](https://www.governmentjobs.com/careers/nv/jobs/5393002) — State of Nevada
+- 📍 **Location:** Carson City, Nevada, United States
+- 💰 **Salary:** $67k–$100k/yr
+- 🕒 **Posted:** 2026-06-29T21:11:34.000Z
 
-### [Natural Resources Field Technician](https://acrt.wd1.myworkdayjobs.com/careerbuilder/job/Stow-OH/Natural-Resources-Field-Technician_R9078-2) — Acrt
-- 📍 **Location:** Stow or Hendersonville
-- 🕒 **Posted:** 2026-06-16T00:00:00.000Z
+### [Environmental Scientist](https://stantec.jobs/honolulu-hi/environmental-scientist/E882B90FCD8044C78AC9D4F6CDBCA599/job/) — Stantec
+- 📍 **Location:** Honolulu, Hawaii, United States
+- 🕒 **Posted:** 2026-06-12T17:02:38.000Z
 
-### [Natural Resources Field Technician](https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Stow-OH/Natural-Resources-Field-Technician_R9078-3) — Acrt
-- 📍 **Location:** Stow or Hendersonville
-- 🕒 **Posted:** 2026-06-16T00:00:00.000Z
-
-### [Natural Resources Program Coordinator - Brewster, NY](https://cornell.wd1.myworkdayjobs.com/ccecareerpage/job/New-York-State-Other/Natural-Resources-Program-Coordinator---Brewster--NY_WDR-00059128-1) — Cornell
-- 📍 **Location:** Brewster or New York
-- 💰 **Salary:** $69k/yr
-- 🕒 **Posted:** 2026-06-10T00:00:00.000Z
-
-### [Conservation GIS Analyst](https://jobs.omni.fsu.edu/psc/sprdhr_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=62931&PostingSeq=1&SiteId=1) — Florida Natural Areas Inventory (FNAI)
-- 📍 **Location:** Tallahassee, Florida, United States
-- 💰 **Salary:** $52k/yr
-- 🕒 **Posted:** 2026-06-29T12:00:00.000Z
-
-### [Consultant, Environmental Engineer / Scientist / Geologist](https://erm.wd3.myworkdayjobs.com/erm_earlycareers/job/Ewing-New-Jersey/Consultant--Environmental-Engineer---Scientist---Geologist_R00030854) — Erm
-- 📍 **Location:** Ewing, New Jersey, United States
-- 💰 **Salary:** $74k–$103k/yr
-- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
-
-### [Senior Environmental Consultant Manager](https://careers-sargentlundy.icims.com/jobs/24683/senior-environmental-consultant-manager/job?in_iframe=1) — Sargent & Lundy
-- 📍 **Location:** Houston, Texas, United States
-- 💰 **Salary:** $165k–$253k/yr
-- 🕒 **Posted:** 2026-06-03T04:00:00.000Z
+### [SUPERVISORY NATURAL RESOURCES SPECIALIST](https://www.usajobs.gov/job/875129300) — U.S. Marine Corps
+- 📍 **Location:** Camp Pendleton, California, United States
+- 💰 **Salary:** $102k–$133k/yr
+- 🕒 **Posted:** 2026-07-02T00:00:00.000Z
