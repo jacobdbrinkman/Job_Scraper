@@ -1,6 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-02 19:11 UTC*
+*Last updated: 2026-07-02 21:04 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Environmental Scientist/Fish Biologist](https://www.indeed.com/viewjob?jk=c0492894071ddefa) — Point Environmental LLC
+- 📍 **Location:** Oregon City, OR, US
+- 💰 **Salary:** $25–$30/hr
+- 🕒 **Posted:** 2026-07-02
