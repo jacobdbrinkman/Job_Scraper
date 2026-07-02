@@ -1,6 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-02 21:52 UTC*
+*Last updated: 2026-07-02 23:46 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Senior Engineering Geologist](https://www.indeed.com/viewjob?jk=5627efb1cc55e506) — Tetra Tech
+- 📍 **Location:** Diamond Bar, CA, US
+- 💰 **Salary:** $130k–$170k/yr
+- 🕒 **Posted:** 2026-07-02
