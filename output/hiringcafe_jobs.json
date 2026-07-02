@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-01 22:11 UTC",
-  "total": 131,
-  "new_count": 4,
+  "scraped_at": "2026-07-02 00:04 UTC",
+  "total": 121,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -1486,45 +1486,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jacobs",
-      "title": "Environmental Data Management Specialist III - EQuIS - Anchorage, Alaska, United States",
-      "location": "Anchorage or Fairbanks or Prudhoe Bay",
-      "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Data-Management-Specialist-III-EQuIS/41034",
-      "direct_url": "https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Data-Management-Specialist-III-EQuIS/41034",
-      "date_posted": "2026-06-17T12:00:00.000Z",
-      "description": "Bachelor's in a related field, 8+ years environmental data management experience, EQuIS and ERPIMS expertise, environmental software implementation and digital workflow design experience.",
-      "salary": "$94k–$135k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of San Bernardino Municipal Water Department",
-      "title": "Environmental Analyst",
-      "location": "San Bernardino, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sbmwd/jobs/5382958",
-      "direct_url": "https://www.governmentjobs.com/careers/sbmwd/jobs/5382958",
-      "date_posted": "2026-06-22T14:32:27.000Z",
-      "description": "Bachelor's in chemical/biological/environmental sciences preferred; 2 years water/wastewater/environmental data review and report writing; valid California Class C driver license; ability to work in office and field, prepare reports, and interpret regulations.",
-      "salary": "$100k–$128k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist 1",
-      "location": "Fullerton, California, United States",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272472008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272472008",
-      "date_posted": "2026-06-19T23:07:01.000Z",
-      "description": "Bachelor's in environmental science or related field required. Experience with environmental sampling, regulatory compliance, inspections, data management, Microsoft Office and ArcGIS. Valid CA driver's license and ability to lift 50 lbs.",
-      "salary": "$70k–$86k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Department of the Army",
       "title": "Natural Resources Specialist",
       "location": "Fort Hood, Texas, United States",
@@ -1559,71 +1520,6 @@
       "date_posted": "2026-06-16T20:18:27.000Z",
       "description": "Bachelor's in natural resources or related field and 1 year related experience; pesticide applicator license within 6 months; valid Texas driver’s license; GIS (ArcView) and geodatabase experience; biological monitoring, public outreach, and report writing skills.",
       "salary": "$60k–$74k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Acrt",
-      "title": "Natural Resources Field Technician",
-      "location": "Stow or Hendersonville or United States",
-      "url": "https://acrt.wd1.myworkdayjobs.com/enviroscienceinc/job/Stow-OH/Natural-Resources-Field-Technician_R9078-1",
-      "direct_url": "https://acrt.wd1.myworkdayjobs.com/enviroscienceinc/job/Stow-OH/Natural-Resources-Field-Technician_R9078-1",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Enrolled in or recently graduated from a bachelor’s program in natural sciences; familiarity with ecological fieldwork, wetland surveys, plant identification, GPS/tablet data capture, willingness for long field days and overnight travel, able to lift ~50 lbs.",
-      "salary": "",
-      "job_type": "Full Time, Seasonal",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Acrt",
-      "title": "Natural Resources Field Technician",
-      "location": "Stow or Hendersonville",
-      "url": "https://acrt.wd1.myworkdayjobs.com/careerbuilder/job/Stow-OH/Natural-Resources-Field-Technician_R9078-2",
-      "direct_url": "https://acrt.wd1.myworkdayjobs.com/careerbuilder/job/Stow-OH/Natural-Resources-Field-Technician_R9078-2",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Enrolled in or recently graduated from a bachelor’s program in natural sciences; familiarity with ecological field methods, wetland assessments, GPS data capture, willingness to work long days in harsh conditions and travel overnight; ability to lift up to 50 lbs.",
-      "salary": "",
-      "job_type": "Full Time, Seasonal",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Acrt",
-      "title": "Natural Resources Field Technician",
-      "location": "Stow or Hendersonville",
-      "url": "https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Stow-OH/Natural-Resources-Field-Technician_R9078-3",
-      "direct_url": "https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Stow-OH/Natural-Resources-Field-Technician_R9078-3",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Enrolled in or recently graduated from a bachelor's in natural sciences; familiarity with ecological field methods, species and plant identification, GPS/Geode use, data entry, ability to work long field days and travel overnight; able to lift up to 50 lbs.",
-      "salary": "",
-      "job_type": "Full Time, Seasonal",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Cornell",
-      "title": "Natural Resources Program Coordinator - Brewster, NY",
-      "location": "Brewster or New York",
-      "url": "https://cornell.wd1.myworkdayjobs.com/ccecareerpage/job/New-York-State-Other/Natural-Resources-Program-Coordinator---Brewster--NY_WDR-00059128-1",
-      "direct_url": "https://cornell.wd1.myworkdayjobs.com/ccecareerpage/job/New-York-State-Other/Natural-Resources-Program-Coordinator---Brewster--NY_WDR-00059128-1",
-      "date_posted": "2026-06-10T00:00:00.000Z",
-      "description": "Bachelor's degree (or Associate + 2 years experience), valid NYS driver license, ability to travel, experience delivering natural resources programs, Microsoft Office and GIS proficiency, ability to work flexible hours and manage volunteers.",
-      "salary": "$69k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Florida Natural Areas Inventory (FNAI)",
-      "title": "Conservation GIS Analyst",
-      "location": "Tallahassee, Florida, United States",
-      "url": "https://jobs.omni.fsu.edu/psc/sprdhr_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=62931&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.omni.fsu.edu/psc/sprdhr_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=62931&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-29T12:00:00.000Z",
-      "description": "Bachelor's degree + 2 years experience or a Master's; strong multi-platform GIS skills (ESRI ArcGIS), spatial analysis, species/ecosystem modeling (Maxent, Random Forest), scripting (Python or R), Google Earth Engine, SQL, reproducible workflows, and strong communication.",
-      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1679,86 +1575,7 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Erm",
-      "title": "Consultant, Environmental Engineer / Scientist / Geologist",
-      "location": "Ewing, New Jersey, United States",
-      "url": "https://erm.wd3.myworkdayjobs.com/erm_earlycareers/job/Ewing-New-Jersey/Consultant--Environmental-Engineer---Scientist---Geologist_R00030854",
-      "direct_url": "https://erm.wd3.myworkdayjobs.com/erm_earlycareers/job/Ewing-New-Jersey/Consultant--Environmental-Engineer---Scientist---Geologist_R00030854",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "Bachelor's in a related field or equivalent experience, 2+ years in environmental consulting, NJ regs knowledge, 40-hour HAZWOPER + 8-hour refresher, valid driver's license, ability to lift 40 lbs, MS Office proficiency, strong communication, field work required. No immigration sponsorship.",
-      "salary": "$74k–$103k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Sargent & Lundy",
-      "title": "Senior Environmental Consultant Manager",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers-sargentlundy.icims.com/jobs/24683/senior-environmental-consultant-manager/job?in_iframe=1",
-      "direct_url": "https://careers-sargentlundy.icims.com/jobs/24683/senior-environmental-consultant-manager/job?in_iframe=1",
-      "date_posted": "2026-06-03T04:00:00.000Z",
-      "description": "BS in environmental engineering or science (MS preferred), 15+ years environmental compliance/permitting experience for complex power/industrial projects, familiarity with NEPA/ESA/Clean Air/Clean Water/RCRA, business development and project leadership experience, ArcGIS a plus.",
-      "salary": "$165k–$253k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "corpuschristi",
-      "title": "IT GIS Analyst II",
-      "location": "Corpus Christi, Texas, United States",
-      "url": "https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
-      "direct_url": "https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "Associate's degree or 2-year technical certificate, minimum 3 years' experience, valid driver's license, GIS enterprise geodatabase and ArcGIS administration experience, ArcPy/Python API proficiency, ArcMap/ArcPro knowledge, and ability to work evenings/weekends and pass pre-employment screenings.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Verdantas",
-      "title": "Environmental Scientist III",
-      "location": "Tampa or Florida or United States",
-      "url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
-      "direct_url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
-      "date_posted": "2026-06-12T00:00:00.000Z",
-      "description": "5+ years environmental consulting experience, Bachelor’s degree in a related field, PE or PG required/obtainable, HAZWOPER 40-hour preferred (training provided if needed), valid driver’s license, ability to travel regionally, strong communication and data skills, MS Office proficiency.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "New Mexico Energy, Minerals and Natural Resources Department (EMNRD) - Oil Conservation Division",
-      "title": "Hydrologist (EMNRD #10116394)",
-      "location": "Albuquerque or Artesia or Hobbs or Santa Fe",
-      "url": "https://careers.share.nm.gov/psc/hprdcg/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=165019&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.share.nm.gov/psc/hprdcg/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=165019&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-07-01T12:00:00.000Z",
-      "description": "Bachelor's in a related science or equivalent experience, minimum 5 years implementing water regulatory programs/groundwater investigation and remediation; valid driver's license; ability to qualify for DOE L or Q security clearance; skills in groundwater investigation, water sampling, GPS, data analysis, mapping, and regulatory review.",
-      "salary": "$81k–$130k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HDR",
-      "title": "Senior Geologist",
-      "location": "Tampa, Florida, United States",
-      "url": "https://hdr.referrals.selectminds.com/jobs/senior-geologist-44136",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-geologist-44136",
-      "date_posted": "2026-06-26T12:55:11.039Z",
-      "description": "Bachelor's in Geology or related, 10+ years relevant experience, field work experience, project/staff management and business development skills, proficiency with Microsoft Office, travel as needed.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
