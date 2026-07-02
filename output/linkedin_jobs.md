@@ -1,117 +1,99 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-02 00:04 UTC*
+*Last updated: 2026-07-02 04:40 UTC*
 
-**24 new role(s)** since last run · 26 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Magnet Program Coordinator](https://www.linkedin.com/jobs/view/4411795198/) — NorthBay Health
-- 📍 **Location:** Fairfield, CA
-- 💰 **Salary:** $183K - $221K annually
-- 🕒 **Posted:** 2026-07-01
+### [Data Analyst 3 -  Supply Chain Operations](https://www.linkedin.com/jobs/view/4436156611/) — Nordstrom
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $102,500.00 - $170,500.00
+- 🕒 **Posted:** 2026-07-02
 
-### [Senior Solutions Engineer, Applied Field Engineering, Analytics](https://www.linkedin.com/jobs/view/4436136232/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $207,500 - $288,750
-- 🕒 **Posted:** 2026-07-01
+### [Executive Assistant & Project Coordinator](https://www.linkedin.com/jobs/view/4436168407/) — Perkins Coie
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $75,390 to $112,020 annually
+- 🕒 **Posted:** 2026-07-02
 
-### [Project Coordinator [210799]](https://www.linkedin.com/jobs/view/4436129213/) — Aquent
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $48.00/hr - $52.00/hr
-- 🕒 **Posted:** 2026-07-01
+### [Data Analyst](https://www.linkedin.com/jobs/view/4436159828/) — Arrow Electronics
+- 📍 **Location:** Centennial, CO
+- 💰 **Salary:** $80,100.00 - $100,100.00
+- 🕒 **Posted:** 2026-07-02
 
-### [Senior Solutions Engineer, Public Sector](https://www.linkedin.com/jobs/view/4419507637/) — Box
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $192,500 USD - $240,500 USD
-- 🕒 **Posted:** 2026-07-01
+### [Product Data Analyst](https://www.linkedin.com/jobs/view/4402039772/) — Connect for Health Colorado
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $72,100 - $94,760 per year
+- 🕒 **Posted:** 2026-07-02
 
-### [Construction Materials Testing & Inspection Field Technician](https://www.linkedin.com/jobs/view/4434681911/) — Salem Engineering Group, Inc.
-- 📍 **Location:** Rancho Cucamonga, CA
-- 💰 **Salary:** $25.00 - $30.00 per hour
-- 🕒 **Posted:** 2026-07-01
+### [Environmental Scientist I -Sr](https://www.linkedin.com/jobs/view/4430638781/) — Public Service Company of New Mexico (PNM)
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $82,463 - $111,325
+- 🕒 **Posted:** 2026-07-02
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4434693372/) — Millworks Etc., Inc.
-- 📍 **Location:** Oxnard, CA
-- 🕒 **Posted:** 2026-07-01
+### [PHYSICAL SCIENTIST](https://www.linkedin.com/jobs/view/4436164785/) — U.S. Fleet Forces Command
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-07-02
 
-### [Clinical Program Coordinator [210532]](https://www.linkedin.com/jobs/view/4436122709/) — Aquent
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $59.73/hr - $66.37/hr
-- 🕒 **Posted:** 2026-07-01
+### [SUPERVISORY PHYSICAL SCIENTIST](https://www.linkedin.com/jobs/view/4436161911/) — U.S. Fleet Forces Command
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-07-02
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4436115597/) — Kforce Inc
-- 📍 **Location:** Englewood, CO
-- 💰 **Salary:** $42.00/hr - $49.00/hr
-- 🕒 **Posted:** 2026-07-01
+### [Field Technician I](https://www.linkedin.com/jobs/view/4435023821/) — Rain For Rent
+- 📍 **Location:** Geismar, LA
+- 🕒 **Posted:** 2026-07-02
 
-### [Steel Construction Project Coordinator-NOT REMOTE](https://www.linkedin.com/jobs/view/4436141165/) — W3Global
-- 📍 **Location:** Sedalia, CO
-- 💰 **Salary:** $95,000.00/yr - $115,000.00/yr
-- 🕒 **Posted:** 2026-07-01
-
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4435848215/) — State of Utah
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $25.90 - $53.87 Hourly
-- 🕒 **Posted:** 2026-07-01
-
-### [Data Analyst [210633]](https://www.linkedin.com/jobs/view/4436130201/) — Skill
+### [Senior Data Analyst II - LHB](https://www.linkedin.com/jobs/view/4436152816/) — Luminare Health
 - 📍 **Location:** United States
-- 💰 **Salary:** $42.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-07-01
+- 💰 **Salary:** $67,600.00 - $127,000.00
+- 🕒 **Posted:** 2026-07-02
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4434680985/) — Aequor
-- 📍 **Location:** Cambridge, MA
-- 💰 **Salary:** $25.00/hr - $30.00/hr
-- 🕒 **Posted:** 2026-07-01
+### [Data Analyst Senior - Level 3](https://www.linkedin.com/jobs/view/4436163467/) — Lockheed Martin
+- 📍 **Location:** Fort Worth, TX
+- 🕒 **Posted:** 2026-07-02
 
-### [Configuration Data Management Specialist](https://www.linkedin.com/jobs/view/4436121846/) — Systems Planning & Analysis
-- 📍 **Location:** Dayton, OH
-- 🕒 **Posted:** 2026-07-01
+### [Enrollment Data Analyst II](https://www.linkedin.com/jobs/view/4436166386/) — Elevance Health
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-07-02
 
-### [Technical Data Analyst with Financial Services, MDM, Golden Source - HYBRID - USC and GC only](https://www.linkedin.com/jobs/view/4436130174/) — Yoh, A Day & Zimmermann Company
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-07-01
+### [Data Analyst](https://www.linkedin.com/jobs/view/4435033255/) — River Hospital
+- 📍 **Location:** Alexandria Bay, NY
+- 🕒 **Posted:** 2026-07-02
 
-### [CYBER DATA ANALYST](https://www.linkedin.com/jobs/view/4436123263/) — Apolis
-- 📍 **Location:** Alexandria, VA
-- 💰 **Salary:** $65.00/hr - $68.00/hr
-- 🕒 **Posted:** 2026-07-01
+### [Data Analyst](https://www.linkedin.com/jobs/view/4436154809/) — Lockton
+- 📍 **Location:** Overland Park, KS
+- 🕒 **Posted:** 2026-07-02
 
-### [Data analyst](https://www.linkedin.com/jobs/view/4434688468/) — FetchJobs.co
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-01
+### [Sr Data Analyst - Digital and Ecommerce (Experimentation, Math/Stats, A/B testing, ML)(Remote Or Hybrid)](https://www.linkedin.com/jobs/view/4436152815/) — Target
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $88,000.00 - $158,000.00
+- 🕒 **Posted:** 2026-07-02
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4436114897/) — YipitData
-- 📍 **Location:** United States
-- 💰 **Salary:** $165K-$185K
-- 🕒 **Posted:** 2026-07-01
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4435030475/) — NYU Langone Health
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,300.00 - $70,350.00 Annually
+- 🕒 **Posted:** 2026-07-02
 
-### [Professional Geologist Supervisor](https://www.linkedin.com/jobs/view/4435003195/) — Kansas Department of Health and Environment
-- 📍 **Location:** Shawnee County, KS
-- 💰 **Salary:** $35.60-$39.25
-- 🕒 **Posted:** 2026-07-01
+### [Payment Integrity Project Coordinator](https://www.linkedin.com/jobs/view/4432670032/) — Cambia Health Solutions
+- 📍 **Location:** Washington, United States
+- 💰 **Salary:** $24.00 - $31.00
+- 🕒 **Posted:** 2026-07-02
 
-### [Mid-Career Hydrogeologist](https://www.linkedin.com/jobs/view/4436118581/) — Jacobs
-- 📍 **Location:** Boise, ID
-- 💰 **Salary:** $75,300.00/yr - $117,600.00/yr
-- 🕒 **Posted:** 2026-07-01
+### [Payment Integrity Project Coordinator](https://www.linkedin.com/jobs/view/4432667102/) — Cambia Health Solutions
+- 📍 **Location:** Oregon, United States
+- 💰 **Salary:** $24.00 - $31.00
+- 🕒 **Posted:** 2026-07-02
 
-### [Engineering Geologist - Mi-Tech Services, Inc.](https://www.linkedin.com/jobs/view/4432722385/) — Michels Corporation
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-07-01
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4435042018/) — Orizon Aerostructures
+- 📍 **Location:** Chanute, KS
+- 🕒 **Posted:** 2026-07-02
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4436142184/) — OHM Advisors
-- 📍 **Location:** Livonia, MI
-- 🕒 **Posted:** 2026-07-01
+### [McCann Treatment Center Program Coordinator](https://www.linkedin.com/jobs/view/4436164778/) — Yukon-Kuskokwim Health Corporation
+- 📍 **Location:** Bethel, AK
+- 🕒 **Posted:** 2026-07-02
 
-### [Quality Assurance Data Analyst](https://www.linkedin.com/jobs/view/4432727412/) — Corning Incorporated
-- 📍 **Location:** Tewksbury, MA
-- 💰 **Salary:** $67,237.00 - $92,451.00
-- 🕒 **Posted:** 2026-07-01
+### [Social Worker (Program Coordinator) Caregiver Support](https://www.linkedin.com/jobs/view/4436180054/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $98,721.00/yr - $128,341.00/yr
+- 🕒 **Posted:** 2026-07-02
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4436132374/) — Barker Contracting, Inc.
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-07-01
-
-### [Project Coordinator - Aviation](https://www.linkedin.com/jobs/view/4436117690/) — Jacobs
-- 📍 **Location:** Cary, NC
-- 💰 **Salary:** $71,700.00/yr - $113,850.00/yr
-- 🕒 **Posted:** 2026-07-01
+### [Corrections Program Coordinator-A (Recreation Director 12)](https://www.linkedin.com/jobs/view/4432743371/) — State of Michigan
+- 📍 **Location:** Marquette, MI
+- 🕒 **Posted:** 2026-07-02
