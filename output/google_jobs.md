@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-03 17:59 UTC*
+*Last updated: 2026-07-03 20:00 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
