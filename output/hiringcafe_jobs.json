@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-03 18:05 UTC",
-  "total": 137,
-  "new_count": 2,
+  "scraped_at": "2026-07-03 20:06 UTC",
+  "total": 136,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -121,19 +121,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Tacoma",
-      "title": "GIS Analyst",
-      "location": "Tacoma, Washington, United States",
-      "url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
-      "direct_url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
-      "date_posted": "2026-06-25T19:03:44.000Z",
-      "description": "Bachelor's in public/business administration, IT, or related; 4+ years relevant analytical or database maintenance experience; expertise in GIS geodatabase administration, QA/QC, scripting, SAP integration, and stakeholder collaboration.",
-      "salary": "$106k–$149k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Select",
       "title": "GIS Analyst",
       "location": "Carlsbad, New Mexico, United States",
@@ -142,6 +129,19 @@
       "date_posted": "2026-06-26T06:00:00.000Z",
       "description": "3+ years ESRI experience, 2+ years ArcGIS Pro, working knowledge of ArcGIS Enterprise, strong cartographic and project management skills, bachelor's degree preferred in GIS or related field.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Tacoma",
+      "title": "GIS Analyst",
+      "location": "Tacoma, Washington, United States",
+      "url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
+      "direct_url": "https://www.governmentjobs.com/careers/tacoma/jobs/5290997",
+      "date_posted": "2026-06-25T19:03:44.000Z",
+      "description": "Bachelor's in public/business administration, IT, or related; 4+ years relevant analytical or database maintenance experience; expertise in GIS geodatabase administration, QA/QC, scripting, SAP integration, and stakeholder collaboration.",
+      "salary": "$106k–$149k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -927,14 +927,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Senior Environmental Scientist",
-      "location": "Clovis, California, United States",
-      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "date_posted": "2026-06-24T19:55:12.571Z",
-      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
-      "salary": "$105k–$120k/yr",
+      "company": "State of Louisiana",
+      "title": "Environmental Scientist 4",
+      "location": "Baton Rouge, Louisiana, United States",
+      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
+      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
+      "date_posted": "2026-06-30T20:06:05.000Z",
+      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
+      "salary": "$50k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -953,14 +953,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Louisiana",
-      "title": "Environmental Scientist 4",
-      "location": "Baton Rouge, Louisiana, United States",
-      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5393678",
-      "date_posted": "2026-06-30T20:06:05.000Z",
-      "description": "Bachelor's in a related science or engineering field plus 2 years of relevant environmental/nuclear/radiation or laboratory experience; master's plus 1 year or doctorate also acceptable. GIS and LIMS experience preferred.",
-      "salary": "$50k–$90k/yr",
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1156,19 +1156,6 @@
       "date_posted": "2026-06-04T18:56:53.000Z",
       "description": "Bachelors in geology or related field, 1+ years geologist experience, ability to collect environmental samples, perform field logging, lift 50 lbs, pass HAZWOPER physical and motor vehicle screening, and travel as required.",
       "salary": "$61k–$72k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arch Environmental Group Inc",
-      "title": "Professional Geologist",
-      "location": "Southfield, Michigan, United States",
-      "url": "https://arch-environmental-group-inc.careerplug.com/jobs/3437277",
-      "direct_url": "https://arch-environmental-group-inc.careerplug.com/jobs/3437277",
-      "date_posted": "2026-06-03T19:56:22.730Z",
-      "description": "Licensed Professional Geologist with 8+ years environmental field and project management experience, OSHA 40-hour HAZWOPER, strong report-writing and proposal skills, MS Word/Excel and GIS experience, authorized to work in the U.S.",
-      "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1785,32 +1772,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jefferson Parish",
-      "title": "GIS ANALYST I (4041)",
-      "location": "Gretna or Jefferson Parish County",
-      "url": "https://www.governmentjobs.com/careers/jeffparish/jobs/3859755",
-      "direct_url": "https://www.governmentjobs.com/careers/jeffparish/jobs/3859755",
-      "date_posted": "2026-07-02T16:33:02.000Z",
-      "description": "Associate's degree in GIS or coursework in GIS plus paid ESRI-based GIS work experience, or HS diploma with significant ESRI-based GIS experience; familiarity with CAD and map production.",
-      "salary": "$41k–$49k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Langan | A Premier Engineering & Environmental Services Consulting Firm",
-      "title": "Senior Environmental Data Analyst",
-      "location": "Parsippany, New Jersey, United States",
-      "url": "https://careers.langan.com/job/Parsippany-Senior-Environmental-Data-Analyst-NJ-07054-2172/1391337400/",
-      "direct_url": "https://careers.langan.com/job/Parsippany-Senior-Environmental-Data-Analyst-NJ-07054-2172/1391337400/",
-      "date_posted": "2026-06-13T07:00:00.000Z",
-      "description": "Bachelor's degree in a relevant technical discipline, 5+ years environmental data management experience, EQuIS power user, knowledge of NYSDEC EDD requirements, SQL/Power BI/GIS skills a plus, strong communication and mentoring ability.",
-      "salary": "$72k–$104k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
