@@ -1,138 +1,127 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-03 17:06 UTC*
+*Last updated: 2026-07-03 19:00 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**26 new role(s)** since last run · 27 total in last 1h
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4436760074/) — Applicantz
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $39.35/hr - $39.35/hr
+### [Operations Data Analyst #99690](https://www.linkedin.com/jobs/view/4435468567/) — Swoon
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $70.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-07-03
 
-### [eDiscovery Data Analyst – Relativity & Microsoft Purview](https://www.linkedin.com/jobs/view/4436749975/) — Applicantz
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $47.64/hr - $47.64/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433700542/) — Core Education & Technologies Limited
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433199827/) — Core Education & Technologies Limited
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-03
 
-### [Jr. Geologist / Jr. Engineer](https://www.linkedin.com/jobs/view/4427671674/) — Bering Straits Native Corporation (BSNC)
+### [Data Analyst](https://www.linkedin.com/jobs/view/4435468693/) — Apex Class Action
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-07-03
+
+### [Graduate Program Coordinator (Administrative Support Coordinator II)](https://www.linkedin.com/jobs/view/4433706648/) — Fowler College of Business at San Diego State University
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $4,367 – $6,362 per month
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Geologist](https://www.linkedin.com/jobs/view/4416317611/) — WSP in the U.S.
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $33 – $35 per hr
+- 💰 **Salary:** $74,200 - $126,000
 - 🕒 **Posted:** 2026-07-03
 
-### [Associate Hydrogeologist](https://www.linkedin.com/jobs/view/4384774453/) — Jacobs
-- 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $86,600.00/yr - $130,000.00/yr
+### [Program Coordinator, Gift Services & Data Management](https://www.linkedin.com/jobs/view/4409103057/) — Fred Hutch
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $31.26 to $44.51
 - 🕒 **Posted:** 2026-07-03
 
-### [Associate / Staff Mission Data Analyst (Clearance Required)](https://www.linkedin.com/jobs/view/4427614962/) — SciTec
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $88,000 - $127,000
-- 🕒 **Posted:** 2026-07-03
-
-### [Supply Chain Data Analyst](https://www.linkedin.com/jobs/view/4424816333/) — RK Industries
+### [Staff Data Analyst, Block Compliance](https://www.linkedin.com/jobs/view/4408596043/) — Block
 - 📍 **Location:** Denver, CO
+- 💰 **Salary:** $171,800—$257,600 USD
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Business Intelligence Data Analyst](https://www.linkedin.com/jobs/view/4435470361/) — hackajob
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-07-03
-
-### [Field Technician](https://www.linkedin.com/jobs/view/4427671120/) — SOCOTEC US
-- 📍 **Location:** Centennial, CO
-- 🕒 **Posted:** 2026-07-03
-
-### [GIS Specialists II](https://www.linkedin.com/jobs/view/4426185575/) — University of Utah
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $55,000 - $70,000
-- 🕒 **Posted:** 2026-07-03
-
-### [Staff Environmental Scientist - Natural Resources (Chesterfield, MO | Columbus, OH)](https://www.linkedin.com/jobs/view/4416584124/) — Burns & McDonnell
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-07-03
-
-### [Occupational Safety and Health Data Analyst](https://www.linkedin.com/jobs/view/4416701045/) — ERG
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $58,000.00/yr - $70,000.00/yr
-- 🕒 **Posted:** 2026-07-03
-
-### [Occupational Safety and Health Data Analyst](https://www.linkedin.com/jobs/view/4416596065/) — ERG
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $58,000.00/yr - $70,000.00/yr
-- 🕒 **Posted:** 2026-07-03
-
-### [TDEC-ENVIRONMENTAL SCIENTIST1* - 06302026- 78850](https://www.linkedin.com/jobs/view/4435460602/) — State of Tennessee
-- 📍 **Location:** Jackson, TN
-- 💰 **Salary:** $4,057.00 - $5,078.00
-- 🕒 **Posted:** 2026-07-03
-
-### [Field Technician](https://www.linkedin.com/jobs/view/4427661223/) — SOCOTEC US
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-07-03
-
-### [Staff Data Analyst](https://www.linkedin.com/jobs/view/4414270100/) — Stripe
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $179,000 - $268,400
-- 🕒 **Posted:** 2026-07-03
-
-### [Product Data Analyst](https://www.linkedin.com/jobs/view/4427608972/) — Allspring Global Investments
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $80,000 - $100,000
-- 🕒 **Posted:** 2026-07-03
-
-### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4427593152/) — Argo Group
+### [Senior Environmental Compliance Specialist / Environmental Scientist](https://www.linkedin.com/jobs/view/4395484644/) — WSP in the U.S.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $95,000 - $115,000
+- 💰 **Salary:** $89,000 - 146,900
 - 🕒 **Posted:** 2026-07-03
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4426687703/) — SOCOTEC
-- 📍 **Location:** Safford, AZ
+### [Senior Environmental Compliance Specialist / Environmental Scientist](https://www.linkedin.com/jobs/view/4395470943/) — WSP in the U.S.
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $89,000 - 146,900
 - 🕒 **Posted:** 2026-07-03
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4426906656/) — SOCOTEC
-- 📍 **Location:** Salt Lake City, UT
+### [Senior Survey Technician](https://www.linkedin.com/jobs/view/4426664172/) — WSP in the U.S.
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-07-03
 
-### [Data Analyst, Senior Specialist](https://www.linkedin.com/jobs/view/4435469478/) — hackajob
-- 📍 **Location:** Dallas, TX
+### [Intermediate Environmental Scientist](https://www.linkedin.com/jobs/view/4416327407/) — WSP in the U.S.
+- 📍 **Location:** Gainesville, FL
 - 🕒 **Posted:** 2026-07-03
 
-### [Data Analyst, Senior Specialist](https://www.linkedin.com/jobs/view/4435473358/) — hackajob
-- 📍 **Location:** Charlotte, NC
+### [Staff Data Analyst, Block Compliance](https://www.linkedin.com/jobs/view/4408585189/) — Block
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $171,800—$257,600 USD
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Data Analyst (XML) (Only W2)](https://www.linkedin.com/jobs/view/4435454715/) — Ampstek
-- 📍 **Location:** Hartford County, CT
-- 💰 **Salary:** $50.00/hr - $50.00/hr
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4426900739/) — SWBC
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-07-03
 
-### [Sr Data Analyst/Content Manager- Ft Shafter, HI](https://www.linkedin.com/jobs/view/4406400304/) — BAE Systems, Inc.
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $118095 - $200762
+### [Senior Environmental Compliance Specialist / Environmental Scientist](https://www.linkedin.com/jobs/view/4395480583/) — WSP in the U.S.
+- 📍 **Location:** Portland, ME
+- 💰 **Salary:** $89,000 - 146,900
 - 🕒 **Posted:** 2026-07-03
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4433700723/) — City of New York
-- 📍 **Location:** Queens, NY
-- 💰 **Salary:** $75,777.00 – $111,552.00
-- 🕒 **Posted:** 2026-07-03
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4435454927/) — TUDI Mechanical Systems, Inc.
+### [Senior Business Data Analyst - AVP](https://www.linkedin.com/jobs/view/4407609124/) — Citi
 - 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $87,280.00 - $130,920.00
 - 🕒 **Posted:** 2026-07-03
 
-### [Infrastructure & Capital Projects – PMO Project Coordinator – Data Centers, ANS](https://www.linkedin.com/jobs/view/4435469494/) — Accenture
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $100,000 - $140,000
+### [Environmental Scientist/Engineer (M.Sc., M.Eng., or Ph.D.)](https://www.linkedin.com/jobs/view/4386478478/) — Exponent
+- 📍 **Location:** Burlington, MA
+- 💰 **Salary:** USD $122,000.00 - USD $149,000.00 /Yr
 - 🕒 **Posted:** 2026-07-03
 
-### [IT Project Coordinator (AI-Focus) - Hybrid](https://www.linkedin.com/jobs/view/4436765358/) — Interactive Blue, LLC
-- 📍 **Location:** Miami-Fort Lauderdale Area
+### [Senior Geologist](https://www.linkedin.com/jobs/view/4416306912/) — WSP in the U.S.
+- 📍 **Location:** Boise, ID
+- 💰 **Salary:** $74,200 - $126,000
 - 🕒 **Posted:** 2026-07-03
 
-### [Program Coordinator I- Temporary](https://www.linkedin.com/jobs/view/4416366159/) — University of Mississippi
-- 📍 **Location:** University, MS
-- 💰 **Salary:** $18.64 - $27.96
+### [Senior Geologist](https://www.linkedin.com/jobs/view/4416313766/) — WSP in the U.S.
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $74,200 - $126,000
+- 🕒 **Posted:** 2026-07-03
+
+### [Data Analyst / Business Solution Consultant](https://www.linkedin.com/jobs/view/4427638369/) — Worldpay
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-07-03
+
+### [Data Analyst / Business Solution Consultant](https://www.linkedin.com/jobs/view/4427644404/) — Worldpay
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Data Analyst (Remote)](https://www.linkedin.com/jobs/view/4436779379/) — CareFirst BlueCross BlueShield
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $87,264 - $173,316
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4424851362/) — Concentrix
+- 📍 **Location:** Lincoln, NE
+- 💰 **Salary:** $ 92,250 to $125,000
+- 🕒 **Posted:** 2026-07-03
+
+### [Lead Data Analyst (Network)](https://www.linkedin.com/jobs/view/4417329245/) — Agero, Inc.
+- 📍 **Location:** Medford, MA
+- 💰 **Salary:** $110,000 USD - $135,000 USD
+- 🕒 **Posted:** 2026-07-03
+
+### [Program Coordinator, Workforce Planning](https://www.linkedin.com/jobs/view/4417369604/) — Etsy
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $92,000.00 - $120,000.00
+- 🕒 **Posted:** 2026-07-03
+
+### [Tobacco Program Coordinator](https://www.linkedin.com/jobs/view/4433197868/) — Navajo County
+- 📍 **Location:** Holbrook, AZ
+- 🕒 **Posted:** 2026-07-03
+
+### [Program Coordinator, Genetics](https://www.linkedin.com/jobs/view/4377475979/) — Beth Israel Lahey Health
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $23.63 - $31.16
 - 🕒 **Posted:** 2026-07-03
