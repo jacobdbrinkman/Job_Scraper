@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02 22:58 UTC",
-  "total": 135,
+  "scraped_at": "2026-07-03 01:23 UTC",
+  "total": 137,
   "new_count": 4,
   "jobs": [
     {
@@ -103,6 +103,19 @@
       "date_posted": "2026-06-23T16:38:40.000Z",
       "description": "Bachelor's in GIS or related field, 1+ years GIS experience, proficiency with ESRI Arc GIS, AutoCAD, Python/Visual Basic/Arcade/SQL, GIS field equipment, cartography, data management, and strong communication skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Henderson",
+      "title": "GIS Analyst I",
+      "location": "Henderson, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/henderson/jobs/5396778",
+      "direct_url": "https://www.governmentjobs.com/careers/henderson/jobs/5396778",
+      "date_posted": "2026-07-02T22:01:37.000Z",
+      "description": "Bachelor's in GIS/Geography/Engineering/Computer Science, 1 year professional GIS experience, valid Nevada or border-state driver's license, ability to develop and implement GIS applications.",
+      "salary": "$71k–$107k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -368,19 +381,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "corpuschristi",
-      "title": "IT GIS Analyst II",
-      "location": "Corpus Christi, Texas, United States",
-      "url": "https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
-      "direct_url": "https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "Associate's degree or 2-year technical certificate, minimum 3 years' experience, valid driver's license, GIS enterprise geodatabase and ArcGIS administration experience, ArcPy/Python API proficiency, ArcMap/ArcPro knowledge, and ability to work evenings/weekends and pass pre-employment screenings.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The Tatitlek Corporation",
       "title": "Geospatial Analyst",
       "location": "Oak Ridge, Tennessee, United States",
@@ -394,19 +394,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "NV5 Geospatial",
-      "title": "Senior Geospatial Analyst",
-      "location": "Saint Louis or Sun Prairie",
-      "url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
-      "direct_url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
-      "date_posted": "2026-06-07T04:00:00.000Z",
-      "description": "5+ years geospatial analysis experience, DoD/Air Force experience required, bachelor's degree in GIS-related field, expertise with ArcGIS/QGIS and DoD geospatial systems, ability to obtain security clearance.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Booz Allen",
       "title": "Geospatial Analyst, Senior",
       "location": "Fort Gordon, Georgia, United States",
@@ -415,6 +402,19 @@
       "date_posted": "2026-06-17T12:00:00.000Z",
       "description": "TS/SCI clearance required, 5+ years geospatial experience (varies by degree), experience with spatial databases, GIS tools, SOCET GXP/iSpy, and presenting geospatial products; ability to work rotating shifts.",
       "salary": "$78k–$176k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "NV5 Geospatial",
+      "title": "Senior Geospatial Analyst",
+      "location": "Saint Louis or Sun Prairie",
+      "url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
+      "direct_url": "https://internal-nv5.icims.com/jobs/12226/senior-geospatial-analyst/job?in_iframe=1",
+      "date_posted": "2026-06-07T04:00:00.000Z",
+      "description": "5+ years geospatial analysis experience, DoD/Air Force experience required, bachelor's degree in GIS-related field, expertise with ArcGIS/QGIS and DoD geospatial systems, ability to obtain security clearance.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -576,6 +576,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Knowledge Management",
+      "title": "C-UAS Data Analyst",
+      "location": "Landover, Maryland, United States",
+      "url": "https://knowledgemanagement.isolvedhire.com/jobs/1796679",
+      "direct_url": "https://knowledgemanagement.isolvedhire.com/jobs/1796679",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Subject-matter expert in UAS/counter-UAS data analysis, predictive modeling, machine learning, and geospatial analysis; proficiency with Microsoft Excel, Power BI/Tableau, and ArcGIS; DHS Public Trust clearance.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "State of Nevada",
       "title": "ENVIRONMENTAL SCIENTIST 3",
       "location": "Reno, Nevada, United States",
@@ -584,6 +597,19 @@
       "date_posted": "2026-06-29T21:06:20.000Z",
       "description": "Bachelor's in physical/natural resource/life sciences/engineering +3 years environmental experience OR HS/equivalent +5 years experience OR 1 year as Environmental Scientist 2 in Nevada; experience with permitting, compliance monitoring, inspections, enforcement, data analysis and report writing.",
       "salary": "$67k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Buffalo, New York, United States",
+      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "date_posted": "2026-06-25T13:03:00.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
+      "salary": "$73k–$106k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -602,14 +628,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
+      "company": "Tetra Tech",
       "title": "Environmental Scientist",
-      "location": "Buffalo, New York, United States",
-      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "date_posted": "2026-06-25T13:03:00.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
-      "salary": "$73k–$106k/yr",
+      "location": "Portland or Oregon or California or Washington or Alaska",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061",
+      "date_posted": "2026-06-05T12:00:00.000Z",
+      "description": "Bachelor's degree in biology/environmental field, 3+ years professional environmental experience (NEPA/SEPA/CEQA, permitting, GIS, wetland delineations), proficiency with ArcGIS and GPS, valid driver’s license, fieldwork ability and up to 15% travel.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -622,19 +648,6 @@
       "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
       "date_posted": "2026-06-30T17:34:17.000Z",
       "description": "Bachelor's in geology/environmental science/hydrogeology/engineering (or equivalent), 0-2 years environmental field experience, OSHA 40-hour HAZWOPER (preferred), TWIC card (preferred), Microsoft Office proficiency, and field sampling/monitoring skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Portland or Oregon or California or Washington or Alaska",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55061",
-      "date_posted": "2026-06-05T12:00:00.000Z",
-      "description": "Bachelor's degree in biology/environmental field, 3+ years professional environmental experience (NEPA/SEPA/CEQA, permitting, GIS, wetland delineations), proficiency with ArcGIS and GPS, valid driver’s license, fieldwork ability and up to 15% travel.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -771,19 +784,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BGE, Inc",
-      "title": "Environmental Scientist",
-      "location": "Frisco, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "date_posted": "2026-06-25T17:13:32.000Z",
-      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Arcadis",
       "title": "Environmental Scientist",
       "location": "Bluefield, Virginia, United States",
@@ -792,6 +792,19 @@
       "date_posted": "2026-06-15T13:57:24.000Z",
       "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
       "salary": "$50k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BGE, Inc",
+      "title": "Environmental Scientist",
+      "location": "Frisco, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "date_posted": "2026-06-25T17:13:32.000Z",
+      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -849,6 +862,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "HDR",
+      "title": "Senior Environmental Scientist",
+      "location": "Seattle or Gig Harbor or Everett or Bellevue or Olympia",
+      "url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
+      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
+      "date_posted": "2026-06-08T12:00:00.000Z",
+      "description": "Bachelor's in environmental science, 10 years environmental planning/compliance experience, NEPA and EIS expertise, technical field and writing skills, MS Office proficiency, GPS/GIS field experience; PWS preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "King County, WA",
       "title": "Environmental Scientist III",
       "location": "Tukwila or Seattle or Renton or Bellevue or North Seattle",
@@ -857,6 +883,19 @@
       "date_posted": "2026-07-02T18:22:02.000Z",
       "description": "Bachelor's in a scientific/environmental field or equivalent, 3+ years environmental compliance experience, ability to travel across King County, on-call and altered schedule availability, ability to lift up to 50 lbs, respirator/PPE use, Microsoft Office proficiency.",
       "salary": "$118k–$143k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Alliance Technical Group",
+      "title": "Environmental Scientist III/IV",
+      "location": "Bryant, Arkansas, United States",
+      "url": "https://recruiting2.ultipro.com/all1037alnc/JobBoard/281665a5-6db2-4e7a-8885-7900fe799f07/OpportunityDetail?opportunityId=54cec66c-3862-4b04-9717-9397d097bc44",
+      "direct_url": "https://recruiting2.ultipro.com/all1037alnc/JobBoard/281665a5-6db2-4e7a-8885-7900fe799f07/OpportunityDetail?opportunityId=54cec66c-3862-4b04-9717-9397d097bc44",
+      "date_posted": "2026-07-02T19:06:18.431Z",
+      "description": "Bachelors in environmental science/related field, 6+ years environmental consulting experience, NPDES/ stormwater/SPCC knowledge, environmental sampling and data analysis, strong communication and project skills.",
+      "salary": "$75k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1395,19 +1434,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Langan | A Premier Engineering & Environmental Services Consulting Firm",
-      "title": "Geologist - Geotechnical",
-      "location": "Milwaukee, Wisconsin, United States",
-      "url": "https://careers.langan.com/job/Milwaukee-Geologist-Geotechnical-WI-53202/1396392300/",
-      "direct_url": "https://careers.langan.com/job/Milwaukee-Geologist-Geotechnical-WI-53202/1396392300/",
-      "date_posted": "2026-06-03T00:00:00.000Z",
-      "description": "Bachelor's in Geology (MS preferred), 0-3 years practical experience, geologic hazard and mapping experience, ability to perform field investigations, strong communication and analytical skills, reliable transportation and valid driver’s license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "True-environmental",
       "title": "Associate Geologist",
       "location": "Albuquerque, New Mexico, United States",
@@ -1761,53 +1787,53 @@
   ],
   "new_jobs": [
     {
-      "company": "King County, WA",
-      "title": "Environmental Scientist III",
-      "location": "Tukwila or Seattle or Renton or Bellevue or North Seattle",
-      "url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5395640",
-      "direct_url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5395640",
-      "date_posted": "2026-07-02T18:22:02.000Z",
-      "description": "Bachelor's in a scientific/environmental field or equivalent, 3+ years environmental compliance experience, ability to travel across King County, on-call and altered schedule availability, ability to lift up to 50 lbs, respirator/PPE use, Microsoft Office proficiency.",
-      "salary": "$118k–$143k/yr",
+      "company": "City of Henderson",
+      "title": "GIS Analyst I",
+      "location": "Henderson, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/henderson/jobs/5396778",
+      "direct_url": "https://www.governmentjobs.com/careers/henderson/jobs/5396778",
+      "date_posted": "2026-07-02T22:01:37.000Z",
+      "description": "Bachelor's in GIS/Geography/Engineering/Computer Science, 1 year professional GIS experience, valid Nevada or border-state driver's license, ability to develop and implement GIS applications.",
+      "salary": "$71k–$107k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Knowledge Management",
+      "title": "C-UAS Data Analyst",
+      "location": "Landover, Maryland, United States",
+      "url": "https://knowledgemanagement.isolvedhire.com/jobs/1796679",
+      "direct_url": "https://knowledgemanagement.isolvedhire.com/jobs/1796679",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Subject-matter expert in UAS/counter-UAS data analysis, predictive modeling, machine learning, and geospatial analysis; proficiency with Microsoft Excel, Power BI/Tableau, and ArcGIS; DHS Public Trust clearance.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
       "company": "HDR",
-      "title": "Senior Geologist",
-      "location": "Tampa, Florida, United States",
-      "url": "https://hdr.referrals.selectminds.com/jobs/senior-geologist-44136",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-geologist-44136",
-      "date_posted": "2026-06-26T12:55:11.039Z",
-      "description": "Bachelor's in Geology or related, 10+ years relevant experience, field work experience, project/staff management and business development skills, proficiency with Microsoft Office, travel as needed.",
+      "title": "Senior Environmental Scientist",
+      "location": "Seattle or Gig Harbor or Everett or Bellevue or Olympia",
+      "url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
+      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
+      "date_posted": "2026-06-08T12:00:00.000Z",
+      "description": "Bachelor's in environmental science, 10 years environmental planning/compliance experience, NEPA and EIS expertise, technical field and writing skills, MS Office proficiency, GPS/GIS field experience; PWS preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Apache Corporation",
-      "title": "Geologist Advisor",
-      "location": "Houston or Cairo or United States or Egypt or United Kingdom or Suriname",
-      "url": "https://careers.apachecorp.com/job/Houston-Geologist-Advisor-TX-77042/1404071700/",
-      "direct_url": "https://careers.apachecorp.com/job/Houston-Geologist-Advisor-TX-77042/1404071700/",
-      "date_posted": "2026-07-01T05:47:17.332Z",
-      "description": "Bachelor's in Geology/Geophysics required (Master's/PhD preferred), 10+ years' experience, expertise in clastic systems and seismic interpretation, Petrel and probabilistic volumetrics experience, drilling and well planning experience, technical leadership and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "True-environmental",
-      "title": "Associate Geologist",
-      "location": "Albuquerque, New Mexico, United States",
-      "url": "https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39",
-      "direct_url": "https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39",
-      "date_posted": "2026-06-30T20:17:14.636Z",
-      "description": "Bachelor's in geology/hydrology/environmental science/engineering, 1+ years related experience, field sampling and documentation experience, ability to obtain HAZWOPER certification and security/military base access, proficiency with ArcGIS/Rockworks, strong communication skills.",
-      "salary": "",
+      "company": "Alliance Technical Group",
+      "title": "Environmental Scientist III/IV",
+      "location": "Bryant, Arkansas, United States",
+      "url": "https://recruiting2.ultipro.com/all1037alnc/JobBoard/281665a5-6db2-4e7a-8885-7900fe799f07/OpportunityDetail?opportunityId=54cec66c-3862-4b04-9717-9397d097bc44",
+      "direct_url": "https://recruiting2.ultipro.com/all1037alnc/JobBoard/281665a5-6db2-4e7a-8885-7900fe799f07/OpportunityDetail?opportunityId=54cec66c-3862-4b04-9717-9397d097bc44",
+      "date_posted": "2026-07-02T19:06:18.431Z",
+      "description": "Bachelors in environmental science/related field, 6+ years environmental consulting experience, NPDES/ stormwater/SPCC knowledge, environmental sampling and data analysis, strong communication and project skills.",
+      "salary": "$75k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"

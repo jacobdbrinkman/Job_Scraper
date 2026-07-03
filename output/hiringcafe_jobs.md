@@ -1,21 +1,22 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-02 22:58 UTC*
+*Last updated: 2026-07-03 01:23 UTC*
 
-**4 new role(s)** since last run · 135 total in last 30d
+**4 new role(s)** since last run · 137 total in last 30d
 
-### [Environmental Scientist III](https://www.governmentjobs.com/careers/kingcounty/jobs/5395640) — King County, WA
-- 📍 **Location:** Tukwila or Seattle or Renton or Bellevue or North Seattle
-- 💰 **Salary:** $118k–$143k/yr
-- 🕒 **Posted:** 2026-07-02T18:22:02.000Z
+### [GIS Analyst I](https://www.governmentjobs.com/careers/henderson/jobs/5396778) — City of Henderson
+- 📍 **Location:** Henderson, Nevada, United States
+- 💰 **Salary:** $71k–$107k/yr
+- 🕒 **Posted:** 2026-07-02T22:01:37.000Z
 
-### [Senior Geologist](https://hdr.referrals.selectminds.com/jobs/senior-geologist-44136) — HDR
-- 📍 **Location:** Tampa, Florida, United States
-- 🕒 **Posted:** 2026-06-26T12:55:11.039Z
+### [C-UAS Data Analyst](https://knowledgemanagement.isolvedhire.com/jobs/1796679) — Knowledge Management
+- 📍 **Location:** Landover, Maryland, United States
+- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
 
-### [Geologist Advisor](https://careers.apachecorp.com/job/Houston-Geologist-Advisor-TX-77042/1404071700/) — Apache Corporation
-- 📍 **Location:** Houston or Cairo or United States or Egypt or United Kingdom or Suriname
-- 🕒 **Posted:** 2026-07-01T05:47:17.332Z
+### [Senior Environmental Scientist](https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878) — HDR
+- 📍 **Location:** Seattle or Gig Harbor or Everett or Bellevue or Olympia
+- 🕒 **Posted:** 2026-06-08T12:00:00.000Z
 
-### [Associate Geologist](https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39) — True-environmental
-- 📍 **Location:** Albuquerque, New Mexico, United States
-- 🕒 **Posted:** 2026-06-30T20:17:14.636Z
+### [Environmental Scientist III/IV](https://recruiting2.ultipro.com/all1037alnc/JobBoard/281665a5-6db2-4e7a-8885-7900fe799f07/OpportunityDetail?opportunityId=54cec66c-3862-4b04-9717-9397d097bc44) — Alliance Technical Group
+- 📍 **Location:** Bryant, Arkansas, United States
+- 💰 **Salary:** $75k–$100k/yr
+- 🕒 **Posted:** 2026-07-02T19:06:18.431Z
