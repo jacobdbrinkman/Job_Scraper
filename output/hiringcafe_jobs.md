@@ -1,9 +1,6 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-04 01:23 UTC*
+*Last updated: 2026-07-04 05:31 UTC*
 
-**1 new role(s)** since last run · 135 total in last 30d
+**0 new role(s)** since last run · 135 total in last 30d
 
-### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant) — RE/SPEC Inc.
-- 📍 **Location:** Denver, Colorado, United States
-- 💰 **Salary:** $60k–$85k/yr
-- 🕒 **Posted:** 2026-06-18T16:35:16.617Z
+No new roles since the last run.
