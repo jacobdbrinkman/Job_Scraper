@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-03 23:44 UTC",
-  "total": 11,
-  "new_count": 0,
+  "scraped_at": "2026-07-04 01:20 UTC",
+  "total": 12,
+  "new_count": 1,
   "jobs": [
     {
       "company": "STATE WATER RESOURCES CONTROL BOARD",
@@ -86,6 +86,23 @@
       "job_type": "fulltime",
       "is_remote": false,
       "emails": "james.scheid@fire.ca.gov, ReasonableAccommodations@fire.ca.gov",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Verism Systems, Inc",
+      "title": "Senior Data Analyst",
+      "location": "Oakland, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=962334214f7c0cb5",
+      "direct_url": "http://www.indeed.com/job/senior-data-analyst-962334214f7c0cb5",
+      "company_url": "https://www.indeed.com/cmp/Verism-Systems,-Inc",
+      "date_posted": "2026-07-03",
+      "description": "**MUST HAVE SKILLS:**\n\n**Technical skills:**  \n Data analytics ( Python, excel, conduct data queries as needed)  \n Power BI (advanced skills, ability to create executive boards AND day to day dashboards for business analytics)  \n SAP  \n Microsoft, excel and power query as needed  \n**Soft skills:**  \n Problem solving mentality  \n Willingness to learn ( Copperleaf, Foundry, GIS, and other platforms)  \n Impeccable organization skills  \n Agility  \n Impeccable communication skills\n\n**Position Summary**\n\nThe Data Analyst is responsible for transforming complex data into clear, actionable insights that drive operational and strategic decision\\-making. This role requires an exceptional communicator who can clearly explain data, assumptions, and insights to technical and non\\-technical stakeholders alike. **The ideal candidate is highly proficient in Power BI for reporting and visualization and Foundry for advanced analytics and data modeling**, and is comfortable working across multiple enterprise systems and teams.\n\n**Responsibilities:**\n\n*Data Analysis \\& Insight*s\n\n* Analyze business data to identify trends, patterns, risks, and opportunities for operational and strategic improvements\n* Demonstrate broad expertise in data processing and analysis, applying analytical techniques to a wide range of business questions\n* Respond to ad hoc and recurring data requests with accuracy, clarity, and timeliness\n\n*Data Management \\& Integration*\n\n* Collect, clean, validate, and integrate data from multiple sources to ensure accuracy and consistency\n* Extract and analyze data from SAP to support planning, forecasting, and decision\\-making\n* Manage data extraction and transfer from databases to support operational analysis across teams\n* Create automated data routines and processes to ensure efficient, repeatable reporting and data delivery\n\n*Reporting, Visualization \\& Tools*\n\n* Develop and maintain dashboards, reports, and visualizations using Power BI to clearly communicate insights and performance metrics\n* Utilize Foundry for advanced analytics, data modeling, and analytical workflows ( knowledge of Foundry is preferred, not a requirement)\n* Apply GIS tools for spatial data analysis and mapping to support location\\-based decision\\-making\n* Leverage Copperleaf for asset investment planning, lifecycle cost analysis, and value\\-based decision support ( knowledge of Copperleaf is preferred)\n\n*Communication \\& Collaboration (Core Requirement)*\n\n* Clearly communicate analytical findings, assumptions, and recommendations to diverse audiences\n* Translate complex data into concise, compelling narratives that support informed decision\\-making\n* Collaborate with cross\\-functional teams to understand business needs, identify challenges, and deliver data\\-driven solutions\n* Act as a trusted partner to stakeholders by helping shape analytical questions and clarify insights\n\n**Minimum Qualifications:**\n\n* Bachelor’s degree in Data Analytics, Statistics, Computer Science, Business, Engineering, or a related field (or equivalent experience)\n* **Demonstrated experience building and maintaining dashboards in Power BI**\n* **Strong SQL skills and experience working with structured datasets**\n* Excellent written and verbal communication skills, with a proven ability to explain complex data clearly\n* Strong ability to interpret data, identify trends, and generate actionable insights\n* Ability to clearly communicate complex data findings to both technical and non\\-technical stakeholders.\n* Experience working in cross\\-functional teams and translating business needs into data\\-driven solutions.\n\n**Desired Qualifications:**  \n\\- Hands\\-on experience using Foundry for data analysis, data modeling, or workflows  \n\\- Experience with Copperleaf\n\nPay: $40\\.00 \\- $55\\.00 per hour\n\nWork Location: In person",
+      "salary": "$40–$55/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "contract",
+      "is_remote": false,
+      "emails": "",
       "ats": "Indeed"
     },
     {
@@ -191,5 +208,23 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Verism Systems, Inc",
+      "title": "Senior Data Analyst",
+      "location": "Oakland, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=962334214f7c0cb5",
+      "direct_url": "http://www.indeed.com/job/senior-data-analyst-962334214f7c0cb5",
+      "company_url": "https://www.indeed.com/cmp/Verism-Systems,-Inc",
+      "date_posted": "2026-07-03",
+      "description": "**MUST HAVE SKILLS:**\n\n**Technical skills:**  \n Data analytics ( Python, excel, conduct data queries as needed)  \n Power BI (advanced skills, ability to create executive boards AND day to day dashboards for business analytics)  \n SAP  \n Microsoft, excel and power query as needed  \n**Soft skills:**  \n Problem solving mentality  \n Willingness to learn ( Copperleaf, Foundry, GIS, and other platforms)  \n Impeccable organization skills  \n Agility  \n Impeccable communication skills\n\n**Position Summary**\n\nThe Data Analyst is responsible for transforming complex data into clear, actionable insights that drive operational and strategic decision\\-making. This role requires an exceptional communicator who can clearly explain data, assumptions, and insights to technical and non\\-technical stakeholders alike. **The ideal candidate is highly proficient in Power BI for reporting and visualization and Foundry for advanced analytics and data modeling**, and is comfortable working across multiple enterprise systems and teams.\n\n**Responsibilities:**\n\n*Data Analysis \\& Insight*s\n\n* Analyze business data to identify trends, patterns, risks, and opportunities for operational and strategic improvements\n* Demonstrate broad expertise in data processing and analysis, applying analytical techniques to a wide range of business questions\n* Respond to ad hoc and recurring data requests with accuracy, clarity, and timeliness\n\n*Data Management \\& Integration*\n\n* Collect, clean, validate, and integrate data from multiple sources to ensure accuracy and consistency\n* Extract and analyze data from SAP to support planning, forecasting, and decision\\-making\n* Manage data extraction and transfer from databases to support operational analysis across teams\n* Create automated data routines and processes to ensure efficient, repeatable reporting and data delivery\n\n*Reporting, Visualization \\& Tools*\n\n* Develop and maintain dashboards, reports, and visualizations using Power BI to clearly communicate insights and performance metrics\n* Utilize Foundry for advanced analytics, data modeling, and analytical workflows ( knowledge of Foundry is preferred, not a requirement)\n* Apply GIS tools for spatial data analysis and mapping to support location\\-based decision\\-making\n* Leverage Copperleaf for asset investment planning, lifecycle cost analysis, and value\\-based decision support ( knowledge of Copperleaf is preferred)\n\n*Communication \\& Collaboration (Core Requirement)*\n\n* Clearly communicate analytical findings, assumptions, and recommendations to diverse audiences\n* Translate complex data into concise, compelling narratives that support informed decision\\-making\n* Collaborate with cross\\-functional teams to understand business needs, identify challenges, and deliver data\\-driven solutions\n* Act as a trusted partner to stakeholders by helping shape analytical questions and clarify insights\n\n**Minimum Qualifications:**\n\n* Bachelor’s degree in Data Analytics, Statistics, Computer Science, Business, Engineering, or a related field (or equivalent experience)\n* **Demonstrated experience building and maintaining dashboards in Power BI**\n* **Strong SQL skills and experience working with structured datasets**\n* Excellent written and verbal communication skills, with a proven ability to explain complex data clearly\n* Strong ability to interpret data, identify trends, and generate actionable insights\n* Ability to clearly communicate complex data findings to both technical and non\\-technical stakeholders.\n* Experience working in cross\\-functional teams and translating business needs into data\\-driven solutions.\n\n**Desired Qualifications:**  \n\\- Hands\\-on experience using Foundry for data analysis, data modeling, or workflows  \n\\- Experience with Copperleaf\n\nPay: $40\\.00 \\- $55\\.00 per hour\n\nWork Location: In person",
+      "salary": "$40–$55/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "contract",
+      "is_remote": false,
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
