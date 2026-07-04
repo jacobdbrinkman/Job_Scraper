@@ -426,3 +426,4 @@
 {"job_count": 131, "run_attempt": "1", "run_id": "28716109673", "timestamp": "2026-07-04T18:46:57Z", "workflow": "hiringcafe"}
 {"job_count": 30, "run_attempt": "1", "run_id": "28717361991", "timestamp": "2026-07-04T19:55:02Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "28717707145", "timestamp": "2026-07-04T19:55:52Z", "workflow": "google_jobs"}
+{"job_count": 3, "run_attempt": "1", "run_id": "28717917495", "timestamp": "2026-07-04T19:58:27Z", "workflow": "indeed"}
