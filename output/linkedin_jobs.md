@@ -1,39 +1,28 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-04 21:27 UTC*
+*Last updated: 2026-07-04 22:25 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**5 new role(s)** since last run · 10 total in last 1h
 
-### [LEGARZA BASEBALL PROGRAM COORDINATOR - Program Development](https://www.linkedin.com/jobs/view/4409946984/) — Legarza Sports
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $25–$26/hour
+### [Data Analyst](https://www.linkedin.com/jobs/view/4436016095/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $87,418.00 to $101,418.00 USD per year
 - 🕒 **Posted:** 2026-07-04
 
-### [LEGARZA BASKETBALL PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4382487628/) — Legarza Sports and More
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $25–$26/hour
-- 🕒 **Posted:** 2026-07-04
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4433764072/) — Çeşme Belediyesi Vizyon Ofisi
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4436017017/) — Société EBM
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Diesel Field Technician](https://www.linkedin.com/jobs/view/4297901866/) — TranSource Truck & Equipment
-- 📍 **Location:** Aberdeen, SD
-- 💰 **Salary:** $35.00 - $50.00 per hour
-- 🕒 **Posted:** 2026-07-04
-
-### [Healthcare Data Analyst](https://www.linkedin.com/jobs/view/4436017050/) — RemoteHunter
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4436973367/) — ADES Madagascar
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-04
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4436006341/) — Jobright.ai
+### [Data Analyst - eCommerce Analytics](https://www.linkedin.com/jobs/view/4436017067/) — RemoteHunter
 - 📍 **Location:** United States
+- 💰 **Salary:** $70,200 to $110,000,
 - 🕒 **Posted:** 2026-07-04
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4436005433/) — Jobright.ai
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4436002592/) — RemoteHunter
 - 📍 **Location:** United States
+- 💰 **Salary:** $91,700 to $163,700 annually
+- 🕒 **Posted:** 2026-07-04
+
+### [GIS Analyst II](https://www.linkedin.com/jobs/view/4433750805/) — City of Colorado Springs
+- 📍 **Location:** Greater Colorado Springs Area
+- 💰 **Salary:** $66,041.92 - $79,282.02 Annually
 - 🕒 **Posted:** 2026-07-04
