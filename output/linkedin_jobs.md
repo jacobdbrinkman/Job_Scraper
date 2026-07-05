@@ -1,42 +1,58 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-05 04:32 UTC*
+*Last updated: 2026-07-05 16:36 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Content Data Analyst](https://www.linkedin.com/jobs/view/4435423912/) — TalentAlly
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $118,600 USD - $177,800 USD
+### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4436047269/) — Onterris
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $20 to $24/hr
 - 🕒 **Posted:** 2026-07-05
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4436971854/) — ADES Madagascar
+### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4437108579/) — Rise Media Solutions CA
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-07-05
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4437112298/) — Yas Business Madagascar
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-07-05
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433904316/) — La French Tech Madagascar
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-07-05
+
+### [Environmental Consultant – Mid/Senior Level – Sediment Remediation (Hybrid)](https://www.linkedin.com/jobs/view/4352976496/) — Barr Engineering Co.
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $115,000–$155,000 annually
+- 🕒 **Posted:** 2026-07-05
+
+### [LDAR Field Technician](https://www.linkedin.com/jobs/view/4436045357/) — Onterris
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $23 to $26/hr
+- 🕒 **Posted:** 2026-07-05
+
+### [Survey Technician - Portland, OR](https://www.linkedin.com/jobs/view/4400622468/) — Jacobs
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $71,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-07-05
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4433790795/) — Data Visualization Society
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-07-05
+
+### [Solutions Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4433785924/) — 8tree
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-07-05
+
+### [Associate Geologist](https://www.linkedin.com/jobs/view/4407967223/) — WSP in the U.S.
+- 📍 **Location:** Tigard, OR
+- 💰 **Salary:** $63,700, - $80,500
+- 🕒 **Posted:** 2026-07-05
+
+### [Traveling Staff Engineer - Geologist/Geotechnical](https://www.linkedin.com/jobs/view/4407227369/) — Braun Intertec Corporation
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $50,000.00 - $74,000.00
+- 🕒 **Posted:** 2026-07-05
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4436038544/) — FetchJobs.co
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-05
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4436020709/) — Manha Tech Solutions
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-05
-
-### [Senior Data Analyst - Archimedes](https://www.linkedin.com/jobs/view/4409889995/) — Navitus Health Solutions
-- 📍 **Location:** Earth City, MO
-- 💰 **Salary:** USD $0.00 - USD $0.00 /Yr
-- 🕒 **Posted:** 2026-07-05
-
-### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4424345651/) — TalentAlly
-- 📍 **Location:** Canton, MA
-- 💰 **Salary:** $88,942.17 -$133,413.25
-- 🕒 **Posted:** 2026-07-05
-
-### [Sr Business Data Analyst](https://www.linkedin.com/jobs/view/4423465733/) — TalentAlly
-- 📍 **Location:** Canton, MA
-- 💰 **Salary:** $107,203.91 -$160,805.87
-- 🕒 **Posted:** 2026-07-05
-
-### [Sr. Data Analyst, Pharmacy Network](https://www.linkedin.com/jobs/view/4402549236/) — Navitus Health Solutions
-- 📍 **Location:** United States
-- 💰 **Salary:** USD $58,460.48 - USD $70,434.31 /Yr
-- 🕒 **Posted:** 2026-07-05
-
-### [Services Project Coordinator (Remote) MST/PST](https://www.linkedin.com/jobs/view/4436032064/) — Lowe's Companies, Inc.
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $17.73 - $29.61 per hour
 - 🕒 **Posted:** 2026-07-05
