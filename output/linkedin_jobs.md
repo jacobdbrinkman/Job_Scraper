@@ -1,68 +1,62 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-05 20:00 UTC*
+*Last updated: 2026-07-05 21:36 UTC*
 
-**15 new role(s)** since last run · 20 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4436039760/) — Rise Media Solutions CA
+### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4436042784/) — Rise Media Solutions CA
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433910088/) — ServiceNow Hyderabad Community
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4436056080/) — Training & Placement Cell SGGSIE&T Nanded Maharashtra
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433906253/) — Training & Placement Cell SGGSIE&T Nanded Maharashtra
-- 📍 **Location:** California, United States
+### [Archaeological Field Technician – Pacific Northwest (On-Call)](https://www.linkedin.com/jobs/view/4431714661/) — Tetra Tech
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $25.00 – $36.00 hourly
 - 🕒 **Posted:** 2026-07-05
 
-### [IT/AV Project Coordinator](https://www.linkedin.com/jobs/view/4437120302/) — Golden Star Technology Inc (GST)
-- 📍 **Location:** Cerritos, CA
+### [Data Analyst](https://www.linkedin.com/jobs/view/4436059000/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $87,418.00 to $101,418.00 USD per year
 - 🕒 **Posted:** 2026-07-05
 
-### [CU Student Government Program Coordinator](https://www.linkedin.com/jobs/view/4436409318/) — University of Colorado Boulder
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $58,200 - $65,000
-- 🕒 **Posted:** 2026-07-05
-
-### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4437114520/) — Texas A&M AgriLife Research
-- 📍 **Location:** Temple, TX
-- 🕒 **Posted:** 2026-07-05
-
-### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4436053191/) — Cape Environmental Management Inc
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $80K - $102K
-- 🕒 **Posted:** 2026-07-05
-
-### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4436045609/) — Cape Environmental Management Inc
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $80K - $102K
-- 🕒 **Posted:** 2026-07-05
-
-### [Land Survey Technician - Early Career](https://www.linkedin.com/jobs/view/4437129052/) — Shive-Hattery
-- 📍 **Location:** West Des Moines, IA
-- 🕒 **Posted:** 2026-07-05
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4437122216/) — Netrolynx AI
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4436057052/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377645407/) — Epic
-- 📍 **Location:** Aurora, IL
+### [Healthcare Data Analyst](https://www.linkedin.com/jobs/view/4436042786/) — RemoteHunter
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Senior Actuarial Data Analyst - Healthcare](https://www.linkedin.com/jobs/view/4437114517/) — VillageCare
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $87,647.11 - $98,
+### [Data Analyst](https://www.linkedin.com/jobs/view/4436056039/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377642432/) — Epic
-- 📍 **Location:** Fort Worth, TX
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4436049489/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $91,700 to $163,700 annually
 - 🕒 **Posted:** 2026-07-05
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4436036876/) — GreEnergy Resources LLC
-- 📍 **Location:** Greater Boston
+### [Data Analyst - eCommerce Analytics](https://www.linkedin.com/jobs/view/4436041712/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $70,200 to $110,000,
 - 🕒 **Posted:** 2026-07-05
 
-### [HCM Project Coordinator](https://www.linkedin.com/jobs/view/4436055132/) — Cube Hub Inc.
-- 📍 **Location:** Deerfield, IL
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4435268311/) — Lake Superior Consulting
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $60,000-$75,000 per year
+- 🕒 **Posted:** 2026-07-05
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4435275096/) — Lake Superior Consulting
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $60,000-$75,000 per year
+- 🕒 **Posted:** 2026-07-05
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4436035923/) — ServiceNow Hyderabad Community
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-07-05
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4436047597/) — RemoteHunter
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-05
