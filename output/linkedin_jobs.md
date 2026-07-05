@@ -1,61 +1,68 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-05 18:32 UTC*
+*Last updated: 2026-07-05 20:00 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**15 new role(s)** since last run · 20 total in last 1h
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433901636/) — La French Tech Madagascar
+### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4436039760/) — Rise Media Solutions CA
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377648345/) — Epic
-- 📍 **Location:** Jacksonville, FL
-- 🕒 **Posted:** 2026-07-05
-
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377651203/) — Epic
-- 📍 **Location:** South Bend, IN
-- 🕒 **Posted:** 2026-07-05
-
-### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4436039702/) — Rise Media Solutions CA
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433910088/) — ServiceNow Hyderabad Community
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377647327/) — Epic
-- 📍 **Location:** Allentown, PA
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433906253/) — Training & Placement Cell SGGSIE&T Nanded Maharashtra
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377637681/) — Epic
-- 📍 **Location:** Glendale, AZ
+### [IT/AV Project Coordinator](https://www.linkedin.com/jobs/view/4437120302/) — Golden Star Technology Inc (GST)
+- 📍 **Location:** Cerritos, CA
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377642429/) — Epic
-- 📍 **Location:** Harrisburg, PA
+### [CU Student Government Program Coordinator](https://www.linkedin.com/jobs/view/4436409318/) — University of Colorado Boulder
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $58,200 - $65,000
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377657058/) — Epic
-- 📍 **Location:** Provo, UT
+### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4437114520/) — Texas A&M AgriLife Research
+- 📍 **Location:** Temple, TX
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377645406/) — Epic
-- 📍 **Location:** Salem, OR
+### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4436053191/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377653158/) — Epic
-- 📍 **Location:** Des Moines, IA
+### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4436045609/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-05
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377639606/) — Epic
-- 📍 **Location:** La Crosse, WI
+### [Land Survey Technician - Early Career](https://www.linkedin.com/jobs/view/4437129052/) — Shive-Hattery
+- 📍 **Location:** West Des Moines, IA
 - 🕒 **Posted:** 2026-07-05
 
-### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4433906198/) — Staff Financial Group
-- 📍 **Location:** Marietta, GA
-- 💰 **Salary:** $48,000–$65,000 annually
+### [Data Analyst](https://www.linkedin.com/jobs/view/4437122216/) — Netrolynx AI
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Project Coordinator -HR Transformation](https://www.linkedin.com/jobs/view/4436049309/) — Cube Hub Inc.
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377645407/) — Epic
+- 📍 **Location:** Aurora, IL
+- 🕒 **Posted:** 2026-07-05
+
+### [Senior Actuarial Data Analyst - Healthcare](https://www.linkedin.com/jobs/view/4437114517/) — VillageCare
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $87,647.11 - $98,
+- 🕒 **Posted:** 2026-07-05
+
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377642432/) — Epic
+- 📍 **Location:** Fort Worth, TX
+- 🕒 **Posted:** 2026-07-05
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4436036876/) — GreEnergy Resources LLC
+- 📍 **Location:** Greater Boston
+- 🕒 **Posted:** 2026-07-05
+
+### [HCM Project Coordinator](https://www.linkedin.com/jobs/view/4436055132/) — Cube Hub Inc.
 - 📍 **Location:** Deerfield, IL
-- 🕒 **Posted:** 2026-07-05
-
-### [Teen Health Program Coordinator](https://www.linkedin.com/jobs/view/4433901630/) — Navajo County
-- 📍 **Location:** Show Low, AZ
 - 🕒 **Posted:** 2026-07-05
