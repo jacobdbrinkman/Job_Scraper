@@ -1,58 +1,61 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-05 16:36 UTC*
+*Last updated: 2026-07-05 18:32 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4436047269/) — Onterris
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $20 to $24/hr
-- 🕒 **Posted:** 2026-07-05
-
-### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4437108579/) — Rise Media Solutions CA
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433901636/) — La French Tech Madagascar
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4437112298/) — Yas Business Madagascar
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377648345/) — Epic
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-07-05
+
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377651203/) — Epic
+- 📍 **Location:** South Bend, IN
+- 🕒 **Posted:** 2026-07-05
+
+### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4436039702/) — Rise Media Solutions CA
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-05
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4433904316/) — La French Tech Madagascar
-- 📍 **Location:** California, United States
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377647327/) — Epic
+- 📍 **Location:** Allentown, PA
 - 🕒 **Posted:** 2026-07-05
 
-### [Environmental Consultant – Mid/Senior Level – Sediment Remediation (Hybrid)](https://www.linkedin.com/jobs/view/4352976496/) — Barr Engineering Co.
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $115,000–$155,000 annually
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377637681/) — Epic
+- 📍 **Location:** Glendale, AZ
 - 🕒 **Posted:** 2026-07-05
 
-### [LDAR Field Technician](https://www.linkedin.com/jobs/view/4436045357/) — Onterris
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $23 to $26/hr
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377642429/) — Epic
+- 📍 **Location:** Harrisburg, PA
 - 🕒 **Posted:** 2026-07-05
 
-### [Survey Technician - Portland, OR](https://www.linkedin.com/jobs/view/4400622468/) — Jacobs
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $71,000.00/yr - $120,000.00/yr
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377657058/) — Epic
+- 📍 **Location:** Provo, UT
 - 🕒 **Posted:** 2026-07-05
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4433790795/) — Data Visualization Society
-- 📍 **Location:** Dallas, TX
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377645406/) — Epic
+- 📍 **Location:** Salem, OR
 - 🕒 **Posted:** 2026-07-05
 
-### [Solutions Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4433785924/) — 8tree
-- 📍 **Location:** Dallas, TX
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377653158/) — Epic
+- 📍 **Location:** Des Moines, IA
 - 🕒 **Posted:** 2026-07-05
 
-### [Associate Geologist](https://www.linkedin.com/jobs/view/4407967223/) — WSP in the U.S.
-- 📍 **Location:** Tigard, OR
-- 💰 **Salary:** $63,700, - $80,500
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4377639606/) — Epic
+- 📍 **Location:** La Crosse, WI
 - 🕒 **Posted:** 2026-07-05
 
-### [Traveling Staff Engineer - Geologist/Geotechnical](https://www.linkedin.com/jobs/view/4407227369/) — Braun Intertec Corporation
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $50,000.00 - $74,000.00
+### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4433906198/) — Staff Financial Group
+- 📍 **Location:** Marietta, GA
+- 💰 **Salary:** $48,000–$65,000 annually
 - 🕒 **Posted:** 2026-07-05
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4436038544/) — FetchJobs.co
-- 📍 **Location:** United States
+### [Project Coordinator -HR Transformation](https://www.linkedin.com/jobs/view/4436049309/) — Cube Hub Inc.
+- 📍 **Location:** Deerfield, IL
+- 🕒 **Posted:** 2026-07-05
+
+### [Teen Health Program Coordinator](https://www.linkedin.com/jobs/view/4433901630/) — Navajo County
+- 📍 **Location:** Show Low, AZ
 - 🕒 **Posted:** 2026-07-05
