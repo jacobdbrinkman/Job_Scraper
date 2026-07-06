@@ -1,5 +1,5 @@
 # 🏛 CalOpps — California Local-Agency Geospatial & Environmental Data Roles
-*Last updated: 2026-07-05 17:34 UTC*
+*Last updated: 2026-07-06 18:23 UTC*
 
 **0 new role(s)** since last run · 2 total in recent CalOpps postings
 
