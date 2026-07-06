@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-06 20:46 UTC",
-  "total": 128,
-  "new_count": 4,
+  "scraped_at": "2026-07-06 22:10 UTC",
+  "total": 130,
+  "new_count": 3,
   "jobs": [
     {
       "company": "City of Round Rock, TX",
@@ -316,19 +316,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of San Bernardino",
-      "title": "Senior GIS Analyst",
-      "location": "San Bernardino, California, United States",
-      "url": "https://www.governmentjobs.com/careers/citysanbernardino/jobs/5382904",
-      "direct_url": "https://www.governmentjobs.com/careers/citysanbernardino/jobs/5382904",
-      "date_posted": "2026-06-22T19:31:48.000Z",
-      "description": "Bachelor's degree in GIS, computer science, MIS or related field; 5+ years progressive GIS experience designing, implementing, and administering enterprise GIS databases and applications; valid California Class C driver; must pass background check and be able to respond to emergencies.",
-      "salary": "$88k–$106k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Canyon County",
       "title": "GIS Analyst",
       "location": "Caldwell, Idaho, United States",
@@ -378,6 +365,19 @@
       "salary": "$50k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "corpuschristi",
+      "title": "IT GIS Analyst II",
+      "location": "Corpus Christi, Texas, United States",
+      "url": "https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
+      "direct_url": "https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "Associate's degree or 2-year technical certificate, minimum 3 years' experience, valid driver's license, GIS enterprise geodatabase and ArcGIS administration experience, ArcPy/Python API proficiency, ArcMap/ArcPro knowledge, and ability to work evenings/weekends and pass pre-employment screenings.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -550,6 +550,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Knowledge Management",
+      "title": "C-UAS Data Analyst",
+      "location": "Landover, Maryland, United States",
+      "url": "https://knowledgemanagement.isolvedhire.com/jobs/1796679",
+      "direct_url": "https://knowledgemanagement.isolvedhire.com/jobs/1796679",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Subject-matter expert in UAS/counter-UAS data analysis, predictive modeling, machine learning, and geospatial analysis; proficiency with Microsoft Excel, Power BI/Tableau, and ArcGIS; DHS Public Trust clearance.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "State of Nevada",
       "title": "ENVIRONMENTAL SCIENTIST 3",
       "location": "Reno, Nevada, United States",
@@ -558,19 +571,6 @@
       "date_posted": "2026-06-29T21:06:20.000Z",
       "description": "Bachelor's in physical/natural resource/life sciences/engineering +3 years environmental experience OR HS/equivalent +5 years experience OR 1 year as Environmental Scientist 2 in Nevada; experience with permitting, compliance monitoring, inspections, enforcement, data analysis and report writing.",
       "salary": "$67k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stantec",
-      "title": "Environmental Scientist",
-      "location": "Buffalo, New York, United States",
-      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "date_posted": "2026-06-25T13:03:00.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
-      "salary": "$73k–$106k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -585,6 +585,19 @@
       "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
       "salary": "$48k–$54k/yr",
       "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Buffalo, New York, United States",
+      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "date_posted": "2026-06-25T13:03:00.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
+      "salary": "$73k–$106k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -732,19 +745,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BGE, Inc",
-      "title": "Environmental Scientist",
-      "location": "Frisco, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "date_posted": "2026-06-25T17:13:32.000Z",
-      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Arcadis",
       "title": "Environmental Scientist",
       "location": "Bluefield, Virginia, United States",
@@ -766,6 +766,19 @@
       "date_posted": "2026-07-06T14:10:25.000Z",
       "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
       "salary": "$85k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BGE, Inc",
+      "title": "Environmental Scientist",
+      "location": "Frisco, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "date_posted": "2026-06-25T17:13:32.000Z",
+      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -804,6 +817,19 @@
       "direct_url": "https://careers2-quanta.icims.com/jobs/16589/senior-environmental-scientist/job?in_iframe=1",
       "date_posted": "2026-06-26T04:00:00.000Z",
       "description": "Requires a bachelor’s (master’s preferred) in environmental science/ecology/environmental planning or related, 2+ years relevant experience, familiarity with GIS, Microsoft Office proficiency, fieldwork capability, and strong communication skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HDR",
+      "title": "Senior Environmental Scientist",
+      "location": "Seattle or Gig Harbor or Everett or Bellevue or Olympia",
+      "url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
+      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
+      "date_posted": "2026-06-08T12:00:00.000Z",
+      "description": "Bachelor's in environmental science, 10 years environmental planning/compliance experience, NEPA and EIS expertise, technical field and writing skills, MS Office proficiency, GPS/GIS field experience; PWS preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1670,53 +1696,40 @@
   ],
   "new_jobs": [
     {
-      "company": "Environmental Compliance Consultants",
-      "title": "Environmental Scientist",
-      "location": "Anchorage, Alaska, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "date_posted": "2026-07-06T14:10:25.000Z",
-      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
-      "salary": "$85k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CDM Smith",
-      "title": "Geologist 5",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers.cdmsmith.com/jobs/3267?lang=en-us",
-      "direct_url": "https://careers.cdmsmith.com/jobs/3267?lang=en-us",
-      "date_posted": "2026-06-23T22:29:33.000Z",
-      "description": "Bachelor's in science or related, registration as Professional Geologist (ASBOG), 7 years related experience, valid driver's license, CADD and Microsoft Excel/Word proficiency, 20–40% travel, field experience at contaminated sites preferred.",
-      "salary": "$87k–$143k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Doe Run Company",
-      "title": "Geologist II",
-      "location": "Viburnum, Missouri, United States",
-      "url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482",
-      "direct_url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482",
-      "date_posted": "2026-06-26T13:25:23.022Z",
-      "description": "Bachelor's in Geology required, minimum 3 years geological experience (graduate experience may be considered). Must maintain a valid driver's license. Prefer experience with AcQuire Database and Vulcan; proficient with Microsoft Office and geological data analysis.",
+      "company": "corpuschristi",
+      "title": "IT GIS Analyst II",
+      "location": "Corpus Christi, Texas, United States",
+      "url": "https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
+      "direct_url": "https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "Associate's degree or 2-year technical certificate, minimum 3 years' experience, valid driver's license, GIS enterprise geodatabase and ArcGIS administration experience, ArcPy/Python API proficiency, ArcMap/ArcPro knowledge, and ability to work evenings/weekends and pass pre-employment screenings.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "RE/SPEC Inc.",
-      "title": "Associate GIS Consultant",
-      "location": "Roseville, Minnesota, United States",
-      "url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant",
-      "direct_url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant",
-      "date_posted": "2026-06-18T16:34:33.436Z",
-      "description": "BA/BS in GIS or related, 2+ years professional GIS experience, strong ArcGIS Pro/Online/Enterprise skills, Python and Arcade proficiency, spatial analysis, and database experience (PostgreSQL/PostGIS or SQL Server).",
-      "salary": "$60k–$85k/yr",
+      "company": "Knowledge Management",
+      "title": "C-UAS Data Analyst",
+      "location": "Landover, Maryland, United States",
+      "url": "https://knowledgemanagement.isolvedhire.com/jobs/1796679",
+      "direct_url": "https://knowledgemanagement.isolvedhire.com/jobs/1796679",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Subject-matter expert in UAS/counter-UAS data analysis, predictive modeling, machine learning, and geospatial analysis; proficiency with Microsoft Excel, Power BI/Tableau, and ArcGIS; DHS Public Trust clearance.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HDR",
+      "title": "Senior Environmental Scientist",
+      "location": "Seattle or Gig Harbor or Everett or Bellevue or Olympia",
+      "url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
+      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
+      "date_posted": "2026-06-08T12:00:00.000Z",
+      "description": "Bachelor's in environmental science, 10 years environmental planning/compliance experience, NEPA and EIS expertise, technical field and writing skills, MS Office proficiency, GPS/GIS field experience; PWS preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
