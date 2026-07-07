@@ -1,18 +1,18 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-06 23:54 UTC*
+*Last updated: 2026-07-07 02:04 UTC*
 
-**3 new role(s)** since last run · 127 total in last 30d
+**3 new role(s)** since last run · 125 total in last 30d
 
-### [GIS Analyst III](https://css-idaho-prd.tam.inforgov.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(LUMA,24128,2).JobPostingDisplayNav?csk.HROrganization=LUMA&csk.JobBoard=STATEOFIDAHO) — Idaho Department of Fish and Game
-- 📍 **Location:** Boise, Idaho, United States
-- 💰 **Salary:** $75k–$94k/yr
-- 🕒 **Posted:** 2026-06-26T00:00:00.000Z
+### [GIS Analyst (Onsite - Saint Louis/Belleville, IL)](https://job-boards.greenhouse.io/geocgi/jobs/4285514009) — Geospatial Consulting Group International (geocgi)
+- 📍 **Location:** St. Louis or Belleville
+- 💰 **Salary:** $60k–$75k/yr
+- 🕒 **Posted:** 2026-06-12T22:03:30.000Z
 
-### [Staff Geologist](https://willmerengineering.bamboohr.com/careers/87) — Willmer Engineering
-- 📍 **Location:** Atlanta, Georgia, United States
-- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
+### [Senior Environmental Scientist](https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878) — HDR
+- 📍 **Location:** Seattle or Gig Harbor or Everett or Bellevue or Olympia
+- 🕒 **Posted:** 2026-06-08T12:00:00.000Z
 
-### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant) — RE/SPEC Inc.
-- 📍 **Location:** Denver, Colorado, United States
-- 💰 **Salary:** $60k–$85k/yr
-- 🕒 **Posted:** 2026-06-18T16:35:16.617Z
+### [Water Resources Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248887) — INTERA Incorporated
+- 📍 **Location:** Westminster, Colorado, United States
+- 💰 **Salary:** $70k–$100k/yr
+- 🕒 **Posted:** 2026-06-12T06:29:57.000Z
