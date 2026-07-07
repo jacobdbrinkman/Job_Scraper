@@ -1,34 +1,24 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-07 19:27 UTC*
+*Last updated: 2026-07-07 21:11 UTC*
 
-**6 new role(s)** since last run · 15 total in last 24h
+**4 new role(s)** since last run · 16 total in last 24h
 
-### [RESEARCH DATA SPECIALIST I](https://www.indeed.com/viewjob?jk=db0c871861ac360a) — Ca Health & Human Services Agency
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $6955–$8706/mo
+### [Field Technician](https://www.indeed.com/viewjob?jk=19ae497a634c261b) — Patriot Environmental Services
+- 📍 **Location:** Santa Paula, CA, US
+- 💰 **Salary:** $18–$25/hr
+- 🕒 **Posted:** 2026-06-30
+
+### [QC & Data Management Specialist II](https://www.indeed.com/viewjob?jk=e6c73c92d5908c1a) — Flourish Research
+- 📍 **Location:** Walnut Creek, CA, US
+- 💰 **Salary:** $28–$33/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Natural Resources Field Technician](https://www.indeed.com/viewjob?jk=05de7458089dd7ac) — ACRT, Inc.
-- 📍 **Location:** Los Banos, CA, US
-- 💰 **Salary:** $26–$34/hr
-- 🕒 **Posted:** 2026-07-07
-
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=04fdb0055e0473d7) — McMillen, Inc.
-- 📍 **Location:** Kirkland, WA, US
-- 💰 **Salary:** $50k–$96k/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=6a37db72c90aaa22) — McMillen, Inc.
+### [Project Manager - Geologist](https://www.indeed.com/viewjob?jk=5c3b973568ed39d0) — Weaver Consultants Group
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $50k–$96k/yr
+- 💰 **Salary:** $85k–$95k/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Geologist](https://www.indeed.com/viewjob?jk=97d69f9a2a4b384a) — Martin Marietta
-- 📍 **Location:** Lakewood, CO, US
-- 💰 **Salary:** $95k–$130k/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=3b74bb2641075f6e) — McMillen, Inc.
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $50k–$96k/yr
+### [Project Geologist](https://www.indeed.com/viewjob?jk=ecf099d72c051fd2) — Weaver Consultants Group
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $75k–$85k/yr
 - 🕒 **Posted:** 2026-07-07
