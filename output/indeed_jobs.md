@@ -1,28 +1,34 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-07 17:49 UTC*
+*Last updated: 2026-07-07 19:27 UTC*
 
-**5 new role(s)** since last run · 10 total in last 24h
+**6 new role(s)** since last run · 15 total in last 24h
 
-### [RESEARCH DATA ANALYST I](https://www.indeed.com/viewjob?jk=e7b678a0877c5810) — California Governor's Office of Emergency Services
+### [RESEARCH DATA SPECIALIST I](https://www.indeed.com/viewjob?jk=db0c871861ac360a) — Ca Health & Human Services Agency
 - 📍 **Location:** CA, US
-- 💰 **Salary:** $4469–$6922/mo
+- 💰 **Salary:** $6955–$8706/mo
 - 🕒 **Posted:** 2026-07-07
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=853ceb2fb0240703) — Department of Resources Recycling & Recovery
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [Natural Resources Field Technician](https://www.indeed.com/viewjob?jk=05de7458089dd7ac) — ACRT, Inc.
+- 📍 **Location:** Los Banos, CA, US
+- 💰 **Salary:** $26–$34/hr
 - 🕒 **Posted:** 2026-07-07
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=88d8dca42fa7865b) — CA HIGH SPEED RAIL AUTHORITY
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [GIS Specialist](https://www.indeed.com/viewjob?jk=04fdb0055e0473d7) — McMillen, Inc.
+- 📍 **Location:** Kirkland, WA, US
+- 💰 **Salary:** $50k–$96k/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Field Technician / CDL Driver (Class B Required)](https://www.indeed.com/viewjob?jk=a2d7b963a64bd5f2) — Weber Water Resources
-- 📍 **Location:** Riverside, CA, US
+### [GIS Specialist](https://www.indeed.com/viewjob?jk=6a37db72c90aaa22) — McMillen, Inc.
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $50k–$96k/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Field Geologist / Drilling Technician](https://www.indeed.com/viewjob?jk=066b880ae5fcda88) — AG Wassenaar, Inc.
-- 📍 **Location:** Englewood, CO, US
-- 💰 **Salary:** $22–$26/hr
+### [Senior Geologist](https://www.indeed.com/viewjob?jk=97d69f9a2a4b384a) — Martin Marietta
+- 📍 **Location:** Lakewood, CO, US
+- 💰 **Salary:** $95k–$130k/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [GIS Specialist](https://www.indeed.com/viewjob?jk=3b74bb2641075f6e) — McMillen, Inc.
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $50k–$96k/yr
 - 🕒 **Posted:** 2026-07-07
