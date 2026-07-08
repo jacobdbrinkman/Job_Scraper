@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-07 18:15 UTC",
-  "total": 15,
+  "scraped_at": "2026-07-08 17:49 UTC",
+  "total": 14,
   "new_count": 0,
   "jobs": [
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "San Luis Obispo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
+      "date_posted": "2026-07-08",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
     {
       "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
@@ -28,15 +37,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521909",
       "date_posted": "2026-07-07",
       "salary": "$39.20 - $53.77",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521940",
-      "date_posted": "2026-06-17",
-      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
@@ -109,15 +109,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521760",
       "date_posted": "2026-06-30",
       "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of FISCal",
-      "title": "Project Coordinator",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521524",
-      "date_posted": "2026-06-22",
-      "salary": "$4935.00 - $8740.00",
       "ats": "CalCareers"
     },
     {
