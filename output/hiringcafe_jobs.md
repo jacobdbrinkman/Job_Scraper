@@ -1,56 +1,36 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-09 18:44 UTC*
+*Last updated: 2026-07-09 20:30 UTC*
 
-**11 new role(s)** since last run · 127 total in last 30d
+**7 new role(s)** since last run · 126 total in last 30d
 
-### [GIS Analyst](https://internal-nv5.icims.com/jobs/12339/gis-analyst/job?in_iframe=1) — NV5 Geospatial
-- 📍 **Location:** Sun Prairie, Wisconsin, United States
-- 💰 **Salary:** $44k–$50k/yr
-- 🕒 **Posted:** 2026-07-08T04:00:00.000Z
-
-### [GIS Analyst](https://careers-nv5.icims.com/jobs/12015/gis-analyst/job?in_iframe=1) — NV5
-- 📍 **Location:** San Diego, California, United States
-- 💰 **Salary:** $73k–$94k/yr
-- 🕒 **Posted:** 2026-06-30T04:00:00.000Z
-
-### [Geospatial Analyst (Secret clearance)](https://maxar.wd1.myworkdayjobs.com/vantor/job/Tampa-FL/Geospatial-Analyst--Secret-clearance-_R24237) — Maxar
-- 📍 **Location:** Tampa, Florida, United States
-- 💰 **Salary:** $65k–$85k/yr
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
-
-### [Geospatial Analyst Instructor | TS/SCI](http://xtscareers.applytojob.com/apply/XfioZ2vB5M/Geospatial-Analyst-Instructor-TSSCI) — Xcellent Technology Solutions
-- 📍 **Location:** Springfield or St. Louis
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
-
-### [GIS Analyst (Onsite - Saint Louis/Belleville, IL)](https://job-boards.greenhouse.io/geocgi/jobs/4285514009) — Geospatial Consulting Group International (geocgi)
-- 📍 **Location:** St. Louis or Belleville
-- 💰 **Salary:** $60k–$75k/yr
-- 🕒 **Posted:** 2026-06-12T22:03:30.000Z
-
-### [Environmental Scientist](https://breedlovedennisassoc.bamboohr.com/careers/33) — Breedlove, Dennis and Assoc
-- 📍 **Location:** Winter Park, Florida, United States
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
-
-### [Geologist ](https://jobs.smartrecruiters.com/AECOM2/744000136327389-geologist-) — AECOM
-- 📍 **Location:** Denver or Los Angeles or Oakland or Fort Collins or Austin or Houston or Dallas or Midland
+### [Geologist ](https://jobs.smartrecruiters.com/AECOM2/744000136327489-geologist-) — AECOM
+- 📍 **Location:** Boulder or Denver or Los Angeles or Oakland or Fort Collins or Austin or Houston or Dallas or Midland
 - 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-07T20:48:19.990Z
+- 🕒 **Posted:** 2026-07-07T20:49:18.371Z
 
-### [OMAT-Forest Park-LSP053, Geologist 4, (PG-M) Geologist Supervisor](https://ga.referrals.selectminds.com/jobs/omat-forest-park-lsp053-geologist-4-pg-m-geologist-supervisor-81435) — Team Georgia
-- 📍 **Location:** Forest Park, Georgia, United States
-- 💰 **Salary:** $68k/yr
-- 🕒 **Posted:** 2026-07-08T20:44:45.633Z
+### [Geologist II](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482) — The Doe Run Company
+- 📍 **Location:** Viburnum, Missouri, United States
+- 🕒 **Posted:** 2026-06-26T13:25:23.022Z
 
-### [Sr. Environmental Analyst](https://careers.pacificorp.com/job/PORTLAND-Sr_-Environmental-Analyst-OR-97232/1407046200/) — PacifiCorp
-- 📍 **Location:** Portland, Oregon, United States
-- 💰 **Salary:** $102k–$140k/yr
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+### [Geologist/GIT](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622) — Stantec
+- 📍 **Location:** Lombard, Illinois, United States
+- 🕒 **Posted:** 2026-07-07T16:19:16.000Z
 
-### [Senior Environmental Scientist](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27457) — GHD
-- 📍 **Location:** Des Moines, Iowa, United States
-- 🕒 **Posted:** 2026-07-09T12:58:20.000Z
+### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
+- 📍 **Location:** Bayard, New Mexico, United States
+- 💰 **Salary:** $88k–$120k/yr
+- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
 
-### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant) — RE/SPEC Inc.
-- 📍 **Location:** Roseville, Minnesota, United States
-- 💰 **Salary:** $60k–$85k/yr
-- 🕒 **Posted:** 2026-06-18T16:34:33.436Z
+### [Staff Geologist](https://willmerengineering.bamboohr.com/careers/87) — Willmer Engineering
+- 📍 **Location:** Atlanta, Georgia, United States
+- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
+
+### [Senior Geologist](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?jid=651979&cid=6549&locvalue=1081) — RIZZO International, Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $60k–$140k/yr
+- 🕒 **Posted:** 2026-07-01T00:00:00.000Z
+
+### [Environmental Scientist 1](https://job-boards.greenhouse.io/apexcompanies/jobs/5272472008) — Apex Companies
+- 📍 **Location:** Fullerton, California, United States
+- 💰 **Salary:** $70k–$86k/yr
+- 🕒 **Posted:** 2026-06-19T23:07:01.000Z
