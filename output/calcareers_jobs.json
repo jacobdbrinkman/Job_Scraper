@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08 17:49 UTC",
-  "total": 14,
+  "scraped_at": "2026-07-09 18:06 UTC",
+  "total": 13,
   "new_count": 0,
   "jobs": [
     {
@@ -9,6 +9,15 @@
       "location": "San Luis Obispo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
       "date_posted": "2026-07-08",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521511",
+      "date_posted": "2026-07-03",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -40,30 +49,12 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Water Resources",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521511",
-      "date_posted": "2026-07-03",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Pesticide Regulation",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522265",
       "date_posted": "2026-06-25",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Parks & Recreation",
-      "title": "ENVIRONMENTAL SCIENTIST (PI)",
-      "location": "Santa Cruz County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522611",
-      "date_posted": "2026-06-24",
-      "salary": "$25.48 - $53.77",
       "ats": "CalCareers"
     },
     {
