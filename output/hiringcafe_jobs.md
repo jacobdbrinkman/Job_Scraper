@@ -1,51 +1,56 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-09 04:42 UTC*
+*Last updated: 2026-07-09 18:44 UTC*
 
-**10 new role(s)** since last run · 128 total in last 30d
+**11 new role(s)** since last run · 127 total in last 30d
 
-### [GIS Analyst](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/GIS-Analyst_328795) — Caci
-- 📍 **Location:** Washington, District of Columbia, United States
-- 💰 **Salary:** $71k–$149k/yr
+### [GIS Analyst](https://internal-nv5.icims.com/jobs/12339/gis-analyst/job?in_iframe=1) — NV5 Geospatial
+- 📍 **Location:** Sun Prairie, Wisconsin, United States
+- 💰 **Salary:** $44k–$50k/yr
+- 🕒 **Posted:** 2026-07-08T04:00:00.000Z
+
+### [GIS Analyst](https://careers-nv5.icims.com/jobs/12015/gis-analyst/job?in_iframe=1) — NV5
+- 📍 **Location:** San Diego, California, United States
+- 💰 **Salary:** $73k–$94k/yr
+- 🕒 **Posted:** 2026-06-30T04:00:00.000Z
+
+### [Geospatial Analyst (Secret clearance)](https://maxar.wd1.myworkdayjobs.com/vantor/job/Tampa-FL/Geospatial-Analyst--Secret-clearance-_R24237) — Maxar
+- 📍 **Location:** Tampa, Florida, United States
+- 💰 **Salary:** $65k–$85k/yr
 - 🕒 **Posted:** 2026-07-08T00:00:00.000Z
 
-### [Environmental Scientist](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27565) — GHD
-- 📍 **Location:** Golden, Colorado, United States
-- 💰 **Salary:** $69k–$115k/yr
-- 🕒 **Posted:** 2026-07-08T18:21:42.000Z
+### [Geospatial Analyst Instructor | TS/SCI](http://xtscareers.applytojob.com/apply/XfioZ2vB5M/Geospatial-Analyst-Instructor-TSSCI) — Xcellent Technology Solutions
+- 📍 **Location:** Springfield or St. Louis
+- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
 
-### [Geologist/GIT](https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/) — Stantec
-- 📍 **Location:** Lombard, Illinois, United States
-- 🕒 **Posted:** 2026-07-07T17:03:20.000Z
-
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
-- 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
-
-### [Staff Geologist](https://montrose.wd1.myworkdayjobs.com/meg/job/USA-TN-Nashville/Staff-Geologist_R8186) — Montrose
-- 📍 **Location:** Nashville or Tennessee or United States
+### [GIS Analyst (Onsite - Saint Louis/Belleville, IL)](https://job-boards.greenhouse.io/geocgi/jobs/4285514009) — Geospatial Consulting Group International (geocgi)
+- 📍 **Location:** St. Louis or Belleville
 - 💰 **Salary:** $60k–$75k/yr
-- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
+- 🕒 **Posted:** 2026-06-12T22:03:30.000Z
 
-### [Associate Geologist](https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39) — True-environmental
-- 📍 **Location:** Albuquerque, New Mexico, United States
-- 🕒 **Posted:** 2026-06-30T20:17:14.636Z
+### [Environmental Scientist](https://breedlovedennisassoc.bamboohr.com/careers/33) — Breedlove, Dennis and Assoc
+- 📍 **Location:** Winter Park, Florida, United States
+- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
 
-### [Senior Geologist](https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542) — Fugro
-- 📍 **Location:** Walnut Creek, California, United States
-- 💰 **Salary:** $123k/yr
-- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
+### [Geologist ](https://jobs.smartrecruiters.com/AECOM2/744000136327389-geologist-) — AECOM
+- 📍 **Location:** Denver or Los Angeles or Oakland or Fort Collins or Austin or Houston or Dallas or Midland
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-07-07T20:48:19.990Z
 
-### [Senior Geologist](https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507) — HDR
-- 📍 **Location:** Louisville or Madison
-- 🕒 **Posted:** 2026-06-17T12:00:00.000Z
+### [OMAT-Forest Park-LSP053, Geologist 4, (PG-M) Geologist Supervisor](https://ga.referrals.selectminds.com/jobs/omat-forest-park-lsp053-geologist-4-pg-m-geologist-supervisor-81435) — Team Georgia
+- 📍 **Location:** Forest Park, Georgia, United States
+- 💰 **Salary:** $68k/yr
+- 🕒 **Posted:** 2026-07-08T20:44:45.633Z
 
-### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant) — RE/SPEC Inc.
-- 📍 **Location:** Denver, Colorado, United States
+### [Sr. Environmental Analyst](https://careers.pacificorp.com/job/PORTLAND-Sr_-Environmental-Analyst-OR-97232/1407046200/) — PacifiCorp
+- 📍 **Location:** Portland, Oregon, United States
+- 💰 **Salary:** $102k–$140k/yr
+- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+
+### [Senior Environmental Scientist](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27457) — GHD
+- 📍 **Location:** Des Moines, Iowa, United States
+- 🕒 **Posted:** 2026-07-09T12:58:20.000Z
+
+### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant) — RE/SPEC Inc.
+- 📍 **Location:** Roseville, Minnesota, United States
 - 💰 **Salary:** $60k–$85k/yr
-- 🕒 **Posted:** 2026-06-18T16:35:16.617Z
-
-### [Environmental Scientist](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27566) — GHD
-- 📍 **Location:** Los Angeles or Long Beach
-- 💰 **Salary:** $72k–$120k/yr
-- 🕒 **Posted:** 2026-07-08T18:25:58.000Z
+- 🕒 **Posted:** 2026-06-18T16:34:33.436Z
