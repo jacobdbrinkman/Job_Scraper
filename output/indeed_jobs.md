@@ -1,31 +1,24 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-09 19:13 UTC*
+*Last updated: 2026-07-09 21:07 UTC*
 
-**6 new role(s)** since last run · 16 total in last 24h
+**4 new role(s)** since last run · 17 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=af99cb5c79e00e32) — DEPARTMENT OF WATER RESOURCES
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [Environmental Field Technician](https://www.indeed.com/viewjob?jk=41bf4ddbbe6fb14e) — H&P Mobile Geochemistry Inc
+- 📍 **Location:** Signal Hill, CA, US
+- 💰 **Salary:** $23–$25/hr
 - 🕒 **Posted:** 2026-07-09
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=6bf8825598af80b9) — Caltrans - CA Dept. of Transportation
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [Environmental Staff Engineer/Scientist/Geologist](https://www.indeed.com/viewjob?jk=b5aa1aac7fa3da4f) — Intertek
+- 📍 **Location:** Westminster, CO, US
+- 💰 **Salary:** $70k–$95k/yr
 - 🕒 **Posted:** 2026-07-09
 
-### [BCT Partners – Head Start Data Analyst](https://www.indeed.com/viewjob?jk=5756ee6d68092187) — BCT Partners LLC
+### [Geologist](https://www.indeed.com/viewjob?jk=fbe0bb71dcbcecfb) — AECOM
+- 📍 **Location:** Boulder, CO, US
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-07-09
+
+### [Sr. Geologist](https://www.indeed.com/viewjob?jk=ce4d8edbfff140a6) — SM Energy
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $65k–$75k/yr
+- 💰 **Salary:** $158k–$195k/yr
 - 🕒 **Posted:** 2026-07-09
-
-### [Lead Environmental Scientist/Engineer - Environmental Compliance](https://www.indeed.com/viewjob?jk=4f4accf4d34cff77) — The Foth Companies
-- 📍 **Location:** Remote, US
-- 🕒 **Posted:** 2026-07-08
-
-### [Lead Environmental Scientist/Engineer - Environmental Compliance](https://www.indeed.com/viewjob?jk=b845748dfd9308a3) — The Foth Companies
-- 📍 **Location:** Remote, US
-- 🕒 **Posted:** 2026-07-08
-
-### [Lead Environmental Scientist/Engineer - Environmental Compliance](https://www.indeed.com/viewjob?jk=8de8a63c7be6b252) — The Foth Companies
-- 📍 **Location:** Remote, US
-- 🕒 **Posted:** 2026-07-08
