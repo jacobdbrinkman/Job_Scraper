@@ -1,14 +1,19 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-10 17:31 UTC*
+*Last updated: 2026-07-10 19:11 UTC*
 
-**2 new role(s)** since last run · 17 total in last 24h
+**3 new role(s)** since last run · 15 total in last 24h
 
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=fbba5aab5f766fb8) — GHD
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $72k–$120k/yr
-- 🕒 **Posted:** 2026-07-09
+### [SENIOR ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=5e1f6e8dd7d1fda7) — DEPARTMENT OF WATER RESOURCES
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $11k–$14k/mo
+- 🕒 **Posted:** 2026-07-10
 
-### [Environmental Professional (Scientist, Geologist, Engineer)](https://www.indeed.com/viewjob?jk=23b415db82a4bd32) — Onterris
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $70k–$95k/yr
-- 🕒 **Posted:** 2026-07-09
+### [SENIOR ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=0a2d04004ff56c50) — DEPARTMENT OF WATER RESOURCES
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $11k–$14k/mo
+- 🕒 **Posted:** 2026-07-10
+
+### [GIS Coordinator – ESRI Specialist & Database Programmer (Remote / Project-Based)](https://www.indeed.com/viewjob?jk=04ee9e8d07296522) — Loyda Blanco
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $50–$150/hr
+- 🕒 **Posted:** 2026-07-10
