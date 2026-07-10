@@ -1,164 +1,276 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-10 17:30 UTC*
+*Last updated: 2026-07-10 19:09 UTC*
 
-**35 new role(s)** since last run · 35 total in last 1h
+**58 new role(s)** since last run · 59 total in last 1h
 
-### [Project Coordinator - High End Construction Firm](https://www.linkedin.com/jobs/view/4438328480/) — BURKE + CO.
+### [Senior Engineering Geologist](https://www.linkedin.com/jobs/view/4439329606/) — California Department of Water Resources
+- 📍 **Location:** Sacramento County, CA
+- 💰 **Salary:** $11,437.00/mo - $14,315.00/mo
+- 🕒 **Posted:** 2026-07-10
+
+### [Senior Engineer Geologist](https://www.linkedin.com/jobs/view/4439323684/) — California Department of Water Resources
+- 📍 **Location:** Sacramento County, CA
+- 💰 **Salary:** $11,437.00/mo - $14,315.00/mo
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418832300/) — PwC
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $90,000.00/yr
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4439312359/) — Applicantz
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $39.36/hr - $39.36/hr
+### [Assistant Water Resources Specialist I/II (Limited Term)](https://www.linkedin.com/jobs/view/4438329917/) — Valley Water
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $118,060.80 - $151,049.60 Annually
 - 🕒 **Posted:** 2026-07-10
 
-### [Commercial Data Analyst](https://www.linkedin.com/jobs/view/4420483407/) — Leiters Health
-- 📍 **Location:** Denver Metropolitan Area
-- 💰 **Salary:** $73,000.00/yr - $90,000.00/yr
+### [Staff Data Analyst](https://www.linkedin.com/jobs/view/4439332601/) — Assured
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $175,000.00/yr - $195,000.00/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [Surveyor / Survey Technician (Entry Level)](https://www.linkedin.com/jobs/view/4438331500/) — Hennessey Engineers
-- 📍 **Location:** Indiana, United States
+### [Senior Revenue Data Analyst - Financial Reporting](https://www.linkedin.com/jobs/view/4418859876/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-10
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4439316308/) — NYS Environmental Facilities Corporation
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $67,119.00/yr - $71,000.00/yr
+### [As-Needed Archaeological Field Technicians (Across CA)](https://www.linkedin.com/jobs/view/4427873243/) — Rincon Consultants
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $24.00–$37.00 per hour
 - 🕒 **Posted:** 2026-07-10
 
-### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4438336362/) — Midcontinent
-- 📍 **Location:** West Fargo, ND
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418837155/) — PwC
+- 📍 **Location:** Silicon Valley, CA
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Master Data Analyst](https://www.linkedin.com/jobs/view/4430767066/) — New Era Cap
-- 📍 **Location:** Buffalo, NY
-- 💰 **Salary:** $55,000.00/yr - $63,000.00/yr
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418839099/) — PwC
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Environmental PM & Field Scientist](https://www.linkedin.com/jobs/view/4438332402/) — Factor Group
-- 📍 **Location:** New York, NY
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864453622/) — Epic
+- 📍 **Location:** Hayward, CA
 - 🕒 **Posted:** 2026-07-10
 
-### [Entry-Level Environmental Scientist](https://www.linkedin.com/jobs/view/4438325669/) — Greenstar Environmental Solutions
-- 📍 **Location:** Somerset, NJ
-- 💰 **Salary:** $45,000 - $50,000
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3849884492/) — Epic
+- 📍 **Location:** Bakersfield, CA
 - 🕒 **Posted:** 2026-07-10
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4439305522/) — CodeX Tech-IT LLC
-- 📍 **Location:** United States
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3955124349/) — Epic
+- 📍 **Location:** Palmdale, CA
 - 🕒 **Posted:** 2026-07-10
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4439300874/) — Kforce Inc
-- 📍 **Location:** Smithfield, RI
-- 💰 **Salary:** $40.00/hr - $50.00/hr
+### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4420606835/) — MSX International
+- 📍 **Location:** Fountain Valley, CA
+- 💰 **Salary:** $70k to $87k
 - 🕒 **Posted:** 2026-07-10
 
-### [Data Analyst (1146 - Charlotte)](https://www.linkedin.com/jobs/view/4420640141/) — Sharp Decisions
-- 📍 **Location:** Charlotte, NC
+### [Intermediate Hydrogeologist](https://www.linkedin.com/jobs/view/4429653893/) — WSP in the U.S.
+- 📍 **Location:** Redmond, WA
+- 💰 **Salary:** $68,500 - $89,500
 - 🕒 **Posted:** 2026-07-10
 
-### [Data Analyst, Product](https://www.linkedin.com/jobs/view/4438322788/) — Jobgether
-- 📍 **Location:** United States
-- 💰 **Salary:** $95,000 - $133,000 USD
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864448788/) — Epic
+- 📍 **Location:** Bellevue, WA
 - 🕒 **Posted:** 2026-07-10
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4438329316/) — FetchJobs.co
-- 📍 **Location:** United States
+### [Project Coordinator, Peer-to-Peer](https://www.linkedin.com/jobs/view/4430910039/) — Fred Hutch
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $80,172 to $109,470,
 - 🕒 **Posted:** 2026-07-10
 
-### [Data Analyst II, Ecommerce](https://www.linkedin.com/jobs/view/4436602983/) — Greenlight
-- 📍 **Location:** United States
-- 💰 **Salary:** $100,000-130,000
+### [Program Coordinator, Data Philanthropy](https://www.linkedin.com/jobs/view/4430901254/) — Fred Hutch
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $31.26 to $44.51
 - 🕒 **Posted:** 2026-07-10
 
-### [Data Analyst, Revenue Operations](https://www.linkedin.com/jobs/view/4439307953/) — NMI
-- 📍 **Location:** United States
-- 💰 **Salary:** $65,000—$85,000 USD
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418826394/) — PwC
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309692942/) — DataAnnotation
-- 📍 **Location:** Kentucky, United States
+### [Administrative Project Coordinator](https://www.linkedin.com/jobs/view/4438331979/) — HDR
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $25.69 - $36.70
 - 🕒 **Posted:** 2026-07-10
 
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309811048/) — DataAnnotation
-- 📍 **Location:** Montana, United States
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418834210/) — PwC
+- 📍 **Location:** New Orleans, LA
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Strategic Data Analyst - CICIP-CICIP Program](https://www.linkedin.com/jobs/view/4436602885/) — The MetroHealth System (Cleveland, OH)
-- 📍 **Location:** Cleveland, OH
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418836196/) — PwC
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Sr Business Data Analyst](https://www.linkedin.com/jobs/view/4437878213/) — DHL Supply Chain
-- 📍 **Location:** Whiteland, IN
-- 💰 **Salary:** $70,000 - $115,000
-- 🕒 **Posted:** 2026-07-10
-
-### [Environmental Scientist - 2 years minimum experience](https://www.linkedin.com/jobs/view/4436625054/) — AECOM
-- 📍 **Location:** Bloomfield, NJ
-- 💰 **Salary:** $65,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-07-10
-
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4436614338/) — HETI
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-07-10
-
-### [Entry Level - Leak Survey Technician - Company Vehicle Provided](https://www.linkedin.com/jobs/view/4435993991/) — Magnolia River
-- 📍 **Location:** Statesville, NC
-- 🕒 **Posted:** 2026-07-10
-
-### [Senior Data Analyst - Digital (Customer Insights & Analytics)](https://www.linkedin.com/jobs/view/4439310801/) — M&T Bank
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $113,300.00 - $188,800.00
-- 🕒 **Posted:** 2026-07-10
-
-### [Senior Data Analyst - Digital (Customer Insights & Analytics)](https://www.linkedin.com/jobs/view/4439315576/) — M&T Bank
-- 📍 **Location:** Wilmington, DE
-- 💰 **Salary:** $113,300.00 - $188,800.00
-- 🕒 **Posted:** 2026-07-10
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4436610330/) — Concentrix
-- 📍 **Location:** United States
-- 💰 **Salary:** $ 92,250 to $125,000
-- 🕒 **Posted:** 2026-07-10
-
-### [Clinical Data Analyst](https://www.linkedin.com/jobs/view/4434855908/) — Columbia University Irving Medical Center
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $90,000- $105,000
-- 🕒 **Posted:** 2026-07-10
-
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309808144/) — DataAnnotation
-- 📍 **Location:** Nevada, United States
-- 🕒 **Posted:** 2026-07-10
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4439315818/) — Jacuzzi Group
-- 📍 **Location:** Chino, CA
-- 🕒 **Posted:** 2026-07-10
-
-### [Artificial Intelligence (AI) Project Coordinator](https://www.linkedin.com/jobs/view/4438337564/) — Owensboro Community and Technical College
-- 📍 **Location:** Owensboro, KY
-- 💰 **Salary:** $49,000 - $52,000
-- 🕒 **Posted:** 2026-07-10
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4438338290/) — Sciens Building Solutions
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418819864/) — PwC
 - 📍 **Location:** Miami, FL
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Project Coordinator/Estimator](https://www.linkedin.com/jobs/view/4438335246/) — B&S Integrated Security Systems
-- 📍 **Location:** Nashua, NH
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418839083/) — PwC
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Project Coordinator, Sports (Temporary)](https://www.linkedin.com/jobs/view/4439314395/) — Warner Bros. Discovery
-- 📍 **Location:** Atlanta, GA
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418841008/) — PwC
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Project Coordinator / Manager](https://www.linkedin.com/jobs/view/4438321710/) — Jobgether
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418824530/) — PwC
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418839084/) — PwC
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418835230/) — PwC
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418836198/) — PwC
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418819873/) — PwC
+- 📍 **Location:** Birmingham, AL
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Water Systems Data Analyst](https://www.linkedin.com/jobs/view/4437938252/) — City of Minneapolis
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-07-10
+
+### [Enrollment Data Analyst](https://www.linkedin.com/jobs/view/4439325889/) — American Fidelity
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-07-10
+
+### [Intermediate Hydrogeologist](https://www.linkedin.com/jobs/view/4429670225/) — WSP in the U.S.
+- 📍 **Location:** Tigard, OR
+- 💰 **Salary:** $68,500 - $89,500
+- 🕒 **Posted:** 2026-07-10
+
+### [Geotechnical Field Technician](https://www.linkedin.com/jobs/view/4439340177/) — Geo-Technology Associates, Inc. (GTA)
+- 📍 **Location:** York, PA
+- 🕒 **Posted:** 2026-07-10
+
+### [SURVEY TECHNICIAN](https://www.linkedin.com/jobs/view/4439322786/) — Knife River Corporation
+- 📍 **Location:** Bryan, TX
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418825431/) — PwC
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Data Analyst, HRIS](https://www.linkedin.com/jobs/view/4438342623/) — Sand Cherry
 - 📍 **Location:** United States
-- 💰 **Salary:** $45,324 - $60,420,
+- 💰 **Salary:** $60-$80
 - 🕒 **Posted:** 2026-07-10
 
-### [Custody Project Coordinator](https://www.linkedin.com/jobs/view/4439318502/) — Phaxis
-- 📍 **Location:** Hoboken, NY
-- 💰 **Salary:** $25.00/hr - $40.00/hr
+### [Business Insights Analyst II (Business/Data Analyst-US)](https://www.linkedin.com/jobs/view/4439342024/) — TD
+- 📍 **Location:** Mount Laurel, NJ
+- 💰 **Salary:** $76,290 - $125,260 USD
+- 🕒 **Posted:** 2026-07-10
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4436625248/) — Cloud and Things
+- 📍 **Location:** Albany, NY
+- 💰 **Salary:** $70 - $85/hr
+- 🕒 **Posted:** 2026-07-10
+
+### [Data Analyst Administrative - (Cleared)](https://www.linkedin.com/jobs/view/4429452832/) — Command Holdings, a Pequot Company
+- 📍 **Location:** El Paso, TX
+- 💰 **Salary:** $41,000 - $44,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Data Engineer/Data Analyst](https://www.linkedin.com/jobs/view/4438356059/) — Midland Industries
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418834209/) — PwC
+- 📍 **Location:** Fayetteville, AR
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418821725/) — PwC
+- 📍 **Location:** Columbia, SC
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418833210/) — PwC
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418835228/) — PwC
+- 📍 **Location:** Des Moines, IA
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418838143/) — PwC
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418828390/) — PwC
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Project Coordinator (33983)](https://www.linkedin.com/jobs/view/4439339391/) — CEC
+- 📍 **Location:** El Paso, TX
+- 🕒 **Posted:** 2026-07-10
+
+### [Community Partnerships Project Coordinator](https://www.linkedin.com/jobs/view/4438847922/) — University of Oklahoma
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-07-10
+
+### [Program Coordinator, Refresh & Rollouts](https://www.linkedin.com/jobs/view/4422646837/) — Stratus
+- 📍 **Location:** Mentor, OH
+- 💰 **Salary:** $48,000.00 - $55,000.00 annually
+- 🕒 **Posted:** 2026-07-10
+
+### [Project Coordinator (HVAC)](https://www.linkedin.com/jobs/view/4439325753/) — Critical Systems
+- 📍 **Location:** Rockville, MD
+- 🕒 **Posted:** 2026-07-10
+
+### [Program Coordinator, Refresh & Rollouts](https://www.linkedin.com/jobs/view/4422633984/) — Stratus
+- 📍 **Location:** Rolling Meadows, IL
+- 💰 **Salary:** $48,000.00 - $55,000.00 annually
+- 🕒 **Posted:** 2026-07-10
+
+### [Project Coordinator/Customer Service Representative](https://www.linkedin.com/jobs/view/4436624264/) — Valley Industrial Association of Illinois
+- 📍 **Location:** West Chicago, IL
+- 💰 **Salary:** $20.00 - $26.00 Hourly
+- 🕒 **Posted:** 2026-07-10
+
+### [Program Coordinator (Westbrook & Early Childhood)](https://www.linkedin.com/jobs/view/4439340387/) — LOCKER PROJECT
+- 📍 **Location:** South Portland, ME
+- 🕒 **Posted:** 2026-07-10
+
+### [Classified, 9 Month, Recurring, Program Coordinator for Access & Disability, and Counseling Services](https://www.linkedin.com/jobs/view/4435917395/) — Whatcom Community College
+- 📍 **Location:** Bellingham, WA
+- 🕒 **Posted:** 2026-07-10
+
+### [Sr Student Program Coordinator](https://www.linkedin.com/jobs/view/4438846997/) — University of Oklahoma
+- 📍 **Location:** Tahlequah, OK
+- 🕒 **Posted:** 2026-07-10
+
+### [Sr. Education Program Coordinator](https://www.linkedin.com/jobs/view/4438847924/) — University of Oklahoma
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-07-10
+
+### [Program Coordinator, Unintentional Injury Prevention Initiatives](https://www.linkedin.com/jobs/view/4439339309/) — Ann & Robert H. Lurie Children's Hospital of Chicago
+- 📍 **Location:** Streeterville, IL
+- 💰 **Salary:** $59,280.00-$96,928.00
+- 🕒 **Posted:** 2026-07-10
+
+### [Senior Program Coordinator, Religion - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4434890490/) — Emory University
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-07-10
