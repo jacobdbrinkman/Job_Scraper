@@ -1,36 +1,26 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-10 21:46 UTC*
+*Last updated: 2026-07-10 22:45 UTC*
 
-**7 new role(s)** since last run · 126 total in last 30d
+**5 new role(s)** since last run · 124 total in last 30d
 
-### [Sr GIS Analyst ](https://www.governmentjobs.com/careers/glendaleaz/jobs/5318878) — City of Glendale (AZ)
-- 📍 **Location:** Glendale, Arizona, United States
-- 💰 **Salary:** $93k–$140k/yr
-- 🕒 **Posted:** 2026-07-10T16:42:35.000Z
+### [Geologist/GIT](https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/) — Stantec
+- 📍 **Location:** Lombard, Illinois, United States
+- 🕒 **Posted:** 2026-07-07T17:03:20.000Z
 
-### [Staff Geologist](https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb) — Paragon Professional Services
-- 📍 **Location:** Folsom or Seattle
-- 💰 **Salary:** $78k–$107k/yr
-- 🕒 **Posted:** 2026-06-11T20:58:04.355Z
-
-### [Geologist Advisor](https://careers.apachecorp.com/job/Houston-Geologist-Advisor-TX-77042/1404071700/) — Apache Corporation
-- 📍 **Location:** Houston or Cairo or United States or Egypt or United Kingdom or Suriname
-- 🕒 **Posted:** 2026-07-01T05:47:17.332Z
-
-### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
 - 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $88k–$120k/yr
-- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
 
-### [Staff Geologist](https://willmerengineering.bamboohr.com/careers/87) — Willmer Engineering
-- 📍 **Location:** Atlanta, Georgia, United States
-- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
+### [Associate Geologist](https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39) — True-environmental
+- 📍 **Location:** Albuquerque, New Mexico, United States
+- 🕒 **Posted:** 2026-06-30T20:17:14.636Z
 
-### [Geologist II](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482) — The Doe Run Company
-- 📍 **Location:** Viburnum, Missouri, United States
-- 🕒 **Posted:** 2026-06-26T13:25:23.022Z
+### [Senior Geologist](https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507) — HDR
+- 📍 **Location:** Louisville or Madison
+- 🕒 **Posted:** 2026-06-17T12:00:00.000Z
 
-### [Senior Geologist](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?jid=651979&cid=6549&locvalue=1081) — RIZZO International, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $60k–$140k/yr
-- 🕒 **Posted:** 2026-07-01T00:00:00.000Z
+### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant) — RE/SPEC Inc.
+- 📍 **Location:** Roseville, Minnesota, United States
+- 💰 **Salary:** $60k–$85k/yr
+- 🕒 **Posted:** 2026-06-18T16:34:33.436Z
