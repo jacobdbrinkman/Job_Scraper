@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11 19:56 UTC",
+  "scraped_at": "2026-07-11 20:42 UTC",
   "total": 123,
-  "new_count": 7,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Larson Design Group",
@@ -654,19 +654,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Rancho Cordova or Oakland",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
-      "date_posted": "2026-07-09T23:26:54.910Z",
-      "description": "BS in environmental or physical sciences,2+ years environmental industry experience,practical field sampling experience,multimedia sampling,ability to travel and work outdoors,valid driver's license required.",
-      "salary": "$70k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Whitestone Associates, Inc.",
       "title": "Environmental Scientist",
       "location": "Pittsburgh, Pennsylvania, United States",
@@ -680,14 +667,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
+      "company": "Tetra Tech",
       "title": "Environmental Scientist",
-      "location": "Buffalo, New York, United States",
-      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "date_posted": "2026-06-25T13:03:00.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
-      "salary": "$73k–$106k/yr",
+      "location": "Rancho Cordova or Oakland",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "date_posted": "2026-07-09T23:26:54.910Z",
+      "description": "BS in environmental or physical sciences,2+ years environmental industry experience,practical field sampling experience,multimedia sampling,ability to travel and work outdoors,valid driver's license required.",
+      "salary": "$70k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -702,6 +689,19 @@
       "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
       "salary": "$48k–$54k/yr",
       "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Buffalo, New York, United States",
+      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "date_posted": "2026-06-25T13:03:00.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
+      "salary": "$73k–$106k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -1603,97 +1603,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist",
-      "date_posted": "2026-07-09T20:18:23.712Z",
-      "description": "B.S. in geology,4+ years relevant experience,valid U.S. driver’s license,pre-employment drug test,HAZWOPER 40-hour preferred,PG or GIT preferred,comfortable with extensive field travel and report writing.",
-      "salary": "$70k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Doe Run Company",
-      "title": "Geologist I",
-      "location": "Viburnum or St. Louis or Boss or Missouri or Washington or Arizona",
-      "url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6",
-      "direct_url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6",
-      "date_posted": "2026-06-26T20:22:47.413Z",
-      "description": "Bachelor's degree in Geology (required), valid driver's license, proficiency with spreadsheets/databases, AcQuire and Vulcan knowledge preferred, strong attention to detail and geological interpretation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Paragon Professional Services",
-      "title": "Staff Geologist",
-      "location": "Folsom or Seattle",
-      "url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
-      "direct_url": "https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=18614abe-9b2d-4543-b3f6-e1fa527f1ffb",
-      "date_posted": "2026-06-11T20:58:04.355Z",
-      "description": "Bachelor's in geology or related, minimum 3 years environmental consulting experience, PG or GIT progressing, valid driver’s license, ability to lift 50 lbs, OSHA HAZWOPER preferred, willingness to travel and pass drug/background checks.",
-      "salary": "$78k–$107k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Apache Corporation",
-      "title": "Geologist Advisor",
-      "location": "Houston or Cairo or United States or Egypt or United Kingdom or Suriname",
-      "url": "https://careers.apachecorp.com/job/Houston-Geologist-Advisor-TX-77042/1404071700/",
-      "direct_url": "https://careers.apachecorp.com/job/Houston-Geologist-Advisor-TX-77042/1404071700/",
-      "date_posted": "2026-07-01T05:47:17.332Z",
-      "description": "Bachelor's in Geology/Geophysics required (Master's/PhD preferred), 10+ years' experience, expertise in clastic systems and seismic interpretation, Petrel and probabilistic volumetrics experience, drilling and well planning experience, technical leadership and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Geologist II",
-      "location": "Bayard, New Mexico, United States",
-      "url": "https://talent.fmjobs.com/careers/job/42911253",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42911253",
-      "date_posted": "2026-07-07T20:56:49.000Z",
-      "description": "Bachelor's in Geology +3 years experience or Master's in Geology +1 year; experience in drill logging, geologic mapping, resource modeling, and regulatory knowledge.",
-      "salary": "$88k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Willmer Engineering",
-      "title": "Staff Geologist",
-      "location": "Atlanta, Georgia, United States",
-      "url": "https://willmerengineering.bamboohr.com/careers/87",
-      "direct_url": "https://willmerengineering.bamboohr.com/careers/87",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "Bachelor's in geology or related, GIT preferred or ability to obtain, 1+ years geology/geotechnical/CMT experience, valid driver's license, able to lift 50 lbs, field-ready and strong technical writing.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "RIZZO International, Inc.",
-      "title": "Senior Geologist",
-      "location": "United States",
-      "url": "https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?jid=651979&cid=6549&locvalue=1081",
-      "direct_url": "https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?jid=651979&cid=6549&locvalue=1081",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "Bachelor's in Geology or Geological Engineering, 10+ years field geotechnical experience, proficiency with pLog, gINT, OpenGround, drilling oversight and core logging, familiarity with CPT/SCPT and downhole geophysics, PG license preferred.",
-      "salary": "$60k–$140k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
