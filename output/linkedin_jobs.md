@@ -1,61 +1,88 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-11 17:34 UTC*
+*Last updated: 2026-07-11 18:26 UTC*
 
-**13 new role(s)** since last run · 19 total in last 1h
+**17 new role(s)** since last run · 22 total in last 1h
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4380793856/) — Groupe SEB
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $60,320.00/yr - $60,320.00/yr
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422021866/) — PwC
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4438933593/) — Saliense
-- 📍 **Location:** San Antonio, Texas Metropolitan Area
+### [Business Data Analyst](https://www.linkedin.com/jobs/view/4438936518/) — Evlo AI
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-07-11
 
-### [Health Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4391918086/) — DataAnnotation
-- 📍 **Location:** Oklahoma, United States
-- 💰 **Salary:** $50-$100
+### [Senior GIS Solutions Engineer](https://www.linkedin.com/jobs/view/4389189543/) — Tepa Companies
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $115,000.00 - $140,000.00
 - 🕒 **Posted:** 2026-07-11
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4438938447/) — FetchJobs.co
-- 📍 **Location:** United States
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422034639/) — PwC
+- 📍 **Location:** Pittsburgh, PA
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309699385/) — DataAnnotation
-- 📍 **Location:** Washington, DC
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422024835/) — PwC
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309692934/) — DataAnnotation
-- 📍 **Location:** Maine, United States
+### [Data Analyst](https://www.linkedin.com/jobs/view/4438943442/) — NYC Department of Housing Preservation & Development
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $86,749.00/yr - $99,761.00/yr
 - 🕒 **Posted:** 2026-07-11
 
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309803244/) — DataAnnotation
-- 📍 **Location:** Rhode Island, United States
+### [Business Data Analyst (Data Analyst 2) - 28497](https://www.linkedin.com/jobs/view/4410876479/) — Mission Technologies, a division of HII
+- 📍 **Location:** Fairfax, VA
+- 💰 **Salary:** $73,025.00 - $110,000.00
 - 🕒 **Posted:** 2026-07-11
 
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309695806/) — DataAnnotation
-- 📍 **Location:** Connecticut, United States
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422027812/) — PwC
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Health Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4391906879/) — DataAnnotation
-- 📍 **Location:** Idaho, United States
-- 💰 **Salary:** $50-$100
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422031671/) — PwC
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Field Technician 4](https://www.linkedin.com/jobs/view/4438947271/) — KCI
-- 📍 **Location:** White Marsh Station, MD
-- 💰 **Salary:** $30.00/hr - $35.00/hr
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422023844/) — PwC
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Health Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4391902926/) — DataAnnotation
-- 📍 **Location:** Alabama, United States
-- 💰 **Salary:** $50-$100
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422024841/) — PwC
+- 📍 **Location:** Florham Park, NJ
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4384396980/) — Webcor
-- 📍 **Location:** San Francisco Bay Area
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422023845/) — PwC
+- 📍 **Location:** Raleigh, NC
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4439560929/) — Pn Automation, Inc.
-- 📍 **Location:** Landover, MD
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422035192/) — PwC
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $99,000 - $232,000
+- 🕒 **Posted:** 2026-07-11
+
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422037145/) — PwC
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $99,000 - $232,000
+- 🕒 **Posted:** 2026-07-11
+
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422028819/) — PwC
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $99,000 - $232,000
+- 🕒 **Posted:** 2026-07-11
+
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422023853/) — PwC
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $99,000 - $232,000
+- 🕒 **Posted:** 2026-07-11
+
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422021862/) — PwC
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-07-11
