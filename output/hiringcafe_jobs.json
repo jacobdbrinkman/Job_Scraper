@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11 04:49 UTC",
-  "total": 126,
-  "new_count": 5,
+  "scraped_at": "2026-07-11 17:43 UTC",
+  "total": 124,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Larson Design Group",
@@ -212,19 +212,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "NV5",
-      "title": "GIS Analyst",
-      "location": "San Diego, California, United States",
-      "url": "https://careers-nv5.icims.com/jobs/12015/gis-analyst/job?in_iframe=1",
-      "direct_url": "https://careers-nv5.icims.com/jobs/12015/gis-analyst/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "2+ years GIS experience relevant to survey/engineering/utilities; project management experience leading GIS workstreams; expert ArcGIS Pro proficiency; geodatabase design and coordinate systems knowledge; Python/ArcPy or ModelBuilder automation; bachelor’s in related field or equivalent.",
-      "salary": "$73k–$94k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "CSU Fullerton Auxiliary Services Corporation (ASC)",
       "title": "GIS Analyst",
       "location": "Fullerton, California, United States",
@@ -233,6 +220,19 @@
       "date_posted": "2026-06-24T17:03:49.000Z",
       "description": "1.5+ years GIS experience, proficiency with Esri ArcGIS Pro 3.x+ and ArcGIS Online, Bachelor's degree in GIS/related field required, MS Office/Excel/Access proficiency, strong communication and project management skills, familiarity with Census data.",
       "salary": "$77k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "NV5",
+      "title": "GIS Analyst",
+      "location": "San Diego, California, United States",
+      "url": "https://careers-nv5.icims.com/jobs/12015/gis-analyst/job?in_iframe=1",
+      "direct_url": "https://careers-nv5.icims.com/jobs/12015/gis-analyst/job?in_iframe=1",
+      "date_posted": "2026-06-30T04:00:00.000Z",
+      "description": "2+ years GIS experience relevant to survey/engineering/utilities; project management experience leading GIS workstreams; expert ArcGIS Pro proficiency; geodatabase design and coordinate systems knowledge; Python/ArcPy or ModelBuilder automation; bachelor’s in related field or equivalent.",
+      "salary": "$73k–$94k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -680,19 +680,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
-      "title": "Environmental Scientist",
-      "location": "Buffalo, New York, United States",
-      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "date_posted": "2026-06-25T13:03:00.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
-      "salary": "$73k–$106k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "APTIM",
       "title": "Environmental Scientist",
       "location": "Houma, Louisiana, United States",
@@ -702,6 +689,19 @@
       "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
       "salary": "$48k–$54k/yr",
       "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Buffalo, New York, United States",
+      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "date_posted": "2026-06-25T13:03:00.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
+      "salary": "$73k–$106k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -1039,19 +1039,6 @@
       "date_posted": "2026-07-06T00:00:00.000Z",
       "description": "Bachelor's degree in a relevant scientific discipline (or equivalent combination of education and experience); for GS-14, one year of professional experience equivalent to GS-13; background investigation and charge card requirement due to travel.",
       "salary": "$126k–$197k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "BOCC Career Site",
-      "title": "Environmental Specialist (Tier 1) - Hydrologist",
-      "location": "Tampa, Florida, United States",
-      "url": "https://fa-eqsg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/4351",
-      "direct_url": "https://fa-eqsg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/4351",
-      "date_posted": "2026-07-02T22:31:52.000Z",
-      "description": "Bachelor's in natural science or equivalent, knowledge of environmental laws and sampling methods, ability to perform field sampling, laboratory assistance, data analysis, report preparation, and valid Florida driver's license.",
-      "salary": "$37k–$66k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1421,19 +1408,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of San Bernardino Municipal Water Department",
-      "title": "Environmental Analyst",
-      "location": "San Bernardino, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sbmwd/jobs/5382958",
-      "direct_url": "https://www.governmentjobs.com/careers/sbmwd/jobs/5382958",
-      "date_posted": "2026-06-22T14:32:27.000Z",
-      "description": "Bachelor's in chemical/biological/environmental sciences preferred; 2 years water/wastewater/environmental data review and report writing; valid California Class C driver license; ability to work in office and field, prepare reports, and interpret regulations.",
-      "salary": "$100k–$128k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "PacifiCorp",
       "title": "Sr. Environmental Analyst",
       "location": "Portland, Oregon, United States",
@@ -1579,11 +1553,11 @@
     {
       "company": "RE/SPEC Inc.",
       "title": "Associate GIS Consultant",
-      "location": "Roseville, Minnesota, United States",
-      "url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant",
-      "direct_url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant",
-      "date_posted": "2026-06-18T16:34:33.436Z",
-      "description": "BA/BS in GIS or related, 2+ years professional GIS experience, strong ArcGIS Pro/Online/Enterprise skills, Python and Arcade proficiency, spatial analysis, and database experience (PostgreSQL/PostGIS or SQL Server).",
+      "location": "Denver, Colorado, United States",
+      "url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant",
+      "direct_url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant",
+      "date_posted": "2026-06-18T16:35:16.617Z",
+      "description": "BA/BS in GIS or Geography, 2+ years professional GIS experience, advanced ArcGIS Pro/Online/Enterprise skills, Python and Arcade proficiency, spatial analysis and geodatabase experience (PostgreSQL/PostGIS or SQL Server).",
       "salary": "$60k–$85k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1644,66 +1618,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Cherokee Federal",
-      "title": "Geospatial Analyst",
-      "location": "Eielson Air Force Base, Alaska, United States",
-      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43006",
-      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43006",
-      "date_posted": "2026-07-10T19:23:06.000Z",
-      "description": "Active Secret clearance required. 3+ years administering Esri ArcGIS desktop/server. HS diploma required; degree preferred. Proficiency with ArcGIS Pro/Server/Online/ArcSDE, Python/ArcPy, SQL, ModelBuilder; strong documentation and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stantec",
-      "title": "Geologist/GIT",
-      "location": "Lombard, Illinois, United States",
-      "url": "https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/",
-      "direct_url": "https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/",
-      "date_posted": "2026-07-07T17:03:20.000Z",
-      "description": "Bachelor's degree in Geology, 3+ years environmental consulting experience, ability to perform site investigations, remedial oversight, technical writing, and travel up to 50%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Senior Geologist",
-      "location": "Bayard, New Mexico, United States",
-      "url": "https://talent.fmjobs.com/careers/job/42911190",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42911190",
-      "date_posted": "2026-07-07T20:57:20.000Z",
-      "description": "Bachelor's in Geology +5 years or Master's in Geology +3 years experience; experience with drill logging, geologic mapping, resource modeling, supervision, and knowledge of applicable regulations.",
-      "salary": "$98k–$138k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "True-environmental",
-      "title": "Associate Geologist",
-      "location": "Albuquerque, New Mexico, United States",
-      "url": "https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39",
-      "direct_url": "https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39",
-      "date_posted": "2026-06-30T20:17:14.636Z",
-      "description": "Bachelor's in geology/hydrology/environmental science/engineering, 1+ years related experience, field sampling and documentation experience, ability to obtain HAZWOPER certification and security/military base access, proficiency with ArcGIS/Rockworks, strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HDR",
-      "title": "Senior Geologist",
-      "location": "Louisville or Madison",
-      "url": "https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507",
-      "date_posted": "2026-06-17T12:00:00.000Z",
-      "description": "Bachelor's in Geology/Earth Science/Hydrogeology, 10+ years experience with project/staff/client management and business development, fieldwork experience, Microsoft Office proficiency; advanced degree and tunnel experience preferred.",
-      "salary": "",
+      "company": "RE/SPEC Inc.",
+      "title": "Associate GIS Consultant",
+      "location": "Denver, Colorado, United States",
+      "url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant",
+      "direct_url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant",
+      "date_posted": "2026-06-18T16:35:16.617Z",
+      "description": "BA/BS in GIS or Geography, 2+ years professional GIS experience, advanced ArcGIS Pro/Online/Enterprise skills, Python and Arcade proficiency, spatial analysis and geodatabase experience (PostgreSQL/PostGIS or SQL Server).",
+      "salary": "$60k–$85k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
