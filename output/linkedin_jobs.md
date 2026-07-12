@@ -1,8 +1,12 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-12 00:24 UTC*
+*Last updated: 2026-07-12 04:08 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [GIS Technician](https://www.linkedin.com/jobs/view/4436696107/) — DST ENGINEERS
-- 📍 **Location:** Chicago, IL
+### [OGI Field Technician](https://www.linkedin.com/jobs/view/4438957726/) — Onterris
+- 📍 **Location:** Little Rock Metropolitan Area
+- 🕒 **Posted:** 2026-07-12
+
+### [Financial Data Analyst](https://www.linkedin.com/jobs/view/4438960670/) — Barefoot Student
+- 📍 **Location:** Urbandale, IA
 - 🕒 **Posted:** 2026-07-12
