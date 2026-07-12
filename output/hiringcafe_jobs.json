@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-12 01:15 UTC",
-  "total": 121,
-  "new_count": 6,
+  "scraped_at": "2026-07-12 05:00 UTC",
+  "total": 122,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Larson Design Group",
@@ -105,6 +105,19 @@
       "salary": "$44k–$50k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Nexus Water Group (SWWC)",
+      "title": "GIS Analyst",
+      "location": "Charlotte or United States or Canada",
+      "url": "https://careers.swwc.com/job/Charlotte-GIS-Analyst-NC-28209/1401990200/",
+      "direct_url": "https://careers.swwc.com/job/Charlotte-GIS-Analyst-NC-28209/1401990200/",
+      "date_posted": "2026-06-22T00:00:00.000Z",
+      "description": "3+ years GIS experience, proficiency with ESRI ArcGIS (Pro/Desktop/Server), CAD integration (AutoCAD/MicroStation), GPS data collection, SQL Server/ArcSDE exposure, valid driver’s license; bachelor’s degree preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -810,6 +823,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "BGE, Inc",
+      "title": "Environmental Scientist",
+      "location": "Frisco, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "date_posted": "2026-06-25T17:13:32.000Z",
+      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Arcadis",
       "title": "Environmental Scientist",
       "location": "Bluefield, Virginia, United States",
@@ -831,19 +857,6 @@
       "date_posted": "2026-07-06T14:10:25.000Z",
       "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
       "salary": "$85k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "BGE, Inc",
-      "title": "Environmental Scientist",
-      "location": "Frisco, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "date_posted": "2026-06-25T17:13:32.000Z",
-      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1579,78 +1592,13 @@
   ],
   "new_jobs": [
     {
-      "company": "Stantec",
-      "title": "Geologist/GIT",
-      "location": "Lombard, Illinois, United States",
-      "url": "https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/",
-      "direct_url": "https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/",
-      "date_posted": "2026-07-07T17:03:20.000Z",
-      "description": "Bachelor's degree in Geology, 3+ years environmental consulting experience, ability to perform site investigations, remedial oversight, technical writing, and travel up to 50%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Senior Geologist",
-      "location": "Bayard, New Mexico, United States",
-      "url": "https://talent.fmjobs.com/careers/job/42911190",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42911190",
-      "date_posted": "2026-07-07T20:57:20.000Z",
-      "description": "Bachelor's in Geology +5 years or Master's in Geology +3 years experience; experience with drill logging, geologic mapping, resource modeling, supervision, and knowledge of applicable regulations.",
-      "salary": "$98k–$138k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stantec",
-      "title": "Geologist/GIT",
-      "location": "Lombard, Illinois, United States",
-      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622",
-      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622",
-      "date_posted": "2026-07-07T16:19:16.000Z",
-      "description": "Bachelor's degree in Geology, 3+ years environmental consulting experience, ability to conduct site investigations, prepare technical reports, and travel regionally (up to 50%). Valid US driver's license and ability to pass background/drug screen required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "True-environmental",
-      "title": "Associate Geologist",
-      "location": "Albuquerque, New Mexico, United States",
-      "url": "https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39",
-      "direct_url": "https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39",
-      "date_posted": "2026-06-30T20:17:14.636Z",
-      "description": "Bachelor's in geology/hydrology/environmental science/engineering, 1+ years related experience, field sampling and documentation experience, ability to obtain HAZWOPER certification and security/military base access, proficiency with ArcGIS/Rockworks, strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Fugro",
-      "title": "Senior Geologist",
-      "location": "Walnut Creek, California, United States",
-      "url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "direct_url": "https://fugro.wd3.myworkdayjobs.com/careers/job/Walnut-Creek-California/Senior-Geologist_R0031542",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Master's in Engineering Geology or Geological Engineering; 2 years field experience in soil/rock logging, mapping, site characterization and fault investigations; report writing, data interpretation, and project management skills.",
-      "salary": "$123k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HDR",
-      "title": "Senior Geologist",
-      "location": "Louisville or Madison",
-      "url": "https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507",
-      "date_posted": "2026-06-17T12:00:00.000Z",
-      "description": "Bachelor's in Geology/Earth Science/Hydrogeology, 10+ years experience with project/staff/client management and business development, fieldwork experience, Microsoft Office proficiency; advanced degree and tunnel experience preferred.",
+      "company": "Nexus Water Group (SWWC)",
+      "title": "GIS Analyst",
+      "location": "Charlotte or United States or Canada",
+      "url": "https://careers.swwc.com/job/Charlotte-GIS-Analyst-NC-28209/1401990200/",
+      "direct_url": "https://careers.swwc.com/job/Charlotte-GIS-Analyst-NC-28209/1401990200/",
+      "date_posted": "2026-06-22T00:00:00.000Z",
+      "description": "3+ years GIS experience, proficiency with ESRI ArcGIS (Pro/Desktop/Server), CAD integration (AutoCAD/MicroStation), GPS data collection, SQL Server/ArcSDE exposure, valid driver’s license; bachelor’s degree preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
