@@ -1,205 +1,229 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-13 17:46 UTC*
+*Last updated: 2026-07-13 20:12 UTC*
 
-**45 new role(s)** since last run · 45 total in last 1h
+**52 new role(s)** since last run · 52 total in last 1h
 
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4440051953/) — DecisionPoint Corporation
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** $85,000.00–$105,000.00 per year
+### [NetSuite GeoSpatial Analyst](https://www.linkedin.com/jobs/view/4440309233/) — Info Way Solutions
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-13
 
-### [GIS Specialist (Production)](https://www.linkedin.com/jobs/view/4440070163/) — DecisionPoint Corporation
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** $100,000.00–$110,000.00 per year
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4439468006/) — QTC Inc.
+- 📍 **Location:** Rocklin, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [GIS Specialist (Senior)](https://www.linkedin.com/jobs/view/4440062457/) — DecisionPoint Corporation
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** $100,000.00–$120,000.00 per year
-- 🕒 **Posted:** 2026-07-13
-
-### [Consulting GIS Specialist (Service Center Manager and Site Supervisor/Application Developer)](https://www.linkedin.com/jobs/view/4440054655/) — DecisionPoint Corporation
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** $120,000.00–$140,000.00 per year
-- 🕒 **Posted:** 2026-07-13
-
-### [Manager, Solutions Engineering](https://www.linkedin.com/jobs/view/4421363878/) — Mixpanel
+### [Data Analyst, Growth](https://www.linkedin.com/jobs/view/4440097589/) — Mochi Health
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $238,300 - $321,705 USD
+- 💰 **Salary:** $100,000 to $150,000,
 - 🕒 **Posted:** 2026-07-13
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4439420955/) — JE Dunn Construction
-- 📍 **Location:** Santa Clara, CA
+### [Data Analyst-w2-Local only](https://www.linkedin.com/jobs/view/4440089897/) — Saicon
+- 📍 **Location:** Stanford, CA
+- 💰 **Salary:** $35.00/hr - $40.00/hr
 - 🕒 **Posted:** 2026-07-13
 
-### [EA-18G Growler Mission Data Analyst](https://www.linkedin.com/jobs/view/4403566948/) — SAIC
+### [Provider Data Analyst - 26-54](https://www.linkedin.com/jobs/view/4439447941/) — Hill Physicians Medical Group
+- 📍 **Location:** San Ramon, CA
+- 💰 **Salary:** $70,000 - $88,000
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst IV- #26-15852](https://www.linkedin.com/jobs/view/4439437939/) — US Tech Solutions
 - 📍 **Location:** California, United States
-- 💰 **Salary:** $120,001 - $160,000
+- 💰 **Salary:** $80.00/hr - $105.00/hr
 - 🕒 **Posted:** 2026-07-13
 
-### [Environmental Geologist or Engineer (Entry-Level)](https://www.linkedin.com/jobs/view/4439451028/) — FREY Environmental, Inc.
-- 📍 **Location:** Newport Beach, CA
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864447876/) — Epic
+- 📍 **Location:** Ontario, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Staff Geologist](https://www.linkedin.com/jobs/view/4440061588/) — Krazan & Associates, Inc.
-- 📍 **Location:** Clovis, CA
-- 💰 **Salary:** $25.00/hr - $27.50/hr
+### [Project Coordinator - Hybrid - 139420](https://www.linkedin.com/jobs/view/4439470055/) — UC San Diego Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $90,000 - $125,000
 - 🕒 **Posted:** 2026-07-13
 
-### [AI Business Data Analyst (Generative AI & Product Analytics)](https://www.linkedin.com/jobs/view/4440059656/) — Delta Computer Consulting
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $52.00/hr - $59.00/hr
+### [Data Analyst](https://www.linkedin.com/jobs/view/4440085913/) — TalentAlly
+- 📍 **Location:** Redmond, WA
 - 🕒 **Posted:** 2026-07-13
 
-### [Senior People Analytics Data Analyst](https://www.linkedin.com/jobs/view/4437603221/) — Blue Origin
-- 📍 **Location:** Greater Seattle Area
-- 💰 **Salary:** $134,434.00 - $188,207.25
-- 🕒 **Posted:** 2026-07-13
-
-### [Client Experience Legal Project Coordinator](https://www.linkedin.com/jobs/view/4439430361/) — Davis Wright Tremaine LLP
+### [Geologic Modeler/Hydrogeologist](https://www.linkedin.com/jobs/view/4411936056/) — WSP in the U.S.
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $72,000 to $82,000
+- 💰 **Salary:** $99,700 - $133,300
 - 🕒 **Posted:** 2026-07-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4437611080/) — PDSSOFT INC.
+### [Associate Environmental Analyst – Department of Public Health and Environment](https://www.linkedin.com/jobs/view/4440098773/) — City and County of Denver
 - 📍 **Location:** Denver, CO
+- 💰 **Salary:** $68,773.00 - $79,949.00
 - 🕒 **Posted:** 2026-07-13
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4439425952/) — Bridge Entrepreneurs Network
-- 📍 **Location:** Denver, CO
+### [Survey Technician](https://www.linkedin.com/jobs/view/4440091843/) — City of Toledo
+- 📍 **Location:** Toledo, OH
 - 🕒 **Posted:** 2026-07-13
 
-### [Subscription Program Coordinator : 26-01994](https://www.linkedin.com/jobs/view/4440066338/) — Akraya, Inc.
-- 📍 **Location:** Westminster, CO
+### [Geologist](https://www.linkedin.com/jobs/view/4439465076/) — Dunhill Staffing Systems
+- 📍 **Location:** Charleston, South Carolina Metropolitan Area
 - 🕒 **Posted:** 2026-07-13
 
-### [Survey Technician/Instrument Operator](https://www.linkedin.com/jobs/view/4438840508/) — SAM
-- 📍 **Location:** Baltimore, MD
+### [Environmental Scientist – Ecologist/Biologist (Mid-level)](https://www.linkedin.com/jobs/view/4440302432/) — Stantec
+- 📍 **Location:** Lexington, KY
 - 🕒 **Posted:** 2026-07-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4440067936/) — TBK Bank, SSB
+### [Environmental Scientist – Ecologist/Biologist (Mid-level)](https://www.linkedin.com/jobs/view/4440311147/) — Stantec
+- 📍 **Location:** Louisville, KY
+- 🕒 **Posted:** 2026-07-13
+
+### [Surveying & GIS Specialist](https://www.linkedin.com/jobs/view/4440098820/) — Mercor
+- 📍 **Location:** United States
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-13
+
+### [Lead Data Analyst](https://www.linkedin.com/jobs/view/4437622241/) — New York State Unified Court System
+- 📍 **Location:** Albany, NY
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst (1146 - Charlotte)](https://www.linkedin.com/jobs/view/4440308132/) — Sharp Decisions
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-07-13
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4439460198/) — Haystack
+- 📍 **Location:** Greater Tampa Bay Area
+- 💰 **Salary:** $61,900 - $141,000,
+- 🕒 **Posted:** 2026-07-13
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4439464097/) — Haystack
+- 📍 **Location:** Greater Tampa Bay Area
+- 💰 **Salary:** $61,900 - $141,000,
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4437621291/) — Haystack
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $41.00/hr - $41.00/hr
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst - LOCAL](https://www.linkedin.com/jobs/view/4440307284/) — Petroleum Traders Corp
+- 📍 **Location:** Fort Wayne, IN
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4440094519/) — TalentAlly
+- 📍 **Location:** Sioux City Region
+- 💰 **Salary:** $95k to $154k
+- 🕒 **Posted:** 2026-07-13
+
+### [DATA ANALYST (ON-SITE)](https://www.linkedin.com/jobs/view/4440305529/) — Springfield Empowerment Zone Partnership
+- 📍 **Location:** Springfield, MA
+- 🕒 **Posted:** 2026-07-13
+
+### [Environmental Scientist - Ecologist/Biologist](https://www.linkedin.com/jobs/view/4440316062/) — Stantec
+- 📍 **Location:** Chattanooga, TN
+- 🕒 **Posted:** 2026-07-13
+
+### [Environmental Scientist - Ecologist/Biologist](https://www.linkedin.com/jobs/view/4440312118/) — Stantec
+- 📍 **Location:** Louisville, KY
+- 🕒 **Posted:** 2026-07-13
+
+### [Environmental Scientist - Ecologist/Biologist](https://www.linkedin.com/jobs/view/4440314079/) — Stantec
+- 📍 **Location:** Lexington, KY
+- 🕒 **Posted:** 2026-07-13
+
+### [Environmental Scientist – Ecologist/Biologist (Mid-level)](https://www.linkedin.com/jobs/view/4440302447/) — Stantec
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-07-13
+
+### [Environmental Scientist – Ecologist/Biologist (Mid-level)](https://www.linkedin.com/jobs/view/4440310216/) — Stantec
+- 📍 **Location:** Chattanooga, TN
+- 🕒 **Posted:** 2026-07-13
+
+### [SENIOR PROJECT GEOLOGIST / SENIOR PROJECT ENVIRONMENTAL SCIENTIST](https://www.linkedin.com/jobs/view/4440093723/) — Broadbent & Associates, Inc.
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-07-13
+
+### [Consulting Associate, Environmental Scientist/Permitting Specialist](https://www.linkedin.com/jobs/view/4437616481/) — ERM
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $65,600–$81,353
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Field Technician/Inspector](https://www.linkedin.com/jobs/view/4439449859/) — SOCOTEC
+- 📍 **Location:** Tucson, AZ
+- 🕒 **Posted:** 2026-07-13
+
+### [Environmental Scientist - Ecologist/Biologist](https://www.linkedin.com/jobs/view/4440094898/) — Stantec
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-07-13
+
+### [Program Coordinator for the Analytics Minor for the Penn Program on Opinion Research and Election Studies](https://www.linkedin.com/jobs/view/4440312138/) — University of Pennsylvania
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $24.21 - $31.00 Hourly
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4440095530/) — TalentAlly
+- 📍 **Location:** Columbia, MO
+- 💰 **Salary:** $90,000 to $154,000
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4437611596/) — Haystack
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $107,000.00/yr - $183,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4440304424/) — Kearny Bank
+- 📍 **Location:** Fairfield, NJ
+- 💰 **Salary:** $75,000 to $110,000 annually
+- 🕒 **Posted:** 2026-07-13
+
+### [PATIENT EXPERIENCE DATA ANALYST](https://www.linkedin.com/jobs/view/4440095775/) — Moffitt Cancer Center
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-07-13
+
+### [Project Coordinator / Project Administrator](https://www.linkedin.com/jobs/view/4437610580/) — Sitelines, Inc.
+- 📍 **Location:** Greater St. Louis
+- 🕒 **Posted:** 2026-07-13
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4440312192/) — Virginia Transformer Corp
 - 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4439420975/) — FetchJobs.co
-- 📍 **Location:** United States
+### [Homebuilding Project Coordinator](https://www.linkedin.com/jobs/view/4439447597/) — Partners in Building
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-13
 
-### [Data Analyst, Mortgage Operations](https://www.linkedin.com/jobs/view/4440066238/) — Alpha7X
-- 📍 **Location:** United States
+### [Information Technology Project Coordinator](https://www.linkedin.com/jobs/view/4440303022/) — Anchor Point Technology Resources
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-07-13
 
-### [Data Analyst of IR](https://www.linkedin.com/jobs/view/4428884589/) — Mercy University
-- 📍 **Location:** Tarrytown, NY
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4437607634/) — Bosma Enterprises
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-07-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4437287632/) — McLeod Software
-- 📍 **Location:** Birmingham, AL
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4439460100/) — Hobby Lobby
+- 📍 **Location:** Oklahoma City, OK
 - 🕒 **Posted:** 2026-07-13
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4439446151/) — Purple Carrot
-- 📍 **Location:** Dedham, MA
-- 💰 **Salary:** $95,000.00/yr - $115,000.00/yr
+### [Order Entry Project Coordinator](https://www.linkedin.com/jobs/view/4440309185/) — Cosmo Cabinets
+- 📍 **Location:** Eatonton, GA
 - 🕒 **Posted:** 2026-07-13
 
-### [Scientific Data Analyst](https://www.linkedin.com/jobs/view/4431732109/) — Alpha Omega
-- 📍 **Location:** Vienna, VA
-- 💰 **Salary:** $85,000 - $115,000
+### [On-Site Program Coordinator](https://www.linkedin.com/jobs/view/4440315032/) — Heart Math Tutoring
+- 📍 **Location:** Winston-Salem, NC
 - 🕒 **Posted:** 2026-07-13
 
-### [Business Data Analyst - Hybrid - Locals Only](https://www.linkedin.com/jobs/view/4439422689/) — Zillion Technologies, Inc.
-- 📍 **Location:** Vienna, VA
-- 💰 **Salary:** $70.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-07-13
-
-### [Data Analyst, Technical Success](https://www.linkedin.com/jobs/view/4440053911/) — Curinos
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $70,000.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-07-13
-
-### [RESOURCE DATA ANALYST](https://www.linkedin.com/jobs/view/4440071160/) — U.S. Fleet Forces Command
-- 📍 **Location:** Portsmouth, VA
-- 🕒 **Posted:** 2026-07-13
-
-### [Fixed Income Data Analyst](https://www.linkedin.com/jobs/view/4439430796/) — LSEG
-- 📍 **Location:** Buffalo, NY
-- 💰 **Salary:** $58,400 - $97,400
-- 🕒 **Posted:** 2026-07-13
-
-### [Health Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4391917105/) — DataAnnotation
-- 📍 **Location:** Montana, United States
-- 💰 **Salary:** $50-$100
-- 🕒 **Posted:** 2026-07-13
-
-### [TPWD - Natural Resources Specialist I - II - III (](https://www.linkedin.com/jobs/view/4440051989/) — Texas Parks and Wildlife Department
-- 📍 **Location:** Lubbock, TX
-- 🕒 **Posted:** 2026-07-13
-
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309811046/) — DataAnnotation
-- 📍 **Location:** Vermont, United States
-- 🕒 **Posted:** 2026-07-13
-
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309800277/) — DataAnnotation
-- 📍 **Location:** Michigan, United States
-- 🕒 **Posted:** 2026-07-13
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4435230226/) — USADATA
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-13
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4440072597/) — BravoTECH
-- 📍 **Location:** Richardson, TX
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior People Analytics Data Analyst](https://www.linkedin.com/jobs/view/4437609110/) — Blue Origin
-- 📍 **Location:** Huntsville, AL
-- 💰 **Salary:** $134,434.00 - $188,207.25
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4402758398/) — U.S. News & World Report
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $65,000-$85,000
-- 🕒 **Posted:** 2026-07-13
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4439440494/) — MasTec Power Delivery
-- 📍 **Location:** Moline, IL
-- 💰 **Salary:** $25.00/hr - $28.00/hr
-- 🕒 **Posted:** 2026-07-13
-
-### [Project Coordinator - Data Center](https://www.linkedin.com/jobs/view/4439428738/) — World Wide Professional Solutions
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $48.00/hr - $58.00/hr
-- 🕒 **Posted:** 2026-07-13
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4439429589/) — Tiello
-- 📍 **Location:** Chesterfield, MO
-- 💰 **Salary:** $70,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-07-13
-
-### [Faculty Affairs Program Coordinator II](https://www.linkedin.com/jobs/view/4437293883/) — Research Compliance Office at the Texas A&M University System
+### [Program Coordinator I](https://www.linkedin.com/jobs/view/4440305507/) — Texas A&M University
 - 📍 **Location:** Bryan, TX
 - 🕒 **Posted:** 2026-07-13
 
-### [Neighborhood Engagement Program Coordinator](https://www.linkedin.com/jobs/view/4439439311/) — City of Waco, TX
-- 📍 **Location:** Waco, TX
+### [Program Coordinator (Recreation Tie-to Req 2600461)](https://www.linkedin.com/jobs/view/4440089797/) — City of Albuquerque
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-07-13
 
-### [Project Coordinator - Remote, East Coast, USA](https://www.linkedin.com/jobs/view/4437299377/) — Formr
-- 📍 **Location:** United States
+### [Faculty Affairs Program Coordinator II](https://www.linkedin.com/jobs/view/4440310333/) — Texas A&M University
+- 📍 **Location:** Bryan, TX
 - 🕒 **Posted:** 2026-07-13
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4436215768/) — Ashmore Construction
-- 📍 **Location:** Orange, CA
+### [Re-Entry Program Coordinator](https://www.linkedin.com/jobs/view/4440302106/) — Sanctuary Recovery Centers
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-13
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4440076108/) — JustLove Collective
-- 📍 **Location:** Brunswick, GA
+### [Program Coordinator (Assistant Director of Multicultural Center)](https://www.linkedin.com/jobs/view/4439457500/) — Western Illinois University
+- 📍 **Location:** Macomb, IL
 - 🕒 **Posted:** 2026-07-13
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4440076018/) — DBM Vircon
-- 📍 **Location:** Tempe, AZ
-- 🕒 **Posted:** 2026-07-13
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4437608219/) — TriMark USA
-- 📍 **Location:** Albany, GA
+### [Sr Program Coordinator](https://www.linkedin.com/jobs/view/4437610564/) — UT Southwestern Medical Center
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-13
