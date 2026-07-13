@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-12 17:13 UTC",
-  "total": 13,
+  "scraped_at": "2026-07-13 18:04 UTC",
+  "total": 14,
   "new_count": 0,
   "jobs": [
     {
@@ -99,6 +99,15 @@
       "location": "Yolo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521760",
       "date_posted": "2026-06-30",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Conservation",
+      "title": "Seismic Hazards Program Engineering Geologist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524511",
+      "date_posted": "2026-07-13",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
