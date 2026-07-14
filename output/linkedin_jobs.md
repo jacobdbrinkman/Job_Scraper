@@ -1,84 +1,104 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-14 00:29 UTC*
+*Last updated: 2026-07-14 03:53 UTC*
 
-**18 new role(s)** since last run · 38 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4437618990/) — Tillster
-- 📍 **Location:** Monterey, CA
+### [Data Analyst 3 - Store Operations](https://www.linkedin.com/jobs/view/4440375791/) — Nordstrom
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $89,000 - $170,500
 - 🕒 **Posted:** 2026-07-14
 
-### [Assistant GIS Specialist](https://www.linkedin.com/jobs/view/4440367033/) — Randstad Digital Americas
-- 📍 **Location:** Akron, OH
+### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4439499771/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-14
 
-### [Traveling GIS Field Technician](https://www.linkedin.com/jobs/view/4440364280/) — Telcom Construction, LLC
-- 📍 **Location:** Clearwater, MN
-- 💰 **Salary:** $25.00 - $28.00
+### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4439812231/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-14
 
-### [Operations Data Analyst](https://www.linkedin.com/jobs/view/4431181359/) — Capital i
-- 📍 **Location:** Frederick, MD
-- 💰 **Salary:** $115,000- $150,000
+### [Revit Field Technician](https://www.linkedin.com/jobs/view/4440383456/) — Southern Illinois University, Carbondale
+- 📍 **Location:** Chattanooga, TN
 - 🕒 **Posted:** 2026-07-14
 
-### [Product Data Analyst](https://www.linkedin.com/jobs/view/4440348575/) — Randstad Digital Americas
-- 📍 **Location:** Roanoke, TX
+### [OGI Field Technician](https://www.linkedin.com/jobs/view/4439496948/) — Onterris
+- 📍 **Location:** Carlsbad, NM
 - 🕒 **Posted:** 2026-07-14
 
-### [Geologist - 5020355](https://www.linkedin.com/jobs/view/4440349546/) — State of Missouri
-- 📍 **Location:** Rolla, MO
+### [Senior Environmental Engineer/Scientist/Geologist](https://www.linkedin.com/jobs/view/4439494961/) — GSI Environmental Inc.
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-07-14
 
-### [Geological Technician](https://www.linkedin.com/jobs/view/4440351606/) — Kinross Gold Corporation
-- 📍 **Location:** Fairbanks, AK
+### [Environment Geologist - 2 years min. experience](https://www.linkedin.com/jobs/view/4437325996/) — AECOM
+- 📍 **Location:** District of Columbia, United States
+- 💰 **Salary:** $70000 to $90000
 - 🕒 **Posted:** 2026-07-14
 
-### [Environmental Scientist 2](https://www.linkedin.com/jobs/view/4439481530/) — HDR
-- 📍 **Location:** Corpus Christi, TX
+### [Environment Geologist - 2 years min. experience](https://www.linkedin.com/jobs/view/4437335459/) — AECOM
+- 📍 **Location:** Germantown, MD
+- 💰 **Salary:** $70000 to $90000
 - 🕒 **Posted:** 2026-07-14
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4440343983/) — AppleOne Employment Services
-- 📍 **Location:** West Columbia, SC
+### [Senior Technical Manager Geologist](https://www.linkedin.com/jobs/view/4440394199/) — WSP in the U.S.
+- 📍 **Location:** Savannah, GA
 - 🕒 **Posted:** 2026-07-14
 
-### [Embraer Program Coordinator - 1447](https://www.linkedin.com/jobs/view/4440351511/) — West Star Aviation Inc.
-- 📍 **Location:** East Alton, IL
-- 💰 **Salary:** $125,000-$130,000
+### [Senior Technical Manager Geologist](https://www.linkedin.com/jobs/view/4439808027/) — WSP in the U.S.
+- 📍 **Location:** Savannah, GA
 - 🕒 **Posted:** 2026-07-14
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4437893946/) — Net2Source (N2S)
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $53.00/hr - $56.00/hr
-- 🕒 **Posted:** 2026-07-13
+### [Landfill Field Technician](https://www.linkedin.com/jobs/view/4440387252/) — GFL Environmental Inc.
+- 📍 **Location:** Muskego, WI
+- 🕒 **Posted:** 2026-07-14
 
-### [CSST/Staff Environmental Scientist](https://www.linkedin.com/jobs/view/4377523774/) — SOCOTEC US
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-07-13
+### [Geology Technician](https://www.linkedin.com/jobs/view/4433132365/) — Capstone Copper Pinto Valley
+- 📍 **Location:** Miami, AZ
+- 🕒 **Posted:** 2026-07-14
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4440351344/) — Addison Group
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $30–$40/hour
-- 🕒 **Posted:** 2026-07-13
+### [Construction Materials Field Technician](https://www.linkedin.com/jobs/view/4440385501/) — Kleinfelder
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-07-14
 
-### [Executive Assistant & Project Coordinator](https://www.linkedin.com/jobs/view/4440359133/) — Grandview Leadership Partners, LLC.
-- 📍 **Location:** Las Vegas Metropolitan Area
-- 💰 **Salary:** $50,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-07-13
+### [Data Analyst (US Wealth)](https://www.linkedin.com/jobs/view/4439811224/) — Nomura
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-07-14
 
-### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4439488326/) — York Solutions, LLC
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $15.00/hr - $40.00/hr
-- 🕒 **Posted:** 2026-07-13
+### [Data Analyst](https://www.linkedin.com/jobs/view/4437627633/) — Ames Construction
+- 📍 **Location:** Burnsville, MN
+- 💰 **Salary:** $60,000-$80,000
+- 🕒 **Posted:** 2026-07-14
 
-### [Program Project Coordinator -Administrative Office of the Courts (AOC)](https://www.linkedin.com/jobs/view/4439476591/) — Commonwealth of Kentucky
-- 📍 **Location:** Georgetown, KY
-- 🕒 **Posted:** 2026-07-13
+### [Data Analyst 3](https://www.linkedin.com/jobs/view/4440386064/) — University of Miami
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-07-14
 
-### [Program Project Coordinator -Administrative Office of the Courts (AOC)](https://www.linkedin.com/jobs/view/4439486206/) — Commonwealth of Kentucky
-- 📍 **Location:** Paris, KY
-- 🕒 **Posted:** 2026-07-13
+### [Sr. Data Analyst - Data Management](https://www.linkedin.com/jobs/view/4439029075/) — BMW Group
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $54,300.00 - $108,600.00
+- 🕒 **Posted:** 2026-07-14
 
-### [Program Project Coordinator -Administrative Office of the Courts (AOC)](https://www.linkedin.com/jobs/view/4439472877/) — Commonwealth of Kentucky
-- 📍 **Location:** Owenton, KY
-- 🕒 **Posted:** 2026-07-13
+### [Temporary Plant Evolutionary Ecology Field Technician](https://www.linkedin.com/jobs/view/4439492995/) — North Carolina State University
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-07-14
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4426419991/) — Planet Pharma
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-07-14
+
+### [Project Coordinator - HVAC](https://www.linkedin.com/jobs/view/4439809422/) — Mountain Air Mechanical, Inc
+- 📍 **Location:** Rifle, CO
+- 🕒 **Posted:** 2026-07-14
+
+### [Project Coordinator, Construction](https://www.linkedin.com/jobs/view/4430044727/) — AutoZone
+- 📍 **Location:** Memphis, TN
+- 🕒 **Posted:** 2026-07-14
+
+### [Project Coordinator - Community Development](https://www.linkedin.com/jobs/view/4436647632/) — Fort Bend County
+- 📍 **Location:** Richmond, TX
+- 💰 **Salary:** $32.26 - $40.33 hourly
+- 🕒 **Posted:** 2026-07-14
+
+### [Project Coordinator - Land Development](https://www.linkedin.com/jobs/view/4439804195/) — Pape-Dawson
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-07-14
