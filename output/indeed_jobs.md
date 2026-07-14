@@ -1,9 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-14 20:44 UTC*
+*Last updated: 2026-07-14 21:40 UTC*
 
-**1 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 10 total in last 24h
 
-### [GIS ANALYST II](https://www.indeed.com/viewjob?jk=53361fde364ef28e) — Thurston County
-- 📍 **Location:** Olympia, WA, US
-- 💰 **Salary:** $6444–$8572/mo
+### [Data Analyst](https://www.indeed.com/viewjob?jk=5be4cfb1a0f935ac) — Parsons
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $88k–$155k/yr
 - 🕒 **Posted:** 2026-07-14
