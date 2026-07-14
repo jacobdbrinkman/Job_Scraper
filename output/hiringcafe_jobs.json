@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-14 22:42 UTC",
-  "total": 131,
-  "new_count": 9,
+  "scraped_at": "2026-07-14 23:38 UTC",
+  "total": 125,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Larson Design Group",
@@ -1577,45 +1577,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ACRT, Inc.",
-      "title": "Natural Resources Field Technician",
-      "location": "Los Banos, California, United States",
-      "url": "https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Los-Banos-CA/Natural-Resources-Field-Technician_R9134",
-      "direct_url": "https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Los-Banos-CA/Natural-Resources-Field-Technician_R9134",
-      "date_posted": "2026-07-07T00:00:00.000Z",
-      "description": "2+ years ecological field experience or college degree in related field; experience with species ID, surveys, GPS/ArcGIS, able to work outdoors in remote locations, valid driver’s license required.",
-      "salary": "$54k–$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Mississippi, MS",
-      "title": "Environmental/Natural Resources Specialist III",
-      "location": "Biloxi or Harrison County",
-      "url": "https://www.governmentjobs.com/careers/mississippi/jobs/5405875",
-      "direct_url": "https://www.governmentjobs.com/careers/mississippi/jobs/5405875",
-      "date_posted": "2026-07-10T21:23:54.000Z",
-      "description": "Bachelor’s degree typically required and generally 4-6 years experience; knowledge of on- and off-bottom shellfish methods, water quality monitoring, supervision, and strong communication skills.",
-      "salary": "$45k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Florida Natural Areas Inventory (FNAI)",
-      "title": "Conservation GIS Analyst",
-      "location": "Tallahassee, Florida, United States",
-      "url": "https://jobs.omni.fsu.edu/psc/sprdhr_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=62931&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.omni.fsu.edu/psc/sprdhr_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=62931&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-29T12:00:00.000Z",
-      "description": "Bachelor's degree + 2 years experience or a Master's; strong multi-platform GIS skills (ESRI ArcGIS), spatial analysis, species/ecosystem modeling (Maxent, Random Forest), scripting (Python or R), Google Earth Engine, SQL, reproducible workflows, and strong communication.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "RE/SPEC Inc.",
       "title": "Associate GIS Consultant",
       "location": "Roseville, Minnesota, United States",
@@ -1666,164 +1627,7 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Erm",
-      "title": "Consultant, Environmental Engineer / Scientist / Geologist",
-      "location": "Ewing, New Jersey, United States",
-      "url": "https://erm.wd3.myworkdayjobs.com/erm_earlycareers/job/Ewing-New-Jersey/Consultant--Environmental-Engineer---Scientist---Geologist_R00030854",
-      "direct_url": "https://erm.wd3.myworkdayjobs.com/erm_earlycareers/job/Ewing-New-Jersey/Consultant--Environmental-Engineer---Scientist---Geologist_R00030854",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "Bachelor's in a related field or equivalent experience, 2+ years in environmental consulting, NJ regs knowledge, 40-hour HAZWOPER + 8-hour refresher, valid driver's license, ability to lift 40 lbs, MS Office proficiency, strong communication, field work required. No immigration sponsorship.",
-      "salary": "$74k–$103k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stantec",
-      "title": "Environmental Scientist – Ecologist/Biologist (Mid-level)",
-      "location": "Chattanooga or Nashville or Louisville or Lexington",
-      "url": "https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/",
-      "direct_url": "https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/",
-      "date_posted": "2026-07-13T17:04:57.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years experience leading biological/field surveys, WOUS delineations, species and habitat assessments, permitting experience, valid driver's license, GPS and GIS proficiency, able to lift 50 lbs, willing to travel up to 75%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Barr",
-      "title": "Environmental Consultant – Senior Level (Hybrid)",
-      "location": "Grand Rapids, Michigan, United States",
-      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
-      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "15+ years in environmental permitting, review, and compliance; bachelor’s degree in environmental science or related field; strong regulatory expertise (Michigan/federal); valid driver’s license; authorized to work in the U.S. without sponsorship.",
-      "salary": "$125k–$150k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Thurston County Career Site",
-      "title": "GIS ANALYST II",
-      "location": "Olympia, Washington, United States",
-      "url": "https://fa-etsa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/824",
-      "direct_url": "https://fa-etsa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/824",
-      "date_posted": "2026-07-14T15:53:33.000Z",
-      "description": "Associate's degree (Bachelor's preferred) in relevant field, 2+ years GIS experience, knowledge of GIS hardware/software, driver’s license, pass background check; strong communication and training skills.",
-      "salary": "$77k–$103k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Timmons Group",
-      "title": "Environmental Scientist",
-      "location": "Raleigh, North Carolina, United States",
-      "url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000137694639-environmental-scientist",
-      "direct_url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000137694639-environmental-scientist",
-      "date_posted": "2026-07-14T15:22:59.723Z",
-      "description": "Bachelor's or master's in environmental science or related field (or equivalent experience), minimum 1 year experience with wetland/stream delineations, field and reporting skills, permitting knowledge, ability to travel for field work.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kansas Department of Agriculture",
-      "title": "Environmental Scientist",
-      "location": "Garden City, Kansas, United States",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-07-14T12:00:00.000Z",
-      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist",
-      "date_posted": "2026-07-09T20:18:23.712Z",
-      "description": "B.S. in geology,4+ years relevant experience,valid U.S. driver’s license,pre-employment drug test,HAZWOPER 40-hour preferred,PG or GIT preferred,comfortable with extensive field travel and report writing.",
-      "salary": "$70k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Doe Run Company",
-      "title": "Geologist I",
-      "location": "Viburnum or St. Louis or Boss or Missouri or Washington or Arizona",
-      "url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6",
-      "direct_url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6",
-      "date_posted": "2026-06-26T20:22:47.413Z",
-      "description": "Bachelor's degree in Geology (required), valid driver's license, proficiency with spreadsheets/databases, AcQuire and Vulcan knowledge preferred, strong attention to detail and geological interpretation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport McMoRan Inc.",
-      "title": "Senior Geologist",
-      "location": "Bayard, New Mexico, United States",
-      "url": "https://jobs.fcx.com/job/Bayard-Senior-Geologist-NM-88023/1406558500/",
-      "direct_url": "https://jobs.fcx.com/job/Bayard-Senior-Geologist-NM-88023/1406558500/",
-      "date_posted": "2026-07-07T00:00:00.000Z",
-      "description": "Bachelor's in Geology +5 years or Master's +3 years; logging drill samples, geologic mapping, resource modeling experience; ability to supervise drilling and contractors; must pass medical and training/testing; drug/alcohol testing may apply.",
-      "salary": "$98k–$138k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stantec",
-      "title": "Geologist/GIT",
-      "location": "Lombard, Illinois, United States",
-      "url": "https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/",
-      "direct_url": "https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/",
-      "date_posted": "2026-07-07T17:03:20.000Z",
-      "description": "Bachelor's degree in Geology, 3+ years environmental consulting experience, ability to perform site investigations, remedial oversight, technical writing, and travel up to 50%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "RE/SPEC Inc.",
-      "title": "Associate GIS Consultant",
-      "location": "Roseville, Minnesota, United States",
-      "url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant",
-      "direct_url": "https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant",
-      "date_posted": "2026-06-18T16:34:33.436Z",
-      "description": "BA/BS in GIS or related, 2+ years professional GIS experience, strong ArcGIS Pro/Online/Enterprise skills, Python and Arcade proficiency, spatial analysis, and database experience (PostgreSQL/PostGIS or SQL Server).",
-      "salary": "$60k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Geospatial Consulting Group International (geocgi)",
-      "title": "Consulting GIS Specialist (Service Center Manager & Application Developer) (Onsite)",
-      "location": "Sacramento, California, United States",
-      "url": "https://job-boards.greenhouse.io/geocgi/jobs/4317317009",
-      "direct_url": "https://job-boards.greenhouse.io/geocgi/jobs/4317317009",
-      "date_posted": "2026-07-14T20:57:51.000Z",
-      "description": "U.S. citizen able to obtain DOI PIV/NAC, bachelor's in a related field (or equivalent), 10+ years GIS experience, 5+ years leading teams, ArcGIS Enterprise/Online administration, JavaScript and Python development, enterprise geodatabase and systems administration.",
-      "salary": "$120k–$150k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
