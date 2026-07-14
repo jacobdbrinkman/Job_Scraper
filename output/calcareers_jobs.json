@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-13 18:04 UTC",
-  "total": 14,
+  "scraped_at": "2026-07-14 17:32 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -13,29 +13,11 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Water Resources",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521511",
-      "date_posted": "2026-07-03",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
       "location": "Humboldt County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521674",
       "date_posted": "2026-07-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521907",
-      "date_posted": "2026-06-22",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -61,17 +43,17 @@
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523379",
-      "date_posted": "2026-07-01",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523722",
+      "date_posted": "2026-07-06",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
+      "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523722",
-      "date_posted": "2026-07-06",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524628",
+      "date_posted": "2026-07-13",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -94,20 +76,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Water Resources",
-      "title": "Engineering Geologist",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521760",
-      "date_posted": "2026-06-30",
-      "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Conservation",
       "title": "Seismic Hazards Program Engineering Geologist",
       "location": "United States",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524511",
       "date_posted": "2026-07-13",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Water Resources",
+      "title": "Engineering Geologist",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521760",
+      "date_posted": "2026-06-30",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
@@ -118,15 +100,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523217",
       "date_posted": "2026-07-06",
       "salary": "$4469.00 - $6922.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "California Governor's Office of Emergency Services",
-      "title": "Research Data Specialist I",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523054",
-      "date_posted": "2026-06-29",
-      "salary": "$6955.00 - $8706.00",
       "ats": "CalCareers"
     }
   ],
