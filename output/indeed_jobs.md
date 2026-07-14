@@ -1,29 +1,19 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-14 17:02 UTC*
+*Last updated: 2026-07-14 18:49 UTC*
 
-**5 new role(s)** since last run · 6 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=87ad5965798a2959) — DEPARTMENT OF FISH AND WILDLIFE
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=8518b3b3e93ffd58) — STATE WATER RESOURCES CONTROL BOARD
 - 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+- 💰 **Salary:** $7820–$11k/mo
 - 🕒 **Posted:** 2026-07-14
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=077140e43e506bae) — CA HIGH SPEED RAIL AUTHORITY
+### [RESEARCH DATA ANALYST II](https://www.indeed.com/viewjob?jk=3f73943fc38a8954) — Board of State and Community Corrections
 - 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+- 💰 **Salary:** $6647–$8325/mo
 - 🕒 **Posted:** 2026-07-14
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=d954c52edc058d88) — California Department of Pesticide Regulation
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-07-14
-
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=6054214644fc1183) — CA HIGH SPEED RAIL AUTHORITY
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
-- 🕒 **Posted:** 2026-07-14
-
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=2c9ea067369fc7cd) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [Field Technician](https://www.indeed.com/viewjob?jk=d88cc48e2b7018cb) — Integrity Environmental Testing
+- 📍 **Location:** Longmont, CO, US
+- 💰 **Salary:** $28–$30/hr
 - 🕒 **Posted:** 2026-07-14
