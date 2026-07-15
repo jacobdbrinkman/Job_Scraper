@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-14 17:32 UTC",
+  "scraped_at": "2026-07-15 17:35 UTC",
   "total": 11,
   "new_count": 0,
   "jobs": [
@@ -59,11 +59,11 @@
     },
     {
       "company": "State Water Resources Control Board",
-      "title": "RESEARCH DATA SPECIALIST III",
+      "title": "Senior Environmental Scientist (Specialist)",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522594",
-      "date_posted": "2026-06-29",
-      "salary": "$8392.00 - $10505.00",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524253",
+      "date_posted": "2026-07-14",
+      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {
@@ -76,20 +76,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Conservation",
-      "title": "Seismic Hazards Program Engineering Geologist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524511",
-      "date_posted": "2026-07-13",
-      "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Water Resources",
       "title": "Engineering Geologist",
       "location": "Yolo County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521760",
       "date_posted": "2026-06-30",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Conservation",
+      "title": "Seismic Hazards Program Engineering Geologist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524511",
+      "date_posted": "2026-07-13",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
