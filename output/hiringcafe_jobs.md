@@ -1,30 +1,31 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-15 17:59 UTC*
+*Last updated: 2026-07-15 19:58 UTC*
 
 **6 new role(s)** since last run · 129 total in last 30d
 
-### [Water/Smart Sewer GIS Analyst (Analyst)](https://psweb.kcmo.org/psc/ps/MOBILE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=523802&PostingSeq=1&SiteId=1) — KC Water (City of Kansas City, Missouri)
-- 📍 **Location:** Kansas City, Missouri, United States
-- 💰 **Salary:** $57k–$85k/yr
-- 🕒 **Posted:** 2026-07-13T12:00:00.000Z
+### [Geologist](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Superior/Geologist_R58708) — Riotinto
+- 📍 **Location:** Superior, Arizona, United States
+- 🕒 **Posted:** 2026-07-15T00:00:00.000Z
 
-### [IT GIS Analyst II](https://css-corpuschristi-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1,11030,1).JobPostingDisplayNav?csk.HROrganization=1&csk.JobBoard=EXTERNAL) — corpuschristi
-- 📍 **Location:** Corpus Christi, Texas, United States
-- 🕒 **Posted:** 2026-07-01T00:00:00.000Z
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
+- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
 
-### [Carlin - Hydrologist / Hydrogeologist](https://ehkn.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/240055) — Barrick Mining Corporation
-- 📍 **Location:** Carlin, Nevada, United States
-- 🕒 **Posted:** 2026-07-15T13:20:10.000Z
+### [Geologist/GIT](https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/) — Stantec
+- 📍 **Location:** Lombard, Illinois, United States
+- 🕒 **Posted:** 2026-07-07T17:03:20.000Z
 
-### [Associate Geologist](https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39) — True-environmental
-- 📍 **Location:** Albuquerque, New Mexico, United States
-- 🕒 **Posted:** 2026-06-30T20:17:14.636Z
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
+- 📍 **Location:** Bayard, New Mexico, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
 
-### [Environmental Scientist](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27259) — GHD
-- 📍 **Location:** Baton Rouge, Louisiana, United States
-- 🕒 **Posted:** 2026-07-15T12:09:06.000Z
+### [Senior Geologist](https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507) — HDR
+- 📍 **Location:** Louisville or Madison
+- 🕒 **Posted:** 2026-06-17T12:00:00.000Z
 
-### [Environmental Consultant – Senior Level (Hybrid)](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185) — Barr
-- 📍 **Location:** Grand Rapids, Michigan, United States
-- 💰 **Salary:** $125k–$150k/yr
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant) — RE/SPEC Inc.
+- 📍 **Location:** Roseville, Minnesota, United States
+- 💰 **Salary:** $60k–$85k/yr
+- 🕒 **Posted:** 2026-06-18T16:34:33.436Z
