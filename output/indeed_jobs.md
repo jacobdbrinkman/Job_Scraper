@@ -1,9 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-15 22:41 UTC*
+*Last updated: 2026-07-15 23:42 UTC*
 
-**1 new role(s)** since last run · 7 total in last 24h
+**2 new role(s)** since last run · 8 total in last 24h
 
-### [Project Coordinator](https://www.indeed.com/viewjob?jk=2111e2e8a9e51754) — Dyna Builders
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $36–$47/hr
-- 🕒 **Posted:** 2026-07-15
+### [Civic Data Analyst (Sustainable Mobility)](https://www.indeed.com/viewjob?jk=5748e86a8f0fed46) — Alta Planning + Design
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $70k–$88k/yr
+- 🕒 **Posted:** 2026-07-10
+
+### [Civic Data Analyst (Sustainable Mobility)](https://www.indeed.com/viewjob?jk=4d621d08a6260c5d) — Alta Planning + Design
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $65k–$80k/yr
+- 🕒 **Posted:** 2026-07-10
