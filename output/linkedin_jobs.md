@@ -1,127 +1,105 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-16 21:36 UTC*
+*Last updated: 2026-07-16 22:37 UTC*
 
-**27 new role(s)** since last run · 32 total in last 1h
+**22 new role(s)** since last run · 30 total in last 1h
 
-### [LDAR Field Technician](https://www.linkedin.com/jobs/view/4441104474/) — Onterris
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $23 to $26/hr
+### [Informatics Data Analyst](https://www.linkedin.com/jobs/view/4441667832/) — HonorVet Technologies
+- 📍 **Location:** Alhambra, CA
+- 💰 **Salary:** $35.00/hr - $37.00/hr
 - 🕒 **Posted:** 2026-07-16
 
-### [Megasys Project Coordinator](https://www.linkedin.com/jobs/view/4440798836/) — EMD Electronics
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $41-$62/hour
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4441103556/) — Astek Inc
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Environmental Field Technician - (Stack Emissions)](https://www.linkedin.com/jobs/view/4440795952/) — Onterris
-- 📍 **Location:** Arvada, CO
-- 💰 **Salary:** $23.50 to $28.00 per hour
+### [Senior Groundwater Modeler / Hydrogeologist](https://www.linkedin.com/jobs/view/4436379693/) — Spencer Ogden
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $155,000.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4438136566/) — Tetra Tech
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $71,871- $98,822
+### [Social Worker Program Coordinator- Behavioral Health Interdisciplinary Program](https://www.linkedin.com/jobs/view/4440948759/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $126,431.00/yr - $164,363.00/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4441105250/) — RigUp
-- 📍 **Location:** Midland, TX
-- 💰 **Salary:** $61.60-$70.84
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4441680250/) — Rayburn Electric Cooperative
+- 📍 **Location:** Rockwall, TX
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4441108102/) — Gartner
-- 📍 **Location:** Irving, TX
+### [Archologist/Biologist/Ecologist/General/Environmental Eng/Physical Scientist/Geologist/Oceanographer](https://www.linkedin.com/jobs/view/4441108406/) — US Army Corps of Engineers
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4438752447/) — Planet Pharma
-- 📍 **Location:** North Chicago, IL
-- 🕒 **Posted:** 2026-07-16
-
-### [Advanced Data Analyst (Power BI, Microsoft Fabric, Snowflake)](https://www.linkedin.com/jobs/view/4441670153/) — Agilent Technologies
-- 📍 **Location:** Maryland, United States
-- 💰 **Salary:** $74,560.00 - $139,800.00/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Research Data Analyst II](https://www.linkedin.com/jobs/view/4441662858/) — University of Pittsburgh
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-07-16
-
-### [Environmental Scientist - Fenton, MO](https://www.linkedin.com/jobs/view/4441658702/) — Tetra Tech
-- 📍 **Location:** Fenton, MO
-- 🕒 **Posted:** 2026-07-16
-
-### [Archaeological Field Technician — West Coast and Pacific Regions](https://www.linkedin.com/jobs/view/4441672039/) — Tetra Tech
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $28.00 - $33.00
-- 🕒 **Posted:** 2026-07-16
-
-### [OGI Field Technician](https://www.linkedin.com/jobs/view/4441112133/) — Onterris
-- 📍 **Location:** Midland, TX
-- 🕒 **Posted:** 2026-07-16
-
-### [Manufacturing Data Analyst](https://www.linkedin.com/jobs/view/4441667661/) — Monster Energy
-- 📍 **Location:** Norwalk, CA
-- 💰 **Salary:** $70,304 - $78,740 USD
-- 🕒 **Posted:** 2026-07-16
-
-### [Field Technician - Underground Utilities - Water, Sewer & Storm](https://www.linkedin.com/jobs/view/4438745560/) — PURIS
-- 📍 **Location:** Corpus Christi, TX
-- 🕒 **Posted:** 2026-07-16
-
-### [Environmental Field Technician - (Stack)](https://www.linkedin.com/jobs/view/4440799571/) — Onterris
-- 📍 **Location:** Roanoke, VA
-- 💰 **Salary:** $23.50 to $28.00 per hour
-- 🕒 **Posted:** 2026-07-16
-
-### [Entry-Level Field Technician - Construction Materials Testing](https://www.linkedin.com/jobs/view/4441113159/) — Intertek Building & Construction
-- 📍 **Location:** Corpus Christi, TX
-- 💰 **Salary:** $16.00 - $20.00
-- 🕒 **Posted:** 2026-07-16
-
-### [Entry-Level Field Technician - Construction Materials Testing](https://www.linkedin.com/jobs/view/4441110300/) — Intertek Building & Construction
-- 📍 **Location:** Spring, TX
-- 🕒 **Posted:** 2026-07-16
-
-### [E Discovery-IT Data Analyst](https://www.linkedin.com/jobs/view/4435696038/) — CACI International Inc
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $72,700 - $149,200
-- 🕒 **Posted:** 2026-07-16
-
-### [Data Analyst III](https://www.linkedin.com/jobs/view/4440793924/) — AAA Life Insurance Company
-- 📍 **Location:** Livonia, MI
-- 🕒 **Posted:** 2026-07-16
-
-### [NBP Funds is Hiring a Data Analyst –…](https://www.linkedin.com/jobs/view/4441100266/) — Clap Pakistan Today
-- 📍 **Location:** Jobs, OH
-- 🕒 **Posted:** 2026-07-16
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4441105265/) — RemoteHunter
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4441108351/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-16
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4441112180/) — University of Utah
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $35,000-$40,000
+### [Senior Data Analyst -Charlotte, NC | Chandler, AZ | Dallas (Las Colinas), TX](https://www.linkedin.com/jobs/view/4441669684/) — Motion Recruitment
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $45.00/hr - $51.00/hr
 - 🕒 **Posted:** 2026-07-16
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4441110302/) — Arrowmac
-- 📍 **Location:** Lake County, IL
-- 💰 **Salary:** $20.00/hr - $23.30/hr
+### [CIBMTR Data Analyst II](https://www.linkedin.com/jobs/view/4441672377/) — Sarah Cannon Cancer Network
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-07-16
 
-### [HVAC Project Coordinator](https://www.linkedin.com/jobs/view/4441626574/) — O'Reilly Auto Parts
-- 📍 **Location:** Springfield, MO
+### [Data Analyst](https://www.linkedin.com/jobs/view/4441120158/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-16
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4439357393/) — Bernalillo County
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $54,018.00 - $85,363.00
+### [Data Analyst](https://www.linkedin.com/jobs/view/4441103526/) — Sabre Systems, LLC
+- 📍 **Location:** Patuxent River, MD
+- 💰 **Salary:** $120,000.00 - $180,000.00
 - 🕒 **Posted:** 2026-07-16
 
-### [AI Program Coordinator](https://www.linkedin.com/jobs/view/4441104202/) — Sky States LLC
-- 📍 **Location:** Everett, WA
+### [Cyber Security Data Analyst](https://www.linkedin.com/jobs/view/4441670741/) — Regions Bank
+- 📍 **Location:** Birmingham, AL
 - 🕒 **Posted:** 2026-07-16
 
-### [Extended School Program Coordinator](https://www.linkedin.com/jobs/view/4441107365/) — Fountain Valley School District
-- 📍 **Location:** Fountain Valley, CA
-- 💰 **Salary:** $4,918 - $5,981
+### [Senior Exploration Geologist](https://www.linkedin.com/jobs/view/4437099671/) — Piper Maddox
+- 📍 **Location:** Nevada, United States
+- 💰 **Salary:** $150,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [(USA) Senior, Data Analyst](https://www.linkedin.com/jobs/view/4438747802/) — Walmart
+- 📍 **Location:** Bentonville, AR
+- 💰 **Salary:** $80,000.00/yr - $155,000.00/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4440790910/) — US Tech Solutions
+- 📍 **Location:** North Chicago, IL
+- 💰 **Salary:** $45.00/hr - $47.00/hr
+- 🕒 **Posted:** 2026-07-16
+
+### [Health Data Analyst](https://www.linkedin.com/jobs/view/4441106301/) — Hawaii Primary Care Association
+- 📍 **Location:** Honolulu Metropolitan Area
+- 💰 **Salary:** $66,000 - $82,000
+- 🕒 **Posted:** 2026-07-16
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4441683183/) — Summit Energy Group LLC
+- 📍 **Location:** Belgrade, MT
+- 💰 **Salary:** $28.00/hr - $30.00/hr
+- 🕒 **Posted:** 2026-07-16
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4441676152/) — The Planet Group
+- 📍 **Location:** Mettawa, IL
+- 🕒 **Posted:** 2026-07-16
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4441680287/) — Select Source International
+- 📍 **Location:** Georgia, United States
+- 💰 **Salary:** $35.00/hr - $40.00/hr
+- 🕒 **Posted:** 2026-07-16
+
+### [Program Coordinator II/UKHC](https://www.linkedin.com/jobs/view/4441674515/) — UK HealthCare
+- 📍 **Location:** Greater Lexington Area
+- 💰 **Salary:** $43,680-71,323/year
+- 🕒 **Posted:** 2026-07-16
+
+### [Program Coordinator II](https://www.linkedin.com/jobs/view/4441686084/) — University of Kentucky
+- 📍 **Location:** Greater Lexington Area
+- 💰 **Salary:** $44,678-71,469/year
+- 🕒 **Posted:** 2026-07-16
+
+### [Program Coordinator Strategy Development](https://www.linkedin.com/jobs/view/4421246461/) — Public Health Management Corporation
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-07-16
