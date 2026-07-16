@@ -1,22 +1,23 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-16 20:40 UTC*
+*Last updated: 2026-07-16 21:51 UTC*
 
-**4 new role(s)** since last run · 127 total in last 30d
+**4 new role(s)** since last run · 126 total in last 30d
 
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
-- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
+- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
 - 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
+- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
 
-### [Geologist II](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482) — The Doe Run Company
-- 📍 **Location:** Viburnum, Missouri, United States
-- 🕒 **Posted:** 2026-06-26T13:25:23.022Z
-
-### [Geologist/GIT](https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/) — Stantec
-- 📍 **Location:** Lombard, Illinois, United States
-- 🕒 **Posted:** 2026-07-07T17:03:20.000Z
-
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
+### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
 - 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
+- 💰 **Salary:** $88k–$120k/yr
+- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
+
+### [Staff Geologist](https://willmerengineering.bamboohr.com/careers/87) — Willmer Engineering
+- 📍 **Location:** Atlanta, Georgia, United States
+- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
+
+### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant) — RE/SPEC Inc.
+- 📍 **Location:** Denver, Colorado, United States
+- 💰 **Salary:** $60k–$85k/yr
+- 🕒 **Posted:** 2026-06-18T16:35:16.617Z
