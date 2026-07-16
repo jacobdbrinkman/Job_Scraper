@@ -1,13 +1,17 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-16 22:44 UTC*
+*Last updated: 2026-07-16 23:44 UTC*
 
-**2 new role(s)** since last run · 124 total in last 30d
+**3 new role(s)** since last run · 125 total in last 30d
 
-### [Senior Geologist](https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507) — HDR
-- 📍 **Location:** Louisville or Madison
-- 🕒 **Posted:** 2026-06-17T12:00:00.000Z
+### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
+- 📍 **Location:** Bayard, New Mexico, United States
+- 💰 **Salary:** $88k–$120k/yr
+- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
 
-### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914299-associate-gis-consultant) — RE/SPEC Inc.
-- 📍 **Location:** Roseville, Minnesota, United States
-- 💰 **Salary:** $60k–$85k/yr
-- 🕒 **Posted:** 2026-06-18T16:34:33.436Z
+### [Staff Geologist](https://willmerengineering.bamboohr.com/careers/87) — Willmer Engineering
+- 📍 **Location:** Atlanta, Georgia, United States
+- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
+
+### [Geologist II](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482) — The Doe Run Company
+- 📍 **Location:** Viburnum, Missouri, United States
+- 🕒 **Posted:** 2026-06-26T13:25:23.022Z
