@@ -1,79 +1,128 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-16 00:30 UTC*
+*Last updated: 2026-07-16 03:56 UTC*
 
-**17 new role(s)** since last run · 32 total in last 1h
+**27 new role(s)** since last run · 27 total in last 1h
 
-### [Project Coordinator II](https://www.linkedin.com/jobs/view/4441403105/) — Baker Home Energy
-- 📍 **Location:** California, United States
+### [Manager, Solutions Engineering, Mid-Market](https://www.linkedin.com/jobs/view/4441423634/) — action.
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $255,000 - $285,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Non-Profit Program Coordinator](https://www.linkedin.com/jobs/view/4441284724/) — AppleOne Employment Services
-- 📍 **Location:** Irvine, CA
+### [Manager, Solutions Engineering, Mid-Market](https://www.linkedin.com/jobs/view/4438458067/) — Sail Lore
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $255,000 - $285,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Topobathymetric Lidar Geospatial Analyst II](https://www.linkedin.com/jobs/view/4440607028/) — Dewberry
-- 📍 **Location:** Tampa, FL
+### [Quality Improvement Analytics Data Analyst III](https://www.linkedin.com/jobs/view/4435617180/) — L.A. Care Health Plan
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Topobathymetric Lidar Geospatial Analyst II](https://www.linkedin.com/jobs/view/4440287863/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $69,000-$88,000 annually
+### [Field Technician Turn](https://www.linkedin.com/jobs/view/4438461485/) — AMH
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $27.42 to $34.28 Hourly
 - 🕒 **Posted:** 2026-07-16
 
-### [Research/Data Analyst(Local Area Unemployment Statistics)](https://www.linkedin.com/jobs/view/4441291546/) — State of Missouri
-- 📍 **Location:** Jefferson City, MO
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4440627464/) — GHD
+- 📍 **Location:** Golden, CO
+- 💰 **Salary:** $68,888.00 - $114,813.00
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4441280867/) — Margaritaville at Sea
-- 📍 **Location:** Orlando, FL
+### [Entry to Mid-Level Environmental Analyst](https://www.linkedin.com/jobs/view/4440611866/) — Acorn Environmental
+- 📍 **Location:** United States
+- 💰 **Salary:** $55,000 to $80,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Analyst (Entry-Level / Associate)](https://www.linkedin.com/jobs/view/4438445163/) — MHC INGENIERIA Y CONSTRUCCION DE OBRAS CIVILES
-- 📍 **Location:** Chicago, IL
+### [Senior GIS Analyst / Project Manager](https://www.linkedin.com/jobs/view/4440636252/) — VHB
+- 📍 **Location:** Winooski, VT
+- 💰 **Salary:** $98,000-123,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Program Coordinator Community Schools - Bon Secours Community Works](https://www.linkedin.com/jobs/view/4439952340/) — Bon Secours
-- 📍 **Location:** Baltimore, MD
+### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4438466230/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-16
 
-### [Program Coordinator, Resuscitation & Simulation](https://www.linkedin.com/jobs/view/4441288646/) — Beth Israel Lahey Health
-- 📍 **Location:** Burlington, MA
-- 💰 **Salary:** $27.89 - $36.79
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4441424379/) — Texas Health and Human Services
+- 📍 **Location:** Big Spring, TX
+- 💰 **Salary:** $4,263.16 - $6,779.25
 - 🕒 **Posted:** 2026-07-16
 
-### [Embraer Program Coordinator - 1447](https://www.linkedin.com/jobs/view/4441288692/) — West Star Aviation Inc.
-- 📍 **Location:** East Alton, IL
-- 💰 **Salary:** $125,000-$130,000
+### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4438461504/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Analyst / Engineer (Accounting)](https://www.linkedin.com/jobs/view/4440290881/) — Ledgent Technology
-- 📍 **Location:** Corona, CA
-- 💰 **Salary:** $55.00/yr - $75.00/yr
-- 🕒 **Posted:** 2026-07-15
+### [Environmental Field Scientist - FTIR](https://www.linkedin.com/jobs/view/4440637069/) — Onterris
+- 📍 **Location:** Mount Pleasant, MI
+- 🕒 **Posted:** 2026-07-16
 
-### [Biomed Services Specialist - Field Technician](https://www.linkedin.com/jobs/view/4441277876/) — DaVita Kidney Care
-- 📍 **Location:** Newport Beach, CA
-- 💰 **Salary:** $32.00/hr - $38.50/hr
-- 🕒 **Posted:** 2026-07-15
+### [Data Analyst Sr - Level 3](https://www.linkedin.com/jobs/view/4441421524/) — Lockheed Martin
+- 📍 **Location:** Fort Worth, TX
+- 🕒 **Posted:** 2026-07-16
 
-### [Senior Data Analyst - Residential Solar](https://www.linkedin.com/jobs/view/4441280722/) — Xcel Energy
-- 📍 **Location:** Denver Metropolitan Area
-- 💰 **Salary:** $84,900.00 to $120,566.66 per year
-- 🕒 **Posted:** 2026-07-15
+### [Quality Data Analyst](https://www.linkedin.com/jobs/view/4438440875/) — Spectrum Brands, Inc
+- 📍 **Location:** Earth City, MO
+- 🕒 **Posted:** 2026-07-16
 
-### [Driver/Field Technician](https://www.linkedin.com/jobs/view/4441274845/) — Element Materials Technology
-- 📍 **Location:** Lafayette, LA
-- 🕒 **Posted:** 2026-07-15
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4440637009/) — GHD
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $68,888.00 - $114,813.00
+- 🕒 **Posted:** 2026-07-16
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4440296454/) — Schneider Electric
+### [Enrollment Data Analyst II](https://www.linkedin.com/jobs/view/4436166386/) — Elevance Health
 - 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-07-15
+- 🕒 **Posted:** 2026-07-16
 
-### [Program Project Coordinator -Administrative Office of the Courts (AOC)](https://www.linkedin.com/jobs/view/4439489109/) — Commonwealth of Kentucky
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-07-15
+### [Solutions Engineer, Data & Platforms](https://www.linkedin.com/jobs/view/4427230351/) — Stirista
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-16
 
-### [Project Coordinator II - Psychiatry](https://www.linkedin.com/jobs/view/4440247658/) — Washington University in St. Louis
+### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4440637063/) — Onterris
+- 📍 **Location:** Deer Park, TX
+- 💰 **Salary:** $23.50 to $28.00 per hour
+- 🕒 **Posted:** 2026-07-16
+
+### [Outreach & Program Coordinator](https://www.linkedin.com/jobs/view/4440641142/) — Ocean Rescue Alliance International
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $25,000-$35,000
+- 🕒 **Posted:** 2026-07-16
+
+### [Archaeology Field Technician- Idaho](https://www.linkedin.com/jobs/view/4441433088/) — True Environmental
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-16
+
+### [Graduate Student Events and Data Analyst](https://www.linkedin.com/jobs/view/4441421314/) — University of Michigan
+- 📍 **Location:** Dearborn, MI
+- 💰 **Salary:** $15.00/yr - $15.00/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Financial or Data Analyst - Remote](https://www.linkedin.com/jobs/view/4440626645/) — Optum
+- 📍 **Location:** Eden Prairie, MN
+- 💰 **Salary:** $72,800 to $130,000 annually
+- 🕒 **Posted:** 2026-07-16
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4441412297/) — Parkview Health
+- 📍 **Location:** Greater Fort Wayne
+- 🕒 **Posted:** 2026-07-16
+
+### [Project Coordinator, SUE](https://www.linkedin.com/jobs/view/4441415213/) — Cobb, Fendley & Associates, Inc.
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 🕒 **Posted:** 2026-07-16
+
+### [Project Coordinator (Order Fulfillment, Customer Service) – Hybrid – Chesterfield, MO (St. Louis)](https://www.linkedin.com/jobs/view/4440607646/) — Experitec Inc.
 - 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $53,100.00 - $90,600.00
-- 🕒 **Posted:** 2026-07-15
+- 🕒 **Posted:** 2026-07-16
+
+### [Strategic Project Coordinator](https://www.linkedin.com/jobs/view/4441413292/) — Parkview Health
+- 📍 **Location:** Greater Fort Wayne
+- 🕒 **Posted:** 2026-07-16
+
+### [GME Program Coordinator](https://www.linkedin.com/jobs/view/4440624446/) — Duke University
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** USD $61,026.00 to USD $88,434.00
+- 🕒 **Posted:** 2026-07-16
+
+### [Program Coordinator I Obstetrics / Gynecology](https://www.linkedin.com/jobs/view/4440639013/) — Atrium Health
+- 📍 **Location:** Winston-Salem, NC
+- 💰 **Salary:** $25.30 - $37.95
+- 🕒 **Posted:** 2026-07-16
