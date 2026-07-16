@@ -1,22 +1,33 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-16 04:45 UTC*
+*Last updated: 2026-07-16 17:57 UTC*
 
-**4 new role(s)** since last run · 130 total in last 30d
+**6 new role(s)** since last run · 126 total in last 30d
 
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
-- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
+### [GIS Analyst](https://www.governmentjobs.com/careers/fairfieldct/jobs/5412527) — Town of Fairfield, CT
+- 📍 **Location:** Fairfield, Connecticut, United States
+- 💰 **Salary:** $97k/yr
+- 🕒 **Posted:** 2026-07-16T14:11:36.514Z
+
+### [ENVIRONMENTAL SCIENTIST I](https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103447) — Ri
+- 📍 **Location:** Providence, Rhode Island, United States
+- 💰 **Salary:** $73k–$82k/yr
+- 🕒 **Posted:** 2026-07-16T00:00:00.000Z
+
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
+- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
 - 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
+- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
 
-### [Geologist I](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=0764fb50-0ef2-4d93-812e-826a684450c6) — The Doe Run Company
-- 📍 **Location:** Viburnum or St. Louis or Boss or Missouri or Washington or Arizona
-- 🕒 **Posted:** 2026-06-26T20:22:47.413Z
-
-### [Senior Geologist](https://jobs.fcx.com/job/Bayard-Senior-Geologist-NM-88023/1406558500/) — Freeport McMoRan Inc.
+### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
 - 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-07T00:00:00.000Z
+- 💰 **Salary:** $88k–$120k/yr
+- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
 
-### [Geologist/GIT](https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/) — Stantec
-- 📍 **Location:** Lombard, Illinois, United States
-- 🕒 **Posted:** 2026-07-07T17:03:20.000Z
+### [Staff Geologist](https://willmerengineering.bamboohr.com/careers/87) — Willmer Engineering
+- 📍 **Location:** Atlanta, Georgia, United States
+- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
+
+### [Senior Geologist](https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?jid=651979&cid=6549&locvalue=1081) — RIZZO International, Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $60k–$140k/yr
+- 🕒 **Posted:** 2026-07-01T00:00:00.000Z
