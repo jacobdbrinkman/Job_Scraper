@@ -1,9 +1,8 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-16 18:48 UTC*
+*Last updated: 2026-07-16 20:36 UTC*
 
 **1 new role(s)** since last run · 7 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=0f2ed60b9ab695b0) — Department of Resources Recycling & Recovery
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7820–$11k/mo
-- 🕒 **Posted:** 2026-07-16
+### [MP&L Data Analyst](https://www.indeed.com/viewjob?jk=593759f53792a45b) — Modine Manufacturing Company
+- 📍 **Location:** Remote, US
+- 🕒 **Posted:** 2026-07-02
