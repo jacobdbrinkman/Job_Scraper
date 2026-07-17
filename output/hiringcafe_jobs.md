@@ -1,17 +1,35 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-16 23:44 UTC*
+*Last updated: 2026-07-17 01:16 UTC*
 
-**3 new role(s)** since last run · 125 total in last 30d
+**7 new role(s)** since last run · 126 total in last 30d
 
-### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
+### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/25291/environmental-scientist/job?hub=7&in_iframe=1) — Kimley-Horn
+- 📍 **Location:** West Lafayette, Indiana, United States
+- 🕒 **Posted:** 2026-07-16T04:00:00.000Z
+
+### [Geologist](https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1) — Kleinfelder
+- 📍 **Location:** Kingsville, Texas, United States
+- 🕒 **Posted:** 2026-06-24T04:00:00.000Z
+
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
+- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
+
+### [Geologist/GIT](https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/) — Stantec
+- 📍 **Location:** Lombard, Illinois, United States
+- 🕒 **Posted:** 2026-07-07T17:03:20.000Z
+
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
 - 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $88k–$120k/yr
-- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
 
-### [Staff Geologist](https://willmerengineering.bamboohr.com/careers/87) — Willmer Engineering
-- 📍 **Location:** Atlanta, Georgia, United States
-- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
+### [Senior Geologist](https://hdr.referrals.selectminds.com/jobs/senior-geologist-43507) — HDR
+- 📍 **Location:** Louisville or Madison
+- 🕒 **Posted:** 2026-06-17T12:00:00.000Z
 
-### [Geologist II](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482) — The Doe Run Company
-- 📍 **Location:** Viburnum, Missouri, United States
-- 🕒 **Posted:** 2026-06-26T13:25:23.022Z
+### [WATER RESOURCES ANALYST](https://www.governmentjobs.com/careers/cityofriversideca/jobs/5410287) — City of Riverside, CA
+- 📍 **Location:** Riverside, California, United States
+- 💰 **Salary:** $103k–$126k/yr
+- 🕒 **Posted:** 2026-07-16T20:26:19.000Z
