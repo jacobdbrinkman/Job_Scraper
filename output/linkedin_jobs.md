@@ -1,100 +1,84 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-16 23:33 UTC*
+*Last updated: 2026-07-17 00:34 UTC*
 
-**21 new role(s)** since last run · 37 total in last 1h
+**18 new role(s)** since last run · 24 total in last 1h
 
-### [Solutions Engineer](https://www.linkedin.com/jobs/view/4441692001/) — Tinuiti
-- 📍 **Location:** United States
-- 💰 **Salary:** $95,000-$105,000
-- 🕒 **Posted:** 2026-07-16
+### [Term Limited Temporary (TLT) Natural Resources GIS Specialist (CE Spec, Assoc)](https://www.linkedin.com/jobs/view/4438756834/) — Seattle Public Utilities
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-07-17
 
-### [Data Analyst (Tableau, SQL & Python)](https://www.linkedin.com/jobs/view/4399488102/) — PTR Global
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $65.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-07-16
+### [Environmental Scientist 1](https://www.linkedin.com/jobs/view/4441130322/) — HDR
+- 📍 **Location:** Lafayette, LA
+- 🕒 **Posted:** 2026-07-17
 
-### [Senior Data Analyst (Retention & SaaS Analytics)](https://www.linkedin.com/jobs/view/4441689110/) — SpotOn
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-07-16
+### [Emerging Markets - Technology Field Technician](https://www.linkedin.com/jobs/view/4441903148/) — RDO Equipment Co.
+- 📍 **Location:** West Haven, UT
+- 💰 **Salary:** $70000 - $100000
+- 🕒 **Posted:** 2026-07-17
 
-### [Project Coordinator (Remote)](https://www.linkedin.com/jobs/view/4441679409/) — Kforce Inc
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $36.00/hr - $46.05/hr
-- 🕒 **Posted:** 2026-07-16
+### [AI Solutions Engineer](https://www.linkedin.com/jobs/view/4438757730/) — ERM
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-07-17
 
-### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4441118356/) — California Board of Forestry & Fire Protection
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-16
+### [Geologist 2](https://www.linkedin.com/jobs/view/4441129354/) — HDR
+- 📍 **Location:** Baton Rouge, LA
+- 🕒 **Posted:** 2026-07-17
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4425568594/) — Compucom Staffing
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4441680336/) — A.P. Moller - Maersk
-- 📍 **Location:** Cinnaminson, NJ
-- 💰 **Salary:** $60,000-$65,000
-- 🕒 **Posted:** 2026-07-16
-
-### [E Discovery-IT Data Analyst](https://www.linkedin.com/jobs/view/4435696038/) — CACI International Inc
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $72,700 - $149,200
-- 🕒 **Posted:** 2026-07-16
-
-### [Data Analyst - Remote](https://www.linkedin.com/jobs/view/4441450608/) — Sundayy
-- 📍 **Location:** United States
-- 💰 **Salary:** $120,000 to $150,000 per year
-- 🕒 **Posted:** 2026-07-16
-
-### [Data Analyst (Tableau, SQL & Python)](https://www.linkedin.com/jobs/view/4399471639/) — PTR Global
+### [Geologist 2](https://www.linkedin.com/jobs/view/4441126487/) — HDR
 - 📍 **Location:** Austin, TX
-- 💰 **Salary:** $65.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [Geologist 2](https://www.linkedin.com/jobs/view/4441126488/) — HDR
+- 📍 **Location:** Greater Houston
+- 🕒 **Posted:** 2026-07-17
+
+### [Project Coordinator- Water & Environment](https://www.linkedin.com/jobs/view/4441908045/) — Ulteig
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $32.21 - $43.56/hour
+- 🕒 **Posted:** 2026-07-17
+
+### [Restoration Project Coordinator](https://www.linkedin.com/jobs/view/4441688672/) — Insurcomm Restoration
+- 📍 **Location:** Manchester, NH
+- 🕒 **Posted:** 2026-07-17
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4441691474/) — Oceaneering
+- 📍 **Location:** Panama City, FL
+- 🕒 **Posted:** 2026-07-17
+
+### [Associate or Project Hydrogeologist](https://www.linkedin.com/jobs/view/4440291407/) — MacKay
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $40-$55/hour
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Analyst II, Ecommerce](https://www.linkedin.com/jobs/view/4441462074/) — Sundayy
-- 📍 **Location:** United States
+### [Senior Associate - Data Analyst](https://www.linkedin.com/jobs/view/4437837772/) — State Street
+- 📍 **Location:** Quincy, MA
+- 💰 **Salary:** $52,000 - $87,880
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Statistical Data Analyst (Hybrid) - Siteman Cancer Center](https://www.linkedin.com/jobs/view/4441112499/) — Washington University in St. Louis
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $65,900.00 - $112,700.00
+### [Archaeological Field Technicians](https://www.linkedin.com/jobs/view/4441112921/) — Dewberry
+- 📍 **Location:** Greater Richmond Region
+- 💰 **Salary:** $20.00 to $25.00 hourly
 - 🕒 **Posted:** 2026-07-16
 
-### [Geologist 2](https://www.linkedin.com/jobs/view/4441100804/) — HDR
-- 📍 **Location:** Austin, TX
+### [Sr. Research Data Analyst (Health Policy and Management)](https://www.linkedin.com/jobs/view/4440588865/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $55,800 - $97,600 Annually
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4441671805/) — LVT (LiveView Technologies)
-- 📍 **Location:** American Fork, UT
+### [Plant Master Data Analyst](https://www.linkedin.com/jobs/view/4441120595/) — Schneider Electric
+- 📍 **Location:** Goodyear, AZ
 - 🕒 **Posted:** 2026-07-16
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4441675703/) — Berean Group International, Inc.
-- 📍 **Location:** United States
+### [Associate Vehicle Data Analyst](https://www.linkedin.com/jobs/view/4438759640/) — Bosch USA
+- 📍 **Location:** Owatonna, MN
+- 💰 **Salary:** $76,000 - $85,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Project Coordinator / Administrative Project Coordinator - 190639](https://www.linkedin.com/jobs/view/4441126283/) — South Carolina Department of Motor Vehicles
-- 📍 **Location:** Columbia, SC
-- 🕒 **Posted:** 2026-07-16
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4441672754/) — Broadridge
-- 📍 **Location:** Coppell, TX
-- 💰 **Salary:** $60,000.00- $70,000.00
-- 🕒 **Posted:** 2026-07-16
-
-### [Program Project Coordinator -Administrative Office of the Courts (AOC)](https://www.linkedin.com/jobs/view/4439490114/) — Commonwealth of Kentucky
-- 📍 **Location:** Kentucky, United States
-- 🕒 **Posted:** 2026-07-16
-
-### [Project Coordinator, Certification Programs](https://www.linkedin.com/jobs/view/4441679441/) — American Heart Association
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $45,000 to $55,000
-- 🕒 **Posted:** 2026-07-16
-
-### [Project Coordinator - Aviation](https://www.linkedin.com/jobs/view/4441682331/) — Jacobs
-- 📍 **Location:** Greensboro, NC
+### [Project Coordinator - Aviation](https://www.linkedin.com/jobs/view/4441674644/) — Jacobs
+- 📍 **Location:** Cary, NC
 - 💰 **Salary:** $71,700.00/yr - $113,850.00/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4441685507/) — Ledcor
-- 📍 **Location:** Somerset, KY
+### [Program Project Coordinator -Administrative Office of the Courts (AOC)](https://www.linkedin.com/jobs/view/4439476591/) — Commonwealth of Kentucky
+- 📍 **Location:** Georgetown, KY
 - 🕒 **Posted:** 2026-07-16
