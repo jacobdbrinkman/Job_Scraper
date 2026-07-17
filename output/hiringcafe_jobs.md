@@ -1,36 +1,44 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-17 20:43 UTC*
+*Last updated: 2026-07-17 21:37 UTC*
 
-**7 new role(s)** since last run · 120 total in last 30d
+**9 new role(s)** since last run · 123 total in last 30d
 
-### [Environmental Scientist](https://careers-omegatechserv.icims.com/jobs/1292/environmental-scientist/job?in_iframe=1) — Omega Technical Services
-- 📍 **Location:** Idaho Falls, Idaho, United States
-- 💰 **Salary:** $150k–$190k/yr
-- 🕒 **Posted:** 2026-07-17T04:00:00.000Z
+### [Geospatial Analyst](https://job-boards.greenhouse.io/grvty/jobs/4322932009) — GRVTY
+- 📍 **Location:** Arnold, Missouri, United States
+- 🕒 **Posted:** 2026-07-17T17:07:44.000Z
 
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
-- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
-- 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
+### [Geospatial Analyst, Mid](https://castaliasystems.hrmdirect.com/employment/job-opening.php?req=3764868&req_loc=1396347) — Castalia Systems
+- 📍 **Location:** Charlottesville, Virginia, United States
+- 💰 **Salary:** $95k–$104k/yr
+- 🕒 **Posted:** 2026-07-17T03:00:00.000Z
 
-### [Geologist II](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482) — The Doe Run Company
-- 📍 **Location:** Viburnum, Missouri, United States
-- 🕒 **Posted:** 2026-06-26T13:25:23.022Z
-
-### [Geologist/GIT](https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/) — Stantec
+### [Geologist/GIT](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622) — Stantec
 - 📍 **Location:** Lombard, Illinois, United States
-- 🕒 **Posted:** 2026-07-07T17:03:20.000Z
+- 🕒 **Posted:** 2026-07-07T16:19:16.000Z
 
-### [Geologist 2](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en) — HDR
-- 📍 **Location:** Austin or Baton Rouge or Houston
-- 🕒 **Posted:** 2026-07-16T12:00:00.000Z
+### [Geologist 2](https://hdr.referrals.selectminds.com/jobs/geologist-2-44512) — HDR
+- 📍 **Location:** Austin or Houston or Baton Rouge
+- 🕒 **Posted:** 2026-07-16T22:22:48.976Z
 
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
-- 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
+### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant) — RE/SPEC Inc.
+- 📍 **Location:** Denver, Colorado, United States
+- 💰 **Salary:** $60k–$85k/yr
+- 🕒 **Posted:** 2026-06-18T16:35:16.617Z
 
-### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
-- 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $88k–$120k/yr
-- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
+### [Consultant, Environmental Engineer / Scientist / Geologist](https://erm.wd3.myworkdayjobs.com/erm_earlycareers/job/Ewing-New-Jersey/Consultant--Environmental-Engineer---Scientist---Geologist_R00030854) — Erm
+- 📍 **Location:** Ewing, New Jersey, United States
+- 💰 **Salary:** $74k–$103k/yr
+- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
+
+### [Environmental Scientist - Sarasota in Sarasota, Florida, United States](https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-sarasota-55677) — Ardaman & Associates, Inc.
+- 📍 **Location:** Sarasota, Florida, United States
+- 🕒 **Posted:** 2026-07-14T21:26:43.652Z
+
+### [Environmental Scientist – Ecologist/Biologist (Mid-level)](https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/) — Stantec
+- 📍 **Location:** Chattanooga or Nashville or Louisville or Lexington
+- 🕒 **Posted:** 2026-07-13T17:04:57.000Z
+
+### [Environmental Consultant – Senior Level (Hybrid)](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185) — Barr
+- 📍 **Location:** Grand Rapids, Michigan, United States
+- 💰 **Salary:** $125k–$150k/yr
+- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
