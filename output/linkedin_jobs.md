@@ -1,125 +1,152 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-18 18:30 UTC*
+*Last updated: 2026-07-18 19:52 UTC*
 
-**28 new role(s)** since last run · 31 total in last 1h
+**36 new role(s)** since last run · 46 total in last 1h
 
-### [Data Analyst, Macro Analytics](https://www.linkedin.com/jobs/view/4434024682/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $134,000 - $201,000
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4351431581/) — EA Engineering, Science, and Technology, Inc., PBC
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $150,000—$170,000 USD
 - 🕒 **Posted:** 2026-07-18
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4441728959/) — A&I Group
-- 📍 **Location:** California, United States
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424619925/) — Epic
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Manager, Solutions Engineering, Mid-Market](https://www.linkedin.com/jobs/view/4442474603/) — OSSUMS
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $255,000 - $285,000
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424623092/) — Epic
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Data Analyst, Macro Analytics](https://www.linkedin.com/jobs/view/4434029516/) — Stripe
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $134,000 - $201,000
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424622128/) — Epic
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424631000/) — Epic
-- 📍 **Location:** Thornton, CO
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424604991/) — Epic
+- 📍 **Location:** Stockton, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Project Coordinator I - Security Systems](https://www.linkedin.com/jobs/view/4442480352/) — LONG Building Technologies
-- 📍 **Location:** Littleton, CO
-- 💰 **Salary:** $22.22 - $30.00 per hr
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424621453/) — Epic
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Network Data Analyst](https://www.linkedin.com/jobs/view/4395367110/) — LG Electronics North America
-- 📍 **Location:** Huntsville, AL
-- 💰 **Salary:** $55,000—$73,000 USD
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424624055/) — Epic
+- 📍 **Location:** Garden Grove, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424610990/) — Epic
-- 📍 **Location:** Miramar, FL
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424613911/) — Epic
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424607980/) — Epic
-- 📍 **Location:** Rancho Cucamonga, CA
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424611936/) — Epic
+- 📍 **Location:** Palmdale, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424623103/) — Epic
-- 📍 **Location:** Paradise, NV
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424628004/) — Epic
+- 📍 **Location:** Pomona, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424626043/) — Epic
-- 📍 **Location:** McKinney, TX
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424609967/) — Epic
+- 📍 **Location:** Lancaster, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424630039/) — Epic
-- 📍 **Location:** North Las Vegas, NV
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424628003/) — Epic
+- 📍 **Location:** Anaheim, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424614923/) — Epic
-- 📍 **Location:** Yonkers, NY
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424609964/) — Epic
+- 📍 **Location:** Bakersfield, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424612966/) — Epic
-- 📍 **Location:** Murfreesboro, TN
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424620828/) — Epic
+- 📍 **Location:** Riverside, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424623126/) — Epic
-- 📍 **Location:** Vancouver, WA
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424630000/) — Epic
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424627042/) — Epic
-- 📍 **Location:** Roswell, NM
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424632032/) — Epic
+- 📍 **Location:** Tacoma, WA
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424635008/) — Epic
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424613898/) — Epic
+- 📍 **Location:** Aurora, CO
+- 🕒 **Posted:** 2026-07-18
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4439633290/) — Rexel USA
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $20.96 to $26.20
+- 🕒 **Posted:** 2026-07-18
+
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4442467853/) — Intellibee Inc
 - 📍 **Location:** Detroit, MI
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424618894/) — Epic
-- 📍 **Location:** Reading, PA
+### [Environmental Analyst - Long Island Sound Regional Coordinator at NEIWPCC](https://www.linkedin.com/jobs/view/4442478535/) — UCI-OC Alliance
+- 📍 **Location:** Long Island, ME
+- 💰 **Salary:** $60,000 to $75,000
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424625064/) — Epic
-- 📍 **Location:** Carson City, NV
+### [STAFF ENVIRONMENTAL SCIENTIST / STAFF ENGINEER](https://www.linkedin.com/jobs/view/4442476586/) — Broadbent & Associates, Inc.
+- 📍 **Location:** Tempe, AZ
 - 🕒 **Posted:** 2026-07-18
 
-### [Fourmile - Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4383284117/) — Nevada Gold Mines
+### [Survey Technician](https://www.linkedin.com/jobs/view/4442479499/) — City of Toledo
+- 📍 **Location:** Toledo, OH
+- 🕒 **Posted:** 2026-07-18
+
+### [STAFF ENGINEER / STAFF ENVIRONMENTAL SCIENTIST](https://www.linkedin.com/jobs/view/4442485135/) — Broadbent & Associates, Inc.
 - 📍 **Location:** Elko, NV
 - 🕒 **Posted:** 2026-07-18
 
-### [Fourmile- Senior Resource Geologist](https://www.linkedin.com/jobs/view/4365888734/) — Barrick Mining Corporation
-- 📍 **Location:** Elko, NV
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424631024/) — Epic
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-18
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4424589363/) — TransUnion
-- 📍 **Location:** Greater Chicago Area
-- 💰 **Salary:** $90,000.00 - $150,000 annually
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424629050/) — Epic
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-07-18
 
-### [Senior Quantitative Data Analyst](https://www.linkedin.com/jobs/view/4423570316/) — Cboe Global Markets
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $116,875-$151,250,
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424633029/) — Epic
+- 📍 **Location:** Tallahassee, FL
 - 🕒 **Posted:** 2026-07-18
 
-### [Data Management Specialist](https://www.linkedin.com/jobs/view/4434045721/) — Western Alliance Bank
-- 📍 **Location:** Dallas, TX
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424623099/) — Epic
+- 📍 **Location:** Round Rock, TX
 - 🕒 **Posted:** 2026-07-18
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4405336575/) — AM Mechanical
-- 📍 **Location:** Downers Grove, IL
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424620869/) — Epic
+- 📍 **Location:** Macon, GA
 - 🕒 **Posted:** 2026-07-18
 
-### [Part-Time Project Coordinator](https://www.linkedin.com/jobs/view/4433287305/) — WSP in the U.S.
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $33.13 - $50.10
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424624047/) — Epic
+- 📍 **Location:** Pasadena, TX
 - 🕒 **Posted:** 2026-07-18
 
-### [Part-Time Project Coordinator](https://www.linkedin.com/jobs/view/4433285489/) — WSP in the U.S.
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $33.13 - $50.10
+### [Associate Data Analyst](https://www.linkedin.com/jobs/view/4442479529/) — Banner Engineering Careers
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $56,419 - $77,575
 - 🕒 **Posted:** 2026-07-18
 
-### [Project Coordinator | Capital Markets & Business Operations | Remote Independent Contractor](https://www.linkedin.com/jobs/view/4441730661/) — Executive Agility
-- 📍 **Location:** United States
+### [Data Analyst  (Remote)](https://www.linkedin.com/jobs/view/4442473726/) — Torentify
+- 📍 **Location:** Cincinnati Metropolitan Area
+- 🕒 **Posted:** 2026-07-18
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4442486115/) — Adhesives Research, Inc.
+- 📍 **Location:** Glen Rock, PA
+- 🕒 **Posted:** 2026-07-18
+
+### [Project Coordinator – Construction and Facilities](https://www.linkedin.com/jobs/view/4442476716/) — Archdiocese of San Antonio
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-07-18
+
+### [HVAC Project Coordinator](https://www.linkedin.com/jobs/view/4442479471/) — Ward Plumbing, Heating & Air
+- 📍 **Location:** Sylva, NC
+- 🕒 **Posted:** 2026-07-18
+
+### [Civil Rights Program Coordinator UN](https://www.linkedin.com/jobs/view/4442468959/) — City of Albuquerque
+- 📍 **Location:** Albuquerque, NM
+- 🕒 **Posted:** 2026-07-18
+
+### [Strategic Planning & Program Coordinator](https://www.linkedin.com/jobs/view/4442483298/) — Forest Heights, Maryland Government
+- 📍 **Location:** Oxon Hill, MD
 - 🕒 **Posted:** 2026-07-18
