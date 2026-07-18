@@ -1,67 +1,114 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-18 00:29 UTC*
+*Last updated: 2026-07-18 03:53 UTC*
 
-**14 new role(s)** since last run · 18 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4442192550/) — KPFF Consulting Engineers
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $35-$40
+### [Environmental Scientist/Geoscientist](https://www.linkedin.com/jobs/view/4441396586/) — GHD
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $67,500-$116,000
 - 🕒 **Posted:** 2026-07-18
 
-### [Remote Business Intelligence & Data Analyst](https://www.linkedin.com/jobs/view/4442401414/) — val's services
-- 📍 **Location:** Boston, MA
+### [Environmental Scientist/Geoscientist](https://www.linkedin.com/jobs/view/4441706099/) — GHD
+- 📍 **Location:** Roseville, CA
+- 💰 **Salary:** $67,500-$116,000
 - 🕒 **Posted:** 2026-07-18
 
-### [Remote Business Intelligence & Data Analyst](https://www.linkedin.com/jobs/view/4442402327/) — val's services
-- 📍 **Location:** Fresno, CA
+### [Environmental Scientist/Geoscientist](https://www.linkedin.com/jobs/view/4441388901/) — GHD
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $67,500-$116,000
 - 🕒 **Posted:** 2026-07-18
 
-### [IAR Data Analyst](https://www.linkedin.com/jobs/view/4442401431/) — Western Governors University
-- 📍 **Location:** Salt Lake City Metropolitan Area
-- 💰 **Salary:** $75,200.00 - $112,700.00
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4442411740/) — BECU
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $106,600.00-$130,100.00 annually
 - 🕒 **Posted:** 2026-07-18
 
-### [Low Voltage Estimator - Project Coordinator](https://www.linkedin.com/jobs/view/4442406174/) — Kidwell
-- 📍 **Location:** Lincoln, NE
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4438873779/) — Tetra Tech
+- 📍 **Location:** Pearl City, HI
+- 💰 **Salary:** $65,000 - $85,000,
 - 🕒 **Posted:** 2026-07-18
 
-### [Administrative Project Coordinator](https://www.linkedin.com/jobs/view/4441368912/) — HDR
-- 📍 **Location:** San Antonio, TX
+### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4441398608/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-18
 
-### [Embraer Program Coordinator - 1447](https://www.linkedin.com/jobs/view/4442408012/) — West Star Aviation Inc.
-- 📍 **Location:** East Alton, IL
-- 💰 **Salary:** $125,000-$130,000
+### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4441708076/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-18
 
-### [Shoreline Management Act GIS Specialist (IT Data Management Journey)](https://www.linkedin.com/jobs/view/4442401110/) — Washington State Department of Ecology
-- 📍 **Location:** Lacey, WA
-- 🕒 **Posted:** 2026-07-17
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4442415595/) — BECU
+- 📍 **Location:** Oregon, United States
+- 💰 **Salary:** $106,600.00-$130,100.00 annually
+- 🕒 **Posted:** 2026-07-18
 
-### [Remote Senior Data Analyst](https://www.linkedin.com/jobs/view/4441369525/) — RG&T Solutions
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-07-17
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4442414612/) — BECU
+- 📍 **Location:** Washington, United States
+- 💰 **Salary:** $106,600.00-$130,100.00 annually
+- 🕒 **Posted:** 2026-07-18
 
-### [Data Analyst - Payroll & Benefits](https://www.linkedin.com/jobs/view/4431121217/) — Lakeshore Talent
-- 📍 **Location:** Greenwood Village, CO
-- 💰 **Salary:** $37.00 - $40.00/hour
-- 🕒 **Posted:** 2026-07-17
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4442410925/) — BECU
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $106,600.00-$130,100.00 annually
+- 🕒 **Posted:** 2026-07-18
 
-### [Field Technician I](https://www.linkedin.com/jobs/view/4439281353/) — SGS
-- 📍 **Location:** Doral, FL
-- 💰 **Salary:** $55,000.00/hr - $85,000.00/hr
-- 🕒 **Posted:** 2026-07-17
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4442423325/) — BECU
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $106,600.00-$130,100.00 annually
+- 🕒 **Posted:** 2026-07-18
 
-### [Senior Operations Data Analyst](https://www.linkedin.com/jobs/view/4431177361/) — Capital i
-- 📍 **Location:** Frederick, MD
-- 💰 **Salary:** $145,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-07-17
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4442423326/) — BECU
+- 📍 **Location:** Georgia, United States
+- 💰 **Salary:** $106,600.00-$130,100.00 annually
+- 🕒 **Posted:** 2026-07-18
 
-### [Streamflow Hydrologist (Hydrogeologist 2)](https://www.linkedin.com/jobs/view/4442197158/) — Washington State Department of Ecology
-- 📍 **Location:** Union Gap, WA
-- 🕒 **Posted:** 2026-07-17
+### [Senior Data Analyst, FP&A](https://www.linkedin.com/jobs/view/4442408845/) — European Wax Center
+- 📍 **Location:** Plano, TX
+- 🕒 **Posted:** 2026-07-18
 
-### [Project Coordinator (5762)](https://www.linkedin.com/jobs/view/4441357914/) — NextPath Workforce Solutions
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $65,000.00/yr - $65,000.00/yr
-- 🕒 **Posted:** 2026-07-17
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4439351644/) — Tetra Tech
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $36.06 – $45.68
+- 🕒 **Posted:** 2026-07-18
+
+### [Environmental Scientist III](https://www.linkedin.com/jobs/view/4441396466/) — AECOM Hunt
+- 📍 **Location:** Hunt Valley, MD
+- 💰 **Salary:** $80000 to $102000
+- 🕒 **Posted:** 2026-07-18
+
+### [Field Technician II](https://www.linkedin.com/jobs/view/4441387982/) — Rain For Rent
+- 📍 **Location:** Bridgeville, PA
+- 🕒 **Posted:** 2026-07-18
+
+### [Data Analyst (MLOps & Advanced Analytics)](https://www.linkedin.com/jobs/view/4442410993/) — Voya Financial
+- 📍 **Location:** Hartford, CT
+- 💰 **Salary:** $109,000 - $136,250 USD
+- 🕒 **Posted:** 2026-07-18
+
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4442427204/) — BECU
+- 📍 **Location:** South Carolina, United States
+- 💰 **Salary:** $106,600.00-$130,100.00 annually
+- 🕒 **Posted:** 2026-07-18
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4441398556/) — Lynn University
+- 📍 **Location:** Boca Raton, FL
+- 🕒 **Posted:** 2026-07-18
+
+### [Senior Program Coordinator](https://www.linkedin.com/jobs/view/4441709048/) — Cuyahoga County Board of Elections
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-07-18
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4441702307/) — Cuyahoga County Board of Elections
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-07-18
+
+### [eDiscovery Project Coordinator](https://www.linkedin.com/jobs/view/4439293412/) — Leidos
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $105,000- $110,000
+- 🕒 **Posted:** 2026-07-18
+
+### [Project Coordinator I - AI Use Case Support](https://www.linkedin.com/jobs/view/4441399574/) — Ledgent Technology
+- 📍 **Location:** Newport Beach, CA
+- 💰 **Salary:** $28.00/hr - $31.11/hr
+- 🕒 **Posted:** 2026-07-18
