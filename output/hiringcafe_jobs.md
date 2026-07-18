@@ -1,44 +1,41 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-18 01:08 UTC*
+*Last updated: 2026-07-18 04:34 UTC*
 
-**8 new role(s)** since last run · 130 total in last 30d
+**8 new role(s)** since last run · 132 total in last 30d
 
-### [Sr. Environmental Analyst](https://careers.pacificorp.com/job/PORTLAND-Sr_-Environmental-Analyst-OR-97232/1407046200/) — PacifiCorp
-- 📍 **Location:** Portland, Oregon, United States
-- 💰 **Salary:** $102k–$140k/yr
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+### [GIS Analyst](https://osmose.hrmdirect.com/employment/job-opening.php?req=3765484&req_loc=1397173) — Osmose Utilities
+- 📍 **Location:** Depew, New York, United States
+- 🕒 **Posted:** 2026-07-17T03:00:00.000Z
 
-### [Natural Resources Specialist](https://www.governmentjobs.com/careers/deschutes/jobs/5385124) — Deschutes County Human Resources
-- 📍 **Location:** Bend or Deschutes County
-- 💰 **Salary:** $72k–$97k/yr
-- 🕒 **Posted:** 2026-06-23T16:33:09.000Z
+### [Geospatial Analyst (Hiring Event)](https://careers.nga.mil/psc/CAREERS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=20260223&PostingSeq=2&SiteId=1) — National Geospatial-Intelligence Agency
+- 📍 **Location:** Springfield, Virginia, United States
+- 💰 **Salary:** $85k–$158k/yr
+- 🕒 **Posted:** 2026-07-13T06:45:41.253Z
 
-### [Natural Resources Specialist 2](https://myjobs.adp.com/cmpcareers/cx/job-details?reqId=5001209954806) — Cleveland Metroparks
-- 📍 **Location:** Strongsville, Ohio, United States
-- 💰 **Salary:** $34k/yr
-- 🕒 **Posted:** 2026-07-07T15:06:16.000Z
+### [Streamflow Hydrologist (Hydrogeologist 2)](https://www.governmentjobs.com/careers/washington/jobs/5413869) — State of Washington, WA
+- 📍 **Location:** Union Gap, Washington, United States
+- 💰 **Salary:** $68k–$91k/yr
+- 🕒 **Posted:** 2026-07-17T22:45:27.000Z
 
-### [Natural Resources Specialist](https://www.usajobs.gov/job/876896400) — Department of the Interior
-- 📍 **Location:** Durango or Grand Junction
-- 💰 **Salary:** $75k–$97k/yr
-- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
+- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
 
-### [Supervisory Natural Resources Specialist](https://www.usajobs.gov/job/876433600) — Department of the Army
-- 📍 **Location:** Yakima, Washington, United States
-- 💰 **Salary:** $90k–$116k/yr
-- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
+### [Geologist 2](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en) — HDR
+- 📍 **Location:** Austin or Baton Rouge or Houston
+- 🕒 **Posted:** 2026-07-16T12:00:00.000Z
 
-### [Natural Resources Field Technician](https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Los-Banos-CA/Natural-Resources-Field-Technician_R9134) — ACRT, Inc.
-- 📍 **Location:** Los Banos, California, United States
-- 💰 **Salary:** $54k–$71k/yr
-- 🕒 **Posted:** 2026-07-07T00:00:00.000Z
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
+- 📍 **Location:** Bayard, New Mexico, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
 
-### [Environmental/Natural Resources Specialist III](https://www.governmentjobs.com/careers/mississippi/jobs/5405875) — State of Mississippi, MS
-- 📍 **Location:** Biloxi or Harrison County
-- 💰 **Salary:** $45k–$54k/yr
-- 🕒 **Posted:** 2026-07-10T21:23:54.000Z
+### [Geologist 2](https://hdr.referrals.selectminds.com/jobs/geologist-2-44512) — HDR
+- 📍 **Location:** Austin or Houston or Baton Rouge
+- 🕒 **Posted:** 2026-07-16T22:22:48.976Z
 
-### [Associate GIS Consultant](https://jobs.smartrecruiters.com/RESPECInc/744000132914121-associate-gis-consultant) — RE/SPEC Inc.
-- 📍 **Location:** Denver, Colorado, United States
-- 💰 **Salary:** $60k–$85k/yr
-- 🕒 **Posted:** 2026-06-18T16:35:16.617Z
+### [Geologist 2](https://www.governmentjobs.com/careers/iowa/jobs/5415058) — State of Iowa
+- 📍 **Location:** Ames, Iowa, United States
+- 💰 **Salary:** $57k–$86k/yr
+- 🕒 **Posted:** 2026-07-17T21:22:42.000Z
