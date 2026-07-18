@@ -1,89 +1,74 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-18 16:33 UTC*
+*Last updated: 2026-07-18 17:35 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**16 new role(s)** since last run · 18 total in last 1h
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424625037/) — Epic
-- 📍 **Location:** Santa Rosa, CA
+### [Staff Data Analyst](https://www.linkedin.com/jobs/view/4424605337/) — Quince
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $207,000 USD - $235,000 USD
 - 🕒 **Posted:** 2026-07-18
 
-### [Data Analyst (Excel)](https://www.linkedin.com/jobs/view/4439623606/) — Micro1
+### [Project Coordinator - Healthcare](https://www.linkedin.com/jobs/view/4411189641/) — STV
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $74,650.52 - $85,314.88
+- 🕒 **Posted:** 2026-07-18
+
+### [Data Analyst, Macro Analytics](https://www.linkedin.com/jobs/view/4434029515/) — Stripe
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $134,000 - $201,000
+- 🕒 **Posted:** 2026-07-18
+
+### [Data Analyst (PhD) - AI Trainer](https://www.linkedin.com/jobs/view/4304437858/) — DataAnnotation
+- 📍 **Location:** Colorado, United States
+- 🕒 **Posted:** 2026-07-18
+
+### [Customer Data Analyst](https://www.linkedin.com/jobs/view/4433402295/) — EXPRESS
+- 📍 **Location:** Columbus, Ohio Metropolitan Area
+- 🕒 **Posted:** 2026-07-18
+
+### [Data Analyst (PhD) - AI Trainer](https://www.linkedin.com/jobs/view/4304449523/) — DataAnnotation
+- 📍 **Location:** Rhode Island, United States
+- 🕒 **Posted:** 2026-07-18
+
+### [Field Technician](https://www.linkedin.com/jobs/view/4434028890/) — Nalco Water, An Ecolab Company
+- 📍 **Location:** Louisville, KY
+- 💰 **Salary:** $42,000-$63,000
+- 🕒 **Posted:** 2026-07-18
+
+### [Automated Logic- BAS/BMS Associate Field Technician](https://www.linkedin.com/jobs/view/4441730643/) — Carrier
+- 📍 **Location:** Chicopee, MA
+- 💰 **Salary:** $43,500.00 - $87,500.00 annually
+- 🕒 **Posted:** 2026-07-18
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4441731607/) — SlugLime
 - 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-18
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424625038/) — Epic
-- 📍 **Location:** Santa Clarita, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Program Coordinator (SSP IV)](https://www.linkedin.com/jobs/view/4429367691/) — California State University, Stanislaus
-- 📍 **Location:** Turlock, CA
-- 💰 **Salary:** $ 6,320.00 - $ 9,014.00 per month
-- 🕒 **Posted:** 2026-07-18
-
-### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4441735363/) — Cape Environmental Management Inc
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $80K - $102K
-- 🕒 **Posted:** 2026-07-18
-
-### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4441727680/) — Cape Environmental Management Inc
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $80K - $102K
-- 🕒 **Posted:** 2026-07-18
-
-### [Entry-Level Data Analyst](https://www.linkedin.com/jobs/view/4442464437/) — Emma of Torre.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-18
-
-### [Data Analyst III (6248)](https://www.linkedin.com/jobs/view/4442466691/) — itD
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-18
-
-### [Product Data Analyst](https://www.linkedin.com/jobs/view/4433882834/) — Zello
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-07-18
-
-### [Environmental Scientist III - NPDES](https://www.linkedin.com/jobs/view/4441722965/) — State of Delaware
+### [Data Analyst (PhD) - AI Trainer](https://www.linkedin.com/jobs/view/4304438885/) — DataAnnotation
 - 📍 **Location:** Delaware, United States
 - 🕒 **Posted:** 2026-07-18
 
-### [Construction Materials Testing (CMT) Field Technician (Experienced)](https://www.linkedin.com/jobs/view/4372631060/) — Braun Intertec Corporation
-- 📍 **Location:** Cedar Rapids, IA
-- 💰 **Salary:** $50,000.00 - $74,000.00
+### [Data Analyst (PhD) - AI Trainer](https://www.linkedin.com/jobs/view/4304439670/) — DataAnnotation
+- 📍 **Location:** Nevada, United States
 - 🕒 **Posted:** 2026-07-18
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4441737381/) — FetchJobs.co
-- 📍 **Location:** United States
+### [Data Analyst (PhD) - AI Trainer](https://www.linkedin.com/jobs/view/4304446793/) — DataAnnotation
+- 📍 **Location:** Ohio, United States
 - 🕒 **Posted:** 2026-07-18
 
-### [Data Analyst III (6247)](https://www.linkedin.com/jobs/view/4442477311/) — itD
-- 📍 **Location:** United States
+### [Data Analyst (PhD) - AI Trainer](https://www.linkedin.com/jobs/view/4304452565/) — DataAnnotation
+- 📍 **Location:** Oklahoma, United States
 - 🕒 **Posted:** 2026-07-18
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4441733350/) — Jobright.ai
-- 📍 **Location:** United States
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4423514941/) — McGough
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-07-18
 
-### [Community Program Coordinator](https://www.linkedin.com/jobs/view/4442478317/) — Wichita State University
-- 📍 **Location:** Wichita, KS
-- 🕒 **Posted:** 2026-07-18
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4424450697/) — WSP in the U.S.
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-07-18
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4383387577/) — Erie Home
-- 📍 **Location:** Columbia, SC
-- 💰 **Salary:** $50,000-$58,000
-- 🕒 **Posted:** 2026-07-18
-
-### [Program Coordinator II](https://www.linkedin.com/jobs/view/4414663707/) — Austal USA
+### [IT Project Coordinator](https://www.linkedin.com/jobs/view/4433892804/) — Austal USA
 - 📍 **Location:** Mobile, AL
 - 🕒 **Posted:** 2026-07-18
 
-### [Project Coordinator - Data Center](https://www.linkedin.com/jobs/view/4434088604/) — MasTec Power Delivery
-- 📍 **Location:** Boling, TX
-- 🕒 **Posted:** 2026-07-18
-
-### [DHHS State Opioid Response Prevention Program Coordinator - Behavioral Health](https://www.linkedin.com/jobs/view/4417775658/) — Nebraska Department of Health and Human Services
-- 📍 **Location:** Lincoln, NE
+### [Program Coordinator - Volunteer Services - NYP Brooklyn Methodist](https://www.linkedin.com/jobs/view/4442468664/) — NewYork-Presbyterian Hospital
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $74,000-$111,000/Annual
 - 🕒 **Posted:** 2026-07-18
