@@ -1,28 +1,30 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-19 04:57 UTC*
+*Last updated: 2026-07-19 17:44 UTC*
 
-**5 new role(s)** since last run · 124 total in last 30d
+**6 new role(s)** since last run · 127 total in last 30d
 
-### [Geologist](https://aksteel.wd1.myworkdayjobs.com/careers/job/United-Taconite---Eveleth/Geologist_R12947) — Aksteel
-- 📍 **Location:** Eveleth, Minnesota, United States
-- 💰 **Salary:** $80k–$100k/yr
-- 🕒 **Posted:** 2026-06-23T00:00:00.000Z
+### [Geologist](https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1) — Kleinfelder
+- 📍 **Location:** Kingsville, Texas, United States
+- 🕒 **Posted:** 2026-06-24T04:00:00.000Z
 
-### [Geologist](https://recruiting.ultipro.com/hoc10001bflo/JobBoard/21121b32-5e02-47fe-b087-ed7f2f363892/OpportunityDetail?opportunityId=d7fdbf61-4a3d-4513-b79e-3402dafd3b55) — LECOM Harborcenter
-- 📍 **Location:** Sewickley, Pennsylvania, United States
-- 🕒 **Posted:** 2026-06-29T17:58:30.748Z
-
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
-- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
+- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
 - 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
+- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
 
-### [Field Geologist](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371) — Arcadis
-- 📍 **Location:** Knoxville, Tennessee, United States
-- 💰 **Salary:** $58k–$87k/yr
-- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
+### [Geologist II](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482) — The Doe Run Company
+- 📍 **Location:** Viburnum, Missouri, United States
+- 🕒 **Posted:** 2026-06-26T13:25:23.022Z
 
-### [Field Geologist](https://arcadis.eightfold.ai/careers/job/563671532591339) — Arcadis
-- 📍 **Location:** Knoxville, Tennessee, United States
-- 💰 **Salary:** $58k–$87k/yr
-- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
+### [Geologist/GIT](https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/) — Stantec
+- 📍 **Location:** Lombard, Illinois, United States
+- 🕒 **Posted:** 2026-07-07T17:03:20.000Z
+
+### [Geologist 2](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en) — HDR
+- 📍 **Location:** Austin or Baton Rouge or Houston
+- 🕒 **Posted:** 2026-07-16T12:00:00.000Z
+
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
+- 📍 **Location:** Bayard, New Mexico, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
