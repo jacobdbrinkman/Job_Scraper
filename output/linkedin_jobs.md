@@ -1,75 +1,83 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-19 19:50 UTC*
+*Last updated: 2026-07-19 21:20 UTC*
 
-**17 new role(s)** since last run · 22 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Senior Business Data Analyst (Healthcare Analytics | Palo Alto CA, USA))](https://www.linkedin.com/jobs/view/4436673774/) — SID Information Technologies
-- 📍 **Location:** Palo Alto, CA
+### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4439691378/) — HUB International
+- 📍 **Location:** Metairie, LA
+- 💰 **Salary:** $80,000 to $120,000
 - 🕒 **Posted:** 2026-07-19
 
-### [Consumer Data Analyst - Chatsworth](https://www.linkedin.com/jobs/view/4442534814/) — Premier America Credit Union
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $83k-$104k annually
+### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4439682613/) — HUB International
+- 📍 **Location:** Tulsa, OK
+- 💰 **Salary:** $80,000 to $120,000
 - 🕒 **Posted:** 2026-07-19
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424599992/) — Epic
-- 📍 **Location:** Chula Vista, CA
+### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4439684650/) — HUB International
+- 📍 **Location:** Omaha, NE
+- 💰 **Salary:** $80,000 to $120,000
 - 🕒 **Posted:** 2026-07-19
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424607985/) — Epic
-- 📍 **Location:** Oceanside, CA
+### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4439683649/) — HUB International
+- 📍 **Location:** St Louis, MO
+- 💰 **Salary:** $80,000 to $120,000
 - 🕒 **Posted:** 2026-07-19
 
-### [Senior Geospatial Analyst](https://www.linkedin.com/jobs/view/4442548398/) — Prescient Edge
-- 📍 **Location:** Bellevue, NE
+### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4439699206/) — HUB International
+- 📍 **Location:** Waukesha, WI
+- 💰 **Salary:** $80,000 to $120,000
 - 🕒 **Posted:** 2026-07-19
 
-### [Data Analyst (remote)](https://www.linkedin.com/jobs/view/4442546392/) — Torentify
-- 📍 **Location:** Cincinnati, OH
+### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4439694350/) — HUB International
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $80,000 to $120,000
 - 🕒 **Posted:** 2026-07-19
 
-### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4441780821/) — HUB International
+### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4439688475/) — HUB International
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $80,000 to $120,000
+- 🕒 **Posted:** 2026-07-19
+
+### [Cross-Sell Data Analyst, Dynamics 365](https://www.linkedin.com/jobs/view/4439681767/) — HUB International
+- 📍 **Location:** Grand Rapids, MI
+- 💰 **Salary:** $80,000 to $120,000
+- 🕒 **Posted:** 2026-07-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4441793318/) — Haystack
+- 📍 **Location:** Pennsylvania, United States
+- 💰 **Salary:** $25 - $26 per hour
+- 🕒 **Posted:** 2026-07-19
+
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4441777863/) — RemoteHunter
 - 📍 **Location:** United States
-- 💰 **Salary:** $80,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-07-19
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4442555027/) — BestJobTool
+### [Data Analyst](https://www.linkedin.com/jobs/view/4441778850/) — Haystack
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $23.00 - $25.00 USD
+- 🕒 **Posted:** 2026-07-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4441789500/) — Haystack
+- 📍 **Location:** Pennsylvania, United States
+- 💰 **Salary:** $25 - $26 per hour
+- 🕒 **Posted:** 2026-07-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4441799152/) — Haystack
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $23.00 - $25.00 USD
+- 🕒 **Posted:** 2026-07-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4439694345/) — Russell Tobin
+- 📍 **Location:** Columbus, Ohio Metropolitan Area
+- 💰 **Salary:** $30.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-07-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4441776961/) — RemoteHunter
 - 📍 **Location:** United States
+- 💰 **Salary:** $85,000 to $95,000,
 - 🕒 **Posted:** 2026-07-19
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424613918/) — Epic
-- 📍 **Location:** Covington, KY
-- 🕒 **Posted:** 2026-07-19
-
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4324861130/) — Epic
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-07-19
-
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4424627037/) — Epic
-- 📍 **Location:** Lake Geneva, WI
-- 🕒 **Posted:** 2026-07-19
-
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3849882832/) — Epic
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-07-19
-
-### [NGM - Senior Mine Geologist (Underground or Surface)](https://www.linkedin.com/jobs/view/4394225390/) — Nevada Gold Mines
-- 📍 **Location:** Elko, NV
-- 🕒 **Posted:** 2026-07-19
-
-### [Environmental Scientist 2 - Natural Sciences](https://www.linkedin.com/jobs/view/4375471851/) — RETTEW
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-07-19
-
-### [Project Coordinator (Purchasing & Estimating)](https://www.linkedin.com/jobs/view/4442533966/) — Sineath Construction
-- 📍 **Location:** Weaverville, NC
-- 💰 **Salary:** $60,000-$70,000
-- 🕒 **Posted:** 2026-07-19
-
-### [Project Coordinator*](https://www.linkedin.com/jobs/view/4442544569/) — SIERTEK LTD
-- 📍 **Location:** Dayton, OH
-- 🕒 **Posted:** 2026-07-19
-
-### [Program Coordinator (Our Closet In Your Neighborhood)](https://www.linkedin.com/jobs/view/4442547413/) — Jewish Family and Children's Service of Greater Philadelphia
-- 📍 **Location:** Bala-Cynwyd, PA
+### [Data Analyst - Marvel Strike Force](https://www.linkedin.com/jobs/view/4441795317/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $91,300 to $140,000 USD
 - 🕒 **Posted:** 2026-07-19
