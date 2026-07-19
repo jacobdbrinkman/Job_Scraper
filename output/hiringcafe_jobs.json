@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19 21:38 UTC",
+  "scraped_at": "2026-07-19 22:37 UTC",
   "total": 126,
   "new_count": 0,
   "jobs": [
@@ -888,14 +888,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Compliance Consultants",
+      "company": "Kansas Department of Agriculture",
       "title": "Environmental Scientist",
-      "location": "Anchorage, Alaska, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "date_posted": "2026-07-06T14:10:25.000Z",
-      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
-      "salary": "$85k–$95k/yr",
+      "location": "Garden City, Kansas, United States",
+      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
+      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-07-14T12:00:00.000Z",
+      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
+      "salary": "$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -914,14 +914,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kansas Department of Agriculture",
+      "company": "Environmental Compliance Consultants",
       "title": "Environmental Scientist",
-      "location": "Garden City, Kansas, United States",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-07-14T12:00:00.000Z",
-      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
-      "salary": "$55k/yr",
+      "location": "Anchorage, Alaska, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "date_posted": "2026-07-06T14:10:25.000Z",
+      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
+      "salary": "$85k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1044,19 +1044,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Commerce",
-      "title": "Hydrologist",
-      "location": "Peachtree City or Slidell or Norton or Chanhassen or Tulsa or Portland or State College or Fort Worth or Salt Lake City",
-      "url": "https://www.usajobs.gov/job/876294800",
-      "direct_url": "https://www.usajobs.gov/job/876294800",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "Bachelor's in physical or natural science with required calculus and physics, plus 1+ year specialized hydrology experience (GS-12 equivalent). U.S. citizenship and favorable background investigation required.",
-      "salary": "$106k–$157k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lynker",
       "title": "Hydrologist",
       "location": "Leesburg, Virginia, United States",
@@ -1067,6 +1054,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Commerce",
+      "title": "Hydrologist",
+      "location": "Peachtree City or Slidell or Norton or Chanhassen or Tulsa or Portland or State College or Fort Worth or Salt Lake City",
+      "url": "https://www.usajobs.gov/job/876294800",
+      "direct_url": "https://www.usajobs.gov/job/876294800",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "Bachelor's in physical or natural science with required calculus and physics, plus 1+ year specialized hydrology experience (GS-12 equivalent). U.S. citizenship and favorable background investigation required.",
+      "salary": "$106k–$157k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
