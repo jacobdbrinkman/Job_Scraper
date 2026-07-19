@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-19 19:59 UTC",
+  "scraped_at": "2026-07-19 21:38 UTC",
   "total": 126,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "French & Parrello Associates (FPA)",
@@ -1044,19 +1044,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lynker",
-      "title": "Hydrologist",
-      "location": "Leesburg, Virginia, United States",
-      "url": "https://careers-lynker.icims.com/jobs/1594/hydrologist/job?in_iframe=1",
-      "direct_url": "https://careers-lynker.icims.com/jobs/1594/hydrologist/job?in_iframe=1",
-      "date_posted": "2026-07-03T04:00:00.000Z",
-      "description": "Senior technical authority to design, test, and deploy operational hydrologic models; mentor staff; perform advanced data analysis and ensemble forecasting; strong programming (Python, R) and operational systems expertise.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Department of Commerce",
       "title": "Hydrologist",
       "location": "Peachtree City or Slidell or Norton or Chanhassen or Tulsa or Portland or State College or Fort Worth or Salt Lake City",
@@ -1067,6 +1054,19 @@
       "salary": "$106k–$157k/yr",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lynker",
+      "title": "Hydrologist",
+      "location": "Leesburg, Virginia, United States",
+      "url": "https://careers-lynker.icims.com/jobs/1594/hydrologist/job?in_iframe=1",
+      "direct_url": "https://careers-lynker.icims.com/jobs/1594/hydrologist/job?in_iframe=1",
+      "date_posted": "2026-07-03T04:00:00.000Z",
+      "description": "Senior technical authority to design, test, and deploy operational hydrologic models; mentor staff; perform advanced data analysis and ensemble forecasting; strong programming (Python, R) and operational systems expertise.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1642,58 +1642,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist",
-      "date_posted": "2026-07-09T20:15:46.755Z",
-      "description": "BS in geology, 4+ years' relevant experience, valid U.S. driver’s license, pass pre-employment drug test, field sampling and report-writing experience, OSHA 40-hour HAZWOPER and PG/GIT preferred.",
-      "salary": "$70k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Field Geologist",
-      "location": "Knoxville, Tennessee, United States",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371",
-      "date_posted": "2026-07-10T15:22:06.000Z",
-      "description": "Bachelor's in geology or related field, 2 years relevant experience, strong field sampling and site characterization skills, OSHA 40-hour HAZWOPER preferred, ability to travel and perform fieldwork.",
-      "salary": "$58k–$87k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Field Geologist",
-      "location": "Knoxville, Tennessee, United States",
-      "url": "https://arcadis.eightfold.ai/careers/job/563671532591339",
-      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532591339",
-      "date_posted": "2026-07-10T15:22:06.000Z",
-      "description": "BS in geology or related, 2 years relevant experience, OSHA 40-hour HAZWOPER preferred, field sampling and health & safety competency, ability to travel and perform fieldwork.",
-      "salary": "$58k–$87k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Geologist II",
-      "location": "Bayard, New Mexico, United States",
-      "url": "https://talent.fmjobs.com/careers/job/42911253",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42911253",
-      "date_posted": "2026-07-07T20:56:49.000Z",
-      "description": "Bachelor's in Geology +3 years experience or Master's in Geology +1 year; experience in drill logging, geologic mapping, resource modeling, and regulatory knowledge.",
-      "salary": "$88k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
