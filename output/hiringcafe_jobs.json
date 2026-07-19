@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-19 17:44 UTC",
+  "scraped_at": "2026-07-19 18:42 UTC",
   "total": 127,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "French & Parrello Associates (FPA)",
@@ -1655,84 +1655,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Kleinfelder",
-      "title": "Geologist",
-      "location": "Kingsville, Texas, United States",
-      "url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
-      "direct_url": "https://careers-kleinfelder.icims.com/jobs/9884/geologist/job?in_iframe=1",
-      "date_posted": "2026-06-24T04:00:00.000Z",
-      "description": "B.S. in geology/engineering/science required, 3+ years' experience, OSHA 40HR HAZWOPER required, E.I.T. preferred; field sampling, monitoring well installation, data analysis, and report writing experience; background checks and MVR required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist",
-      "date_posted": "2026-07-09T20:18:23.712Z",
-      "description": "B.S. in geology,4+ years relevant experience,valid U.S. driver’s license,pre-employment drug test,HAZWOPER 40-hour preferred,PG or GIT preferred,comfortable with extensive field travel and report writing.",
-      "salary": "$70k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Doe Run Company",
-      "title": "Geologist II",
-      "location": "Viburnum, Missouri, United States",
-      "url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482",
-      "direct_url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=5a4e5274-cac5-4f0f-b786-c9ab578d2482",
-      "date_posted": "2026-06-26T13:25:23.022Z",
-      "description": "Bachelor's in Geology required, minimum 3 years geological experience (graduate experience may be considered). Must maintain a valid driver's license. Prefer experience with AcQuire Database and Vulcan; proficient with Microsoft Office and geological data analysis.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stantec",
-      "title": "Geologist/GIT",
-      "location": "Lombard, Illinois, United States",
-      "url": "https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/",
-      "direct_url": "https://stantec.jobs/lombard-il/geologistgit/5EA473A803F64E8EACC40CFEB36E6A87/job/",
-      "date_posted": "2026-07-07T17:03:20.000Z",
-      "description": "Bachelor's degree in Geology, 3+ years environmental consulting experience, ability to perform site investigations, remedial oversight, technical writing, and travel up to 50%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HDR",
-      "title": "Geologist 2",
-      "location": "Austin or Baton Rouge or Houston",
-      "url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en",
-      "direct_url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en",
-      "date_posted": "2026-07-16T12:00:00.000Z",
-      "description": "Bachelor's in Geology/Earth Science/Hydrogeology required, 5+ years' experience, field work and well installation experience, groundwater/soil sampling, Microsoft Office proficiency; Master's preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Senior Geologist",
-      "location": "Bayard, New Mexico, United States",
-      "url": "https://talent.fmjobs.com/careers/job/42911190",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42911190",
-      "date_posted": "2026-07-07T20:57:20.000Z",
-      "description": "Bachelor's in Geology +5 years or Master's in Geology +3 years experience; experience with drill logging, geologic mapping, resource modeling, supervision, and knowledge of applicable regulations.",
-      "salary": "$98k–$138k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
