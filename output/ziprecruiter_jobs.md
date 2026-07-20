@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-20 20:07 UTC*
+*Last updated: 2026-07-20 21:38 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
