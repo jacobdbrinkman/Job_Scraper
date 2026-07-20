@@ -1,14 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-20 21:11 UTC*
+*Last updated: 2026-07-20 22:40 UTC*
 
-**2 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 11 total in last 24h
 
-### [Engineering Geologist II - Dams & Water Structures Focus](https://www.indeed.com/viewjob?jk=6a1949d529795c60) — AECOM
-- 📍 **Location:** Orange, CA, US
-- 💰 **Salary:** $70k–$100k/yr
+### [Water Resources Analyst I/II](https://www.indeed.com/viewjob?jk=cae34be247b74b93) — Hidden Valley Lake Community Services District
+- 📍 **Location:** Hidden Valley Lake, CA, US
+- 💰 **Salary:** $64k–$99k/yr
 - 🕒 **Posted:** 2026-07-20
 
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=93e56327a5ab734c) — aptim
-- 📍 **Location:** Salem, OR, US
-- 💰 **Salary:** $80k–$85k/yr
+### [Environmental Scientist 2](https://www.indeed.com/viewjob?jk=aad405f9e161d53e) — HDR
+- 📍 **Location:** Bellevue, WA, US
+- 💰 **Salary:** $88k–$126k/yr
 - 🕒 **Posted:** 2026-07-20
