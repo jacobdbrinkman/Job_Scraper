@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19 17:11 UTC",
-  "total": 10,
+  "scraped_at": "2026-07-20 18:14 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -40,21 +40,21 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523419",
+      "date_posted": "2026-07-20",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524628",
       "date_posted": "2026-07-13",
       "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Senior Environmental Scientist (Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524688",
-      "date_posted": "2026-07-16",
-      "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers"
     },
     {
@@ -85,12 +85,30 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Water Resources",
+      "title": "Engineering Geologist Outreach and Engagement Section",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524750",
+      "date_posted": "2026-07-20",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "California Governor's Office of Emergency Services",
       "title": "Research Data Analyst I",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523217",
       "date_posted": "2026-07-06",
       "salary": "$4469.00 - $6922.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Orange County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
+      "date_posted": "2026-07-20",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }
   ],
