@@ -1,9 +1,13 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-21 19:08 UTC*
+*Last updated: 2026-07-21 21:11 UTC*
 
-**1 new role(s)** since last run · 7 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=4cd3d3f390df6999) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [GIS Consultant](https://www.indeed.com/viewjob?jk=a716e27b332196fb) — Infosys
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $102k–$132k/yr
 - 🕒 **Posted:** 2026-07-21
+
+### [Program Coordinator, Wildfire Mitigation](https://www.indeed.com/viewjob?jk=59b80c11ada73478) — CORE Community Organized Relief Effort
+- 📍 **Location:** Yreka, CA, US
+- 🕒 **Posted:** 2026-07-17
