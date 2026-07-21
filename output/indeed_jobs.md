@@ -1,13 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-21 21:11 UTC*
+*Last updated: 2026-07-21 22:40 UTC*
 
 **2 new role(s)** since last run · 7 total in last 24h
 
-### [GIS Consultant](https://www.indeed.com/viewjob?jk=a716e27b332196fb) — Infosys
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $102k–$132k/yr
+### [DATA ANALYST 1](https://www.indeed.com/viewjob?jk=b13784e72f07749d) — VSolvit LLC
+- 📍 **Location:** Norco, CA, US
+- 💰 **Salary:** $33–$42/hr
 - 🕒 **Posted:** 2026-07-21
 
-### [Program Coordinator, Wildfire Mitigation](https://www.indeed.com/viewjob?jk=59b80c11ada73478) — CORE Community Organized Relief Effort
-- 📍 **Location:** Yreka, CA, US
-- 🕒 **Posted:** 2026-07-17
+### [BUSINESS DATA ANALYST 2](https://www.indeed.com/viewjob?jk=6cb083eddd074af6) — VSolvit LLC
+- 📍 **Location:** Norco, CA, US
+- 💰 **Salary:** $88k–$120k/yr
+- 🕒 **Posted:** 2026-07-21
