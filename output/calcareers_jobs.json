@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-20 18:14 UTC",
-  "total": 12,
+  "scraped_at": "2026-07-21 17:40 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -76,20 +76,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Conservation",
-      "title": "Seismic Hazards Program Engineering Geologist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524511",
-      "date_posted": "2026-07-13",
-      "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Water Resources",
       "title": "Engineering Geologist Outreach and Engagement Section",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524750",
       "date_posted": "2026-07-20",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Conservation",
+      "title": "Seismic Hazards Program Engineering Geologist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524511",
+      "date_posted": "2026-07-13",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
@@ -100,15 +100,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523217",
       "date_posted": "2026-07-06",
       "salary": "$4469.00 - $6922.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
-      "date_posted": "2026-07-20",
-      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     }
   ],
