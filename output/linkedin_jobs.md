@@ -1,62 +1,102 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-21 00:36 UTC*
+*Last updated: 2026-07-21 04:10 UTC*
 
-**13 new role(s)** since last run · 28 total in last 1h
+**23 new role(s)** since last run · 24 total in last 1h
 
-### [Environmental Scientist 2](https://www.linkedin.com/jobs/view/4442244801/) — HDR
-- 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $88,116 - $125,880
+### [Health Services Program Coordinator](https://www.linkedin.com/jobs/view/4442291145/) — Desert Sands Unified School District
+- 📍 **Location:** Stockton, CA
 - 🕒 **Posted:** 2026-07-21
 
-### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4442253656/) — HDR
-- 📍 **Location:** Wichita, KS
+### [Part-Time Student Worker - Data Analyst](https://www.linkedin.com/jobs/view/4442270249/) — Zoox
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-07-21
 
-### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4442243790/) — HDR
-- 📍 **Location:** Kansas City, MO
+### [Staff Environmental Scientist/Engineer](https://www.linkedin.com/jobs/view/4443093389/) — Onterris
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $71,000 to $80,000
 - 🕒 **Posted:** 2026-07-21
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4443052933/) — Leidos
-- 📍 **Location:** Huntsville, AL
-- 💰 **Salary:** $87,100.00 - $157,450.00
+### [Engineering Geologist II - Dams & Water Structures Focus](https://www.linkedin.com/jobs/view/4443089230/) — AECOM
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $70000 to $100000
 - 🕒 **Posted:** 2026-07-21
 
-### [Junior data analyst /BI Analyst/data scientist](https://www.linkedin.com/jobs/view/4442249698/) — SynergisticIT
-- 📍 **Location:** Tucson, AZ
-- 💰 **Salary:** $82,000.00/yr - $127,000.00/yr
+### [Sr Project Coordinator](https://www.linkedin.com/jobs/view/4440400796/) — MasTec Communications Group
+- 📍 **Location:** Sumner, WA
+- 💰 **Salary:** $25-$30 per hour
 - 🕒 **Posted:** 2026-07-21
 
-### [Security Data Analyst - Parsing](https://www.linkedin.com/jobs/view/4443046811/) — SpyCloud
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $111,000 - 144,000
-- 🕒 **Posted:** 2026-07-20
+### [Senior Enterprise Data Analyst - General Bank](https://www.linkedin.com/jobs/view/4443089626/) — First Citizens Bank
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-07-21
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4442238977/) — Hippo Insurance
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-07-20
+### [Senior Data Analyst - Pittsburgh District](https://www.linkedin.com/jobs/view/4443088572/) — Aramark
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-07-21
 
-### [Data Analyst, ReLo](https://www.linkedin.com/jobs/view/4443046174/) — Amazon
-- 📍 **Location:** Reading, PA
-- 🕒 **Posted:** 2026-07-20
+### [Archaeological Field Technician - Western Plains and Front Range](https://www.linkedin.com/jobs/view/4443082701/) — Tetra Tech
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $28.00 - $33.00 per hour
+- 🕒 **Posted:** 2026-07-21
 
-### [Product Data Analyst](https://www.linkedin.com/jobs/view/4443041068/) — Celigo
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-20
+### [ICQA Data Analyst](https://www.linkedin.com/jobs/view/4443051446/) — Amazon
+- 📍 **Location:** Avenel, NJ
+- 🕒 **Posted:** 2026-07-21
 
-### [Research Data Analyst (Psychiatry and Behavioral Sciences)](https://www.linkedin.com/jobs/view/4443046672/) — The Johns Hopkins University
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $48,000 - $84,100 ANNUALLY
-- 🕒 **Posted:** 2026-07-20
+### [Facilities Data Analyst - Remote](https://www.linkedin.com/jobs/view/4443088573/) — Aramark
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-07-21
 
-### [Project Coordinator - Nationwide Service and Projects](https://www.linkedin.com/jobs/view/4443050670/) — Wachter, Inc.
-- 📍 **Location:** Lowell, AR
-- 💰 **Salary:** $21.50/hr - $28.50/hr
-- 🕒 **Posted:** 2026-07-20
+### [Data Analyst](https://www.linkedin.com/jobs/view/4443302086/) — TriWest Healthcare Alliance
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $73,000 - $77,000 per year
+- 🕒 **Posted:** 2026-07-21
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4443056475/) — Mott MacDonald
-- 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-07-20
+### [Data Analyst, Specialist](https://www.linkedin.com/jobs/view/4442176231/) — Vanguard
+- 📍 **Location:** Malvern, PA
+- 🕒 **Posted:** 2026-07-21
 
-### [Clinical Project Coordinator](https://www.linkedin.com/jobs/view/4440197625/) — Quotient Sciences
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-07-20
+### [Enterprise Data Analyst II - General Bank](https://www.linkedin.com/jobs/view/4443095298/) — First Citizens Bank
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-07-21
+
+### [Enterprise Data Analyst II - General Bank](https://www.linkedin.com/jobs/view/4443081922/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-07-21
+
+### [Senior Enterprise Data Analyst - General Bank](https://www.linkedin.com/jobs/view/4443080929/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-07-21
+
+### [Senior Enterprise Data Analyst - General Bank](https://www.linkedin.com/jobs/view/4443096285/) — First Citizens Bank
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-07-21
+
+### [Senior Enterprise Data Analyst](https://www.linkedin.com/jobs/view/4443302030/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-07-21
+
+### [Sr. Resource Geologist](https://www.linkedin.com/jobs/view/4440412353/) — First Majestic Silver Corp-Jerritt Canyon Gold
+- 📍 **Location:** Elko, NV
+- 🕒 **Posted:** 2026-07-21
+
+### [Data Analyst, Senior Specialist](https://www.linkedin.com/jobs/view/4442174240/) — Vanguard
+- 📍 **Location:** Malvern, PA
+- 🕒 **Posted:** 2026-07-21
+
+### [Data Analyst, Senior Specialist](https://www.linkedin.com/jobs/view/4442159953/) — Vanguard
+- 📍 **Location:** Scottsdale, AZ
+- 🕒 **Posted:** 2026-07-21
+
+### [Enterprise Data Analyst II - General Bank](https://www.linkedin.com/jobs/view/4443087712/) — First Citizens Bank
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-07-21
+
+### [Services Project Coordinator (Remote) CST/MST/PST](https://www.linkedin.com/jobs/view/4442601042/) — Lowe's Companies, Inc.
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $17.73 - $29.61 per hour
+- 🕒 **Posted:** 2026-07-21
+
+### [Residency Program Coordinator](https://www.linkedin.com/jobs/view/4440405600/) — Stanford University
+- 📍 **Location:** Stanford, CA
+- 🕒 **Posted:** 2026-07-21
