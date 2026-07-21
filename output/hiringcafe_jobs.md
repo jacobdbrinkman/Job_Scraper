@@ -1,36 +1,38 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-21 04:54 UTC*
+*Last updated: 2026-07-21 18:05 UTC*
 
-**7 new role(s)** since last run · 129 total in last 30d
+**7 new role(s)** since last run · 128 total in last 30d
 
-### [Senior Environmental Scientist](https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist) — QK
-- 📍 **Location:** Clovis, California, United States
-- 💰 **Salary:** $105k–$120k/yr
-- 🕒 **Posted:** 2026-06-24T19:55:12.571Z
+### [Geospatial Analyst – Senior](https://careers-bluehawk.icims.com/jobs/2875/geospatial-analyst-%e2%80%93-senior/job?in_iframe=1) — Overview
+- 📍 **Location:** Georgia, United States
+- 🕒 **Posted:** 2026-07-21T04:00:00.000Z
 
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
-- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
+### [Geospatial Analyst, Mid](https://careers.boozallen.com/jobs/JobDetail/Alexandria-Geospatial-Analyst-Mid-R0244333/127218) — Booz Allen Hamilton
+- 📍 **Location:** Alexandria, Virginia, United States
+- 💰 **Salary:** $62k–$141k/yr
+- 🕒 **Posted:** 2026-07-13T12:00:00.000Z
+
+### [Geologist/Hydrologist I - Underground Storage Tank Management Division](https://www.governmentjobs.com/careers/sc/jobs/5401039) — State of South Carolina
+- 📍 **Location:** Richland County, South Carolina, United States
+- 💰 **Salary:** $57k–$61k/yr
+- 🕒 **Posted:** 2026-07-21T15:07:44.000Z
+
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
+- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
 - 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
+- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
 
-### [Geologist 2](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en) — HDR
-- 📍 **Location:** Austin or Baton Rouge or Houston
-- 🕒 **Posted:** 2026-07-16T12:00:00.000Z
+### [Field Geologist](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371) — Arcadis
+- 📍 **Location:** Knoxville, Tennessee, United States
+- 💰 **Salary:** $58k–$87k/yr
+- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
 
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
+### [Field Geologist](https://arcadis.eightfold.ai/careers/job/563671532591339) — Arcadis
+- 📍 **Location:** Knoxville, Tennessee, United States
+- 💰 **Salary:** $58k–$87k/yr
+- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
+
+### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
 - 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
-
-### [Geologist 2](https://hdr.referrals.selectminds.com/jobs/geologist-2-44512) — HDR
-- 📍 **Location:** Austin or Houston or Baton Rouge
-- 🕒 **Posted:** 2026-07-16T22:22:48.976Z
-
-### [Senior Geologist](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c69af127d1019b0914f738061e&id=8a78859e9f4435ab019f6cf594d46983&source=&lang=en) — Florida Canyon Mining, Inc.
-- 📍 **Location:** Imlay or Winnemucca
-- 🕒 **Posted:** 2026-07-16T22:04:21.000Z
-
-### [Geologist 2](https://www.governmentjobs.com/careers/iowa/jobs/5415058) — State of Iowa
-- 📍 **Location:** Ames, Iowa, United States
-- 💰 **Salary:** $57k–$86k/yr
-- 🕒 **Posted:** 2026-07-17T21:22:42.000Z
+- 💰 **Salary:** $88k–$120k/yr
+- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
