@@ -1,154 +1,94 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-22 23:43 UTC*
+*Last updated: 2026-07-23 00:41 UTC*
 
-**33 new role(s)** since last run · 43 total in last 1h
+**20 new role(s)** since last run · 32 total in last 1h
 
-### [Environmental Remediation Engineer/Scientist/Geologist](https://www.linkedin.com/jobs/view/4444210823/) — Jacobs
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $66,300.00/yr - $100,210.00/yr
-- 🕒 **Posted:** 2026-07-22
-
-### [Environmental Remediation Engineer/Scientist/Geologist](https://www.linkedin.com/jobs/view/4444206863/) — Jacobs
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $66,300.00/yr - $100,210.00/yr
-- 🕒 **Posted:** 2026-07-22
-
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4436512180/) — Artos AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $166,500.00/yr - $231,000.00/yr
-- 🕒 **Posted:** 2026-07-22
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4441093134/) — Qureos
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $32 - $45 USD
-- 🕒 **Posted:** 2026-07-22
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4435272590/) — St. John's Community Health
-- 📍 **Location:** San Bernardino, CA
-- 💰 **Salary:** $30.00/hr - $30.00/hr
-- 🕒 **Posted:** 2026-07-22
-
-### [Geologist](https://www.linkedin.com/jobs/view/4444213869/) — Cameco Corporation
-- 📍 **Location:** Highlands Ranch, CO
-- 🕒 **Posted:** 2026-07-22
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4444218603/) — White Cap
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $24.50-$36.30 Hourly
-- 🕒 **Posted:** 2026-07-22
-
-### [GIS Technician - Oahu, Maui, or Hawaii Island](https://www.linkedin.com/jobs/view/4444225231/) — Hawaiian Electric
-- 📍 **Location:** Hawaii, United States
-- 🕒 **Posted:** 2026-07-22
-
-### [Environmental Field Technician | SC&A, Inc.](https://www.linkedin.com/jobs/view/4443432380/) — The Sustainability Grid
-- 📍 **Location:** South Carolina, United States
-- 💰 **Salary:** $68,000 – $79,000
-- 🕒 **Posted:** 2026-07-22
-
-### [Survey Technician/Instrument Operator - Entry Level](https://www.linkedin.com/jobs/view/4444215450/) — SAM
-- 📍 **Location:** Knoxville, TN
-- 🕒 **Posted:** 2026-07-22
-
-### [Survey Technician/Instrument Operator - Entry Level](https://www.linkedin.com/jobs/view/4444213620/) — SAM
-- 📍 **Location:** Macon, GA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Hydrogeologist (USA)](https://www.linkedin.com/jobs/view/4443416603/) — ITASCA International Inc.
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $105,000–$130,000
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Hydrogeologist/Groundwater Modeler (USA)](https://www.linkedin.com/jobs/view/4443415588/) — ITASCA International Inc.
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $105,000-$130,000
-- 🕒 **Posted:** 2026-07-22
-
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4443418515/) — Matricstek Inc.
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-07-22
-
-### [Remote Data Analyst](https://www.linkedin.com/jobs/view/4441087545/) — Qureos
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $58,000 to $125,000 USD
-- 🕒 **Posted:** 2026-07-22
-
-### [Data Analyst (Only W2)](https://www.linkedin.com/jobs/view/4443992613/) — Raas Infotek
-- 📍 **Location:** Greensboro, NC
-- 🕒 **Posted:** 2026-07-22
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4443418528/) — FetchJobs.co
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Project Hydrogeologist (USA)](https://www.linkedin.com/jobs/view/4443419549/) — ITASCA International Inc.
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $85,000-$105,000
-- 🕒 **Posted:** 2026-07-22
-
-### [Oncology Data Analyst](https://www.linkedin.com/jobs/view/4443418694/) — Corewell Health
-- 📍 **Location:** Royal Oak, MI
-- 🕒 **Posted:** 2026-07-22
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4443426510/) — Sub-Zero Group, Inc.
-- 📍 **Location:** Madison, WI
-- 🕒 **Posted:** 2026-07-22
-
-### [Project Coordinator I – Project Controls](https://www.linkedin.com/jobs/view/4443439447/) — Washington University in St. Louis
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $49,700.00 - $82,100.00
-- 🕒 **Posted:** 2026-07-22
-
-### [Facility Project Coordinator](https://www.linkedin.com/jobs/view/4441681565/) — The Budd Group
-- 📍 **Location:** High Point, NC
-- 🕒 **Posted:** 2026-07-22
-
-### [CPR Project Coordinator](https://www.linkedin.com/jobs/view/4444216650/) — Kindeva Drug Delivery
-- 📍 **Location:** St. Louis County, MO
-- 🕒 **Posted:** 2026-07-22
-
-### [Research Project Coordinator (Epidemiology)](https://www.linkedin.com/jobs/view/4443589405/) — The Johns Hopkins University
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $33,540 - $59,085 Annually
-- 🕒 **Posted:** 2026-07-22
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4441086464/) — CFS
-- 📍 **Location:** St Paul, MN
-- 💰 **Salary:** $49,920.00/yr - $60,000.00/yr
-- 🕒 **Posted:** 2026-07-22
-
-### [Project Coordinator - Advanced Practice Provider Center](https://www.linkedin.com/jobs/view/4444223334/) — UNC Health
-- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
-- 💰 **Salary:** $24.98 - $35.91 per hour
-- 🕒 **Posted:** 2026-07-22
-
-### [Industrial Engineer/Project Coordinator](https://www.linkedin.com/jobs/view/4441077937/) — SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED
+### [Analytics Engineer / Data Analyst](https://www.linkedin.com/jobs/view/4443423670/) — Newo.ai
 - 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-22
+- 💰 **Salary:** $60,000-125,000
+- 🕒 **Posted:** 2026-07-23
 
-### [Video Project Coordinator](https://www.linkedin.com/jobs/view/4441079740/) — E-Logic, Inc.
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-07-22
+### [Data Analyst](https://www.linkedin.com/jobs/view/4443436743/) — Avery Products Corporation
+- 📍 **Location:** Brea, CA
+- 💰 **Salary:** $95,000.00/yr - $115,000.00/yr
+- 🕒 **Posted:** 2026-07-23
 
-### [Project Coordinator – Healthcare (Remote)](https://www.linkedin.com/jobs/view/4441076894/) — Carex Consulting Group
-- 📍 **Location:** Scottsdale, AZ
-- 🕒 **Posted:** 2026-07-22
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4441075887/) — ApotheCom, an Inizio Company
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4443434689/) — Jobright.ai
 - 📍 **Location:** United States
-- 💰 **Salary:** $50,000—$65,000 USD
-- 🕒 **Posted:** 2026-07-22
+- 🕒 **Posted:** 2026-07-23
 
-### [Project Coordinator - Clinical Research](https://www.linkedin.com/jobs/view/4443436442/) — Celerion
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-07-22
+### [Graduate Service Data Analyst I](https://www.linkedin.com/jobs/view/4444222852/) — Honeywell Technologies
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-07-23
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4443421324/) — Ultimate Staffing
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $24.00/hr - $26.00/hr
-- 🕒 **Posted:** 2026-07-22
+### [Senior Reference Data Analyst](https://www.linkedin.com/jobs/view/4444233395/) — Selby Jennings
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-07-23
 
-### [Hybrid- Project Coordinator - Construction](https://www.linkedin.com/jobs/view/4438263126/) — Primary Talent Partners
+### [Data Analyst (TS/SCI)](https://www.linkedin.com/jobs/view/4441502161/) — Command Holdings, a Pequot Company
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-07-23
+
+### [Sr Data Analyst – ED&A Business Banking](https://www.linkedin.com/jobs/view/4444229565/) — Citizens
+- 📍 **Location:** Westwood, MA
+- 💰 **Salary:** $110,000 - $130,000 per year
+- 🕒 **Posted:** 2026-07-23
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4444224761/) — Star Construction LLC
+- 📍 **Location:** Booneville, MS
+- 🕒 **Posted:** 2026-07-23
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4444238439/) — PARIC
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-07-23
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4444222978/) — Helix Electric
 - 📍 **Location:** Manassas, VA
-- 💰 **Salary:** $35.58/hr - $48.94/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4444228386/) — Texas Tech University Health Sciences Center
+- 📍 **Location:** Midland-Odessa Area
+- 🕒 **Posted:** 2026-07-23
+
+### [Senior Program Coordinator - Grants](https://www.linkedin.com/jobs/view/4444235366/) — University of Oklahoma
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-07-23
+
+### [Security Program Coordinator](https://www.linkedin.com/jobs/view/4444221863/) — Canvas
+- 📍 **Location:** Eglin Air Force Base, FL
+- 🕒 **Posted:** 2026-07-23
+
+### [Administrative Assistant/Project Coordinator – Results Delivery Office (HYBRID)](https://www.linkedin.com/jobs/view/4441081901/) — Equitable
+- 📍 **Location:** Syracuse, NY
+- 💰 **Salary:** $58,000 - $70,000
+- 🕒 **Posted:** 2026-07-23
+
+### [Entry Level: Geospatial/Remote Sensing Analyst](https://www.linkedin.com/jobs/view/4443413742/) — Dewberry
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-07-22
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4443428651/) — Peraton
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $86,000 - $138,000
+- 🕒 **Posted:** 2026-07-22
+
+### [Level 3 Industrial Hygiene Environmental Consultant (Asbestos, Mold, Lead) - Dallas, Texas](https://www.linkedin.com/jobs/view/4444237054/) — MSE Environmental
+- 📍 **Location:** Bedford, TX
+- 💰 **Salary:** $6000 - $8400
+- 🕒 **Posted:** 2026-07-22
+
+### [Level 2 Industrial Hygiene Environmental Field Technician / Consultant (Asbestos, Mold, Lead) - Dallas, Texas](https://www.linkedin.com/jobs/view/4444213991/) — MSE Environmental
+- 📍 **Location:** Bedford, TX
+- 💰 **Salary:** $6000 - $8400
+- 🕒 **Posted:** 2026-07-22
+
+### [Demand Generation Data Analyst](https://www.linkedin.com/jobs/view/4426134578/) — Philips
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $66,000 to $105,000 annually
+- 🕒 **Posted:** 2026-07-22
+
+### [Graduate Program Coordinator – Online MSW](https://www.linkedin.com/jobs/view/4441080985/) — University of Minnesota
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $50,000 - $ 65,707
 - 🕒 **Posted:** 2026-07-22
