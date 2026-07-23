@@ -1,34 +1,27 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-23 04:59 UTC*
+*Last updated: 2026-07-23 18:04 UTC*
 
-**6 new role(s)** since last run · 135 total in last 30d
+**5 new role(s)** since last run · 133 total in last 30d
 
-### [GIS Analyst](https://www.governmentjobs.com/careers/wrightcountymn/jobs/5418100) — Wright County, MN
-- 📍 **Location:** Buffalo, Minnesota, United States
-- 💰 **Salary:** $71k–$100k/yr
-- 🕒 **Posted:** 2026-07-22T00:00:00.000Z
+### [GIS Analyst](https://atmosenergy.wd108.myworkdayjobs.com/external_career_site/job/Texas---Dallas/GIS-Analyst_JR13864) — Atmosenergy
+- 📍 **Location:** Dallas, Texas, United States
+- 🕒 **Posted:** 2026-07-23T00:00:00.000Z
 
-### [Environmental Scientist I](https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9) — Vistal
-- 📍 **Location:** Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado
-- 💰 **Salary:** $71k–$97k/yr
-- 🕒 **Posted:** 2026-07-01T18:47:25.002Z
+### [Planning & GIS Analyst](https://www.governmentjobs.com/careers/puebloco/jobs/5420688) — Pueblo County, CO
+- 📍 **Location:** Pueblo, Colorado, United States
+- 💰 **Salary:** $65k–$97k/yr
+- 🕒 **Posted:** 2026-07-23T05:26:00.000Z
 
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
-- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
-- 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
+### [Senior GIS Analyst (HELP Program) ](https://cayugacounty.betterteam.com/senior-gis-analyst-%28help-program%29) — Cayuga County New York
+- 📍 **Location:** Auburn, New York, United States
+- 💰 **Salary:** $64k/yr
+- 🕒 **Posted:** 2026-07-23T03:12:44.494Z
 
-### [Field Geologist](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371) — Arcadis
-- 📍 **Location:** Knoxville, Tennessee, United States
-- 💰 **Salary:** $58k–$87k/yr
-- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
+### [Environmental Scientist](https://www.governmentjobs.com/careers/elpaso/jobs/5416779) — City of El Paso, TX
+- 📍 **Location:** El Paso, Texas, United States
+- 💰 **Salary:** $56k–$84k/yr
+- 🕒 **Posted:** 2026-07-22T15:57:08.000Z
 
-### [Field Geologist](https://arcadis.eightfold.ai/careers/job/563671532591339) — Arcadis
-- 📍 **Location:** Knoxville, Tennessee, United States
-- 💰 **Salary:** $58k–$87k/yr
-- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
-
-### [Geologist II](https://talent.fmjobs.com/careers/job/42911253) — Freeport-McMoRan
-- 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $88k–$120k/yr
-- 🕒 **Posted:** 2026-07-07T20:56:49.000Z
+### [Associate Geologist](https://jobs.lever.co/true-environmental/be7699c1-5240-4235-b9ad-be546500af39) — True-environmental
+- 📍 **Location:** Albuquerque, New Mexico, United States
+- 🕒 **Posted:** 2026-06-30T20:17:14.636Z
