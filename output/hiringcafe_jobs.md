@@ -1,28 +1,37 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-24 18:08 UTC*
+*Last updated: 2026-07-24 20:07 UTC*
 
-**5 new role(s)** since last run · 138 total in last 30d
+**7 new role(s)** since last run · 136 total in last 30d
 
-### [GIS Analyst](https://www.governmentjobs.com/careers/ashevillenc/jobs/5415781) — City of Asheville, NC
-- 📍 **Location:** Asheville, North Carolina, United States
-- 💰 **Salary:** $50k–$55k/yr
-- 🕒 **Posted:** 2026-07-24T17:59:24.219Z
+### [Environmental Scientist/Hydrologist (GeoSystems Analysis)](https://westlandresources.applicantpro.com/jobs/4155900) — Westland Resources
+- 📍 **Location:** Tucson or United States
+- 💰 **Salary:** $68k–$85k/yr
+- 🕒 **Posted:** 2026-07-22T00:00:00.000Z
 
-### [Environmental Scientist](https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist) — AECOM
-- 📍 **Location:** Arlington, Virginia, United States
-- 💰 **Salary:** $60k–$80k/yr
-- 🕒 **Posted:** 2026-07-24T12:49:03.794Z
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
+- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
 
-### [Geologist](https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Geologist_JR-840) — Penncolor
-- 📍 **Location:** Pittsburgh, Pennsylvania, United States
-- 🕒 **Posted:** 2026-07-24T00:00:00.000Z
+### [Field Geologist](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371) — Arcadis
+- 📍 **Location:** Knoxville, Tennessee, United States
+- 💰 **Salary:** $58k–$87k/yr
+- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
 
-### [ENVIRONMENTAL SCIENTIST 3](https://www.governmentjobs.com/careers/nv/jobs/5422193) — State of Nevada (NV)
-- 📍 **Location:** Las Vegas, Nevada, United States
-- 💰 **Salary:** $67k–$100k/yr
-- 🕒 **Posted:** 2026-07-23T21:44:21.000Z
+### [Field Geologist](https://arcadis.eightfold.ai/careers/job/563671532591339) — Arcadis
+- 📍 **Location:** Knoxville, Tennessee, United States
+- 💰 **Salary:** $58k–$87k/yr
+- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
 
-### [Environmental Consultant – Senior Level (Hybrid)](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185) — Barr
-- 📍 **Location:** Grand Rapids, Michigan, United States
-- 💰 **Salary:** $125k–$150k/yr
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+### [Geologist Advisor](https://careers.apachecorp.com/job/Houston-Geologist-Advisor-TX-77042/1404071700/) — Apache Corporation
+- 📍 **Location:** Houston or Cairo or United States or Egypt or United Kingdom or Suriname
+- 🕒 **Posted:** 2026-07-01T05:47:17.332Z
+
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
+- 📍 **Location:** Morenci, Arizona, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
+
+### [Geologist III](https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=56b71bd2-d432-4e48-91a7-ab3bc1b072df) — The Doe Run Company
+- 📍 **Location:** Viburnum or St. Louis or Missouri or Washington or Arizona
+- 🕒 **Posted:** 2026-06-26T13:35:26.359Z
