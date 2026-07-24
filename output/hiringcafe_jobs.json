@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-24 04:55 UTC",
-  "total": 135,
-  "new_count": 6,
+  "scraped_at": "2026-07-24 18:08 UTC",
+  "total": 138,
+  "new_count": 5,
   "jobs": [
     {
       "company": "French & Parrello Associates (FPA)",
@@ -82,19 +82,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Osmose Utilities",
-      "title": "GIS Analyst",
-      "location": "Depew, New York, United States",
-      "url": "https://osmose.hrmdirect.com/employment/job-opening.php?req=3765484&req_loc=1397173",
-      "direct_url": "https://osmose.hrmdirect.com/employment/job-opening.php?req=3765484&req_loc=1397173",
-      "date_posted": "2026-07-17T03:00:00.000Z",
-      "description": "Authorized to work in the US, Master's preferred or 2+ years related experience, extensive ESRI GIS knowledge, Python scripting, database concepts, and proficiency with Microsoft Access/Excel/Word.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Socket Telecom LLC",
       "title": "GIS Analyst",
       "location": "Columbia, Missouri, United States",
@@ -102,6 +89,19 @@
       "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4346447",
       "date_posted": "2026-07-20T16:44:25.000Z",
       "description": "5+ years fiber OSP experience, GIS/mapping platform proficiency, strong fiber network design and analytical skills, ability to perform cost/feasibility studies and communicate findings.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Osmose Utilities",
+      "title": "GIS Analyst",
+      "location": "Depew, New York, United States",
+      "url": "https://osmose.hrmdirect.com/employment/job-opening.php?req=3765484&req_loc=1397173",
+      "direct_url": "https://osmose.hrmdirect.com/employment/job-opening.php?req=3765484&req_loc=1397173",
+      "date_posted": "2026-07-17T03:00:00.000Z",
+      "description": "Authorized to work in the US, Master's preferred or 2+ years related experience, extensive ESRI GIS knowledge, Python scripting, database concepts, and proficiency with Microsoft Access/Excel/Word.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -186,19 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Papedawson",
-      "title": "GIS Analyst I",
-      "location": "Plano or San Antonio or Austin or Dallas",
-      "url": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/GIS-Analyst-I_JR101352",
-      "direct_url": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/GIS-Analyst-I_JR101352",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Bachelor's degree in GIS, Geography, Cartography or related; 0–3 years GIS experience; experience with Esri ArcGIS, SQL and spatial databases; ability to interpret surveys and create cartographic deliverables.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Thurston County Career Site",
       "title": "GIS ANALYST II",
       "location": "Olympia, Washington, United States",
@@ -207,6 +194,19 @@
       "date_posted": "2026-07-14T15:53:33.000Z",
       "description": "Associate's degree (Bachelor's preferred) in relevant field, 2+ years GIS experience, knowledge of GIS hardware/software, driver’s license, pass background check; strong communication and training skills.",
       "salary": "$77k–$103k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Papedawson",
+      "title": "GIS Analyst I",
+      "location": "Plano or San Antonio or Austin or Dallas",
+      "url": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/GIS-Analyst-I_JR101352",
+      "direct_url": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/GIS-Analyst-I_JR101352",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Bachelor's degree in GIS, Geography, Cartography or related; 0–3 years GIS experience; experience with Esri ArcGIS, SQL and spatial databases; ability to interpret surveys and create cartographic deliverables.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -238,6 +238,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "City of Asheville, NC",
+      "title": "GIS Analyst",
+      "location": "Asheville, North Carolina, United States",
+      "url": "https://www.governmentjobs.com/careers/ashevillenc/jobs/5415781",
+      "direct_url": "https://www.governmentjobs.com/careers/ashevillenc/jobs/5415781",
+      "date_posted": "2026-07-24T17:59:24.219Z",
+      "description": "Bachelor's in GIS/Geography/Information Systems required, minimum 2 years GIS experience, valid NC driver's license, knowledge of ESRI and hydraulic modeling, ability to perform quality checks and customer service.",
+      "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Wright County, MN",
       "title": "GIS Analyst",
       "location": "Buffalo, Minnesota, United States",
@@ -251,19 +264,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Moore",
-      "title": "GIS ANALYST",
-      "location": "Moore, Oklahoma, United States",
-      "url": "https://munis.cityofmoore.com/ess/EmploymentOpportunities/JobDetail.aspx?req=20260048&sreq=1&form=GEN&desc=GIS%20ANALYST",
-      "direct_url": "https://munis.cityofmoore.com/ess/EmploymentOpportunities/JobDetail.aspx?req=20260048&sreq=1&form=GEN&desc=GIS%20ANALYST",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Bachelor's in GIS-related field, 2 years GIS experience (municipal/local government preferred), experience administering geospatial data, developing automated workflows, and supporting asset management; Oklahoma driver’s license may be required.",
-      "salary": "$62k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Stafford County, VA",
       "title": "GIS Analyst ",
       "location": "Stafford County, Virginia, United States",
@@ -272,6 +272,19 @@
       "date_posted": "2026-07-22T19:55:29.030Z",
       "description": "Degree in GIS or related field and ≥2 years GIS experience; knowledge of geocoding, cartography, coordinate systems, data conversion, and ArcGIS products; experience with Visual Basic/VBA and Microsoft Office/Adobe; strong communication skills.",
       "salary": "$64k–$138k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Moore",
+      "title": "GIS ANALYST",
+      "location": "Moore, Oklahoma, United States",
+      "url": "https://munis.cityofmoore.com/ess/EmploymentOpportunities/JobDetail.aspx?req=20260048&sreq=1&form=GEN&desc=GIS%20ANALYST",
+      "direct_url": "https://munis.cityofmoore.com/ess/EmploymentOpportunities/JobDetail.aspx?req=20260048&sreq=1&form=GEN&desc=GIS%20ANALYST",
+      "date_posted": "2026-07-21T00:00:00.000Z",
+      "description": "Bachelor's in GIS-related field, 2 years GIS experience (municipal/local government preferred), experience administering geospatial data, developing automated workflows, and supporting asset management; Oklahoma driver’s license may be required.",
+      "salary": "$62k–$68k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -316,19 +329,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Montana",
-      "title": "GIS Analyst",
-      "location": "Lewis And Clark County, Montana, United States",
-      "url": "https://mtstatejobs.referrals.selectminds.com/jobs/gis-analyst-26639",
-      "direct_url": "https://mtstatejobs.referrals.selectminds.com/jobs/gis-analyst-26639",
-      "date_posted": "2026-07-15T18:13:41.092Z",
-      "description": "BA/BS in Planning, CIS, Business or related (or equivalent experience), minimum 1 year related experience, strong communication, judgment, and GIS/data management skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Capgemini",
       "title": "GIS Analyst",
       "location": "Spring, Texas, United States",
@@ -337,6 +337,19 @@
       "date_posted": "2026-07-15T00:00:00.000Z",
       "description": "Bachelor's degree and 8+ years GIS experience; strong ArcGIS Pro, SQL, Python/ArcPy or ModelBuilder, geodatabase management, spatial analysis, and cartographic production skills.",
       "salary": "$73k–$174k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Montana",
+      "title": "GIS Analyst",
+      "location": "Lewis And Clark County, Montana, United States",
+      "url": "https://mtstatejobs.referrals.selectminds.com/jobs/gis-analyst-26639",
+      "direct_url": "https://mtstatejobs.referrals.selectminds.com/jobs/gis-analyst-26639",
+      "date_posted": "2026-07-15T18:13:41.092Z",
+      "description": "BA/BS in Planning, CIS, Business or related (or equivalent experience), minimum 1 year related experience, strong communication, judgment, and GIS/data management skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -472,19 +485,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cayuga County New York",
-      "title": "Senior GIS Analyst (HELP Program) ",
-      "location": "Auburn, New York, United States",
-      "url": "https://cayugacounty.betterteam.com/senior-gis-analyst-%28help-program%29",
-      "direct_url": "https://cayugacounty.betterteam.com/senior-gis-analyst-%28help-program%29",
-      "date_posted": "2026-07-23T03:12:44.494Z",
-      "description": "Degree in geography/planning/engineering/GIS or related field plus 1–4 years GIS/data analysis experience; ability to use GIS/GPS, manage spatial databases, analyze demographic data, prepare maps and reports.",
-      "salary": "$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The Tatitlek Corporation",
       "title": "Geospatial Analyst",
       "location": "Oak Ridge, Tennessee, United States",
@@ -576,19 +576,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "E&M Technologies, Inc.",
-      "title": "Mid Geospatial Analyst",
-      "location": "Charlottesville, Virginia, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4342784",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4342784",
-      "date_posted": "2026-07-18T07:28:06.000Z",
-      "description": "3+ years GIS and open-source intelligence experience, US citizenship, HS diploma (Bachelor's preferred), TS/SCI with CI Poly required, proficiency with geospatial tools and customer communication.",
-      "salary": "$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Booz Allen Hamilton",
       "title": "Geospatial Analyst, Mid",
       "location": "Alexandria, Virginia, United States",
@@ -597,6 +584,19 @@
       "date_posted": "2026-07-13T12:00:00.000Z",
       "description": "TS/SCI with polygraph required; 2+ years geospatial analysis with advanced imagery and multi‑INT experience; proficiency with EM/visualization data, programming/scripting; strong communication and critical thinking.",
       "salary": "$62k–$141k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "E&M Technologies, Inc.",
+      "title": "Mid Geospatial Analyst",
+      "location": "Charlottesville, Virginia, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4342784",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4342784",
+      "date_posted": "2026-07-18T07:28:06.000Z",
+      "description": "3+ years GIS and open-source intelligence experience, US citizenship, HS diploma (Bachelor's preferred), TS/SCI with CI Poly required, proficiency with geospatial tools and customer communication.",
+      "salary": "$115k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -914,6 +914,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
+      "location": "Arlington, Virginia, United States",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
+      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
+      "date_posted": "2026-07-24T12:49:03.794Z",
+      "description": "Bachelor's in Environmental Science,2+ years environmental consulting experience,valid U.S. driver's license,U.S. citizenship required,OSHA 40-hour HAZWOPER,ability to lift 50 lbs,background check required.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "City of El Paso, TX",
       "title": "Environmental Scientist",
       "location": "El Paso, Texas, United States",
@@ -953,19 +966,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Deerfield, Illinois, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-08T15:43:00.000Z",
-      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
-      "salary": "$90k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Geo-Technology Associates Inc.",
       "title": "Environmental Scientist",
       "location": "Laurel, Maryland, United States",
@@ -974,6 +974,19 @@
       "date_posted": "2026-07-01T16:35:29.017Z",
       "description": "Bachelor's in environmental science/geology/engineering, 1–3 years relevant experience, Phase I and Phase II ESAs required, strong written/verbal communication, organized self-starter.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Deerfield, Illinois, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-08T15:43:00.000Z",
+      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
+      "salary": "$90k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1018,14 +1031,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kansas Department of Agriculture",
+      "company": "Environmental Compliance Consultants",
       "title": "Environmental Scientist",
-      "location": "Garden City, Kansas, United States",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-07-14T12:00:00.000Z",
-      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
-      "salary": "$55k/yr",
+      "location": "Anchorage, Alaska, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "date_posted": "2026-07-06T14:10:25.000Z",
+      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
+      "salary": "$85k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1044,14 +1057,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Compliance Consultants",
+      "company": "Kansas Department of Agriculture",
       "title": "Environmental Scientist",
-      "location": "Anchorage, Alaska, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "date_posted": "2026-07-06T14:10:25.000Z",
-      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
-      "salary": "$85k–$95k/yr",
+      "location": "Garden City, Kansas, United States",
+      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
+      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-07-14T12:00:00.000Z",
+      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
+      "salary": "$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1187,19 +1200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Commerce",
-      "title": "Hydrologist",
-      "location": "Peachtree City or Slidell or Norton or Chanhassen or Tulsa or Portland or State College or Fort Worth or Salt Lake City",
-      "url": "https://www.usajobs.gov/job/876294800",
-      "direct_url": "https://www.usajobs.gov/job/876294800",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "Bachelor's in physical or natural science with required calculus and physics, plus 1+ year specialized hydrology experience (GS-12 equivalent). U.S. citizenship and favorable background investigation required.",
-      "salary": "$106k–$157k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lynker",
       "title": "Hydrologist",
       "location": "Leesburg, Virginia, United States",
@@ -1210,6 +1210,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Commerce",
+      "title": "Hydrologist",
+      "location": "Peachtree City or Slidell or Norton or Chanhassen or Tulsa or Portland or State College or Fort Worth or Salt Lake City",
+      "url": "https://www.usajobs.gov/job/876294800",
+      "direct_url": "https://www.usajobs.gov/job/876294800",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "Bachelor's in physical or natural science with required calculus and physics, plus 1+ year specialized hydrology experience (GS-12 equivalent). U.S. citizenship and favorable background investigation required.",
+      "salary": "$106k–$157k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1369,19 +1382,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Select",
-      "title": "Geologist",
-      "location": "Midland-Odessa or Dallas or Oklahoma City or Houston",
-      "url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/select/candidateportal/jobs/31645",
-      "date_posted": "2026-06-24T06:00:00.000Z",
-      "description": "Bachelor's in geology or related field required; 3+ years oil & gas geology experience; proficiency with Petra, Geographix, Petrel, Kingdom, ArcGIS; knowledge of Class II injection well regulations.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "AECOM",
       "title": "Geologist",
       "location": "Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs",
@@ -1390,6 +1390,19 @@
       "date_posted": "2026-07-09T20:18:23.712Z",
       "description": "B.S. in geology,4+ years relevant experience,valid U.S. driver’s license,pre-employment drug test,HAZWOPER 40-hour preferred,PG or GIT preferred,comfortable with extensive field travel and report writing.",
       "salary": "$70k–$110k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Penncolor",
+      "title": "Geologist",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Geologist_JR-840",
+      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Geologist_JR-840",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's in Geology/Earth Science, 2+ years relevant experience, field investigation and report writing experience, familiarity with GIS, strong communication and organizational skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1590,6 +1603,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "State of Nevada (NV)",
+      "title": "ENVIRONMENTAL SCIENTIST 3",
+      "location": "Las Vegas, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
+      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
+      "date_posted": "2026-07-23T21:44:21.000Z",
+      "description": "Conduct environmental inspections, audits, permit review, compliance monitoring, report writing, data analysis, and enforcement related to stormwater and other environmental programs.",
+      "salary": "$67k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "PacifiCorp",
       "title": "Sr. Environmental Analyst",
       "location": "Portland, Oregon, United States",
@@ -1757,83 +1783,83 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Barr",
+      "title": "Environmental Consultant – Senior Level (Hybrid)",
+      "location": "Grand Rapids, Michigan, United States",
+      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
+      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "15+ years in environmental permitting, review, and compliance; bachelor’s degree in environmental science or related field; strong regulatory expertise (Michigan/federal); valid driver’s license; authorized to work in the U.S. without sponsorship.",
+      "salary": "$125k–$150k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Asarco LLC",
-      "title": "Geologist II",
-      "location": "Sahuarita, Arizona, United States",
-      "url": "https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106",
-      "direct_url": "https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106",
-      "date_posted": "2026-07-23T00:11:48.000Z",
-      "description": "Bachelor's in Geology or Geological Engineering required; Master's in Economic Geology preferred. Driver's license required. Three years' experience preferred. Must pass background check and pre-employment physical/drug screen and follow safety systems.",
+      "company": "City of Asheville, NC",
+      "title": "GIS Analyst",
+      "location": "Asheville, North Carolina, United States",
+      "url": "https://www.governmentjobs.com/careers/ashevillenc/jobs/5415781",
+      "direct_url": "https://www.governmentjobs.com/careers/ashevillenc/jobs/5415781",
+      "date_posted": "2026-07-24T17:59:24.219Z",
+      "description": "Bachelor's in GIS/Geography/Information Systems required, minimum 2 years GIS experience, valid NC driver's license, knowledge of ESRI and hydraulic modeling, ability to perform quality checks and customer service.",
+      "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
+      "location": "Arlington, Virginia, United States",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
+      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
+      "date_posted": "2026-07-24T12:49:03.794Z",
+      "description": "Bachelor's in Environmental Science,2+ years environmental consulting experience,valid U.S. driver's license,U.S. citizenship required,OSHA 40-hour HAZWOPER,ability to lift 50 lbs,background check required.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Penncolor",
+      "title": "Geologist",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Geologist_JR-840",
+      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Geologist_JR-840",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's in Geology/Earth Science, 2+ years relevant experience, field investigation and report writing experience, familiarity with GIS, strong communication and organizational skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "HDR",
-      "title": "Geologist 2",
-      "location": "Austin or Houston or Baton Rouge",
-      "url": "https://hdr.referrals.selectminds.com/jobs/geologist-2-44512",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/geologist-2-44512",
-      "date_posted": "2026-07-16T22:22:48.976Z",
-      "description": "Bachelor's in Geology or related, 5+ years experience, field work and well installation experience, groundwater/soil sampling, EMR with Microsoft Office, MS preferred.",
-      "salary": "",
+      "company": "State of Nevada (NV)",
+      "title": "ENVIRONMENTAL SCIENTIST 3",
+      "location": "Las Vegas, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
+      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
+      "date_posted": "2026-07-23T21:44:21.000Z",
+      "description": "Conduct environmental inspections, audits, permit review, compliance monitoring, report writing, data analysis, and enforcement related to stormwater and other environmental programs.",
+      "salary": "$67k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Florida Canyon Mining, Inc.",
-      "title": "Senior Geologist",
-      "location": "Imlay or Winnemucca",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c69af127d1019b0914f738061e&id=8a78859e9f4435ab019f6cf594d46983&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c69af127d1019b0914f738061e&id=8a78859e9f4435ab019f6cf594d46983&source=&lang=en",
-      "date_posted": "2026-07-16T22:04:21.000Z",
-      "description": "Bachelor's in Geology or Geological Engineering, 8+ years geology experience in open-pit gold mining, driver’s license, block modeling/resource estimation, Vulcan/Leapfrog/Arc GIS/Microsoft Office proficiency, able to lift 50-100 lbs.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Turner Mining Group",
-      "title": "Senior Geologist",
-      "location": "Winnemucca, Nevada, United States",
-      "url": "https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist",
-      "direct_url": "https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist",
-      "date_posted": "2026-07-23T20:28:07.851Z",
-      "description": "Bachelor's in Geosciences, field camp experience, strong exploration geology and QA/QC skills; 10+ years preferred; experience with drilling, mapping, sampling, and geological modeling.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Iowa",
-      "title": "Geologist 2",
-      "location": "Ames, Iowa, United States",
-      "url": "https://www.governmentjobs.com/careers/iowa/jobs/5415058",
-      "direct_url": "https://www.governmentjobs.com/careers/iowa/jobs/5415058",
-      "date_posted": "2026-07-17T21:22:42.000Z",
-      "description": "Bachelor's degree in geology or related field (or related degree plus 2 years relevant experience), valid driver’s license, ability to lift up to 75 lb, perform fieldwork and laboratory testing.",
-      "salary": "$57k–$86k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Jacobs",
-      "title": "Environmental Data Management Specialist, EQuIS",
-      "location": "Little Rock or Milwaukee or Hattiesburg or Montgomery or Kansas City or Dallas or Boise",
-      "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Data-Management-Specialist-EQuIS/42682",
-      "direct_url": "https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Data-Management-Specialist-EQuIS/42682",
-      "date_posted": "2026-07-23T12:00:00.000Z",
-      "description": "Bachelor's in environmental or related field,2+ years environmental consulting,1+ years remediation field work,1+ years data management including EQuIS or Microsoft Access,knowledge of databases/programming,strong communication.",
-      "salary": "$79k–$118k/yr",
+      "company": "Barr",
+      "title": "Environmental Consultant – Senior Level (Hybrid)",
+      "location": "Grand Rapids, Michigan, United States",
+      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
+      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "15+ years in environmental permitting, review, and compliance; bachelor’s degree in environmental science or related field; strong regulatory expertise (Michigan/federal); valid driver’s license; authorized to work in the U.S. without sponsorship.",
+      "salary": "$125k–$150k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
