@@ -1,32 +1,14 @@
 {
-  "scraped_at": "2026-07-24 17:47 UTC",
+  "scraped_at": "2026-07-25 17:11 UTC",
   "total": 14,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Transportation",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "San Bernardino County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525663",
-      "date_posted": "2026-07-21",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
+      "company": "State Water Resources Control Board",
       "title": "Environmental Scientist",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525714",
-      "date_posted": "2026-07-21",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Kern County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525715",
-      "date_posted": "2026-07-21",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525603",
+      "date_posted": "2026-07-23",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -76,12 +58,21 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=515235",
+      "date_posted": "2026-07-23",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "State Water Resources Control Board",
-      "title": "Engineering Geologist",
-      "location": "Fresno County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525221",
-      "date_posted": "2026-07-17",
-      "salary": "$6488.00 - $12215.00",
+      "title": "Environmental Scientist",
+      "location": "San Luis Obispo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
+      "date_posted": "2026-07-08",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
@@ -90,6 +81,15 @@
       "location": "Los Angeles County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520460",
       "date_posted": "2026-07-02",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Engineering Geologist",
+      "location": "Fresno County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525221",
+      "date_posted": "2026-07-17",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
