@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-25 18:43 UTC",
-  "total": 140,
-  "new_count": 6,
+  "scraped_at": "2026-07-25 20:01 UTC",
+  "total": 139,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Navajo County, AZ",
@@ -186,19 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Papedawson",
-      "title": "GIS Analyst I",
-      "location": "Plano or San Antonio or Austin or Dallas",
-      "url": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/GIS-Analyst-I_JR101352",
-      "direct_url": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/GIS-Analyst-I_JR101352",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Bachelor's degree in GIS, Geography, Cartography or related; 0–3 years GIS experience; experience with Esri ArcGIS, SQL and spatial databases; ability to interpret surveys and create cartographic deliverables.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Thurston County Career Site",
       "title": "GIS ANALYST II",
       "location": "Olympia, Washington, United States",
@@ -207,6 +194,19 @@
       "date_posted": "2026-07-14T15:53:33.000Z",
       "description": "Associate's degree (Bachelor's preferred) in relevant field, 2+ years GIS experience, knowledge of GIS hardware/software, driver’s license, pass background check; strong communication and training skills.",
       "salary": "$77k–$103k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Papedawson",
+      "title": "GIS Analyst I",
+      "location": "Plano or San Antonio or Austin or Dallas",
+      "url": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/GIS-Analyst-I_JR101352",
+      "direct_url": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/GIS-Analyst-I_JR101352",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Bachelor's degree in GIS, Geography, Cartography or related; 0–3 years GIS experience; experience with Esri ArcGIS, SQL and spatial databases; ability to interpret surveys and create cartographic deliverables.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -667,19 +667,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Florida",
-      "title": "GEOSPATIAL DATA ANALYST - 55009907",
-      "location": "Tallahassee, Florida, United States",
-      "url": "https://jobs.myflorida.com/job/TALLAHASSEE-GEOSPATIAL-DATA-ANALYST-55009907-FL-32399/1408113400/",
-      "direct_url": "https://jobs.myflorida.com/job/TALLAHASSEE-GEOSPATIAL-DATA-ANALYST-55009907-FL-32399/1408113400/",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "High school diploma or equivalent plus 3 years geospatial experience (or equivalent education), FAA Part 107 pilot certification (or obtain within 6 months), UAS and remote sensing expertise, photogrammetry/LiDAR/GNSS/INS knowledge, ability to lift 25+ lbs.",
-      "salary": "$54k–$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Metrea",
       "title": "SIGINT Geospatial Analyst",
       "location": "Annapolis Junction, Maryland, United States",
@@ -979,19 +966,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Geo-Technology Associates Inc.",
-      "title": "Environmental Scientist",
-      "location": "Laurel, Maryland, United States",
-      "url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
-      "direct_url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
-      "date_posted": "2026-07-01T16:35:29.017Z",
-      "description": "Bachelor's in environmental science/geology/engineering, 1–3 years relevant experience, Phase I and Phase II ESAs required, strong written/verbal communication, organized self-starter.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kimley-Horn",
       "title": "Environmental Scientist",
       "location": "Deerfield, Illinois, United States",
@@ -1000,6 +974,19 @@
       "date_posted": "2026-07-08T15:43:00.000Z",
       "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
       "salary": "$90k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Geo-Technology Associates Inc.",
+      "title": "Environmental Scientist",
+      "location": "Laurel, Maryland, United States",
+      "url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
+      "direct_url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
+      "date_posted": "2026-07-01T16:35:29.017Z",
+      "description": "Bachelor's in environmental science/geology/engineering, 1–3 years relevant experience, Phase I and Phase II ESAs required, strong written/verbal communication, organized self-starter.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1044,19 +1031,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Compliance Consultants",
-      "title": "Environmental Scientist",
-      "location": "Anchorage, Alaska, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "date_posted": "2026-07-06T14:10:25.000Z",
-      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
-      "salary": "$85k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kansas Department of Agriculture",
       "title": "Environmental Scientist",
       "location": "Garden City, Kansas, United States",
@@ -1065,6 +1039,19 @@
       "date_posted": "2026-07-14T12:00:00.000Z",
       "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
       "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Environmental Compliance Consultants",
+      "title": "Environmental Scientist",
+      "location": "Anchorage, Alaska, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "date_posted": "2026-07-06T14:10:25.000Z",
+      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
+      "salary": "$85k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1135,19 +1122,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "True-environmental",
-      "title": "Associate Environmental Scientist",
-      "location": "Florham Park, New Jersey, United States",
-      "url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
-      "direct_url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
-      "date_posted": "2026-07-21T17:18:57.933Z",
-      "description": "BS in environmental field, valid driver's license, ability to perform field sampling and site investigations, strong writing and quantitative skills, respirator use, pass drug testing.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Energy & Environment Cabinet | Department for Natural Resources",
       "title": "Environmental Scientist III",
       "location": "Location Varies, Kentucky, United States",
@@ -1161,13 +1135,26 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vistal",
+      "company": "True-environmental",
+      "title": "Associate Environmental Scientist",
+      "location": "Florham Park, New Jersey, United States",
+      "url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
+      "direct_url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
+      "date_posted": "2026-07-21T17:18:57.933Z",
+      "description": "BS in environmental field, valid driver's license, ability to perform field sampling and site investigations, strong writing and quantitative skills, respirator use, pass drug testing.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Moore Engineering, Inc.",
       "title": "Environmental Scientist I",
       "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
       "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
+      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
       "salary": "$71k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1187,19 +1174,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Commerce",
-      "title": "Hydrologist",
-      "location": "Peachtree City or Slidell or Norton or Chanhassen or Tulsa or Portland or State College or Fort Worth or Salt Lake City",
-      "url": "https://www.usajobs.gov/job/876294800",
-      "direct_url": "https://www.usajobs.gov/job/876294800",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "Bachelor's in physical or natural science with required calculus and physics, plus 1+ year specialized hydrology experience (GS-12 equivalent). U.S. citizenship and favorable background investigation required.",
-      "salary": "$106k–$157k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lynker",
       "title": "Hydrologist",
       "location": "Leesburg, Virginia, United States",
@@ -1210,6 +1184,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Commerce",
+      "title": "Hydrologist",
+      "location": "Peachtree City or Slidell or Norton or Chanhassen or Tulsa or Portland or State College or Fort Worth or Salt Lake City",
+      "url": "https://www.usajobs.gov/job/876294800",
+      "direct_url": "https://www.usajobs.gov/job/876294800",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "Bachelor's in physical or natural science with required calculus and physics, plus 1+ year specialized hydrology experience (GS-12 equivalent). U.S. citizenship and favorable background investigation required.",
+      "salary": "$106k–$157k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1826,79 +1813,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Pearl City, Hawaii, United States",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "date_posted": "2026-07-09T22:26:54.882Z",
-      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
-      "salary": "$65k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Vistal",
+      "company": "Moore Engineering, Inc.",
       "title": "Environmental Scientist I",
       "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
       "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
+      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
       "salary": "$71k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist",
-      "date_posted": "2026-07-09T20:15:46.755Z",
-      "description": "BS in geology, 4+ years' relevant experience, valid U.S. driver’s license, pass pre-employment drug test, field sampling and report-writing experience, OSHA 40-hour HAZWOPER and PG/GIT preferred.",
-      "salary": "$70k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Field Geologist",
-      "location": "Knoxville, Tennessee, United States",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371",
-      "date_posted": "2026-07-10T15:22:06.000Z",
-      "description": "Bachelor's in geology or related field, 2 years relevant experience, strong field sampling and site characterization skills, OSHA 40-hour HAZWOPER preferred, ability to travel and perform fieldwork.",
-      "salary": "$58k–$87k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Field Geologist",
-      "location": "Knoxville, Tennessee, United States",
-      "url": "https://arcadis.eightfold.ai/careers/job/563671532591339",
-      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532591339",
-      "date_posted": "2026-07-10T15:22:06.000Z",
-      "description": "BS in geology or related, 2 years relevant experience, OSHA 40-hour HAZWOPER preferred, field sampling and health & safety competency, ability to travel and perform fieldwork.",
-      "salary": "$58k–$87k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Barr",
-      "title": "Environmental Consultant – Senior Level (Hybrid)",
-      "location": "Grand Rapids, Michigan, United States",
-      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
-      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "15+ years in environmental permitting, review, and compliance; bachelor’s degree in environmental science or related field; strong regulatory expertise (Michigan/federal); valid driver’s license; authorized to work in the U.S. without sponsorship.",
-      "salary": "$125k–$150k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
