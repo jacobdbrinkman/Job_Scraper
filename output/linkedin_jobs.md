@@ -1,35 +1,62 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-25 18:29 UTC*
+*Last updated: 2026-07-25 19:55 UTC*
 
-**7 new role(s)** since last run · 12 total in last 1h
+**13 new role(s)** since last run · 15 total in last 1h
 
-### [Business Data Analyst](https://www.linkedin.com/jobs/view/4444673929/) — Evlo AI
-- 📍 **Location:** Miami, FL
+### [GIS Specialist – Service Center Manager and Application Developer](https://www.linkedin.com/jobs/view/4445343770/) — Nelson Intelligence Solutions, LLC
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $45 to $65 hourly
 - 🕒 **Posted:** 2026-07-25
 
-### [Data Analyst - Transportation BI](https://www.linkedin.com/jobs/view/4444691835/) — The Home Depot
-- 📍 **Location:** Atlanta, GA
+### [GIS Specialist – Senior](https://www.linkedin.com/jobs/view/4445359022/) — Nelson Intelligence Solutions, LLC
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $40 to $50 hourly
 - 🕒 **Posted:** 2026-07-25
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4408572364/) — Nalco Water, An Ecolab Company
-- 📍 **Location:** Wentzville, MO
+### [Staff Data Analyst, Block Compliance](https://www.linkedin.com/jobs/view/4408596043/) — Block
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $171,800—$257,600 USD
 - 🕒 **Posted:** 2026-07-25
 
-### [Lead Data Analyst (Network)](https://www.linkedin.com/jobs/view/4417329245/) — Agero, Inc.
-- 📍 **Location:** Medford, MA
-- 💰 **Salary:** $110,000 USD - $135,000 USD
+### [GIS Technician, (A262110-1), 203, Planning & Zoning](https://www.linkedin.com/jobs/view/4445346658/) — City of Laredo
+- 📍 **Location:** Laredo, TX
 - 🕒 **Posted:** 2026-07-25
 
-### [Clinical Project Coordinator](https://www.linkedin.com/jobs/view/4445346513/) — BD
-- 📍 **Location:** Tempe, AZ
+### [GSS Data Analyst - Cranberry, PA](https://www.linkedin.com/jobs/view/4444699019/) — VetJobs
+- 📍 **Location:** Cranberry, PA
+- 💰 **Salary:** $64,800 to $81,000 per year
 - 🕒 **Posted:** 2026-07-25
 
-### [Project Coordinator- The Phoenician Resort](https://www.linkedin.com/jobs/view/4435469639/) — Encore
-- 📍 **Location:** Scottsdale, AZ
-- 💰 **Salary:** $22.90/hr - $29.77/hr
+### [Data Analyst - Remote](https://www.linkedin.com/jobs/view/4445320674/) — Sundayy
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-25
 
-### [Human Resources Project Coordinator](https://www.linkedin.com/jobs/view/4444689840/) — SGS Consulting
-- 📍 **Location:** Lexington, MA
-- 💰 **Salary:** $37.00/hr - $44.00/hr
+### [Data Analyst](https://www.linkedin.com/jobs/view/4445350464/) — Netrolynx AI
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-25
+
+### [Data Analyst, Sr.](https://www.linkedin.com/jobs/view/4445327397/) — Sundayy
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-25
+
+### [Data Analyst II, Ecommerce](https://www.linkedin.com/jobs/view/4445311976/) — Sundayy
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-25
+
+### [Senior Geologist](https://www.linkedin.com/jobs/view/4376781900/) — WSP in the U.S.
+- 📍 **Location:** Canton, MS
+- 🕒 **Posted:** 2026-07-25
+
+### [Senior Geologist](https://www.linkedin.com/jobs/view/4416306912/) — WSP in the U.S.
+- 📍 **Location:** Boise, ID
+- 💰 **Salary:** $74,200 - $126,000
+- 🕒 **Posted:** 2026-07-25
+
+### [Data Analyst Manager - Model Risk Office](https://www.linkedin.com/jobs/view/4428357932/) — Capital One
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $164,800 - $188,100
+- 🕒 **Posted:** 2026-07-25
+
+### [Chicago Dept. of Aviation- Project Coordinator](https://www.linkedin.com/jobs/view/4445356168/) — Airport Minority Advisory Council
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-07-25
