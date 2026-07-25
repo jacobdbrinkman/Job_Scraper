@@ -1,23 +1,19 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-25 04:50 UTC*
+*Last updated: 2026-07-25 16:37 UTC*
 
-**4 new role(s)** since last run · 13 total in last 24h
+**3 new role(s)** since last run · 8 total in last 24h
 
-### [Senior Remediation Geologist](https://www.indeed.com/viewjob?jk=9d1224d235c30128) — WSP
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $74k–$130k/yr
-- 🕒 **Posted:** 2026-07-24
+### [RESEARCH DATA SPECIALIST II](https://www.indeed.com/viewjob?jk=5dc4b205ba395ec3) — Department of State Hospitals
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7640–$9561/mo
+- 🕒 **Posted:** 2026-07-25
 
-### [Survey Technician](https://www.indeed.com/viewjob?jk=6370c2b694734e17) — NV5
-- 📍 **Location:** San Marcos, CA, US
-- 🕒 **Posted:** 2026-07-24
+### [RESEARCH DATA SPECIALIST II](https://www.indeed.com/viewjob?jk=cd2f969f30f66ba3) — California Governor's Office of Emergency Services
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7640–$9561/mo
+- 🕒 **Posted:** 2026-07-25
 
-### [Environmental Scientist 1](https://www.indeed.com/viewjob?jk=3abb68d6d16458b3) — CDM Smith
-- 📍 **Location:** Bellevue, WA, US
-- 💰 **Salary:** $60k–$93k/yr
-- 🕒 **Posted:** 2026-07-24
-
-### [Senior Business Intelligence Data Analyst](https://www.indeed.com/viewjob?jk=7162943f8a476ca0) — Humana
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $89k–$121k/yr
+### [Industrial Hygiene Field Technician, Asbestos and Lead](https://www.indeed.com/viewjob?jk=ac316b9c7cfa353e) — Arcadis
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $60k–$89k/yr
 - 🕒 **Posted:** 2026-07-24
