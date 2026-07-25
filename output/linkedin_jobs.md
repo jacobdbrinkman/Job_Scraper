@@ -1,51 +1,40 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-25 21:22 UTC*
+*Last updated: 2026-07-25 22:25 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**8 new role(s)** since last run · 12 total in last 1h
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4444699091/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $95,000 to $140,000
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4444804111/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Advanced Data Analyst](https://www.linkedin.com/jobs/view/4441670152/) — Agilent Technologies
-- 📍 **Location:** Annapolis, IL
-- 💰 **Salary:** $74,560.00 - $139,800.00/yr
+### [Extended School Program Coordinator](https://www.linkedin.com/jobs/view/4444800107/) — Fountain Valley School District
+- 📍 **Location:** Fountain Valley, CA
+- 💰 **Salary:** $4,918 - $5,981
 - 🕒 **Posted:** 2026-07-25
 
-### [Advanced Data Analyst](https://www.linkedin.com/jobs/view/4441666322/) — Agilent Technologies
-- 📍 **Location:** Philadelphia County, PA
-- 💰 **Salary:** $74,560.00 - $139,800.00/yr
+### [STEAM Program Coordinator](https://www.linkedin.com/jobs/view/4444694175/) — California State University, Northridge
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $5274 - $6303 per month
 - 🕒 **Posted:** 2026-07-25
 
-### [Advanced Data Analyst](https://www.linkedin.com/jobs/view/4441670153/) — Agilent Technologies
-- 📍 **Location:** Maryland, United States
-- 💰 **Salary:** $74,560.00 - $139,800.00/yr
+### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4444809075/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-25
 
-### [Senior Quality Data Analyst](https://www.linkedin.com/jobs/view/4444804078/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $87,463.20 to $121,918.37 per year
+### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4444815021/) — Cape Environmental Management Inc
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $80K - $102K
 - 🕒 **Posted:** 2026-07-25
 
-### [Senior Data Analyst, Product Analytics](https://www.linkedin.com/jobs/view/4444695107/) — Teli Labs
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $125,000 - $175,000 USD
-- 🕒 **Posted:** 2026-07-25
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4444811052/) — Jobright.ai
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4444814070/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-25
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4443427187/) — RSC Solutions
-- 📍 **Location:** White Plains, NY
-- 🕒 **Posted:** 2026-07-25
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4444687999/) — Kiely Family of Companies
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-07-25
-
-### [Project Coordinator, Healthcare and Pharmaceutical Agency](https://www.linkedin.com/jobs/view/4444810073/) — RemoteHunter
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4444812071/) — Jobright.ai
 - 📍 **Location:** United States
-- 💰 **Salary:** $40,000 to $60,000 USD
+- 🕒 **Posted:** 2026-07-25
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4444697144/) — RemoteHunter
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-25
