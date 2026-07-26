@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-25 23:26 UTC*
+*Last updated: 2026-07-26 00:29 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4444694181/) — FetchJobs.co
-- 📍 **Location:** United States
+### [Data Analyst](https://www.linkedin.com/jobs/view/4442315737/) — Biddeford Housing Authority
+- 📍 **Location:** Augusta, ME
 - 🕒 **Posted:** 2026-07-25
