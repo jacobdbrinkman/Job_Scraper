@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26 17:49 UTC",
-  "total": 134,
-  "new_count": 1,
+  "scraped_at": "2026-07-26 18:47 UTC",
+  "total": 125,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Navajo County, AZ",
@@ -1627,138 +1627,7 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "ACRT, Inc.",
-      "title": "Natural Resources Field Technician",
-      "location": "Los Banos, California, United States",
-      "url": "https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Los-Banos-CA/Natural-Resources-Field-Technician_R9134",
-      "direct_url": "https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Los-Banos-CA/Natural-Resources-Field-Technician_R9134",
-      "date_posted": "2026-07-07T00:00:00.000Z",
-      "description": "2+ years ecological field experience or college degree in related field; experience with species ID, surveys, GPS/ArcGIS, able to work outdoors in remote locations, valid driver’s license required.",
-      "salary": "$54k–$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Infosys Limited",
-      "title": "GIS Consultant",
-      "location": "Oakland, California, United States",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25633&siteid=5439&PageType=JobDetails&jobid=2248122",
-      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25633&siteid=5439&PageType=JobDetails&jobid=2248122",
-      "date_posted": "2026-07-21T12:00:00.000Z",
-      "description": "Experience with GIS technologies (ArcGIS Enterprise), utility data models, Python; bachelor\\u0002s degree or equivalent experience; ability to liaise with clients and manage project deliverables.",
-      "salary": "$102k–$132k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Geospatial Consulting Group International (geocgi)",
-      "title": "Consulting GIS Specialist (Service Center Manager & Application Developer) (Onsite)",
-      "location": "Sacramento, California, United States",
-      "url": "https://job-boards.greenhouse.io/geocgi/jobs/4317317009",
-      "direct_url": "https://job-boards.greenhouse.io/geocgi/jobs/4317317009",
-      "date_posted": "2026-07-14T20:57:51.000Z",
-      "description": "U.S. citizen able to obtain DOI PIV/NAC, bachelor's in a related field (or equivalent), 10+ years GIS experience, 5+ years leading teams, ArcGIS Enterprise/Online administration, JavaScript and Python development, enterprise geodatabase and systems administration.",
-      "salary": "$120k–$150k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Terrestris Global Solutions",
-      "title": "Consulting GIS Specialist (Service Center Manager & Site Supervisor/Application Developer)",
-      "location": "Sacramento, California, United States",
-      "url": "https://terrestris-global-solutions.breezy.hr/p/bdfea5b1b70301-consulting-gis-specialist-service-center-manager-site-supervisor-application-developer",
-      "direct_url": "https://terrestris-global-solutions.breezy.hr/p/bdfea5b1b70301-consulting-gis-specialist-service-center-manager-site-supervisor-application-developer",
-      "date_posted": "2026-07-21T21:01:28.032Z",
-      "description": "3+ years ESRI GIS production and programming experience; proficiency with ArcGIS Pro/Enterprise/Online, Python, Arcade, ModelBuilder, and JavaScript APIs; bachelor\\u0002s degree preferred; experience managing teams and federal programs valued.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Florida",
-      "title": "ENVIRONMENTAL CONSULTANT - 37021149",
-      "location": "Tallahassee, Florida, United States",
-      "url": "https://jobs.myflorida.com/job/TALLAHASSEE-ENVIRONMENTAL-CONSULTANT-37021149-FL-32399/1412034800/",
-      "direct_url": "https://jobs.myflorida.com/job/TALLAHASSEE-ENVIRONMENTAL-CONSULTANT-37021149-FL-32399/1412034800/",
-      "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Minimum nine years related experience (or equivalent education), valid driver\\u0002s license, knowledge of coastal resiliency, planning/engineering concepts, database management, ArcGIS, Microsoft Office, and strong communication and analytical skills.",
-      "salary": "$54k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ardaman & Associates, Inc.",
-      "title": "Environmental Scientist - Sarasota in Sarasota, Florida, United States",
-      "location": "Sarasota, Florida, United States",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-sarasota-55677",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-sarasota-55677",
-      "date_posted": "2026-07-14T21:26:43.652Z",
-      "description": "Bachelor's in a science field, strong technical writing, GIS and computer skills, ability to obtain PE or Geologist licensure within 2 years, ability to work weekends/extended hours and travel to field sites.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ross Strategic",
-      "title": "Entry-Level Environmental Consultant",
-      "location": "Seattle, Washington, United States",
-      "url": "https://rossstrategic.pinpointhq.com/en/postings/6701ff55-f923-49f7-83fd-c3405252f28d",
-      "direct_url": "https://rossstrategic.pinpointhq.com/en/postings/6701ff55-f923-49f7-83fd-c3405252f28d",
-      "date_posted": "2026-07-20T20:24:23.064Z",
-      "description": "BA/BS in a relevant field,1+ years relevant experience,strong writing/communication,MS Office and virtual meeting tool proficiency,ability to manage data and projects,Washington-based or willing to relocate,eligible to work in US.",
-      "salary": "$65k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stantec",
-      "title": "Environmental Scientist – Ecologist/Biologist (Mid-level)",
-      "location": "Chattanooga or Nashville or Louisville or Lexington",
-      "url": "https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/",
-      "direct_url": "https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/",
-      "date_posted": "2026-07-13T17:04:57.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years experience leading biological/field surveys, WOUS delineations, species and habitat assessments, permitting experience, valid driver's license, GPS and GIS proficiency, able to lift 50 lbs, willing to travel up to 75%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Barr",
-      "title": "Environmental Consultant – Senior Level (Hybrid)",
-      "location": "Grand Rapids, Michigan, United States",
-      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
-      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "15+ years in environmental permitting, review, and compliance; bachelor’s degree in environmental science or related field; strong regulatory expertise (Michigan/federal); valid driver’s license; authorized to work in the U.S. without sponsorship.",
-      "salary": "$125k–$150k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Florida Canyon Mining, Inc.",
-      "title": "Senior Geologist",
-      "location": "Imlay or Winnemucca",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c69af127d1019b0914f738061e&id=8a78859e9f4435ab019f6cf594d46983&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c69af127d1019b0914f738061e&id=8a78859e9f4435ab019f6cf594d46983&source=&lang=en",
-      "date_posted": "2026-07-16T22:04:21.000Z",
-      "description": "Bachelor's in Geology or Geological Engineering, 8+ years geology experience in open-pit gold mining, driver’s license, block modeling/resource estimation, Vulcan/Leapfrog/Arc GIS/Microsoft Office proficiency, able to lift 50-100 lbs.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
