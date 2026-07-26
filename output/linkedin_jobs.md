@@ -1,54 +1,32 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-26 16:35 UTC*
+*Last updated: 2026-07-26 17:34 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**6 new role(s)** since last run · 11 total in last 1h
 
-### [UAM Field Technician 1](https://www.linkedin.com/jobs/view/4445607894/) — The Davey Tree Expert Company
-- 📍 **Location:** Mobile, AL
-- 💰 **Salary:** $20-$22/hr
+### [Staff Environmental Scientist/Certified Site Surveillance Technician](https://www.linkedin.com/jobs/view/4428165993/) — SOCOTEC US
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $75,000-85,000
 - 🕒 **Posted:** 2026-07-26
 
-### [Environmental Project Scientist](https://www.linkedin.com/jobs/view/4444831813/) — Cape Environmental Management Inc
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $80K - $102K
+### [Staff Environmental Scientist/Certified Site Surveillance Technician](https://www.linkedin.com/jobs/view/4427248659/) — SOCOTEC
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $75,000-85,000
 - 🕒 **Posted:** 2026-07-26
 
-### [Environmental Project Geologist](https://www.linkedin.com/jobs/view/4444835859/) — Cape Environmental Management Inc
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $80K - $102K
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4442373500/) — HETI
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-07-26
 
-### [DATA ANALYST](https://www.linkedin.com/jobs/view/4445613869/) — Mind Tech Inc
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-07-26
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4444823821/) — Jobright.ai
+### [Junior Data Analyst (Remote)](https://www.linkedin.com/jobs/view/4442362513/) — Radiant Solar and Power
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-26
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4444837930/) — FetchJobs.co
+### [Data Analyst](https://www.linkedin.com/jobs/view/4444851000/) — Manha Tech Solutions
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-26
 
-### [Senior Data Analyst, Energy Preconstruction](https://www.linkedin.com/jobs/view/4418177288/) — Moss
-- 📍 **Location:** Fort Lauderdale, FL
-- 🕒 **Posted:** 2026-07-26
-
-### [Local Business Leader - Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4418486053/) — Black & Veatch
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-07-26
-
-### [On-Call Staff Paleontologist | Field Technician | Western United States](https://www.linkedin.com/jobs/view/4400325790/) — Chronicle Heritage
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4442367529/) — HETI
 - 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $25.00/hr - $30.00/hr
-- 🕒 **Posted:** 2026-07-26
-
-### [Facilities Maintenance Project Coordinator](https://www.linkedin.com/jobs/view/4409520625/) — Yakima Valley Farm Workers Clinic
-- 📍 **Location:** Toppenish, WA
-- 💰 **Salary:** $26.75-$32.76/hour
-- 🕒 **Posted:** 2026-07-26
-
-### [Senior Data Analyst - Cardiology](https://www.linkedin.com/jobs/view/4442371430/) — Columbia University Irving Medical Center
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000 - $90,000
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-07-26
