@@ -1,6 +1,8 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-27 01:19 UTC*
+*Last updated: 2026-07-27 05:32 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [QGIS Specialist](https://www.indeed.com/viewjob?jk=0f90da411daad294) — Unknown
+- 📍 **Location:** Remote, US
+- 🕒 **Posted:** 2026-07-12

@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-07-27 01:19 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-07-27 05:32 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Unknown",
+      "title": "QGIS Specialist",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=0f90da411daad294",
+      "direct_url": "https://auraone.ai/public/ai-labs/jobs/qgis-specialist-cmnyztdvq03mf4ibpo1mx2fbr?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=cmnyztdvq03mf4ibpo1mx2fbr&role=QGIS+Specialist&category=scientific-ai-domain-experts&source=indeed&jobId=cmnyztdvq03mf4ibpo1mx2fbr&sourceJobId=cmnyztdvq03mf4ibpo1mx2fbr",
+      "company_url": "",
+      "date_posted": "2026-07-12",
+      "description": "QGIS Specialist is a remote review track for evaluating AI outputs across geospatial science reasoning, calculations, and research workflows. Reviewers grade derivations and assumptions, reproduce key results, and document the correct method so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\n\nGeospatial science models live or die on whether their derivations actually hold up under scrutiny. AuraOne uses scientific specialists to grade outputs the way a peer reviewer would — checking assumptions, reproducing key steps, and capturing the right method alongside the wrong one.\n\n**Responsibilities**\n--------------------\n\n* Review AI outputs against current geospatial science methods, conventions, and prior work for QGIS Specialist assignments.\n* Reproduce or sanity\\-check key derivations, calculations, or experimental claims.\n* Flag dimensional, methodological, and citation errors with structured severity tags.\n* Capture the corrected reasoning or worked example so the modeling team can train on it.\n* Adjudicate disputed answers against textbooks, papers, or community standards.\n* Maintain reviewer\\-quality scores in inter\\-rater calibration cycles.\n\n**Qualifications**\n------------------\n\n* Graduate\\-level training or equivalent applied experience in geospatial science or a closely related field for QGIS Specialist work.\n* Hands\\-on experience publishing, teaching, or advising on the topic at a professional level.\n* Comfort applying multi\\-page rubrics consistently across long batches.\n* Clear written reasoning that cites methods, papers, or worked examples.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Reproduce a geospatial science derivation from a model output and flag any algebraic or dimensional errors.\n* Grade a model's literature summary against the cited papers and rate the citation quality.\n* Adjudicate a disputed answer between two reviewers using textbook methods.\n* Audit a 25\\-row batch for rubric consistency and report drift to the program lead.\n\n**Nice to have**\n----------------\n\n* PhD, postdoc, or industry research experience in the topic area.\n* Prior work reviewing AI\\-assisted research tooling and its failure modes.\n* Multilingual fluency for non\\-English papers and corpora.\n\n**Skills**\n----------\n\n* Scientific reasoning\n* Method validation\n* Citation review\n* Quantitative analysis\n* Geospatial science\n* AI model evaluation\n* Analytical thinkingLLM experience\n* Data annotation\n* Literacy\n* Presentation developmentAI\n\n**Work model**\n--------------\n\n\nRemote — US\\-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\n\n$125 / hr\n\n**Application process**\n-----------------------\n\n\nApply through AuraOne's specialist intake for role\\-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "USD",
+      "job_type": "",
+      "is_remote": true,
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Unknown",
+      "title": "QGIS Specialist",
+      "location": "Remote, US",
+      "url": "https://www.indeed.com/viewjob?jk=0f90da411daad294",
+      "direct_url": "https://auraone.ai/public/ai-labs/jobs/qgis-specialist-cmnyztdvq03mf4ibpo1mx2fbr?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=cmnyztdvq03mf4ibpo1mx2fbr&role=QGIS+Specialist&category=scientific-ai-domain-experts&source=indeed&jobId=cmnyztdvq03mf4ibpo1mx2fbr&sourceJobId=cmnyztdvq03mf4ibpo1mx2fbr",
+      "company_url": "",
+      "date_posted": "2026-07-12",
+      "description": "QGIS Specialist is a remote review track for evaluating AI outputs across geospatial science reasoning, calculations, and research workflows. Reviewers grade derivations and assumptions, reproduce key results, and document the correct method so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\n\nGeospatial science models live or die on whether their derivations actually hold up under scrutiny. AuraOne uses scientific specialists to grade outputs the way a peer reviewer would — checking assumptions, reproducing key steps, and capturing the right method alongside the wrong one.\n\n**Responsibilities**\n--------------------\n\n* Review AI outputs against current geospatial science methods, conventions, and prior work for QGIS Specialist assignments.\n* Reproduce or sanity\\-check key derivations, calculations, or experimental claims.\n* Flag dimensional, methodological, and citation errors with structured severity tags.\n* Capture the corrected reasoning or worked example so the modeling team can train on it.\n* Adjudicate disputed answers against textbooks, papers, or community standards.\n* Maintain reviewer\\-quality scores in inter\\-rater calibration cycles.\n\n**Qualifications**\n------------------\n\n* Graduate\\-level training or equivalent applied experience in geospatial science or a closely related field for QGIS Specialist work.\n* Hands\\-on experience publishing, teaching, or advising on the topic at a professional level.\n* Comfort applying multi\\-page rubrics consistently across long batches.\n* Clear written reasoning that cites methods, papers, or worked examples.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Reproduce a geospatial science derivation from a model output and flag any algebraic or dimensional errors.\n* Grade a model's literature summary against the cited papers and rate the citation quality.\n* Adjudicate a disputed answer between two reviewers using textbook methods.\n* Audit a 25\\-row batch for rubric consistency and report drift to the program lead.\n\n**Nice to have**\n----------------\n\n* PhD, postdoc, or industry research experience in the topic area.\n* Prior work reviewing AI\\-assisted research tooling and its failure modes.\n* Multilingual fluency for non\\-English papers and corpora.\n\n**Skills**\n----------\n\n* Scientific reasoning\n* Method validation\n* Citation review\n* Quantitative analysis\n* Geospatial science\n* AI model evaluation\n* Analytical thinkingLLM experience\n* Data annotation\n* Literacy\n* Presentation developmentAI\n\n**Work model**\n--------------\n\n\nRemote — US\\-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\n\n$125 / hr\n\n**Application process**\n-----------------------\n\n\nApply through AuraOne's specialist intake for role\\-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "USD",
+      "job_type": "",
+      "is_remote": true,
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
