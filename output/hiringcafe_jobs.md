@@ -1,18 +1,28 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-28 20:09 UTC*
+*Last updated: 2026-07-28 21:52 UTC*
 
-**3 new role(s)** since last run · 140 total in last 30d
+**5 new role(s)** since last run · 140 total in last 30d
 
-### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1) — Overview
-- 📍 **Location:** Alpharetta, Georgia, United States
-- 🕒 **Posted:** 2026-07-28T04:00:00.000Z
+### [Hydrologist, Staff/Technical](https://css-idaho-prd.tam.inforgov.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(LUMA,24997,1).JobPostingDisplayNav?csk.HROrganization=LUMA&csk.JobBoard=STATEOFIDAHO) — idaho
+- 📍 **Location:** Twin Falls, Idaho, United States
+- 💰 **Salary:** $62k–$71k/yr
+- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
 
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist) — AECOM
-- 📍 **Location:** Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
+- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
 - 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-09T20:18:23.712Z
+- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
 
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
-- 📍 **Location:** Bayard, New Mexico, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
+### [Field Geologist](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371) — Arcadis
+- 📍 **Location:** Knoxville, Tennessee, United States
+- 💰 **Salary:** $58k–$87k/yr
+- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
+
+### [Field Geologist](https://arcadis.eightfold.ai/careers/job/563671532591339) — Arcadis
+- 📍 **Location:** Knoxville, Tennessee, United States
+- 💰 **Salary:** $58k–$87k/yr
+- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
+
+### [Senior Geologist](https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159) — Devonenergy
+- 📍 **Location:** Pittsburgh, Pennsylvania, United States
+- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
