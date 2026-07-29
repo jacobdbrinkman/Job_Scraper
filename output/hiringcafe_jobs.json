@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 22:48 UTC",
-  "total": 142,
-  "new_count": 8,
+  "scraped_at": "2026-07-29 01:14 UTC",
+  "total": 141,
+  "new_count": 0,
   "jobs": [
     {
       "company": "UDC",
@@ -602,19 +602,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Xcellent Technology Solutions",
-      "title": "Geospatial Analyst | TS/SCI",
-      "location": "Springfield, Virginia, United States",
-      "url": "http://xtscareers.applytojob.com/apply/0Fl4wJAxBb/Geospatial-Analyst-TSSCI",
-      "direct_url": "http://xtscareers.applytojob.com/apply/0Fl4wJAxBb/Geospatial-Analyst-TSSCI",
-      "date_posted": "2026-07-12T00:00:00.000Z",
-      "description": "Active TS/SCI clearance, willingness for CI polygraph, 2+ years relevant experience (or commensurate alternatives), geospatial analysis and GEOINT production experience, imagery/multi-INT proficiency, programming/scripting ability, strong communication.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "cFocus Software Incorporated",
       "title": "Jr. Geospatial Analyst - DHS",
       "location": "Springfield, Virginia, United States",
@@ -625,6 +612,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Xcellent Technology Solutions",
+      "title": "Geospatial Analyst | TS/SCI",
+      "location": "Springfield, Virginia, United States",
+      "url": "http://xtscareers.applytojob.com/apply/0Fl4wJAxBb/Geospatial-Analyst-TSSCI",
+      "direct_url": "http://xtscareers.applytojob.com/apply/0Fl4wJAxBb/Geospatial-Analyst-TSSCI",
+      "date_posted": "2026-07-12T00:00:00.000Z",
+      "description": "Active TS/SCI clearance, willingness for CI polygraph, 2+ years relevant experience (or commensurate alternatives), geospatial analysis and GEOINT production experience, imagery/multi-INT proficiency, programming/scripting ability, strong communication.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1759,19 +1759,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Plexus Scientific Corporation",
-      "title": "Natural Resources Program Coordinator",
-      "location": "Fort Belvoir or Fort Liberty",
-      "url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "direct_url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Bachelor's in biological or environmental field, 5+ years natural resources experience, knowledge of federal natural resource laws, strong program/project management, communication, and Microsoft Office skills; U.S. citizenship and driver's license required.",
-      "salary": "$70k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Infosys Limited",
       "title": "GIS Consultant",
       "location": "Oakland, California, United States",
@@ -1850,110 +1837,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Angc",
-      "title": "GIS Analyst",
-      "location": "Augusta, Georgia, United States",
-      "url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/GIS-Analyst_R11657",
-      "direct_url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/GIS-Analyst_R11657",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Experience with GIS, CAD, drone mapping, GPS surveying; bachelor’s degree preferred; 0–2 years GIS experience; valid driver\\u0002s license; strong analytical and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "SWCA Environmental Consultants",
-      "title": "Senior Environmental Scientist",
-      "location": "Scarborough, Maine, United States",
-      "url": "https://internal-swca.icims.com/jobs/14785/senior-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://internal-swca.icims.com/jobs/14785/senior-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-07-27T04:00:00.000Z",
-      "description": "Bachelor's in relevant environmental science, minimum 8 years consulting or agency experience leading fieldwork, permitting, reports, and client management; ability to travel regionally; supervisory and business development experience.",
-      "salary": "$93k–$121k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Glenwood Springs or Denver or Boulder or Fort Collins or Colorado Springs",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000136896039-geologist",
-      "date_posted": "2026-07-09T20:18:23.712Z",
-      "description": "B.S. in geology,4+ years relevant experience,valid U.S. driver’s license,pre-employment drug test,HAZWOPER 40-hour preferred,PG or GIT preferred,comfortable with extensive field travel and report writing.",
-      "salary": "$70k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Senior Geologist",
-      "location": "Bayard, New Mexico, United States",
-      "url": "https://talent.fmjobs.com/careers/job/42911190",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42911190",
-      "date_posted": "2026-07-07T20:57:20.000Z",
-      "description": "Bachelor's in Geology +5 years or Master's in Geology +3 years experience; experience with drill logging, geologic mapping, resource modeling, supervision, and knowledge of applicable regulations.",
-      "salary": "$98k–$138k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Asarco LLC",
-      "title": "Geologist II",
-      "location": "Sahuarita, Arizona, United States",
-      "url": "https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106",
-      "direct_url": "https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106",
-      "date_posted": "2026-07-23T00:11:48.000Z",
-      "description": "Bachelor's in Geology or Geological Engineering required; Master's in Economic Geology preferred. Driver's license required. Three years' experience preferred. Must pass background check and pre-employment physical/drug screen and follow safety systems.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HDR",
-      "title": "Geologist 2",
-      "location": "Austin or Houston or Baton Rouge",
-      "url": "https://hdr.referrals.selectminds.com/jobs/geologist-2-44512",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/geologist-2-44512",
-      "date_posted": "2026-07-16T22:22:48.976Z",
-      "description": "Bachelor's in Geology or related, 5+ years experience, field work and well installation experience, groundwater/soil sampling, EMR with Microsoft Office, MS preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HDR",
-      "title": "Geologist 2",
-      "location": "Austin or Baton Rouge or Houston",
-      "url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en",
-      "direct_url": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en",
-      "date_posted": "2026-07-16T12:00:00.000Z",
-      "description": "Bachelor's in Geology/Earth Science/Hydrogeology required, 5+ years' experience, field work and well installation experience, groundwater/soil sampling, Microsoft Office proficiency; Master's preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Plexus Scientific Corporation",
-      "title": "Natural Resources Program Coordinator",
-      "location": "Fort Belvoir or Fort Liberty",
-      "url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "direct_url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Bachelor's in biological or environmental field, 5+ years natural resources experience, knowledge of federal natural resource laws, strong program/project management, communication, and Microsoft Office skills; U.S. citizenship and driver's license required.",
-      "salary": "$70k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
