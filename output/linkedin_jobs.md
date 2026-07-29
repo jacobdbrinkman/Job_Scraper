@@ -1,118 +1,104 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-29 22:37 UTC*
+*Last updated: 2026-07-29 23:38 UTC*
 
-**26 new role(s)** since last run · 32 total in last 1h
+**22 new role(s)** since last run · 35 total in last 1h
 
-### [Project Coordinator - Eligibility Systems](https://www.linkedin.com/jobs/view/4446871545/) — Guidehouse
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** $74,000.00-$124,000.00
+### [Data Analyst](https://www.linkedin.com/jobs/view/4446872825/) — Touro University
+- 📍 **Location:** Vallejo, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [Field Technician I](https://www.linkedin.com/jobs/view/4446437660/) — Rain For Rent
-- 📍 **Location:** San Joaquin, CA
-- 💰 **Salary:** $17.00 - $21.00 per hour
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446883509/) — Ambient
+- 📍 **Location:** Castro Valley, CA
+- 💰 **Salary:** $31-$35
 - 🕒 **Posted:** 2026-07-29
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446865634/) — HBK Engineering, LLC
-- 📍 **Location:** Ontario, CA
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446434870/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $55.00/yr - $57.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Environmental Consultant – Mid/Senior Level – Sediment Remediation (Hybrid)](https://www.linkedin.com/jobs/view/4444173545/) — Barr Engineering Co.
+### [Sr. Project Coordinator](https://www.linkedin.com/jobs/view/4446435812/) — QuinStreet
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $100,000 USD to $120,000 USD annually
+- 🕒 **Posted:** 2026-07-29
+
+### [Project Coordinator II](https://www.linkedin.com/jobs/view/4444193083/) — OP
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $40.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Environmental Scientist (JC-526522)](https://www.linkedin.com/jobs/view/4446443777/) — Caltrans
+- 📍 **Location:** Los Angeles County, CA
+- 💰 **Salary:** $53,016.00/yr - $111,852.00/yr
+- 🕒 **Posted:** 2026-07-29
+
+### [Project Advisor or Project Coordinator (Multiple Positions) (Onsite)](https://www.linkedin.com/jobs/view/4442890645/) — University of California, Merced
+- 📍 **Location:** Merced County, CA
+- 💰 **Salary:** $25.02- $28.07
+- 🕒 **Posted:** 2026-07-29
+
+### [Project Coordinator II](https://www.linkedin.com/jobs/view/4427047111/) — One Workplace
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $115,000–$155,000 annually
+- 💰 **Salary:** $26.00 - $30.00
 - 🕒 **Posted:** 2026-07-29
 
-### [Project Coordinator - Eligibility Systems](https://www.linkedin.com/jobs/view/4446867718/) — Guidehouse
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $74,000.00-$124,000.00
+### [Water Quality GIS Analyst](https://www.linkedin.com/jobs/view/4444184631/) — State of Iowa - Executive Branch
+- 📍 **Location:** Des Moines, IA
 - 🕒 **Posted:** 2026-07-29
 
-### [GIS Technician](https://www.linkedin.com/jobs/view/4446870502/) — City of Clemson
-- 📍 **Location:** Clemson, SC
+### [Land Survey - Survey Technician](https://www.linkedin.com/jobs/view/4444171963/) — BL Companies
+- 📍 **Location:** Uniontown, OH
 - 🕒 **Posted:** 2026-07-29
 
-### [Senior GIS Analyst 5232](https://www.linkedin.com/jobs/view/4417658820/) — Tier4 Group
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4446861886/) — Innovative Renal Care
+- 📍 **Location:** Franklin, TN
+- 🕒 **Posted:** 2026-07-29
+
+### [Federal Law Enforcement Data Analyst](https://www.linkedin.com/jobs/view/4446884043/) — Guidehouse
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-07-29
+
+### [ES Field Technician I](https://www.linkedin.com/jobs/view/4446424909/) — Republic Services
+- 📍 **Location:** Altamont, NY
+- 💰 **Salary:** $18.50 to $25.47
+- 🕒 **Posted:** 2026-07-29
+
+### [Customer Experience Data Analyst](https://www.linkedin.com/jobs/view/4446875762/) — Empower Pharmacy
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-29
+
+### [Customer Service Project Coordinator](https://www.linkedin.com/jobs/view/4446444909/) — Cutting Edge Stoneworks
+- 📍 **Location:** Mooresville, NC
+- 🕒 **Posted:** 2026-07-29
+
+### [Project Coordinator - AI/AN Victim Services Programs (ALASKA / REMOTE ROLE)](https://www.linkedin.com/jobs/view/4409765298/) — ICF
+- 📍 **Location:** Juneau, AK
+- 💰 **Salary:** $67,063.00 - $114,008.00
+- 🕒 **Posted:** 2026-07-29
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446438957/) — NY State Solar
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $55K-$65K per year
+- 🕒 **Posted:** 2026-07-29
+
+### [Program Coordinator, Dean’s Office in Lee Business School [R0152773]](https://www.linkedin.com/jobs/view/4446892005/) — University of Nevada-Las Vegas
+- 📍 **Location:** Las Vegas, NV
+- 🕒 **Posted:** 2026-07-29
+
+### [IT Project Coordinator I](https://www.linkedin.com/jobs/view/4444174852/) — Ben E. Keith Company
 - 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-07-29
 
-### [Data Analyst / Applied Mathematician](https://www.linkedin.com/jobs/view/4446439726/) — Arcfield
-- 📍 **Location:** Chesterbrook, PA
+### [Extension Program Coordinator (ANR) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4446890028/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Edwardsville, IL
 - 🕒 **Posted:** 2026-07-29
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446362213/) — Saicon
-- 📍 **Location:** New York, NY
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4446444890/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $43,210.08 - $64,816.08 Annually
 - 🕒 **Posted:** 2026-07-29
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446423999/) — FetchJobs.co
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-29
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446432719/) — California SoftTech Inc
-- 📍 **Location:** Bloomfield Hills, MI
-- 🕒 **Posted:** 2026-07-29
-
-### [Digital & Technology - Data Analyst](https://www.linkedin.com/jobs/view/4446441619/) — InfiCare Staffing
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-29
-
-### [Business Data Analyst](https://www.linkedin.com/jobs/view/4446873437/) — Presidio
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-29
-
-### [Business Data Analyst](https://www.linkedin.com/jobs/view/4446437711/) — Keystone 74 Benefits and Administration
-- 📍 **Location:** Greater Philadelphia
-- 🕒 **Posted:** 2026-07-29
-
-### [Senior Geologist](https://www.linkedin.com/jobs/view/4446440696/) — Diversified Energy Company
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-07-29
-
-### [ES Field Technician I](https://www.linkedin.com/jobs/view/4446443749/) — Republic Services
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $20.30 to $27.87
-- 🕒 **Posted:** 2026-07-29
-
-### [Upholsterer/Upholstery Restoration Specialist](https://www.linkedin.com/jobs/view/4446441758/) — VT Group (VTG)
-- 📍 **Location:** Patuxent River, MD
-- 🕒 **Posted:** 2026-07-29
-
-### [Cybersecurity Data Analyst](https://www.linkedin.com/jobs/view/4446865613/) — UnitedHealth Group
-- 📍 **Location:** Eden Prairie, MN
-- 💰 **Salary:** $72,800 to $130,000 annually
-- 🕒 **Posted:** 2026-07-29
-
-### [(USA) Senior, Data Analyst](https://www.linkedin.com/jobs/view/4444187304/) — Walmart
-- 📍 **Location:** Bentonville, AR
-- 💰 **Salary:** $80,000.00/yr - $155,000.00/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Data Analyst - Cedar Hill, TX](https://www.linkedin.com/jobs/view/4446862986/) — A.P. Moller - Maersk
-- 📍 **Location:** Cedar Hill, TX
-- 💰 **Salary:** $65,000-$72,000
-- 🕒 **Posted:** 2026-07-29
-
-### [Project Coordinator - PDS Denton](https://www.linkedin.com/jobs/view/4446868340/) — Primoris Services Corporation
-- 📍 **Location:** Denton, TX
-- 🕒 **Posted:** 2026-07-29
-
-### [Tech and Systems Project Coordinator](https://www.linkedin.com/jobs/view/4446879439/) — Wayfair
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-29
-
-### [#133-24 Program Coordinator - Wilton](https://www.linkedin.com/jobs/view/4446866336/) — Partners For Community
-- 📍 **Location:** Wilton Center, CT
-- 🕒 **Posted:** 2026-07-29
-
-### [Community Services Program Coordinator 1B](https://www.linkedin.com/jobs/view/4446868601/) — Area Agency on Aging & Disabilities of Southwest Washington
-- 📍 **Location:** Vancouver, WA
-- 💰 **Salary:** $66,096 - $91,128, annually
-- 🕒 **Posted:** 2026-07-29
-
-### [Program Coordinator / Admissions Representative](https://www.linkedin.com/jobs/view/4446886024/) — St. Ambrose University
-- 📍 **Location:** Davenport, IA
-- 🕒 **Posted:** 2026-07-29
-
-### [Queens Program Coordinator](https://www.linkedin.com/jobs/view/4446437685/) — Apex for Youth
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $59,000.00/yr - $64,000.00/yr
+### [Program Coordinator-Children's Justice (D4 Cass 111134)](https://www.linkedin.com/jobs/view/4444193067/) — State of Iowa - Executive Branch
+- 📍 **Location:** Atlantic, IA
+- 💰 **Salary:** $21.98 - $34.74 per hour
 - 🕒 **Posted:** 2026-07-29
