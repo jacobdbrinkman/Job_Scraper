@@ -1,14 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-29 22:41 UTC*
+*Last updated: 2026-07-29 23:44 UTC*
 
 **2 new role(s)** since last run · 24 total in last 24h
 
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=ef19ddbef41114fc) — McMillen, Inc.
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $50k–$96k/yr
-- 🕒 **Posted:** 2026-07-29
+### [GIS Specialist - Production Engineer - Sacramento CA](https://www.indeed.com/viewjob?jk=66681b34f21edaee) — Bow Wave LLC
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $130k–$145k/yr
+- 🕒 **Posted:** 2026-07-28
 
-### [Environmental Field Technician](https://www.indeed.com/viewjob?jk=8ca034829cf13b74) — Atlas Technical Consultants
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $28–$33/hr
+### [Environmental Analyst](https://www.indeed.com/viewjob?jk=5dcf7da5c46d7040) — EFI Global
+- 📍 **Location:** Seattle, WA, US
+- 💰 **Salary:** $75k–$80k/yr
 - 🕒 **Posted:** 2026-07-29
