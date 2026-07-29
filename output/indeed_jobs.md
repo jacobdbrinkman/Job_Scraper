@@ -1,9 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-29 18:42 UTC*
+*Last updated: 2026-07-29 21:40 UTC*
 
-**1 new role(s)** since last run · 23 total in last 24h
+**2 new role(s)** since last run · 22 total in last 24h
 
-### [Program Support Specialist/Data Analyst](https://www.indeed.com/viewjob?jk=46567cdf014d28cd) — Tier Tech International
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $75k–$85k/yr
+### [Lead Geologist - Land](https://www.indeed.com/viewjob?jk=15886aadc07bc790) — Fugro
+- 📍 **Location:** Commerce, CA, US
+- 💰 **Salary:** $140k–$185k/yr
+- 🕒 **Posted:** 2026-07-29
+
+### [Junior Field Technician](https://www.indeed.com/viewjob?jk=954a86c42de8903e) — Onterris
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $17–$35/hr
 - 🕒 **Posted:** 2026-07-29
