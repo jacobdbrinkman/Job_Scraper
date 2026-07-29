@@ -1,120 +1,108 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-28 23:40 UTC*
+*Last updated: 2026-07-29 00:52 UTC*
 
-**26 new role(s)** since last run · 42 total in last 1h
+**23 new role(s)** since last run · 36 total in last 1h
 
-### [Program Coordinator (Jira, PI, Agile, Asset Management)](https://www.linkedin.com/jobs/view/4446502642/) — Diligente Technologies
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-28
+### [Project Coordinator, General Services](https://www.linkedin.com/jobs/view/4446517182/) — Stanford Medicine Children's Health
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $41.48 to $53.93
+- 🕒 **Posted:** 2026-07-29
 
-### [Program Coordinator - LVN or RN license required](https://www.linkedin.com/jobs/view/4446507252/) — Unitek College of Nursing
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-07-28
+### [Term Limited Temporary (TLT) Natural Resources GIS Specialist (CE Spec, Assoc)](https://www.linkedin.com/jobs/view/4438756834/) — Seattle Public Utilities
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-07-29
 
-### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4443624984/) — NexaSix
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-28
+### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4446513571/) — eTeam
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** $45.00/hr - $48.00/hr
+- 🕒 **Posted:** 2026-07-29
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4438424980/) — West Coast Trial Lawyers
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $60,000.00 - $70,000.00
-- 🕒 **Posted:** 2026-07-28
+### [Project Coordinator - Healthcare Operations](https://www.linkedin.com/jobs/view/4443633839/) — MultiCare Health System
+- 📍 **Location:** Tacoma, WA
+- 💰 **Salary:** $63,232.00 - $91,000.00 USD
+- 🕒 **Posted:** 2026-07-29
 
-### [Data Analyst II, Reporting & Advanced Analytics 26-84](https://www.linkedin.com/jobs/view/4445764591/) — Hill Physicians Medical Group
-- 📍 **Location:** San Ramon, CA
-- 💰 **Salary:** $97,400.00 - $127,850.00
-- 🕒 **Posted:** 2026-07-28
+### [Health - Project Coordinator](https://www.linkedin.com/jobs/view/4445797479/) — Henderson Engineers
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $72,160 - $108,240
+- 🕒 **Posted:** 2026-07-29
 
-### [Project Coordinator, Audio Visual - Anaheim Marriott](https://www.linkedin.com/jobs/view/4445785566/) — Encore
-- 📍 **Location:** Anaheim, CA
-- 💰 **Salary:** $25.19/hr - $32.75/hr
-- 🕒 **Posted:** 2026-07-28
+### [Topobathymetric Lidar Geospatial Analyst II](https://www.linkedin.com/jobs/view/4440287863/) — Dewberry
+- 📍 **Location:** Fairfax, VA
+- 💰 **Salary:** $69,000-$88,000 annually
+- 🕒 **Posted:** 2026-07-29
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4445794109/) — BOLT USA, INC.
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-28
+### [Consulting Associate, Environmental Scientist/Permitting Specialist](https://www.linkedin.com/jobs/view/4443638766/) — ERM
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $65,600–$81,353
+- 🕒 **Posted:** 2026-07-29
 
-### [Environmental Geologist](https://www.linkedin.com/jobs/view/4303669603/) — Cape Environmental Management Inc
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-28
+### [Senior Research/ Data Analyst](https://www.linkedin.com/jobs/view/4446511661/) — State of Missouri
+- 📍 **Location:** Jefferson City, MO
+- 🕒 **Posted:** 2026-07-29
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4445788545/) — The Rush Companies
-- 📍 **Location:** Gig Harbor, WA
-- 💰 **Salary:** $63,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-07-28
+### [Data Analyst](https://www.linkedin.com/jobs/view/4445794798/) — CHRISCROSS INSTALLATIONS LTD
+- 📍 **Location:** Hall, MT
+- 🕒 **Posted:** 2026-07-29
 
-### [Project Coordinator (Deep Tech)](https://www.linkedin.com/jobs/view/4446396676/) — Infleqtion
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $60,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-07-28
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4446525103/) — Hudbay Minerals U.S. Business Unit
+- 📍 **Location:** Sahuarita, AZ
+- 🕒 **Posted:** 2026-07-29
 
-### [Project Coordinator (Deep Tech)](https://www.linkedin.com/jobs/view/4446394836/) — Infleqtion
-- 📍 **Location:** Louisville, CO
-- 💰 **Salary:** $60,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-07-28
+### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4445783685/) — Dewberry
+- 📍 **Location:** Fairfax, VA
+- 💰 **Salary:** $64,000 - $82,000
+- 🕒 **Posted:** 2026-07-29
 
-### [Survey Technician - Computations](https://www.linkedin.com/jobs/view/4445776948/) — Whitman, Requardt and Associates, LLP
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $50,000.00 - $115,000 per year
-- 🕒 **Posted:** 2026-07-28
+### [Environmental Scientist III](https://www.linkedin.com/jobs/view/4445792622/) — Dewberry
+- 📍 **Location:** Fairfax, VA
+- 💰 **Salary:** $81,000 - $104,000
+- 🕒 **Posted:** 2026-07-29
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446500529/) — Talener
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $130,000 - $140,000
-- 🕒 **Posted:** 2026-07-28
+### [Senior Research/Data Analyst](https://www.linkedin.com/jobs/view/4446516283/) — State of Missouri
+- 📍 **Location:** Jefferson City, MO
+- 🕒 **Posted:** 2026-07-29
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446502359/) — SPECTRAFORCE
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-07-28
+### [Data Analyst/Proxy Product Owner](https://www.linkedin.com/jobs/view/4446166472/) — Bering Straits Native Corporation (BSNC)
+- 📍 **Location:** Beavercreek, OH
+- 💰 **Salary:** $110k - $135k
+- 🕒 **Posted:** 2026-07-29
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446391825/) — MeeBoss
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-28
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446521104/) — QuickCable Corporation
+- 📍 **Location:** Franksville, WI
+- 🕒 **Posted:** 2026-07-29
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4443639692/) — Careerscape
+### [Health - Project Coordinator](https://www.linkedin.com/jobs/view/4445788625/) — Henderson Engineers
+- 📍 **Location:** Lenexa, KS
+- 💰 **Salary:** $72,160 - $108,240
+- 🕒 **Posted:** 2026-07-29
+
+### [Project Coordinator-Home Health Fishers](https://www.linkedin.com/jobs/view/4446514809/) — Community Health Network
+- 📍 **Location:** Fishers, IN
+- 🕒 **Posted:** 2026-07-29
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4443630971/) — North Carolina Department of Public Safety
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $52,592 - $92,036
+- 🕒 **Posted:** 2026-07-29
+
+### [Program Coordinator, Comparative Literature - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4443639904/) — Emory University
 - 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $60,000 – $75,000 per year
+- 🕒 **Posted:** 2026-07-29
+
+### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4443626948/) — NexaSix
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-28
 
-### [Due Diligence Project Environmental Scientist](https://www.linkedin.com/jobs/view/4445799342/) — ESE Partners
-- 📍 **Location:** North, TX
+### [Program Coordinator - Outpatient Restoration Program/Forensic Services Department](https://www.linkedin.com/jobs/view/4446512269/) — State of Colorado
+- 📍 **Location:** Colorado, United States
 - 🕒 **Posted:** 2026-07-28
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4443633677/) — Qureos
-- 📍 **Location:** Orlando, FL
+### [Sr. Data Analyst](https://www.linkedin.com/jobs/view/4446506454/) — GameStop
+- 📍 **Location:** Grapevine, TX
 - 🕒 **Posted:** 2026-07-28
 
-### [Voluntary Cleanup Program Site Manager (Hydrogeologist 3) Two Positions](https://www.linkedin.com/jobs/view/4446501660/) — Washington State Department of Ecology
-- 📍 **Location:** Lacey, WA
-- 🕒 **Posted:** 2026-07-28
-
-### [Reclamationist/Geologist – Natural Resource Specialist 4](https://www.linkedin.com/jobs/view/4446501597/) — State of Oregon
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $6,276.00/mo - $9,644.00/mo
-- 🕒 **Posted:** 2026-07-28
-
-### [Data Analyst (Research Analyst 3)](https://www.linkedin.com/jobs/view/4446399694/) — State of Oregon
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $5,193.00/mo - $7,968.00/mo
-- 🕒 **Posted:** 2026-07-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446510453/) — Singleton Construction, LLC
-- 📍 **Location:** Lancaster, OH
-- 🕒 **Posted:** 2026-07-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4436860979/) — Pacifico Energy
-- 📍 **Location:** Dallas-Fort Worth Metroplex
-- 🕒 **Posted:** 2026-07-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446348313/) — Trident Consulting
-- 📍 **Location:** Pomona, CA
-- 🕒 **Posted:** 2026-07-28
-
-### [Program Coordinator (ECP)](https://www.linkedin.com/jobs/view/4442746999/) — Bucks County Intermediate Unit
-- 📍 **Location:** Doylestown, PA
-- 🕒 **Posted:** 2026-07-28
-
-### [Program Coordinator (FFTL)](https://www.linkedin.com/jobs/view/4442214092/) — Commonwealth of Kentucky
-- 📍 **Location:** Frankfort, KY
-- 💰 **Salary:** $3,600.84 - $4,699.50 Monthly
+### [Project Coordinator - Healthcare IT](https://www.linkedin.com/jobs/view/4445790609/) — neteffects
+- 📍 **Location:** United States
+- 💰 **Salary:** $40.00/hr - $43.00/hr
 - 🕒 **Posted:** 2026-07-28
