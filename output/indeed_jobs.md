@@ -1,14 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-29 21:40 UTC*
+*Last updated: 2026-07-29 22:41 UTC*
 
-**2 new role(s)** since last run · 22 total in last 24h
+**2 new role(s)** since last run · 24 total in last 24h
 
-### [Lead Geologist - Land](https://www.indeed.com/viewjob?jk=15886aadc07bc790) — Fugro
-- 📍 **Location:** Commerce, CA, US
-- 💰 **Salary:** $140k–$185k/yr
+### [GIS Specialist](https://www.indeed.com/viewjob?jk=ef19ddbef41114fc) — McMillen, Inc.
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $50k–$96k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Junior Field Technician](https://www.indeed.com/viewjob?jk=954a86c42de8903e) — Onterris
+### [Environmental Field Technician](https://www.indeed.com/viewjob?jk=8ca034829cf13b74) — Atlas Technical Consultants
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $17–$35/hr
+- 💰 **Salary:** $28–$33/hr
 - 🕒 **Posted:** 2026-07-29
