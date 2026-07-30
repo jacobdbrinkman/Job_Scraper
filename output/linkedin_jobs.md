@@ -1,119 +1,119 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-30 00:33 UTC*
+*Last updated: 2026-07-30 03:50 UTC*
 
-**26 new role(s)** since last run · 32 total in last 1h
+**25 new role(s)** since last run · 25 total in last 1h
 
-### [Center of Excellence Program Coordinator (120 day assignment)](https://www.linkedin.com/jobs/view/4446455044/) — Janus of Santa Cruz
-- 📍 **Location:** Santa Cruz County, CA
-- 💰 **Salary:** $30-$33/hour
+### [Event and Project Coordinator](https://www.linkedin.com/jobs/view/4446463629/) — CalPERS
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $6,031.00/mo - $7,547.00/mo
 - 🕒 **Posted:** 2026-07-30
 
-### [Lead Safety & Environmental Analyst](https://www.linkedin.com/jobs/view/4422033698/) — Peraton
-- 📍 **Location:** Fort Irwin, CA
-- 💰 **Salary:** $80,000 - $128,000
+### [Research Data Specialist II](https://www.linkedin.com/jobs/view/4446488161/) — California Department of Industrial Relations
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $7,640.00/mo - $9,561.00/mo
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator & Office Support](https://www.linkedin.com/jobs/view/4446454068/) — FRAYJI DESIGN GROUP
-- 📍 **Location:** Roseville, CA
+### [HVAC Project Coordinator](https://www.linkedin.com/jobs/view/4446493016/) — gpac
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $60,000.00/yr - $95,000.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446899262/) — CableCom, LLC
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $22.00 - $26.00
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4444512590/) — McMillen
+- 📍 **Location:** Kirkland, WA
+- 💰 **Salary:** $50,000.00/yr - $95,800.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4444189644/) — EFI Global
+### [Solutions Engineer](https://www.linkedin.com/jobs/view/4446485851/) — Algolia
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $75,000 - $80,000
+- 💰 **Salary:** $149,500—$193,500 USD
 - 🕒 **Posted:** 2026-07-30
 
-### [Topobathymetric Lidar Geospatial Analyst II](https://www.linkedin.com/jobs/view/4440287863/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $69,000-$88,000 annually
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4444515507/) — McMillen
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $50,000.00/yr - $95,800.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Environmental Scientist/Engineer/Geologist](https://www.linkedin.com/jobs/view/4444179981/) — TRC Companies, Inc.
-- 📍 **Location:** Cary, NC
-- 💰 **Salary:** USD $55,016.00 - USD $85,654.00 /Yr
+### [Program Coordinator, Industry Research Partnerships](https://www.linkedin.com/jobs/view/4446853384/) — University of Colorado Boulder
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $30,000-$35,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Field Technician I - Nashville, TN](https://www.linkedin.com/jobs/view/4446889667/) — Lumen Technologies
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $40,500 - $53,500
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4444507780/) — McMillen
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $50,000.00/yr - $95,800.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [IAR Senior Data Analyst](https://www.linkedin.com/jobs/view/4447004058/) — Western Governors University
-- 📍 **Location:** Salt Lake City Metropolitan Area
-- 💰 **Salary:** $91,000.00 - $136,400.00
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4444507783/) — McMillen
+- 📍 **Location:** Boise, ID
+- 💰 **Salary:** $50,000.00/yr - $95,800.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Data Analyst Associate](https://www.linkedin.com/jobs/view/4446449232/) — CLA (CliftonLarsonAllen)
-- 📍 **Location:** Dallas, TX
+### [GIS Analyst I](https://www.linkedin.com/jobs/view/4444506642/) — Pape-Dawson
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator II](https://www.linkedin.com/jobs/view/4446893317/) — PTR Global
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $50 - $55/Hour
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4444519095/) — McMillen
+- 📍 **Location:** Spokane, WA
+- 💰 **Salary:** $50,000.00/yr - $95,800.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Events and Project Coordinator](https://www.linkedin.com/jobs/view/4438335778/) — Billy Graham Evangelistic Association
-- 📍 **Location:** Charlotte, NC
+### [Junior Investment Data Analyst](https://www.linkedin.com/jobs/view/4446192399/) — Vanguard
+- 📍 **Location:** Malvern, PA
 - 🕒 **Posted:** 2026-07-30
 
-### [Sr. Student Program Coordinator](https://www.linkedin.com/jobs/view/4446883972/) — University of Oklahoma
-- 📍 **Location:** Oklahoma City, OK
+### [Data Analyst](https://www.linkedin.com/jobs/view/4446454906/) — D&G Solutions
+- 📍 **Location:** Frederick, MD
+- 💰 **Salary:** $105,000.00/yr - $115,000.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Student Program Coordinator](https://www.linkedin.com/jobs/view/4446505929/) — University of Oklahoma
-- 📍 **Location:** Oklahoma City, OK
+### [Earthquake Field Technician](https://www.linkedin.com/jobs/view/4438880324/) — The University of Kansas
+- 📍 **Location:** Lawrence, KS
+- 💰 **Salary:** $18 - $22 per hour
 - 🕒 **Posted:** 2026-07-30
 
-### [After School Program Coordinator - MDUSD - Concord,CA.](https://www.linkedin.com/jobs/view/4444194123/) — HOKALI
-- 📍 **Location:** Pittsburg, CA
-- 🕒 **Posted:** 2026-07-29
+### [Project Geologist](https://www.linkedin.com/jobs/view/4446452778/) — S&ME
+- 📍 **Location:** Columbia, South Carolina Metropolitan Area
+- 🕒 **Posted:** 2026-07-30
 
-### [After School Program Coordinator - MDUSD - Concord,CA.](https://www.linkedin.com/jobs/view/4444189636/) — HOKALI
-- 📍 **Location:** Clyde, CA
-- 🕒 **Posted:** 2026-07-29
+### [Solids Control Field Technician - Permian Basin](https://www.linkedin.com/jobs/view/4444520096/) — Stage 3 Separation
+- 📍 **Location:** Midland, TX
+- 💰 **Salary:** $60,000.00/yr - $69,000.00/yr
+- 🕒 **Posted:** 2026-07-30
 
-### [After School Program Coordinator - MDUSD - Concord,CA.](https://www.linkedin.com/jobs/view/4444192572/) — HOKALI
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-07-29
+### [Natural Resources Specialist - Ft. Benning](https://www.linkedin.com/jobs/view/4446449978/) — Auburn University
+- 📍 **Location:** Auburn, AL
+- 🕒 **Posted:** 2026-07-30
 
-### [After School Program Coordinator - MDUSD - Concord,CA.](https://www.linkedin.com/jobs/view/4444199029/) — HOKALI
-- 📍 **Location:** Pleasant Hill, CA
-- 🕒 **Posted:** 2026-07-29
+### [Field Technician Maintenance](https://www.linkedin.com/jobs/view/4444520039/) — AMH
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $27.42 to $34.28 Hourly
+- 🕒 **Posted:** 2026-07-30
 
-### [After School Program Coordinator - MDUSD - Concord,CA.](https://www.linkedin.com/jobs/view/4444173981/) — HOKALI
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** 2026-07-29
+### [Data Analyst - Products](https://www.linkedin.com/jobs/view/4446467636/) — Particle Measuring Systems
+- 📍 **Location:** Niwot, CO
+- 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446889286/) — Torentify
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-07-29
+### [Transport Data Analyst](https://www.linkedin.com/jobs/view/4444510568/) — Experis
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-30
 
-### [Environmental Analyst IV - Amarillo, TX](https://www.linkedin.com/jobs/view/4444186556/) — Xcel Energy
-- 📍 **Location:** Greater Amarillo Area
-- 💰 **Salary:** $84,900.00 to $102,733.00 per year
-- 🕒 **Posted:** 2026-07-29
+### [Data Analyst - Finance](https://www.linkedin.com/jobs/view/4446458679/) — Particle Measuring Systems
+- 📍 **Location:** Niwot, CO
+- 💰 **Salary:** $66,000 - $99,000,
+- 🕒 **Posted:** 2026-07-30
 
-### [Fourmile - Sr. Geologist](https://www.linkedin.com/jobs/view/4446879843/) — Barrick Mining Corporation
-- 📍 **Location:** Elko, NV
-- 🕒 **Posted:** 2026-07-29
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446482819/) — Amfabsteel Inc.
+- 📍 **Location:** Bernalillo, NM
+- 🕒 **Posted:** 2026-07-30
 
-### [Biomed Service Specialist- Field Technician](https://www.linkedin.com/jobs/view/4446889143/) — DaVita Kidney Care
-- 📍 **Location:** Flower Mound, TX
-- 🕒 **Posted:** 2026-07-29
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446472726/) — Roush
+- 📍 **Location:** Livonia, MI
+- 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446890256/) — Synectics Inc.
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $26.00/hr - $30.00/hr
-- 🕒 **Posted:** 2026-07-29
-
-### [Customer Service & Project Coordinator](https://www.linkedin.com/jobs/view/4446434937/) — SpeedPro
-- 📍 **Location:** Apex, NC
-- 🕒 **Posted:** 2026-07-29
-
-### [Community Outreach Program Coordinator- Pulmonary Critical Care and Sleep](https://www.linkedin.com/jobs/view/4444182849/) — The Ohio State University Wexner Medical Center
+### [Development Project Coordinator- HNHF Realty Collaborative](https://www.linkedin.com/jobs/view/4446492772/) — Nationwide Children's Hospital
 - 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-07-29
+- 🕒 **Posted:** 2026-07-30
+
+### [Program Coordinator, Dean’s Office in Lee Business School [R0152773]](https://www.linkedin.com/jobs/view/4446450979/) — UNLV Department of Accounting
+- 📍 **Location:** Las Vegas Metropolitan Area
+- 🕒 **Posted:** 2026-07-30
