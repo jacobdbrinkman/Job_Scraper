@@ -1,9 +1,19 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-30 04:41 UTC*
+*Last updated: 2026-07-30 17:14 UTC*
 
-**1 new role(s)** since last run · 20 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
-### [Geologist](https://www.indeed.com/viewjob?jk=05e973bdcc2b4b52) — Fervo Energy
-- 📍 **Location:** Golden, CO, US
-- 💰 **Salary:** $140k–$180k/yr
-- 🕒 **Posted:** 2026-07-29
+### [Senior Geologist (MS/PhD)](https://www.indeed.com/viewjob?jk=30f00e37bf28adb0) — Exponent
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $115k–$135k/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Geologist (MS/PhD)](https://www.indeed.com/viewjob?jk=99211e2255ce3ebc) — Exponent
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $110k–$125k/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [RESEARCH DATA SPECIALIST II](https://www.indeed.com/viewjob?jk=64133d7aaed2119a) — Department Of Industrial Relations
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $7640–$9561/mo
+- 🕒 **Posted:** 2026-07-30
