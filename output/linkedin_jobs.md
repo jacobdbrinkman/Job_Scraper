@@ -1,177 +1,296 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-30 17:13 UTC*
+*Last updated: 2026-07-30 19:10 UTC*
 
-**40 new role(s)** since last run · 40 total in last 1h
+**66 new role(s)** since last run · 66 total in last 1h
 
-### [GIS Specialist (Production)](https://www.linkedin.com/jobs/view/4447018751/) — Motivf
+### [Senior Environmental Scientist (Supervisory)](https://www.linkedin.com/jobs/view/4447073153/) — CalRecycle
 - 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $60,000.00/yr - $75,000.00/yr
+- 💰 **Salary:** $10,854.00/mo - $13,493.00/mo
 - 🕒 **Posted:** 2026-07-30
 
-### [Junior Field Technicians - Palo Alto](https://www.linkedin.com/jobs/view/4446791691/) — Entegro
-- 📍 **Location:** Palo Alto, CA
+### [Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4446908170/) — Exponent
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** USD $110,000.00 - USD $125,000.00 /Yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator II](https://www.linkedin.com/jobs/view/4447025660/) — INSPYR Solutions
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $25.00/hr - $45.00/hr
+### [Senior Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4446900385/) — Exponent
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** USD $115,000.00 - USD $135,000.00 /Yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Program Coordinator - LVN or RN license required](https://www.linkedin.com/jobs/view/4447060107/) — Unitek College of Nursing
-- 📍 **Location:** Concord, CA
+### [Senior Hydrogeologist / Project Manager](https://www.linkedin.com/jobs/view/4380617577/) — Hazen and Sawyer
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $190,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309697587/) — DataAnnotation
-- 📍 **Location:** California, United States
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4445041621/) — e-STORAGE
+- 📍 **Location:** Walnut Creek, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4445040415/) — Silverline Partners
-- 📍 **Location:** California, United States
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446914085/) — EOS IT Solutions
+- 📍 **Location:** Hayward, CA
+- 💰 **Salary:** $65,000—$75,000 USD
 - 🕒 **Posted:** 2026-07-30
 
-### [Master Data Management Specialist](https://www.linkedin.com/jobs/view/4447016045/) — Talent Groups
-- 📍 **Location:** Chula Vista, CA
+### [Manufacturing Project Coordinator](https://www.linkedin.com/jobs/view/4447067045/) — Applicantz
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator (Training-Development & Events Management)](https://www.linkedin.com/jobs/view/4446786444/) — Aequor
-- 📍 **Location:** Thousand Oaks, CA
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418837161/) — PwC
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator II](https://www.linkedin.com/jobs/view/4447063090/) — Kforce Inc
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $25.00/hr - $35.47/hr
+### [Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4446903318/) — Exponent
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** USD $110,000.00 - USD $125,000.00 /Yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator, Creative Production & Campaign Operations [83099]](https://www.linkedin.com/jobs/view/4445024109/) — Onward Search
-- 📍 **Location:** Ventura, CA
-- 💰 **Salary:** $35.00/hr - $40.00/hr
+### [People Data Analyst](https://www.linkedin.com/jobs/view/4428430282/) — CHAOS Industries
+- 📍 **Location:** El Segundo, CA
+- 💰 **Salary:** $150k-$200k
 - 🕒 **Posted:** 2026-07-30
 
-### [Product Data Management Specialist](https://www.linkedin.com/jobs/view/4445042142/) — Boeing
-- 📍 **Location:** Tukwila, WA
-- 💰 **Salary:** $77,350-$104,650
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864450438/) — Epic
+- 📍 **Location:** Fontana, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [GIS Specialist](https://www.linkedin.com/jobs/view/4446796625/) — Pennoni
-- 📍 **Location:** Philadelphia, PA
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864448701/) — Epic
+- 📍 **Location:** Modesto, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [GIS/CAD Survey Technician](https://www.linkedin.com/jobs/view/4447041214/) — SAM
-- 📍 **Location:** Melville, NY
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864448882/) — Epic
+- 📍 **Location:** Fresno, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4410906251/) — Ayres Associates
-- 📍 **Location:** Madison, WI
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3849882818/) — Epic
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4447053098/) — Sparksoft Corporation
-- 📍 **Location:** Columbia, MD
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864450479/) — Epic
+- 📍 **Location:** Huntington Beach, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Business Data Analyst](https://www.linkedin.com/jobs/view/4441557041/) — firstPRO 360
-- 📍 **Location:** Atlanta Metropolitan Area
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3849887150/) — Epic
+- 📍 **Location:** Moreno Valley, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446777940/) — FetchJobs.co
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864453149/) — Epic
+- 📍 **Location:** San Bernardino, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4446903319/) — Exponent
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** USD $115,000.00 - USD $135,000.00 /Yr
+- 🕒 **Posted:** 2026-07-30
+
+### [PV Solar Field Technician III - McCoy Solar - Blythe, CA](https://www.linkedin.com/jobs/view/4445034648/) — NextEra Energy Resources
+- 📍 **Location:** Blythe, CA
+- 💰 **Salary:** $52,800.00 to $79,200.00 per year
+- 🕒 **Posted:** 2026-07-30
+
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864453282/) — Epic
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Project Coordinator II](https://www.linkedin.com/jobs/view/4445029471/) — Creative Circle
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $28.00/hr - $32.14/hr
+- 🕒 **Posted:** 2026-07-30
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446348313/) — Trident Consulting
+- 📍 **Location:** Pomona, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Project Coordinator (CAPC-01)](https://www.linkedin.com/jobs/view/4446799430/) — MEA Forensic Engineers & Scientists
+- 📍 **Location:** Laguna Hills, CA
+- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Teen Program Coordinator](https://www.linkedin.com/jobs/view/4438603149/) — YMCA of the USA
+- 📍 **Location:** Santa Monica, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4446911123/) — Exponent
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** USD $115,000.00 - USD $135,000.00 /Yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4446904223/) — Exponent
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** USD $115,000.00 - USD $135,000.00 /Yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3955125223/) — Epic
+- 📍 **Location:** Tacoma, WA
+- 🕒 **Posted:** 2026-07-30
+
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3849886361/) — Epic
+- 📍 **Location:** Aurora, CO
+- 🕒 **Posted:** 2026-07-30
+
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3955122610/) — Epic
+- 📍 **Location:** Thornton, CO
+- 🕒 **Posted:** 2026-07-30
+
+### [Topobathymetric Lidar Geospatial Analyst II](https://www.linkedin.com/jobs/view/4440287863/) — Dewberry
+- 📍 **Location:** Fairfax, VA
+- 💰 **Salary:** $69,000-$88,000 annually
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior GIS Analyst](https://www.linkedin.com/jobs/view/4437097346/) — Inceed
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $140,000 - $150,000 annually
+- 🕒 **Posted:** 2026-07-30
+
+### [Field Technician](https://www.linkedin.com/jobs/view/4419526821/) — HBK Engineering, LLC
+- 📍 **Location:** Dallas County, TX
+- 🕒 **Posted:** 2026-07-30
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418829360/) — PwC
+- 📍 **Location:** Toledo, OH
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-30
+
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418826385/) — PwC
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $77,000 - $202,000
+- 🕒 **Posted:** 2026-07-30
+
+### [Associate Data Analyst](https://www.linkedin.com/jobs/view/4445204792/) — AIS (Applied Information Sciences)
+- 📍 **Location:** Clarksburg, WV
+- 💰 **Salary:** $53,000-$80,000 per year
+- 🕒 **Posted:** 2026-07-30
+
+### [Environmental Scientist/Planner 1](https://www.linkedin.com/jobs/view/4446917413/) — HDR
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-07-30
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4447080251/) — Massachusetts General Hospital
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $53,040.00 - $75,888.80/Annual
+- 🕒 **Posted:** 2026-07-30
+
+### [Data Analyst – ETL & Data Quality](https://www.linkedin.com/jobs/view/4447086031/) — Acumenz Consulting
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-30
 
-### [Data Analyst (EO)](https://www.linkedin.com/jobs/view/4447054104/) — Kentro
-- 📍 **Location:** Washington, DC
+### [Geological Technician](https://www.linkedin.com/jobs/view/4446906447/) — Coeur Mining, Inc.
+- 📍 **Location:** Juneau, AK
 - 🕒 **Posted:** 2026-07-30
 
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4446594778/) — CBRE Global Workplace Solutions (GWS)
-- 📍 **Location:** Dallas-Fort Worth Metroplex
+### [Data Analyst](https://www.linkedin.com/jobs/view/4446901457/) — Kavyos Consulting
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior Data Analyst - Cardiology](https://www.linkedin.com/jobs/view/4442371430/) — Columbia University Irving Medical Center
+### [Data Analyst](https://www.linkedin.com/jobs/view/4446904315/) — SDLC Technologies
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-07-30
+
+### [Data Analyst I](https://www.linkedin.com/jobs/view/4447073300/) — Thorlabs
+- 📍 **Location:** Newton, NJ
+- 💰 **Salary:** $72,000.00/yr - $94,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [GCP Data Analyst](https://www.linkedin.com/jobs/view/4445035755/) — HCLTech
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000 - $90,000
+- 💰 **Salary:** $95,000.00/yr - $192,000.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4438506640/) — Consumers Credit Union
-- 📍 **Location:** Lake Forest, IL
-- 💰 **Salary:** $67,980 - $108,768 per year
-- 🕒 **Posted:** 2026-07-30
-
-### [FIELD SCIENTIST/GEOLOGIST – REMEDIATION & WATER QUALITY](https://www.linkedin.com/jobs/view/4446796580/) — Confluence Compliance Companies, LLC
-- 📍 **Location:** Parachute, CO
-- 💰 **Salary:** $55,000.00/yr - $65,000.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Senior Engineering Geologist (JC-526033)](https://www.linkedin.com/jobs/view/4446792955/) — Caltrans
-- 📍 **Location:** Humboldt County, CA
-- 💰 **Salary:** $137,244.00/yr - $171,780.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Clinical Data Management Specialist](https://www.linkedin.com/jobs/view/4445029191/) — Merit Medical Systems, Inc.
-- 📍 **Location:** Minnesota, United States
-- 🕒 **Posted:** 2026-07-30
-
-### [Manufacturing Data Analyst (Data Tech)](https://www.linkedin.com/jobs/view/4447030457/) — Sanmina
-- 📍 **Location:** Carrollton, TX
-- 🕒 **Posted:** 2026-07-30
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446795670/) — Haystack
-- 📍 **Location:** North Carolina, United States
-- 🕒 **Posted:** 2026-07-30
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4447027599/) — Randstad Digital Americas
-- 📍 **Location:** Carolina Beach, NC
-- 🕒 **Posted:** 2026-07-30
-
-### [Junior Data Analyst/BI Analyst](https://www.linkedin.com/jobs/view/4447063141/) — Alaka`ina Foundation Family of Companies
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-07-30
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4446752056/) — Sundayy
-- 📍 **Location:** United States
-- 💰 **Salary:** $55,100 to $99,000 annually
-- 🕒 **Posted:** 2026-07-30
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446751052/) — Sundayy
+### [Power BI Data Analyst](https://www.linkedin.com/jobs/view/4446906508/) — NextGenPros Inc
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4446798027/) — Haystack
-- 📍 **Location:** North Carolina, United States
+### [Data Analyst (Analytics & Reporting Consultant)](https://www.linkedin.com/jobs/view/4447067329/) — Integrated Resources, Inc ( IRI )
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-07-30
 
-### [Data Analyst Lead](https://www.linkedin.com/jobs/view/4447057220/) — Progressive Insurance
+### [Data Analyst I](https://www.linkedin.com/jobs/view/4447080291/) — Massachusetts General Hospital
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $53,040.00 - $75,888.80/Annual
+- 🕒 **Posted:** 2026-07-30
+
+### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4418893292/) — Epic
+- 📍 **Location:** Mount Pleasant, MI
+- 🕒 **Posted:** 2026-07-30
+
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3886680391/) — Epic
+- 📍 **Location:** Essex, VT
+- 🕒 **Posted:** 2026-07-30
+
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864452601/) — Epic
+- 📍 **Location:** Mount Pleasant, MI
+- 🕒 **Posted:** 2026-07-30
+
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3849885474/) — Epic
+- 📍 **Location:** Great Falls, MT
+- 🕒 **Posted:** 2026-07-30
+
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3849883649/) — Epic
+- 📍 **Location:** Sheboygan, WI
+- 🕒 **Posted:** 2026-07-30
+
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4446798564/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
+- 🕒 **Posted:** 2026-07-30
+
+### [Geotechnical Field Technician](https://www.linkedin.com/jobs/view/4447086184/) — ECS Group of Companies
+- 📍 **Location:** Waukesha, WI
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4438684996/) — MongoDB
 - 📍 **Location:** United States
-- 💰 **Salary:** $98,400 - $131,200 /year
+- 💰 **Salary:** $83,000—$162,000 USD
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4447034238/) — GL Staffing
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $28.00/hr - $30.00/hr
+### [Business Intelligence Data Analyst | Retail Insights](https://www.linkedin.com/jobs/view/4445042631/) — Alphanumeric Systems
+- 📍 **Location:** Warren, NJ
+- 💰 **Salary:** $40.00/hr - $45.00/hr
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446786715/) — Intellectt Inc
-- 📍 **Location:** Kansas City, MO
+### [Senior Data Analyst, Finance](https://www.linkedin.com/jobs/view/4418294422/) — Equifax
+- 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-07-30
 
-### [Office Manager / Project Coordinator](https://www.linkedin.com/jobs/view/4447060231/) — Spiniello Companies
-- 📍 **Location:** Washington DC-Baltimore Area
+### [SQM Financial Data Analyst - Zeus Aerospace and Defense](https://www.linkedin.com/jobs/view/4438527173/) — Arrow Electronics
+- 📍 **Location:** Purchase, NY
+- 💰 **Salary:** $29.90 - $36.54
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator I, PC Academy](https://www.linkedin.com/jobs/view/4447057139/) — Fortrea
-- 📍 **Location:** Durham, NC
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4447080270/) — Motion Recruitment
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-30
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4445022471/) — Let's Roof
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $54,550.00 - $79,206.60 annually
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446903647/) — TRC Talent Solutions
+- 📍 **Location:** Alpharetta, GA
+- 💰 **Salary:** $25.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-07-30
 
-### [Death Registration Program Coordinator](https://www.linkedin.com/jobs/view/4445021435/) — State of Iowa - Executive Branch
-- 📍 **Location:** Des Moines, IA
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4447072102/) — American College of Cardiology
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-30
 
-### [UNIV - Student Services Program Coordinator II- COM DO- UME](https://www.linkedin.com/jobs/view/4446788847/) — MUSC Health
-- 📍 **Location:** Charleston, SC
+### [Events and Project Coordinator](https://www.linkedin.com/jobs/view/4438335778/) — Billy Graham Evangelistic Association
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-07-30
 
-### [Memory Care Program Coordinator](https://www.linkedin.com/jobs/view/4446787745/) — Brookdale
-- 📍 **Location:** Fort Myers, FL
+### [Sr. Student Program Coordinator](https://www.linkedin.com/jobs/view/4446883972/) — University of Oklahoma
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-07-30
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4445035664/) — CW RESOURCES, INC.
+- 📍 **Location:** Danbury, CT
+- 🕒 **Posted:** 2026-07-30
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446799385/) — Cooper Machinery Services
+- 📍 **Location:** Cambridge, OH
+- 🕒 **Posted:** 2026-07-30
+
+### [Part Time Program Coordinator](https://www.linkedin.com/jobs/view/4446524605/) — University of Pennsylvania
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $24.21 - $31.92 Hourly
+- 🕒 **Posted:** 2026-07-30
+
+### [Project Coordinator III](https://www.linkedin.com/jobs/view/4438261733/) — Chugach Government Solutions, LLC
+- 📍 **Location:** Las Cruces, NM
 - 🕒 **Posted:** 2026-07-30
