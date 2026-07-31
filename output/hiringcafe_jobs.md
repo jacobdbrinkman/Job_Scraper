@@ -1,108 +1,46 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-07-31 04:14 UTC*
+*Last updated: 2026-07-31 18:14 UTC*
 
-**22 new role(s)** since last run · 149 total in last 30d
+**9 new role(s)** since last run · 143 total in last 30d
 
-### [Geospatial Analyst II-61006019](https://www.governmentjobs.com/careers/sc/jobs/5429165) — State of South Carolina
-- 📍 **Location:** Lexington County, South Carolina, United States
-- 💰 **Salary:** $62k–$65k/yr
-- 🕒 **Posted:** 2026-07-30T21:56:07.000Z
-
-### [Geologist (481120)](https://career8.successfactors.com/career?career_ns=job_listing&company=indianaoff&career_job_req_id=481120) — State of Indiana
-- 📍 **Location:** Indiana, United States
-- 💰 **Salary:** $67k/yr
-- 🕒 **Posted:** 2026-07-24T17:28:16.000Z
-
-### [Geologist III](https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b) — Aleut Federal, LLC
-- 📍 **Location:** Oxford or Raleigh
-- 💰 **Salary:** $80k–$95k/yr
-- 🕒 **Posted:** 2026-07-30T14:59:16.561Z
-
-### [Field Geologist](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371) — Arcadis
-- 📍 **Location:** Knoxville, Tennessee, United States
-- 💰 **Salary:** $58k–$87k/yr
-- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
-
-### [Field Geologist](https://arcadis.eightfold.ai/careers/job/563671532591339) — Arcadis
-- 📍 **Location:** Knoxville, Tennessee, United States
-- 💰 **Salary:** $58k–$87k/yr
-- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
-
-### [Senior Geologist](https://careers.div.energy/jobs/2637?lang=en-us) — Diversified Gas & Oil Corporation
-- 📍 **Location:** Houston, Texas, United States
-- 🕒 **Posted:** 2026-07-29T20:41:19.000Z
-
-### [Geologist Advisor](https://careers.apachecorp.com/job/Houston-Geologist-Advisor-TX-77042/1404071700/) — Apache Corporation
-- 📍 **Location:** Houston or Cairo or United States or Egypt or United Kingdom or Suriname
-- 🕒 **Posted:** 2026-07-01T05:47:17.332Z
-
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
-- 📍 **Location:** Morenci, Arizona, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
-
-### [Senior Geologist](https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist) — Turner Mining Group
-- 📍 **Location:** Winnemucca, Nevada, United States
-- 🕒 **Posted:** 2026-07-23T20:28:07.851Z
-
-### [Geologist/GIT](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622) — Stantec
-- 📍 **Location:** Lombard, Illinois, United States
-- 🕒 **Posted:** 2026-07-07T16:19:16.000Z
-
-### [Senior Water Resources Specialist (Water Use Efficiency)](https://www.governmentjobs.com/careers/sdcwa/jobs/5400936) — San Diego County Water Authority
-- 📍 **Location:** Kearny Mesa, California, United States
-- 💰 **Salary:** $143k–$192k/yr
-- 🕒 **Posted:** 2026-07-14T00:00:00.000Z
-
-### [Environmental Geologist](https://arcadis.eightfold.ai/careers/job/563671532814675) — Arcadis
-- 📍 **Location:** Hanover, Maryland, United States
-- 💰 **Salary:** $65k–$97k/yr
-- 🕒 **Posted:** 2026-07-30T18:49:13.000Z
-
-### [Natural Resources Specialist](https://www.usajobs.gov/job/878715800) — Department of the Interior
+### [GIS ANALYST 2](https://www.governmentjobs.com/careers/nv/jobs/5428767) — State of Nevada (NV)
 - 📍 **Location:** Carson City, Nevada, United States
-- 💰 **Salary:** $56k–$129k/yr
-- 🕒 **Posted:** 2026-07-30T15:52:00.510Z
+- 💰 **Salary:** $67k–$100k/yr
+- 🕒 **Posted:** 2026-07-29T14:37:10.000Z
 
-### [Natural Resources Field Technician](https://acrt.wd1.myworkdayjobs.com/acrt_careers/job/Los-Banos-CA/Natural-Resources-Field-Technician_R9134) — ACRT, Inc.
-- 📍 **Location:** Los Banos, California, United States
-- 💰 **Salary:** $54k–$71k/yr
-- 🕒 **Posted:** 2026-07-07T00:00:00.000Z
+### [Environmental Scientist I](https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9) — Moore Engineering, Inc.
+- 📍 **Location:** Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado
+- 💰 **Salary:** $71k–$97k/yr
+- 🕒 **Posted:** 2026-07-01T18:47:25.002Z
 
-### [Natural Resources Specialist (Forestry Inventory Technician)](https://vtemployees.pageuppeople.com/job/537146) — Virginia Tech
-- 📍 **Location:** Blacksburg, Virginia, United States
-- 💰 **Salary:** $37k–$48k/yr
-- 🕒 **Posted:** 2026-07-30T13:00:00.000Z
+### [Environmental Scientist I](https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9) — Vistal
+- 📍 **Location:** Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado
+- 💰 **Salary:** $71k–$97k/yr
+- 🕒 **Posted:** 2026-07-01T18:47:25.002Z
 
-### [Natural Resources Program Coordinator](https://plexsci.isolvedhire.com/jobs/1828955) — Plexus Scientific Corporation
-- 📍 **Location:** Fort Belvoir or Fort Liberty
-- 💰 **Salary:** $70k–$120k/yr
-- 🕒 **Posted:** 2026-07-27T00:00:00.000Z
+### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
+- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
 
-### [Environmental Scientist - Sarasota in Sarasota, Florida, United States](https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-sarasota-55677) — Ardaman & Associates, Inc.
-- 📍 **Location:** Sarasota, Florida, United States
-- 🕒 **Posted:** 2026-07-14T21:26:43.652Z
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42911190) — Freeport-McMoRan
+- 📍 **Location:** Bayard, New Mexico, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-07T20:57:20.000Z
 
-### [Environmental Scientist – Ecologist/Biologist (Mid-level)](https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/) — Stantec
-- 📍 **Location:** Chattanooga or Nashville or Louisville or Lexington
-- 🕒 **Posted:** 2026-07-13T17:04:57.000Z
+### [Geologist II](https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106) — Asarco LLC
+- 📍 **Location:** Sahuarita, Arizona, United States
+- 🕒 **Posted:** 2026-07-23T00:11:48.000Z
 
-### [Entry-Level Environmental Consultant](https://rossstrategic.pinpointhq.com/en/postings/6701ff55-f923-49f7-83fd-c3405252f28d) — Ross Strategic
-- 📍 **Location:** Seattle, Washington, United States
-- 💰 **Salary:** $65k–$75k/yr
-- 🕒 **Posted:** 2026-07-20T20:24:23.064Z
+### [Geologist 2](https://hdr.referrals.selectminds.com/jobs/geologist-2-44512) — HDR
+- 📍 **Location:** Austin or Houston or Baton Rouge
+- 🕒 **Posted:** 2026-07-16T22:22:48.976Z
 
-### [Environmental Consultant – Senior Level (Hybrid)](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Consultant---Senior-Level--Hybrid-_R-102185) — Barr
-- 📍 **Location:** Grand Rapids, Michigan, United States
-- 💰 **Salary:** $125k–$150k/yr
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+### [Geologist 2](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=194197&lang=en) — HDR
+- 📍 **Location:** Austin or Baton Rouge or Houston
+- 🕒 **Posted:** 2026-07-16T12:00:00.000Z
 
-### [Senior Environmental Consultant Manager](https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — Sargent & Lundy
-- 📍 **Location:** Hamilton, New Jersey, United States
+### [Senior Environmental Consultant Manager](https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — Sargent & Lundy
+- 📍 **Location:** Wilmington, Delaware, United States
 - 💰 **Salary:** $166k–$253k/yr
-- 🕒 **Posted:** 2026-07-30T01:52:00.000Z
-
-### [Senior Environmental Consultant Manager](https://careers-sargentlundy.icims.com/jobs/25703/senior-environmental-consultant-manager/job?in_iframe=1) — Sargent & Lundy
-- 📍 **Location:** Cranberry Township, Pennsylvania, United States
-- 💰 **Salary:** $166k–$253k/yr
-- 🕒 **Posted:** 2026-07-29T04:00:00.000Z
+- 🕒 **Posted:** 2026-07-30T01:56:00.000Z
