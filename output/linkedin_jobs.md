@@ -1,38 +1,21 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-01 21:22 UTC*
+*Last updated: 2026-08-01 22:24 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 6 total in last 1h
 
-### [SART Program Coordinator RN](https://www.linkedin.com/jobs/view/4447620100/) — CommonSpirit Health
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $57.02 - $86.80 /hour
+### [Junior Data Analyst with AI focus - Korean-English bilingual](https://www.linkedin.com/jobs/view/4447602491/) — JB Mobility
+- 📍 **Location:** Costa Mesa, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Environmental Scientist (Land Development)](https://www.linkedin.com/jobs/view/4447616126/) — 3P CAREERS | CIVIL ENGINEERING | ARCHITECTURE | INTERIOR DESIGN
-- 📍 **Location:** Germantown, MD
-- 💰 **Salary:** $80,000.00/yr - $120,000.00/yr
+### [Housing Program Coordinator](https://www.linkedin.com/jobs/view/4447618152/) — Willits Shelter Action Group
+- 📍 **Location:** Willits, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4447618096/) — RemoteHunter
+### [Restoration and Stormwater Inspection Environmental Scientist/Specialist | South Bend, IN](https://www.linkedin.com/jobs/view/4447841978/) — The Davey Tree Expert Company
+- 📍 **Location:** South Bend, IN
+- 🕒 **Posted:** 2026-08-01
+
+### [Program Coordinator - OFFICE OF CNO -Remote](https://www.linkedin.com/jobs/view/4447602472/) — RemoteHunter
 - 📍 **Location:** United States
-- 💰 **Salary:** $95,000 - $115,000
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4447607340/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-01
-
-### [Sr. BI Data Analyst](https://www.linkedin.com/jobs/view/4447185601/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $81,000 to $95,000
-- 🕒 **Posted:** 2026-08-01
-
-### [Audit Data Analyst - Staff Auditor II (Entry Level)](https://www.linkedin.com/jobs/view/4445813313/) — USAA
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $69,920.00 - $133,000
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Research Data Analyst](https://www.linkedin.com/jobs/view/4447602457/) — University of California, Riverside
-- 📍 **Location:** United States
-- 💰 **Salary:** $84,100.00 - $154,700.00 annually
+- 💰 **Salary:** $20.43 to $27.92 per hour
 - 🕒 **Posted:** 2026-08-01
