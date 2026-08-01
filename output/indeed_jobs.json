@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-01 01:17 UTC",
-  "total": 12,
+  "scraped_at": "2026-08-01 05:00 UTC",
+  "total": 11,
   "new_count": 0,
   "jobs": [
     {
@@ -134,23 +134,6 @@
       "salary": "",
       "salary_source": "",
       "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Merrick & Company",
-      "title": "GIS Analyst",
-      "location": "Greenwood Village, CO, US",
-      "url": "https://www.indeed.com/viewjob?jk=79cd8e2512645c15",
-      "direct_url": "https://careers.merrick.com/jobs/8431/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "company_url": "https://www.indeed.com/cmp/Merrick-&-Company",
-      "date_posted": "2026-07-30",
-      "description": "OVERVIEW:\n\nMerrick \\& Company is seeking a career\\- and quality\\-minded GIS Analyst for a full\\-time position in our Greenwood Village, CO office. We are open to both hybrid or remote. The ideal candidate is motivated by challenging projects and enjoys working across **widely varied GIS applications and related geospatial services**. This role supports infrastructure, utilities, aviation, federal, and municipal projects and works closely with engineers, planners, surveyors, LiDAR/imagery specialists, and project managers. The GIS Analyst will be responsible for developing, managing, analyzing, and visualizing geospatial data to support project delivery, decision\\-making, and client requirements.\n\n  \n\n\nWHAT YOU'LL DO:\n* Develop, manage, and maintain GIS datasets, geodatabases, and spatial data repositories\n* Perform spatial analysis, data validation, and quality control to support project requirements\n* Create maps, figures, dashboards, web maps, and other geospatial deliverables for technical and non\\-technical audiences\n* Design, deploy, and support **ArcGIS Online** projects, including hosting, sharing, and security configuration\n* Support **geodatabase creation and management**, including schema design and data governance\n* Integrate GIS data with CAD, BIM, LiDAR, imagery, GPS, and tabular datasets\n* Support **3D GIS, BIM, and digital twin workflows**, including visualization and data integration\n* Apply and support **AI / GeoAI applications** for geospatial analysis where appropriate\n* Prepare and maintain metadata, documentation, and standard GIS workflows\n\n\nREQUIRED QUALIFICATIONS:\n* 5\\+ years experience\n* Associate’s or Bachelor’s degree in GIS, Geography, Geomatics, Computer Science, Engineering, or a related field (or equivalent professional experience)\n* Strong understanding of GIS concepts, spatial data structures, and cartographic principles\n* Working knowledge of coordinate systems, projections, and basic geodesy\n* Experience supporting multi\\-disciplinary engineering or infrastructure project teams\n* ESRI software suite including **ArcGIS Pro and ArcGIS Online**\n* Geodatabase design, maintenance, and versioned workflows\n* Spatial analysis, geoprocessing, and data QA/QC\n* Cartographic design and geospatial data visualization\n* CAD/GIS and BIM/GIS integration (e.g., AutoCAD, 3D models)\n\n\nDESIRED QUALIFICATIONS:\n* Utility asset management and system mapping\n* **SDSFIE** data models and standards\n* Boundary datasets, plats, property descriptions, easement and right\\-of\\-way mapping\n* Processing and integrating **survey design topography and DTM surfaces**\n* **ArcGIS Field Maps** and mobile data collection solutions\n* Electric utilities, water districts, and/or other utility clients\n\n\nPERKS:\n* **Employee Ownership** – All eligible U.S. employees participate in our Employee Stock Ownership Plan (ESOP), sharing in the company’s success.\n* **Comprehensive Compensation \\& Benefits** – Merrick \\& Company offers a competitive compensation and benefits package including health insurance, dental and vision coverage, and paid time off (PTO).\n* **Robust Referral Program** – Earn incentives for referring top talent to join our team.\n* **Performance Reviews** – Annual reviews to recognize contributions and support career growth.\n* **Professional Development** – Access to ongoing training and development opportunities to build your skills and advance your career.\n* **Employee Recognition** – Formal programs to celebrate achievements and outstanding performance.\n* **Peer Mentor Program** – Get support and guidance through structured mentorship opportunities.\n* **And More** – Additional programs and benefits designed to support your success and well\\-being.\n\n\nADDITIONAL INFORMATION:\n* Apply online only. No e\\-mail, hard copy or third\\-party resumes accepted.\n* At Merrick, every resume is carefully reviewed by our team of experienced human recruiters—never by AI. We are committed to a fully human\\-centered hiring process, ensuring each candidate receives thoughtful, personalized attention at every stage.\n* Merrick is an Equal Opportunity Employer, including disability/vets.\n* Employment with Merrick is contingent upon completion of a pre\\-employment background check, MVR check, and drug screen.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
       "job_type": "fulltime",
       "is_remote": true,
       "emails": "",
