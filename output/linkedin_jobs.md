@@ -1,66 +1,90 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-01 16:33 UTC*
+*Last updated: 2026-08-01 17:33 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**18 new role(s)** since last run · 23 total in last 1h
 
-### [On-Call Staff Archaeologist | Field Technician | California](https://www.linkedin.com/jobs/view/4196101306/) — Chronicle Heritage
-- 📍 **Location:** Orange County, CA
-- 💰 **Salary:** $20.00/hr - $30.00/hr
+### [Data Analyst, Finance](https://www.linkedin.com/jobs/view/4438355889/) — IDEX Corporation
+- 📍 **Location:** Rohnert Park, CA
+- 💰 **Salary:** $90,000-$105,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Commercial Data Analyst](https://www.linkedin.com/jobs/view/4420483407/) — Leiters Health
-- 📍 **Location:** Denver Metropolitan Area
-- 💰 **Salary:** $73,000.00/yr - $90,000.00/yr
+### [Project Coordinator – Infrastructure & Deployment Operations](https://www.linkedin.com/jobs/view/4436642387/) — HireArt
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [SIGINT Geospatial Analyst](https://www.linkedin.com/jobs/view/4439357825/) — Metrea
-- 📍 **Location:** Washington, DC
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418839099/) — PwC
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-08-01
 
-### [SIGINT Geospatial Analyst](https://www.linkedin.com/jobs/view/4439362700/) — Metrea
-- 📍 **Location:** Baltimore, MD
+### [Field Technician](https://www.linkedin.com/jobs/view/4380793856/) — Groupe SEB
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $60,320.00/yr - $60,320.00/yr
 - 🕒 **Posted:** 2026-08-01
 
-### [Data Analyst (Austin) (827127)](https://www.linkedin.com/jobs/view/4429387422/) — Texas Workforce Commission
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $6,290.00 - $7,156.00/month
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418839084/) — PwC
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Data Analyst I](https://www.linkedin.com/jobs/view/4439376125/) — Acorns
-- 📍 **Location:** United States
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418825431/) — PwC
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Enrollment Data Analyst](https://www.linkedin.com/jobs/view/4439325889/) — American Fidelity
-- 📍 **Location:** Oklahoma City, OK
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418818989/) — PwC
+- 📍 **Location:** Milwaukee, WI
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4447476957/) — Vertex Resource Group Ltd.
-- 📍 **Location:** Carlsbad, NM
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418836196/) — PwC
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Assistant Project Coordinator (Virtual Design and Construction)](https://www.linkedin.com/jobs/view/4419975994/) — Morley Moss Inc.
-- 📍 **Location:** Dallas, TX
+### [Utility Network GIS Consultant, Senior Associate](https://www.linkedin.com/jobs/view/4418824530/) — PwC
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $77,000 - $202,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Entry-Level Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4418893297/) — Epic
-- 📍 **Location:** St Cloud, MN
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422039092/) — PwC
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Intermediate Hydrogeologist](https://www.linkedin.com/jobs/view/4429670225/) — WSP in the U.S.
-- 📍 **Location:** Tigard, OR
-- 💰 **Salary:** $68,500 - $89,500
+### [Utility Network GIS Consultant, Manager](https://www.linkedin.com/jobs/view/4422033717/) — PwC
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $99,000 - $232,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Solutions Engineer  East Coast](https://www.linkedin.com/jobs/view/4447498562/) — Cloudera Government Solutions
-- 📍 **Location:** New York, NY
+### [Physics Data Analyst - AI Trainer](https://www.linkedin.com/jobs/view/4309691893/) — DataAnnotation
+- 📍 **Location:** South Dakota, United States
 - 🕒 **Posted:** 2026-08-01
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4445810686/) — Tech Consulting
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $30.00/hr - $35.00/hr
+### [Sr. Data Analyst - Transport](https://www.linkedin.com/jobs/view/4430023470/) — Reserv
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-01
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4436636000/) — Knobelsdorff
-- 📍 **Location:** Goodhue, MN
-- 💰 **Salary:** $50,000.00/yr - $65,000.00/yr
+### [Senior Data Analyst, Policy Bureau](https://www.linkedin.com/jobs/view/4445592956/) — City of New York
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $100,000.00 – $115,000.00
+- 🕒 **Posted:** 2026-08-01
+
+### [Data Analyst, Finance](https://www.linkedin.com/jobs/view/4438376209/) — IDEX Corporation
+- 📍 **Location:** Huckleberry Corner, MA
+- 💰 **Salary:** $90,000-$105,000
+- 🕒 **Posted:** 2026-08-01
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4445803867/) — City of New York
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $75,777.00 – $111,552.00
+- 🕒 **Posted:** 2026-08-01
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4445808793/) — City of New York
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $78,740.00 – $114,033.00
+- 🕒 **Posted:** 2026-08-01
+
+### [UNIV - Research Program Coordinator I - Journey - Department of PHS](https://www.linkedin.com/jobs/view/4447191825/) — MUSC Health
+- 📍 **Location:** Charleston, SC
 - 🕒 **Posted:** 2026-08-01
