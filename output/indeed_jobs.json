@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01 21:38 UTC",
+  "scraped_at": "2026-08-01 22:40 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Resources Recycling & Recovery",
@@ -140,23 +140,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Unknown",
-      "title": "Consulting GIS Specialist – Service Center Manager /Application Developer",
-      "location": "Sacramento, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=d27285beae7e3c45",
-      "direct_url": "http://www.indeed.com/job/consulting-gis-specialist-service-center-manager-application-developer-d27285beae7e3c45",
-      "company_url": "https://www.indeed.comNone",
-      "date_posted": "2026-08-01",
-      "description": "**Overview**\n\nWe are seeking a dynamic and highly skilled Consulting GIS Specialist – Service Center Manager / Application Developer to lead our geospatial initiatives and manage service center operations of a high performing Enterprise GIS Service Center supporting the U.S. Bureau of Reclamation. This on\\-site leadership position combines operational management, technical oversight, enterprise application development, and customer engagement while ensuring the successful delivery of mission\\-critical geospatial services supporting water resources, infrastructure, environmental stewardship, and public lands throughout the western United States. The ideal candidate will provide technical leadership, supervise GIS professionals, oversee enterprise GIS operations, and serve as the primary interface between Government leadership and contractor personnel. Join us to make a meaningful impact through cutting\\-edge mapping, data visualization, and application management.\n\n**Required Qualifications**\n\n* Bachelor's degree in one of the following disciplines (or equivalent professional experience):\n* Geography, Geographic Information Systems (GIS), Natural Resources Management, Earth Sciences, Engineering, Computer Science, Related technical field\n* Extensive experience managing enterprise GIS operations and technical teams.\n* Strong knowledge of ESRI Enterprise technologies including ArcGIS Enterprise, ArcGIS Server, ArcGIS Online, and enterprise geodatabases.\n* Experience developing enterprise GIS applications and web\\-based mapping solutions.\n* Experience with JavaScript API, Python, SQL, and GIS automation.\n* Experience managing project schedules, staffing, budgets, and technical deliverables.\n* Strong customer engagement and stakeholder communication skills.\n* Demonstrated leadership, organizational, and problem\\-solving abilities.\n* Ability to manage multiple concurrent priorities in a fast\\-paced Federal environment.\n* Ability to mentor and develop technical professionals.\n\n**Desired Qualifications:**\n\n* Experience with the following:\n* ArcGIS Enterprise, ArcGIS Server, ArcGIS Online, ArcGIS Pro, Enterprise Geodatabases, JavaScript API, Python, SQL Server, Web Application Development, Systems Administration, GIS Database Administration, Cloud and Enterprise GIS Architecture, QA/QC Management, Enterprise Data Integration\n\n**Clearance:**\n\n**An active Secret security clearance is not required.** However, successful applicants must be able to complete and maintain a favorable Federal Government background investigation (NAC/NACI) as a condition of employment.\n\nJoin us as a Consulting GIS Specialist – Service Center Manager / Application Developer to help shape innovative geospatial solutions that empower decision\\-makers across diverse sectors!\n\nPay: $102,242\\.02 \\- $123,130\\.17 per year\n\nWork Location: In person",
-      "salary": "$102k–$123k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
