@@ -1,89 +1,43 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-02 19:51 UTC*
+*Last updated: 2026-08-02 21:23 UTC*
 
-**20 new role(s)** since last run · 25 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4447660380/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Data Analyst](https://www.linkedin.com/jobs/view/4447653730/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $95,000 - $115,000
 - 🕒 **Posted:** 2026-08-02
 
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864452316/) — Epic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Global Regulatory Compliance Data Analyst (Mathematics Knowledge)](https://www.linkedin.com/jobs/view/4448118350/) — MillenniumSoft Inc
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3955120772/) — Epic
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [TikTok Shop - Strategy & Data Analyst, E-Commerce](https://www.linkedin.com/jobs/view/4447657421/) — TikTok
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $115520 - $209380 annually
-- 🕒 **Posted:** 2026-08-02
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4447898641/) — FetchJobs.co
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4447650863/) — RemoteHunter
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-02
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4447656435/) — Jobright.ai
+### [Sr. BI Data Analyst](https://www.linkedin.com/jobs/view/4447655651/) — RemoteHunter
 - 📍 **Location:** United States
+- 💰 **Salary:** $81,000 to $95,000
 - 🕒 **Posted:** 2026-08-02
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4447661378/) — Jobright.ai
+### [Agile Project Coordinator (junior level)](https://www.linkedin.com/jobs/view/4448112595/) — Vaco by Highspring
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $35.00/hr - $45.00/hr
+- 🕒 **Posted:** 2026-08-02
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4447665375/) — RemoteHunter
 - 📍 **Location:** United States
+- 💰 **Salary:** $53,001-$82,152
 - 🕒 **Posted:** 2026-08-02
 
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3955127014/) — Epic
-- 📍 **Location:** Bowie, MD
+### [Project Coordinator, Healthcare and Pharmaceutical Agency](https://www.linkedin.com/jobs/view/4447654610/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $40,000 to $60,000 USD
 - 🕒 **Posted:** 2026-08-02
 
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3955122692/) — Epic
-- 📍 **Location:** Gaithersburg, MD
+### [Agile Project Coordinator (remote contract)](https://www.linkedin.com/jobs/view/4448100733/) — Vaco by Highspring
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $35.00/hr - $45.00/hr
 - 🕒 **Posted:** 2026-08-02
 
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3864455403/) — Epic
-- 📍 **Location:** Santa Clarita, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Project Coordinator (Strategic Planning and Design)](https://www.linkedin.com/jobs/view/4448103612/) — City of Albuquerque
-- 📍 **Location:** Albuquerque, NM
-- 🕒 **Posted:** 2026-08-02
-
-### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/3955124336/) — Epic
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-08-02
-
-### [Big Data Analyst (TS/SCI)](https://www.linkedin.com/jobs/view/4411677424/) — Vantor
-- 📍 **Location:** Herndon, VA
-- 💰 **Salary:** $118,000.00 - $196,000.00 annually
-- 🕒 **Posted:** 2026-08-02
-
-### [HVAC Project Coordinator](https://www.linkedin.com/jobs/view/4448120249/) — Ward Plumbing, Heating & Air
-- 📍 **Location:** Sylva, NC
-- 🕒 **Posted:** 2026-08-02
-
-### [Community Development Program Coordinator, (A269720-1), 207, Housing Rehab](https://www.linkedin.com/jobs/view/4448100631/) — City of Laredo
-- 📍 **Location:** Laredo, TX
-- 🕒 **Posted:** 2026-08-02
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4447898694/) — HOME OF HOPE, INC.
-- 📍 **Location:** Vinita, OK
-- 🕒 **Posted:** 2026-08-02
-
-### [HNS Housing Opportunities for People with AIDS (HOPWA) Program Coordinator](https://www.linkedin.com/jobs/view/4448116412/) — City of Charlotte
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $66,826.00 - $96,061.79
-- 🕒 **Posted:** 2026-08-02
-
-### [Travel Program Coordinator](https://www.linkedin.com/jobs/view/4447897767/) — City of Charlotte
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $29.71 - $42.70
-- 🕒 **Posted:** 2026-08-02
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4448114468/) — Arizona State University
-- 📍 **Location:** Tempe, AZ
-- 💰 **Salary:** $54,600 - $68,300 annually
+### [Program Coordinator - OFFICE OF CNO -Remote](https://www.linkedin.com/jobs/view/4447670283/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $20.43 to $27.92 per hour
 - 🕒 **Posted:** 2026-08-02
