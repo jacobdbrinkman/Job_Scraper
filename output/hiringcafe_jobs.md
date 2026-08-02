@@ -1,13 +1,26 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-02 01:18 UTC*
+*Last updated: 2026-08-02 05:02 UTC*
 
-**2 new role(s)** since last run · 156 total in last 30d
+**5 new role(s)** since last run · 150 total in last 30d
 
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
-- 📍 **Location:** Morenci, Arizona, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
+### [ Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895919--geologist) — AECOM
+- 📍 **Location:** Boulder or Denver or Fort Collins or Colorado Springs or Glenwood Springs
+- 💰 **Salary:** $70k–$110k/yr
+- 🕒 **Posted:** 2026-07-09T20:16:37.383Z
 
-### [Senior Geologist](https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist) — Turner Mining Group
-- 📍 **Location:** Winnemucca, Nevada, United States
-- 🕒 **Posted:** 2026-07-23T20:28:07.851Z
+### [Senior Geologist](https://jobs.jobvite.com/martinmarietta/job/oXtrAfwb?nl=1&fr=true) — Martin Marietta
+- 📍 **Location:** Lakewood, Colorado, United States
+- 💰 **Salary:** $95k–$130k/yr
+- 🕒 **Posted:** 2026-07-07T12:00:00.000Z
+
+### [Senior Geologist](https://careers.div.energy/jobs/2637?lang=en-us) — Diversified Gas & Oil Corporation
+- 📍 **Location:** Houston, Texas, United States
+- 🕒 **Posted:** 2026-07-29T20:41:19.000Z
+
+### [Geologist 2](https://hdr.referrals.selectminds.com/jobs/geologist-2-44512) — HDR
+- 📍 **Location:** Austin or Houston or Baton Rouge
+- 🕒 **Posted:** 2026-07-16T22:22:48.976Z
+
+### [Senior Geologist](https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159) — Devonenergy
+- 📍 **Location:** Pittsburgh, Pennsylvania, United States
+- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
