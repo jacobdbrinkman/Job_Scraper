@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 18:29 UTC",
-  "total": 152,
-  "new_count": 0,
+  "scraped_at": "2026-08-03 20:21 UTC",
+  "total": 157,
+  "new_count": 9,
   "jobs": [
     {
       "company": "UDC",
@@ -43,19 +43,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Repsol",
-      "title": "GIS Analyst",
-      "location": "Houston, Texas, United States",
-      "url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
-      "direct_url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "Undergraduate degree in geography/GIS or related field, 0-2 years GIS experience, familiarity with ArcGIS platforms, cartography skills, strong verbal/written communication, and interest in renewable energy.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Angc",
       "title": "GIS Analyst",
       "location": "Augusta, Georgia, United States",
@@ -63,6 +50,19 @@
       "direct_url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/GIS-Analyst_R11657",
       "date_posted": "2026-07-28T00:00:00.000Z",
       "description": "Experience with GIS, CAD, drone mapping, GPS surveying; bachelor’s degree preferred; 0–2 years GIS experience; valid driver\\u0002s license; strong analytical and communication skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Repsol",
+      "title": "GIS Analyst",
+      "location": "Houston, Texas, United States",
+      "url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
+      "direct_url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "Undergraduate degree in geography/GIS or related field, 0-2 years GIS experience, familiarity with ArcGIS platforms, cartography skills, strong verbal/written communication, and interest in renewable energy.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -394,19 +394,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stafford County, VA",
-      "title": "GIS Analyst ",
-      "location": "Stafford County, Virginia, United States",
-      "url": "https://www.governmentjobs.com/careers/stafford/jobs/5419413",
-      "direct_url": "https://www.governmentjobs.com/careers/stafford/jobs/5419413",
-      "date_posted": "2026-07-22T19:55:29.030Z",
-      "description": "Degree in GIS or related field and ≥2 years GIS experience; knowledge of geocoding, cartography, coordinate systems, data conversion, and ArcGIS products; experience with Visual Basic/VBA and Microsoft Office/Adobe; strong communication skills.",
-      "salary": "$64k–$138k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Wright County, MN",
       "title": "GIS Analyst",
       "location": "Buffalo, Minnesota, United States",
@@ -563,19 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Bah",
-      "title": "Geospatial Analyst, Senior",
-      "location": "Fort Gordon, Georgia, United States",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Gordon-GA/Geospatial-Analyst--Senior_R0244548",
-      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Gordon-GA/Geospatial-Analyst--Senior_R0244548",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "Experience in geospatial/remote sensing analysis, spatial databases, DoD/IC geospatial processes, SOM/object production, and formal reporting; TS/SCI clearance and imagery analysis training preferred.",
-      "salary": "$78k–$176k/yr",
-      "job_type": "Full Time, Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Cognizant US Corporation",
       "title": "GeoSpatial Analyst MAP",
       "location": "United States",
@@ -585,6 +559,19 @@
       "description": "6+ years geospatial analysis experience for wireless network planning, strong Cisco wireless/ACI/SDWAN knowledge, proficiency with geospatial tools and scripting, strong communication, hybrid work readiness.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bah",
+      "title": "Geospatial Analyst, Senior",
+      "location": "Fort Gordon, Georgia, United States",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Gordon-GA/Geospatial-Analyst--Senior_R0244548",
+      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Gordon-GA/Geospatial-Analyst--Senior_R0244548",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "Experience in geospatial/remote sensing analysis, spatial databases, DoD/IC geospatial processes, SOM/object production, and formal reporting; TS/SCI clearance and imagery analysis training preferred.",
+      "salary": "$78k–$176k/yr",
+      "job_type": "Full Time, Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -1148,6 +1135,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Dewberry",
+      "title": "Environmental Scientist III",
+      "location": "Fairfax or Virginia Beach or Richmond",
+      "url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "date_posted": "2026-07-28T04:00:00.000Z",
+      "description": "5+ years environmental experience, B.S. in related field, ability to lead CWA permitting and NEPA, fieldwork capability, technical report writing, agency coordination.",
+      "salary": "$81k–$104k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Kentucky Energy and Environment Cabinet",
       "title": "Environmental Scientist III",
       "location": "Franklin County or United States",
@@ -1252,19 +1252,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of South Carolina",
-      "title": "Geologist/Hydrologist I - Underground Storage Tank Management Division",
-      "location": "Richland County, South Carolina, United States",
-      "url": "https://www.governmentjobs.com/careers/sc/jobs/5401039",
-      "direct_url": "https://www.governmentjobs.com/careers/sc/jobs/5401039",
-      "date_posted": "2026-07-21T15:07:44.000Z",
-      "description": "Bachelor's in geology/hydrology/hydrogeology/geological engineering, GIT or PG, experience with geologic/hydrologic investigations, groundwater modeling and GIS familiarity, valid driver's license, effective written and verbal communication.",
-      "salary": "$57k–$61k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "ENGEO Incorporated",
       "title": "Senior Water Resources Engineer / Hydrologist",
       "location": "San Ramon or Oakland or Santa Clara",
@@ -1286,6 +1273,19 @@
       "date_posted": "2026-07-22T00:00:00.000Z",
       "description": "Bachelor's in water-related natural resources required; 3–5 years consulting experience; preferred GIS, Python, numerical modeling, field data collection, report writing; willing to travel to project sites.",
       "salary": "$68k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of South Carolina, SC",
+      "title": "UST Corrective Action Project Manager ( Geologist/Hydrologist I)",
+      "location": "Richland County, South Carolina, United States",
+      "url": "https://www.governmentjobs.com/careers/sc/jobs/5424885",
+      "direct_url": "https://www.governmentjobs.com/careers/sc/jobs/5424885",
+      "date_posted": "2026-07-24T23:09:52.402Z",
+      "description": "Bachelor's in geology/hydrogeology/geological engineering, GIT or PG, experience in groundwater protection and petroleum remediation, GIS familiarity, data management, effective written/verbal communication, valid driver’s license and acceptable driving record.",
+      "salary": "$57k–$61k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1369,6 +1369,32 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "About Exponent",
+      "title": "Managing Geologist (MS/PhD)",
+      "location": "Bellevue or Seattle or Oakland or Los Angeles or Atlanta or New York",
+      "url": "https://careers-exponent.icims.com/jobs/2528/managing-geologist-%28ms-phd%29/job?in_iframe=1",
+      "direct_url": "https://careers-exponent.icims.com/jobs/2528/managing-geologist-%28ms-phd%29/job?in_iframe=1",
+      "date_posted": "2026-08-03T04:00:00.000Z",
+      "description": "Ph.D. with 5+ years post-grad (or MS with 10+ years), professional Geologist licensure, CEG/CHG or ability to obtain, strong analytical skills, client development and leadership experience, publication record.",
+      "salary": "$140k–$170k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Riotinto",
+      "title": "Geologist",
+      "location": "Superior, Arizona, United States",
+      "url": "https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Superior/Geologist_R58708",
+      "direct_url": "https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Superior/Geologist_R58708",
+      "date_posted": "2026-07-15T00:00:00.000Z",
+      "description": "Bachelor's in geology or equivalent experience, ability to work underground and rotating/night shifts, valid driver's license, strong data quality and reporting skills, familiarity with geoscientific databases and safety practices.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "AECOM",
       "title": " Geologist",
       "location": "Boulder or Denver or Fort Collins or Colorado Springs or Glenwood Springs",
@@ -1421,14 +1447,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Riotinto",
+      "company": "Department of the Army",
       "title": "Geologist",
-      "location": "Superior, Arizona, United States",
-      "url": "https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Superior/Geologist_R58708",
-      "direct_url": "https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Superior/Geologist_R58708",
-      "date_posted": "2026-07-15T00:00:00.000Z",
-      "description": "Bachelor's in geology or equivalent experience, ability to work underground and rotating/night shifts, valid driver's license, strong data quality and reporting skills, familiarity with geoscientific databases and safety practices.",
-      "salary": "",
+      "location": "Seattle, Washington, United States",
+      "url": "https://www.usajobs.gov/job/878213500",
+      "direct_url": "https://www.usajobs.gov/job/878213500",
+      "date_posted": "2026-08-03T00:00:00.000Z",
+      "description": "Bachelor's degree in geology (or equivalent combination of education/experience). One year specialized experience conducting soil/groundwater sampling, geological fieldwork, or preparing subsurface geologic sections; transcripts required.",
+      "salary": "$57k–$131k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1473,6 +1499,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Freeport-McMoRan",
+      "title": "Geologist II",
+      "location": "Bayard, New Mexico, United States",
+      "url": "https://talent.fmjobs.com/careers/job/42911253",
+      "direct_url": "https://talent.fmjobs.com/careers/job/42911253",
+      "date_posted": "2026-07-07T20:56:49.000Z",
+      "description": "Bachelor's in Geology +3 years experience or Master's in Geology +1 year; experience in drill logging, geologic mapping, resource modeling, and regulatory knowledge.",
+      "salary": "$88k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Diversified Gas & Oil Corporation",
       "title": "Senior Geologist",
       "location": "Houston, Texas, United States",
@@ -1499,39 +1538,52 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Asarco LLC",
-      "title": "Geologist II",
-      "location": "Sahuarita, Arizona, United States",
-      "url": "https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106",
-      "direct_url": "https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106",
-      "date_posted": "2026-07-23T00:11:48.000Z",
-      "description": "Bachelor's in Geology or Geological Engineering required; Master's in Economic Geology preferred. Driver's license required. Three years' experience preferred. Must pass background check and pre-employment physical/drug screen and follow safety systems.",
-      "salary": "",
+      "company": "Arcadis",
+      "title": "Field Geologist",
+      "location": "Knoxville, Tennessee, United States",
+      "url": "https://arcadis.eightfold.ai/careers/job/563671532591339",
+      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532591339",
+      "date_posted": "2026-07-10T15:22:06.000Z",
+      "description": "BS in geology or related, 2 years relevant experience, OSHA 40-hour HAZWOPER preferred, field sampling and health & safety competency, ability to travel and perform fieldwork.",
+      "salary": "$58k–$87k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "HDR",
-      "title": "Geologist 2",
-      "location": "Austin or Houston or Baton Rouge",
-      "url": "https://hdr.referrals.selectminds.com/jobs/geologist-2-44512",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/geologist-2-44512",
-      "date_posted": "2026-07-16T22:22:48.976Z",
-      "description": "Bachelor's in Geology or related, 5+ years experience, field work and well installation experience, groundwater/soil sampling, EMR with Microsoft Office, MS preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Devonenergy",
+      "company": "Turner Mining Group",
       "title": "Senior Geologist",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159",
-      "direct_url": "https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Proven track record in onshore unconventional exploration, 10+ years upstream oil & gas experience, graduate degree in geology/geophysics, strong technical leadership, and data integration skills.",
+      "location": "Winnemucca, Nevada, United States",
+      "url": "https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist",
+      "direct_url": "https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist",
+      "date_posted": "2026-07-23T20:28:07.851Z",
+      "description": "Bachelor's in Geosciences, field camp experience, strong exploration geology and QA/QC skills; 10+ years preferred; experience with drilling, mapping, sampling, and geological modeling.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Aleut Federal, LLC",
+      "title": "Geologist III",
+      "location": "Oxford or Raleigh",
+      "url": "https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b",
+      "direct_url": "https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b",
+      "date_posted": "2026-07-30T14:59:16.561Z",
+      "description": "Bachelor's degree in geology or environmental science, 5+ years related experience, ability to pass background/drug screening, valid driver's license, US citizenship for DoD/DOE access; PG and HAZWOPER 40-hour preferred; CPR/FA a plus.",
+      "salary": "$80k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Geologist/GIT",
+      "location": "Lombard, Illinois, United States",
+      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622",
+      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622",
+      "date_posted": "2026-07-07T16:19:16.000Z",
+      "description": "Bachelor's degree in Geology, 3+ years environmental consulting experience, ability to conduct site investigations, prepare technical reports, and travel regionally (up to 50%). Valid US driver's license and ability to pass background/drug screen required.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1551,19 +1603,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
-      "title": "Geologist/GIT",
-      "location": "Lombard, Illinois, United States",
-      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622",
-      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006622",
-      "date_posted": "2026-07-07T16:19:16.000Z",
-      "description": "Bachelor's degree in Geology, 3+ years environmental consulting experience, ability to conduct site investigations, prepare technical reports, and travel regionally (up to 50%). Valid US driver's license and ability to pass background/drug screen required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Cameco",
       "title": "Geologist (42351)",
       "location": "Douglas, Wyoming, United States",
@@ -1572,6 +1611,32 @@
       "date_posted": "2026-07-22T21:41:27.000Z",
       "description": "Bachelor's in geology required, valid driver’s license, field and office geology experience, geophysical log interpretation, mapping, sampling, report writing; ArcGIS and Microsoft Office preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Asarco LLC",
+      "title": "Geologist II",
+      "location": "Sahuarita, Arizona, United States",
+      "url": "https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106",
+      "direct_url": "https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106",
+      "date_posted": "2026-07-23T00:11:48.000Z",
+      "description": "Bachelor's in Geology or Geological Engineering required; Master's in Economic Geology preferred. Driver's license required. Three years' experience preferred. Must pass background check and pre-employment physical/drug screen and follow safety systems.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Iowa",
+      "title": "Geologist 2",
+      "location": "Ames, Iowa, United States",
+      "url": "https://www.governmentjobs.com/careers/iowa/jobs/5415058",
+      "direct_url": "https://www.governmentjobs.com/careers/iowa/jobs/5415058",
+      "date_posted": "2026-07-17T21:22:42.000Z",
+      "description": "Bachelor's degree in geology or related field (or related degree plus 2 years relevant experience), valid driver’s license, ability to lift up to 75 lb, perform fieldwork and laboratory testing.",
+      "salary": "$57k–$86k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1915,19 +1980,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
-      "title": "Environmental Scientist – Ecologist/Biologist (Mid-level)",
-      "location": "Chattanooga or Nashville or Louisville or Lexington",
-      "url": "https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/",
-      "direct_url": "https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/",
-      "date_posted": "2026-07-13T17:04:57.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years experience leading biological/field surveys, WOUS delineations, species and habitat assessments, permitting experience, valid driver's license, GPS and GIS proficiency, able to lift 50 lbs, willing to travel up to 75%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ross Strategic",
       "title": "Entry-Level Environmental Consultant",
       "location": "Seattle, Washington, United States",
@@ -1936,6 +1988,19 @@
       "date_posted": "2026-07-20T20:24:23.064Z",
       "description": "BA/BS in a relevant field,1+ years relevant experience,strong writing/communication,MS Office and virtual meeting tool proficiency,ability to manage data and projects,Washington-based or willing to relocate,eligible to work in US.",
       "salary": "$65k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist – Ecologist/Biologist (Mid-level)",
+      "location": "Chattanooga or Nashville or Louisville or Lexington",
+      "url": "https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/",
+      "direct_url": "https://stantec.jobs/nashville-tn/environmental-scientist-ecologistbiologist-mid-level/E23DF392B0534DC48071D08CD0D6CDEE/job/",
+      "date_posted": "2026-07-13T17:04:57.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years experience leading biological/field surveys, WOUS delineations, species and habitat assessments, permitting experience, valid driver's license, GPS and GIS proficiency, able to lift 50 lbs, willing to travel up to 75%.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1980,5 +2045,123 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Dewberry",
+      "title": "Environmental Scientist III",
+      "location": "Fairfax or Virginia Beach or Richmond",
+      "url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "date_posted": "2026-07-28T04:00:00.000Z",
+      "description": "5+ years environmental experience, B.S. in related field, ability to lead CWA permitting and NEPA, fieldwork capability, technical report writing, agency coordination.",
+      "salary": "$81k–$104k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of South Carolina, SC",
+      "title": "UST Corrective Action Project Manager ( Geologist/Hydrologist I)",
+      "location": "Richland County, South Carolina, United States",
+      "url": "https://www.governmentjobs.com/careers/sc/jobs/5424885",
+      "direct_url": "https://www.governmentjobs.com/careers/sc/jobs/5424885",
+      "date_posted": "2026-07-24T23:09:52.402Z",
+      "description": "Bachelor's in geology/hydrogeology/geological engineering, GIT or PG, experience in groundwater protection and petroleum remediation, GIS familiarity, data management, effective written/verbal communication, valid driver’s license and acceptable driving record.",
+      "salary": "$57k–$61k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "About Exponent",
+      "title": "Managing Geologist (MS/PhD)",
+      "location": "Bellevue or Seattle or Oakland or Los Angeles or Atlanta or New York",
+      "url": "https://careers-exponent.icims.com/jobs/2528/managing-geologist-%28ms-phd%29/job?in_iframe=1",
+      "direct_url": "https://careers-exponent.icims.com/jobs/2528/managing-geologist-%28ms-phd%29/job?in_iframe=1",
+      "date_posted": "2026-08-03T04:00:00.000Z",
+      "description": "Ph.D. with 5+ years post-grad (or MS with 10+ years), professional Geologist licensure, CEG/CHG or ability to obtain, strong analytical skills, client development and leadership experience, publication record.",
+      "salary": "$140k–$170k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of the Army",
+      "title": "Geologist",
+      "location": "Seattle, Washington, United States",
+      "url": "https://www.usajobs.gov/job/878213500",
+      "direct_url": "https://www.usajobs.gov/job/878213500",
+      "date_posted": "2026-08-03T00:00:00.000Z",
+      "description": "Bachelor's degree in geology (or equivalent combination of education/experience). One year specialized experience conducting soil/groundwater sampling, geological fieldwork, or preparing subsurface geologic sections; transcripts required.",
+      "salary": "$57k–$131k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freeport-McMoRan",
+      "title": "Geologist II",
+      "location": "Bayard, New Mexico, United States",
+      "url": "https://talent.fmjobs.com/careers/job/42911253",
+      "direct_url": "https://talent.fmjobs.com/careers/job/42911253",
+      "date_posted": "2026-07-07T20:56:49.000Z",
+      "description": "Bachelor's in Geology +3 years experience or Master's in Geology +1 year; experience in drill logging, geologic mapping, resource modeling, and regulatory knowledge.",
+      "salary": "$88k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Arcadis",
+      "title": "Field Geologist",
+      "location": "Knoxville, Tennessee, United States",
+      "url": "https://arcadis.eightfold.ai/careers/job/563671532591339",
+      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532591339",
+      "date_posted": "2026-07-10T15:22:06.000Z",
+      "description": "BS in geology or related, 2 years relevant experience, OSHA 40-hour HAZWOPER preferred, field sampling and health & safety competency, ability to travel and perform fieldwork.",
+      "salary": "$58k–$87k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Turner Mining Group",
+      "title": "Senior Geologist",
+      "location": "Winnemucca, Nevada, United States",
+      "url": "https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist",
+      "direct_url": "https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist",
+      "date_posted": "2026-07-23T20:28:07.851Z",
+      "description": "Bachelor's in Geosciences, field camp experience, strong exploration geology and QA/QC skills; 10+ years preferred; experience with drilling, mapping, sampling, and geological modeling.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Aleut Federal, LLC",
+      "title": "Geologist III",
+      "location": "Oxford or Raleigh",
+      "url": "https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b",
+      "direct_url": "https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b",
+      "date_posted": "2026-07-30T14:59:16.561Z",
+      "description": "Bachelor's degree in geology or environmental science, 5+ years related experience, ability to pass background/drug screening, valid driver's license, US citizenship for DoD/DOE access; PG and HAZWOPER 40-hour preferred; CPR/FA a plus.",
+      "salary": "$80k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Iowa",
+      "title": "Geologist 2",
+      "location": "Ames, Iowa, United States",
+      "url": "https://www.governmentjobs.com/careers/iowa/jobs/5415058",
+      "direct_url": "https://www.governmentjobs.com/careers/iowa/jobs/5415058",
+      "date_posted": "2026-07-17T21:22:42.000Z",
+      "description": "Bachelor's degree in geology or related field (or related degree plus 2 years relevant experience), valid driver’s license, ability to lift up to 75 lb, perform fieldwork and laboratory testing.",
+      "salary": "$57k–$86k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
