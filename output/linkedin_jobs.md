@@ -1,235 +1,209 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-03 20:19 UTC*
+*Last updated: 2026-08-03 21:45 UTC*
 
-**51 new role(s)** since last run · 51 total in last 1h
+**46 new role(s)** since last run · 50 total in last 1h
 
-### [Managing Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4448207919/) — Exponent
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** USD $140,000.00 - USD $170,000.00 /Yr
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4448253014/) — Underground Construction Co., Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $ 25 - $ 32 /Hourly
 - 🕒 **Posted:** 2026-08-03
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4384396980/) — Webcor
-- 📍 **Location:** San Francisco Bay Area
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448603891/) — TalentAlly
+- 📍 **Location:** Los Angeles Metropolitan Area
 - 🕒 **Posted:** 2026-08-03
 
-### [Data analyst (H/F)](https://www.linkedin.com/jobs/view/4446246539/) — Omega 1
-- 📍 **Location:** California, United States
+### [Field Technician - 100% Travel](https://www.linkedin.com/jobs/view/4448627357/) — EST Companies
+- 📍 **Location:** Lakewood, WA
+- 💰 **Salary:** $23.00/hr - $33.00/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Project Coordinator - Data Center](https://www.linkedin.com/jobs/view/4448607461/) — Air Treatment Corporation
-- 📍 **Location:** Brea, CA
-- 💰 **Salary:** $63,000.00 – $85,000.00
+### [DATA ANALYST (contract)](https://www.linkedin.com/jobs/view/4448237551/) — Microsoft
+- 📍 **Location:** Redmond, WA
+- 💰 **Salary:** $43 - $48.50 per hour
 - 🕒 **Posted:** 2026-08-03
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4448602435/) — Kelly
+### [Information Technology Project Coordinator - 30.00/hr.](https://www.linkedin.com/jobs/view/4448233926/) — Kelly
 - 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-08-03
+
+### [Assistant GIS Specialist](https://www.linkedin.com/jobs/view/4448627297/) — Pyramid Consulting, Inc
+- 📍 **Location:** Kansas City, MO
 - 💰 **Salary:** $28.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [GIS Technician, (A262110-1), 203, Planning & Zoning](https://www.linkedin.com/jobs/view/4448397577/) — City of Laredo
-- 📍 **Location:** Laredo, TX
+### [GIS Technician](https://www.linkedin.com/jobs/view/4448626007/) — Bartech Staffing
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $20.00/hr - $22.00/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4448230425/) — Kimley-Horn
-- 📍 **Location:** Fort Lauderdale, FL
+### [GIS ANALYST III](https://www.linkedin.com/jobs/view/4444140418/) — MARTA (Metropolitan Atlanta Rapid Transit Authority)
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $65,641 - $98,462
 - 🕒 **Posted:** 2026-08-03
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4448238331/) — Kimley-Horn
-- 📍 **Location:** Virginia Beach, VA
-- 💰 **Salary:** $73,000 - $76,000
+### [Staff GIS Specialist - Kansas City](https://www.linkedin.com/jobs/view/4448242509/) — Burns & McDonnell
+- 📍 **Location:** Kansas City, MO
 - 🕒 **Posted:** 2026-08-03
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4446249495/) — NTG Staffing
-- 📍 **Location:** Carlsbad, NM
+### [Cultural Resources GIS Analyst](https://www.linkedin.com/jobs/view/4448625248/) — Tetra Tech
+- 📍 **Location:** Salisbury, NC
+- 💰 **Salary:** $62,000 - $72,000,
 - 🕒 **Posted:** 2026-08-03
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4446249470/) — NTG Staffing
-- 📍 **Location:** Midland, TX
+### [OGI Field Technician](https://www.linkedin.com/jobs/view/4448228996/) — Onterris
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-08-03
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4448603551/) — Glass Roots Construction, LLC
-- 📍 **Location:** Reno, NV
-- 💰 **Salary:** $75,000 - $85,000
+### [Sr Data Analyst, Customer Insights](https://www.linkedin.com/jobs/view/4446258110/) — Terminix
+- 📍 **Location:** Tennessee, United States
+- 💰 **Salary:** $94,100 - $122,300
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst - Advance Analytics](https://www.linkedin.com/jobs/view/4448239213/) — State Farm
-- 📍 **Location:** Bloomington, IL
-- 💰 **Salary:** $80,600.00 - $123,000.00
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448242482/) — Staffing Spot, Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $55.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448245229/) — Galapagos Federal Systems
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** USD $115,000.00 - USD $125,000.00 /Yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448225812/) — BizTech Staffing
-- 📍 **Location:** Charlotte Metro
-- 🕒 **Posted:** 2026-08-03
-
-### [Business Data Analyst](https://www.linkedin.com/jobs/view/4441557041/) — firstPRO 360
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448603564/) — MeeBoss
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448614553/) — Snowrelic Inc
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446241621/) — Haystack
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448629306/) — dae
+- 📍 **Location:** New Haven, CT
+- 🕒 **Posted:** 2026-08-03
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448621145/) — System One
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-08-03
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4437313263/) — LHH
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $85,000.00/yr - $95,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Asset Management Data Analyst](https://www.linkedin.com/jobs/view/4448632139/) — Cleco
+- 📍 **Location:** Pineville, LA
+- 🕒 **Posted:** 2026-08-03
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4447401425/) — Daxwell
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-08-03
+
+### [Geologist Supervisor](https://www.linkedin.com/jobs/view/4446249908/) — Georgia Department of Transportation
+- 📍 **Location:** Forest Park, GA
+- 🕒 **Posted:** 2026-08-03
+
+### [Hydrogeologist I (Rocky Hill, CT)](https://www.linkedin.com/jobs/view/4448228870/) — Weston & Sampson
+- 📍 **Location:** Rocky Hill, CT
+- 💰 **Salary:** $54,000.00/yr - $68,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Hydrogeologist II (Rocky Hill, CT)](https://www.linkedin.com/jobs/view/4448245448/) — Weston & Sampson
+- 📍 **Location:** Rocky Hill, CT
+- 💰 **Salary:** $65,000.00/yr - $82,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448604945/) — TalentAlly
 - 📍 **Location:** Greater Chicago Area
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448234456/) — eSense Incorporated
-- 📍 **Location:** Indianapolis, IN
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448617420/) — Calibre CPA Group, PLLC
+- 📍 **Location:** Bethesda, MD
+- 💰 **Salary:** $80,000 – $95,000
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448248052/) — RemoteHunter
+### [Pharmacy Data Analyst, Pharmacy Business Affairs, FT, 8a-4:30p](https://www.linkedin.com/jobs/view/4448616488/) — Baptist Health
+- 📍 **Location:** Miami Lakes, FL
+- 🕒 **Posted:** 2026-08-03
+
+### [Environmental Geologist - 2 years minimum experience](https://www.linkedin.com/jobs/view/4446260023/) — AECOM
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Geologist](https://www.linkedin.com/jobs/view/4443982881/) — Tamarack Geological Services
+- 📍 **Location:** Idaho, United States
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior and Entry Level Construction Materials Testing Field Technician - Dayton, Ohio](https://www.linkedin.com/jobs/view/4448229942/) — Patriot Engineering and Environmental, Inc.
+- 📍 **Location:** Miamisburg, OH
+- 💰 **Salary:** $19.00 - $24.00 per hour
+- 🕒 **Posted:** 2026-08-03
+
+### [Environmental Consultant -Aviation](https://www.linkedin.com/jobs/view/4404245768/) — Ricondo & Associates, Inc.
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $62,000–$88,000
+- 🕒 **Posted:** 2026-08-03
+
+### [Field Technician I](https://www.linkedin.com/jobs/view/4448604866/) — UES
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior Accounting & Finance Data Analyst](https://www.linkedin.com/jobs/view/4448603791/) — Tala
+- 📍 **Location:** Marion County, IN
+- 🕒 **Posted:** 2026-08-03
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448619409/) — Korn Ferry
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $45.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-08-03
+
+### [Lead Data Analyst](https://www.linkedin.com/jobs/view/4448236632/) — TIAA
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-08-03
+
+### [Lead Data Analyst](https://www.linkedin.com/jobs/view/4448229689/) — TIAA
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-08-03
+
+### [Lead Data Analyst- Onsite](https://www.linkedin.com/jobs/view/4448235613/) — Cognizant
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-08-03
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4448236785/) — Kōkua Hawaiʻi Foundation
+- 📍 **Location:** Haleiwa, HI
+- 💰 **Salary:** $20-$23/hour
+- 🕒 **Posted:** 2026-08-03
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4448613841/) — Hurst Electric
+- 📍 **Location:** Euless, TX
+- 🕒 **Posted:** 2026-08-03
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4448613645/) — Crew
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-08-03
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4446263037/) — MasTec Communications Group
+- 📍 **Location:** Malvern, PA
+- 💰 **Salary:** $50,000-$60,000 per year
+- 🕒 **Posted:** 2026-08-03
+
+### [Treasury Project Coordinator](https://www.linkedin.com/jobs/view/4448626290/) — isolved
 - 📍 **Location:** United States
-- 💰 **Salary:** $95,000 - $115,000
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446234599/) — SoTalent
-- 📍 **Location:** Teaneck, NJ
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4448253035/) — Big Brothers Big Sisters of Idaho
+- 📍 **Location:** Boise, ID
+- 💰 **Salary:** $5,000-$8,000
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448610454/) — MeeBoss
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst - Advance Analytics](https://www.linkedin.com/jobs/view/4448237293/) — State Farm
-- 📍 **Location:** Richardson, TX
-- 💰 **Salary:** $80,600.00 - $123,000.00
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst - Advance Analytics](https://www.linkedin.com/jobs/view/4448234345/) — State Farm
-- 📍 **Location:** Tempe, AZ
-- 💰 **Salary:** $80,600.00 - $123,000.00
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst - Advance Analytics](https://www.linkedin.com/jobs/view/4448232355/) — State Farm
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $80,600.00 - $123,000.00
-- 🕒 **Posted:** 2026-08-03
-
-### [Environmental Geologist](https://www.linkedin.com/jobs/view/4448225919/) — AECOM
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $52000 to $72000
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448247135/) — Ampcus Inc
-- 📍 **Location:** Nassau County, NY
-- 🕒 **Posted:** 2026-08-03
-
-### [Utility Field Technician 1-Water](https://www.linkedin.com/jobs/view/4448392799/) — Metropolitan Government of Nashville and Davidson County
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator [Open to internal and external applicants]](https://www.linkedin.com/jobs/view/4447238351/) — UNDP Careers
-- 📍 **Location:** Palestine, IA
-- 🕒 **Posted:** 2026-08-03
-
-### [SUE Field Technician](https://www.linkedin.com/jobs/view/4446253422/) — T. Baker Smith
-- 📍 **Location:** Covington, LA
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator - AI/AN Victim Services Programs (ALASKA / REMOTE ROLE)](https://www.linkedin.com/jobs/view/4409765298/) — ICF
-- 📍 **Location:** Juneau, AK
-- 💰 **Salary:** $67,063.00 - $114,008.00
-- 🕒 **Posted:** 2026-08-03
-
-### [Onsite Program Coordinator](https://www.linkedin.com/jobs/view/4448600638/) — Envita Solutions
-- 📍 **Location:** Dearborn, MI
-- 🕒 **Posted:** 2026-08-03
-
-### [Program Data Analyst II](https://www.linkedin.com/jobs/view/4448610396/) — City of Albuquerque
+### [Program Coordinator-Fleet Section](https://www.linkedin.com/jobs/view/4445241331/) — Bernalillo County
 - 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $54,018.00 - $85,363.00
 - 🕒 **Posted:** 2026-08-03
 
-### [Accreditation and Data Analyst](https://www.linkedin.com/jobs/view/4446242614/) — Marymount University
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $65,000-$73,000
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4446249822/) — Volunteers of America-Greater New York
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-03
 
-### [Academic Division Data Analyst](https://www.linkedin.com/jobs/view/4448600601/) — Denison University
-- 📍 **Location:** Granville, OH
+### [Assistant Program Coordinator - Litchfield Ave](https://www.linkedin.com/jobs/view/4446241885/) — Open Sky Community Services
+- 📍 **Location:** Southbridge, MA
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448245228/) — Galapagos Federal Systems
-- 📍 **Location:** Patrick AFB, FL
-- 💰 **Salary:** USD $135,000.00 - USD $150,000.00 /Yr
+### [Assistant Program Coordinator-Off Cape](https://www.linkedin.com/jobs/view/4446242902/) — May Institute
+- 📍 **Location:** North Attleborough Town, MA
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448396960/) — TalentAlly
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448600972/) — TalentAlly
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448610521/) — TalentAlly
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $111,200 - $126,900
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Analyst, Advisory Data & Research](https://www.linkedin.com/jobs/view/4447596555/) — Primary Talent Partners
-- 📍 **Location:** Richardson, TX
-- 💰 **Salary:** $40.00/hr - $47.00/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4448381829/) — Integration International Inc.
-- 📍 **Location:** Virginia, United States
-- 💰 **Salary:** $50.00/hr - $59.00/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4448600579/) — TECHEAD
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $50.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4448398450/) — Integration International Inc.
-- 📍 **Location:** Virginia, United States
-- 💰 **Salary:** $56.00/yr - $59.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator II (Program Operations)](https://www.linkedin.com/jobs/view/4448235164/) — Catapult Solutions Group
-- 📍 **Location:** United States
-- 💰 **Salary:** $25.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446250404/) — FTI
-- 📍 **Location:** Lebanon, IN
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4430276885/) — HGA
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $80,100 - $92,000
-- 🕒 **Posted:** 2026-08-03
-
-### [Executive & Project Coordinator](https://www.linkedin.com/jobs/view/4448226601/) — The Viking Group
-- 📍 **Location:** Charleston, WV
-- 💰 **Salary:** $65,000.00 - $80,000.00 per year
-- 🕒 **Posted:** 2026-08-03
-
-### [Research Program Coordinator I - Sickle Cell Disease (CIBMTR)](https://www.linkedin.com/jobs/view/4448391927/) — Medical College of Wisconsin
-- 📍 **Location:** Milwaukee, WI
-- 🕒 **Posted:** 2026-08-03
-
-### [Business Program Coordinator](https://www.linkedin.com/jobs/view/4448393898/) — Bartech Staffing
-- 📍 **Location:** Dearborn, MI
-- 💰 **Salary:** $27.00/hr - $30.00/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Project Coordinator - Print](https://www.linkedin.com/jobs/view/4446931122/) — Marco Technologies
-- 📍 **Location:** United States
-- 💰 **Salary:** $53,001-$82,152
-- 🕒 **Posted:** 2026-08-03
-
-### [Security Project Coordinator - Senior Associate](https://www.linkedin.com/jobs/view/4446241691/) — EY
-- 📍 **Location:** Jackson, MS
-- 💰 **Salary:** $64,200 to $116,400
-- 🕒 **Posted:** 2026-08-03
-
-### [Security Project Coordinator - Senior Associate](https://www.linkedin.com/jobs/view/4446233809/) — EY
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $64,200 to $116,400
+### [Program Coordinator, HCBU Digital Trust](https://www.linkedin.com/jobs/view/4448234625/) — Atlanta University Center Robert W. Woodruff Library
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-03
