@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-03 00:25 UTC*
+*Last updated: 2026-08-03 04:07 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Healthcare Tech Solutions Engineer](https://www.linkedin.com/jobs/view/4447664739/) — Provident Behavioral Health
-- 📍 **Location:** Sacramento, CA
+### [Data Analyst](https://www.linkedin.com/jobs/view/4447678542/) — Ohio Cat
+- 📍 **Location:** Broadview Heights, OH
 - 🕒 **Posted:** 2026-08-03
 
-### [Ortho RN Program Coordinator - Lead Care & Innovation](https://www.linkedin.com/jobs/view/4447671553/) — Rock Health
-- 📍 **Location:** Broomfield, CO
-- 🕒 **Posted:** 2026-08-03
-
-### [Healthcare Tech Solutions Engineer](https://www.linkedin.com/jobs/view/4447675070/) — Northshore Home Health Care
-- 📍 **Location:** Bangor, ME
+### [Safety Program Coordinator](https://www.linkedin.com/jobs/view/4448134377/) — Quanta Infrastructure Solutions Group
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-03
