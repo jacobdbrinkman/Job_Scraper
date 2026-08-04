@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-04 22:47 UTC",
+  "scraped_at": "2026-08-04 23:46 UTC",
   "total": 15,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "DEPARTMENT OF FISH AND WILDLIFE",
@@ -259,23 +259,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Trinity Geotechnical Engineering",
-      "title": "Staff Engineer / Staff Geologist",
-      "location": "San Diego, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=b487316738189173",
-      "direct_url": "http://www.indeed.com/job/staff-engineer-staff-geologist-b487316738189173",
-      "company_url": "https://www.indeed.com/cmp/Trinity-Geotechnical-Engineering",
-      "date_posted": "2026-08-04",
-      "description": "**About us**\n\nTrinity Geotechnical Engineering, Inc. (TGE) is a San Diego\\-based geotechnical consulting firm specializing in utility infrastructure projects throughout Southern California. Since 2013, we have built a reputation for delivering practical, cost\\-effective geotechnical engineering and engineering geology solutions with a commitment to ingenuity, integrity, and responsible purpose. Our team supports the planning, design, construction, and inspection of critical infrastructure for natural gas, electric transmission and distribution, substations, water, wastewater, and telecommunications systems. We take pride in developing long\\-term client relationships while providing high\\-quality technical services that help keep essential infrastructure safe, reliable, and resilient.\n\n**Position Summary**\n\nWe are seeking a motivated and detail\\-oriented **Staff Geologist or Staff Engineer** to join our geotechnical team supporting utility infrastructure projects throughout the region. This position offers an excellent opportunity to gain hands\\-on experience in field investigations, construction observation, geotechnical engineering, and geological evaluations.\n\n**Key Responsibilities**\n\n* Perform geotechnical and geological field investigations, including soil and rock logging, drilling oversight, and sampling.\n* Monitor drilling operations and coordinate with drilling subcontractors to ensure work is completed safely and in accordance with project requirements.\n* Classify soil and rock in accordance with applicable standards.\n* Perform construction observation and inspection during excavation, foundation installation, grading, and concrete placement.\n* Document field activities through detailed daily field reports, field logs, and photographic documentation.\n* Assist with geotechnical analyses and preparation of engineering reports, technical memoranda, and recommendations.\n* Review laboratory test results and incorporate findings into project evaluations.\n* Coordinate with project managers, clients, contractors, and utility representatives.\n* Maintain a strong commitment to safety and comply with company and client health and safety requirements.\n* Travel to project sites throughout the service area, with occasional overnight travel as required.\n\n**Qualifications**\n\n* Bachelor's degree in Geology, Geological Engineering, Civil Engineering, or a related discipline.\n* 0–2 years of relevant experience in geotechnical engineering, engineering geology, or construction observation.\n* Valid driver's license with a clean driving record.\n* Ability to work outdoors in varying weather and terrain conditions.\n* Strong written and verbal communication skills.\n* Proficiency with Microsoft Office applications.\n* Ability to lift up to 50 pounds and perform field duties on active construction sites.\n\n**Preferred**\n\n* Engineer\\-in\\-Training (EIT) certification or Geologist\\-in\\-Training (GIT) certification.\n* ACI Concrete Field Testing Grade Technician I.\n* 4x4 / AWD SUV or Truck\n* OSHA 10\\-Hour or OSHA 40\\-Hour HAZWOPER certification\n* APNGA Nuclear Gauge Certification\n\n**What We Offer**\n\n* Medical, dental, and vision insurance\n* 401(k)\n* Paid vacation, sick leave, and holidays\n* Licensure support for EIT, PE, GIT, PG advancement\n* Opportunities for career growth within a collaborative team environment\n\nPay: $25\\.00 \\- $35\\.00 per hour\n\nWork Location: In person",
-      "salary": "$25–$35/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
