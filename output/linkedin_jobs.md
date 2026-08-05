@@ -1,131 +1,108 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-05 00:35 UTC*
+*Last updated: 2026-08-05 03:52 UTC*
 
-**28 new role(s)** since last run · 28 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Assistant Water Resources Specialist I/II (Limited Term)](https://www.linkedin.com/jobs/view/4449408343/) — EHSCareers
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $118,060.80 - $151,049.60 Annually
+### [Sr. Data Analyst](https://www.linkedin.com/jobs/view/4445754996/) — Strive Health
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $85,500 - $104,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Sr. Data Analyst](https://www.linkedin.com/jobs/view/4449408168/) — Pinterest
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $123,684—$254,644 USD
+### [Graduate Engineering Geologist](https://www.linkedin.com/jobs/view/4448928603/) — targetjobs UK
+- 📍 **Location:** Wallingford, CT
 - 🕒 **Posted:** 2026-08-05
 
-### [Sr. Data Analyst](https://www.linkedin.com/jobs/view/4449413090/) — Pinterest
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $123,684—$254,644 USD
+### [Staff Geologist](https://www.linkedin.com/jobs/view/4447327730/) — Ur-Energy Inc.
+- 📍 **Location:** Casper, WY
 - 🕒 **Posted:** 2026-08-05
 
-### [Project Coordinator: II](https://www.linkedin.com/jobs/view/4447305742/) — TALENT Software Services
-- 📍 **Location:** Escondido, CA
-- 💰 **Salary:** $32.00/hr - $35.00/hr
+### [Project Geologist](https://www.linkedin.com/jobs/view/4447330681/) — Ur-Energy Inc.
+- 📍 **Location:** Casper, WY
 - 🕒 **Posted:** 2026-08-05
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4448593794/) — KDC Construction
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $25.00 To $30.00
+### [Data Analyst](https://www.linkedin.com/jobs/view/4449449104/) — Accord Worldwide, Inc.
+- 📍 **Location:** Spring, TX
 - 🕒 **Posted:** 2026-08-05
 
-### [Data Analyst - Kiewit Data Services](https://www.linkedin.com/jobs/view/4448599627/) — Kiewit
-- 📍 **Location:** Omaha, NE
+### [Entry Level Data Analyst](https://www.linkedin.com/jobs/view/4448912734/) — Collabera
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $21.00/hr - $22.00/hr
 - 🕒 **Posted:** 2026-08-05
 
-### [Basketball Data Analyst (Mystics)](https://www.linkedin.com/jobs/view/4449404387/) — Monumental Sports & Entertainment
-- 📍 **Location:** Washington, DC
+### [senior data analyst](https://www.linkedin.com/jobs/view/4448919659/) — Round Table DevOps Series #RTDoS
+- 📍 **Location:** Day, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Sr. Data Analyst - BI Transportation](https://www.linkedin.com/jobs/view/4448548679/) — The Home Depot
+### [Data Analyst Student Employee](https://www.linkedin.com/jobs/view/4446684527/) — Auburn University
+- 📍 **Location:** Auburn, AL
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Analyst II Healthcare Analytics](https://www.linkedin.com/jobs/view/4448919987/) — Centene Corporation
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $56,200.00 - $101,000.00 per year
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4448915940/) — Centene Corporation
+- 📍 **Location:** Missouri, United States
+- 💰 **Salary:** $56,200.00 - $101,000.00 per year
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Analyst, Product (Banking and Payments)](https://www.linkedin.com/jobs/view/4447323818/) — WFA Jobs (Work-From-Anywhere)
+- 📍 **Location:** Canada, KY
+- 🕒 **Posted:** 2026-08-05
+
+### [Field Technician II](https://www.linkedin.com/jobs/view/4447335483/) — Rain For Rent
+- 📍 **Location:** Hampton, VA
+- 🕒 **Posted:** 2026-08-05
+
+### [Experienced Construction Quality Assurance Field Technician](https://www.linkedin.com/jobs/view/4448586104/) — TTL, Inc.
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-05
 
-### [Logistics Data Analyst, Strategy and Transformation](https://www.linkedin.com/jobs/view/4449416245/) — Deloitte
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $69,600 to $116,000
+### [On Call Early Career Archaeology Field Technician](https://www.linkedin.com/jobs/view/4448913938/) — WSP in the U.S.
+- 📍 **Location:** Tempe, AZ
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior GIS Specialist](https://www.linkedin.com/jobs/view/4424939393/) — Imerza
-- 📍 **Location:** United States
+### [Construction Materials Field Technician](https://www.linkedin.com/jobs/view/4448917990/) — TTL, Inc.
+- 📍 **Location:** Decatur, AL
+- 💰 **Salary:** $17.00/hr - $26.00/hr
 - 🕒 **Posted:** 2026-08-05
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4449417206/) — GPRS
-- 📍 **Location:** Mesa, AZ
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4448923914/) — Centene Corporation
+- 📍 **Location:** Virginia, United States
+- 💰 **Salary:** $56,200.00 - $101,000.00 per year
 - 🕒 **Posted:** 2026-08-05
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4449020755/) — UAMS - University of Arkansas for Medical Sciences
-- 📍 **Location:** Little Rock, AR
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4448931189/) — Centene Corporation
+- 📍 **Location:** Florida, United States
+- 💰 **Salary:** $56,200.00 - $101,000.00 per year
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Student Program Coordinator](https://www.linkedin.com/jobs/view/4449415300/) — University of Oklahoma
-- 📍 **Location:** Oklahoma City, OK
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4448929785/) — Centene Corporation
+- 📍 **Location:** North Carolina, United States
+- 💰 **Salary:** $56,200.00 - $101,000.00 per year
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Data Analyst, Labor & Employment Data Analytics](https://www.linkedin.com/jobs/view/4449401205/) — Libra Analytics
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-08-04
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4449436848/) — Crew
+- 📍 **Location:** Arlington, VA
+- 💰 **Salary:** $80,000 to $115,000
+- 🕒 **Posted:** 2026-08-05
 
-### [Senior Data Analyst -  Trust, Safety, and Fraud Analytics](https://www.linkedin.com/jobs/view/4417971531/) — Rover.com
-- 📍 **Location:** Greater Seattle Area
-- 💰 **Salary:** $108,694-$136,046
-- 🕒 **Posted:** 2026-08-04
+### [Project Coordinator, Customer Support](https://www.linkedin.com/jobs/view/4448917761/) — BEUMER Group
+- 📍 **Location:** Somerset, NJ
+- 💰 **Salary:** $60,000.00 - $65,000.00 annually
+- 🕒 **Posted:** 2026-08-05
 
-### [GIS COORDINATOR - STARTING PAY: $33.54 - $37.02 PER HOUR DOE](https://www.linkedin.com/jobs/view/4448596624/) — Eddy County, NM
-- 📍 **Location:** Carlsbad, NM
-- 💰 **Salary:** $33.54 - $37.02 PER HOUR
-- 🕒 **Posted:** 2026-08-04
+### [Medical Education Program Coordinator](https://www.linkedin.com/jobs/view/4449438770/) — University of Illinois Chicago
+- 📍 **Location:** Rockford, IL
+- 💰 **Salary:** $46,176 to $53,137.50
+- 🕒 **Posted:** 2026-08-05
 
-### [Data Analyst (Oklahoma City, Oklahoma)](https://www.linkedin.com/jobs/view/4448596464/) — Fairwinds Technologies
-- 📍 **Location:** United States
-- 💰 **Salary:** $110,000.00/yr - $123,000.00/yr
-- 🕒 **Posted:** 2026-08-04
+### [International Program Coordinator - Haslam College of Business](https://www.linkedin.com/jobs/view/4447346047/) — NAFSA: Association of International Educators
+- 📍 **Location:** Knoxville, TN
+- 🕒 **Posted:** 2026-08-05
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4448242881/) — Capital Project Intelligence
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $70,000-$110,000
-- 🕒 **Posted:** 2026-08-04
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4449088991/) — CareerZen
-- 📍 **Location:** Cincinnati, OH
-- 🕒 **Posted:** 2026-08-04
-
-### [Environmental Engineer / Geologist / Scientist](https://www.linkedin.com/jobs/view/4447316046/) — EA Engineering, Science, and Technology, Inc., PBC
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $75,000—$95,000 USD
-- 🕒 **Posted:** 2026-08-04
-
-### [Staff Geologist](https://www.linkedin.com/jobs/view/4449405102/) — AngloGold Ashanti North America
-- 📍 **Location:** Amargosa Valley, NV
-- 🕒 **Posted:** 2026-08-04
-
-### [Electric Utility - Field Technician](https://www.linkedin.com/jobs/view/4449404162/) — TechServ Engineering
-- 📍 **Location:** Tyler, TX
-- 🕒 **Posted:** 2026-08-04
-
-### [Health Care Data Analyst](https://www.linkedin.com/jobs/view/4444600908/) — Kansas Department of Health and Environment
-- 📍 **Location:** Shawnee County, KS
-- 💰 **Salary:** $26.50 - $28.84
-- 🕒 **Posted:** 2026-08-04
-
-### [Operations Data Analyst](https://www.linkedin.com/jobs/view/4449099579/) — Shamrock Foods Company
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-08-04
-
-### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4447308403/) — Diverzify
-- 📍 **Location:** Itasca, IL
-- 🕒 **Posted:** 2026-08-04
-
-### [Administrative & Project Coordinator](https://www.linkedin.com/jobs/view/4448592375/) — Michigan Giving
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $55,000.00 - $58,000.00
-- 🕒 **Posted:** 2026-08-04
-
-### [Data Center Engineer / Project Coordinator](https://www.linkedin.com/jobs/view/4449097841/) — PGTEK
-- 📍 **Location:** Shelton, CT
-- 💰 **Salary:** $115,000.00/yr - $145,000.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Audio Visual Project Coordinator](https://www.linkedin.com/jobs/view/4449099469/) — CTI
-- 📍 **Location:** Piscataway, NJ
-- 💰 **Salary:** $45,000.00/yr - $60,000.00/yr
-- 🕒 **Posted:** 2026-08-04
+### [Program Coordinator I - Urology](https://www.linkedin.com/jobs/view/4449437606/) — Mount Sinai Morningside
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66482.07 - $75000 Annually
+- 🕒 **Posted:** 2026-08-05
