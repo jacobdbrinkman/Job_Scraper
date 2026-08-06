@@ -1,8 +1,13 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-05 23:40 UTC*
+*Last updated: 2026-08-06 01:06 UTC*
 
-**1 new role(s)** since last run · 10 total in last 24h
+**2 new role(s)** since last run · 12 total in last 24h
 
-### [Data Analyst Sr, Finance - Encounter Data (Covered California)](https://www.indeed.com/viewjob?jk=72f0cfc5b57bb26d) — Caloptima
-- 📍 **Location:** Orange, CA, US
+### [Environmental Field Technician](https://www.indeed.com/viewjob?jk=c50338e7131cc424) — Blaine Tech Services, Inc.
+- 📍 **Location:** Sacramento, CA, US
+- 🕒 **Posted:** 2026-08-05
+
+### [Environmental Field Technician](https://www.indeed.com/viewjob?jk=5b3f6b1989fe22c4) — Blaine Tech Services, Inc.
+- 📍 **Location:** Irwindale, CA, US
+- 💰 **Salary:** $22–$26/hr
 - 🕒 **Posted:** 2026-08-05
