@@ -1,170 +1,186 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-05 22:42 UTC*
+*Last updated: 2026-08-06 00:32 UTC*
 
-**36 new role(s)** since last run · 37 total in last 1h
+**39 new role(s)** since last run · 39 total in last 1h
 
-### [EPIC Data Analyst](https://www.linkedin.com/jobs/view/4449313061/) — Experis
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $38.00-$50.00 per hour
-- 🕒 **Posted:** 2026-08-05
+### [Data Analyst](https://www.linkedin.com/jobs/view/4449317789/) — Stratolaunch
+- 📍 **Location:** Mojave, CA
+- 💰 **Salary:** $83,000-$120,500
+- 🕒 **Posted:** 2026-08-06
 
-### [Venture Capital Project Coordinator](https://www.linkedin.com/jobs/view/4449921012/) — Voy Ventures
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-08-05
+### [Data Analyst - Community Health](https://www.linkedin.com/jobs/view/4449318709/) — Providence
+- 📍 **Location:** Burbank, CA
+- 💰 **Salary:** $37.17/hr - $57.71/hr
+- 🕒 **Posted:** 2026-08-06
 
-### [Data Analyst Sr, Finance - Encounter Data (Covered California)](https://www.linkedin.com/jobs/view/4449918287/) — CalOptima
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $84,092 - $134,548
-- 🕒 **Posted:** 2026-08-05
-
-### [Project Coordinator: II](https://www.linkedin.com/jobs/view/4449319263/) — Ravh-IT
-- 📍 **Location:** Escondido, CA
-- 💰 **Salary:** $30.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-08-05
-
-### [Design Project Coordinator](https://www.linkedin.com/jobs/view/4449308311/) — The Austin Company
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $53,000 - $80,500 per year
-- 🕒 **Posted:** 2026-08-05
-
-### [Project Coordinator - FuzeRx](https://www.linkedin.com/jobs/view/4449923247/) — Fuze Health
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $29.60-$37.00/hour
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4445749275/) — Constellis
-- 📍 **Location:** Lakewood, CO
-- 🕒 **Posted:** 2026-08-05
-
-### [Solutions Engineer](https://www.linkedin.com/jobs/view/4449926158/) — Aeonyx Software
+### [Data Analyst](https://www.linkedin.com/jobs/view/4449962042/) — MeeBoss
 - 📍 **Location:** United States
-- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-08-06
 
-### [Resource GIS Analyst](https://www.linkedin.com/jobs/view/4449325204/) — John Hancock
+### [Research/Data Analyst (DLB) - 3033017](https://www.linkedin.com/jobs/view/4449948107/) — State of Missouri
+- 📍 **Location:** Jefferson City, MO
+- 🕒 **Posted:** 2026-08-06
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448060841/) — Jobrion
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-06
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4449949238/) — MeeBoss
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-06
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4449958163/) — Charlotte Radiology
 - 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $56,925.00 USD - $94,875.00 USD
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-08-06
 
-### [Sr Project Survey Technician](https://www.linkedin.com/jobs/view/4449306531/) — Colliers Engineering & Design
-- 📍 **Location:** Cary, NC
-- 🕒 **Posted:** 2026-08-05
+### [Field Technician I - (Kiosk and Hardware Support) - Reno](https://www.linkedin.com/jobs/view/4448071729/) — Harrah's Cherokee Valley River
+- 📍 **Location:** Reno, NV
+- 🕒 **Posted:** 2026-08-06
 
-### [PV and Energy Storage Remote Operator & Data Analyst](https://www.linkedin.com/jobs/view/4449307556/) — Ameresco
-- 📍 **Location:** Oregon, United States
-- 💰 **Salary:** $30.77 - $44.47 per hour
-- 🕒 **Posted:** 2026-08-05
+### [Senior Research Data Analyst — Data Resource Analyst II](https://www.linkedin.com/jobs/view/4449326579/) — Michigan State University College of Engineering
+- 📍 **Location:** East Lansing, MI
+- 🕒 **Posted:** 2026-08-06
 
-### [Data Analyst III](https://www.linkedin.com/jobs/view/4449919083/) — Fuse3 Solutions
-- 📍 **Location:** Oklahoma, United States
-- 💰 **Salary:** $100,000 - $120,000
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Analyst, Product Analytics — New Grad](https://www.linkedin.com/jobs/view/4449323084/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4449325039/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4449917426/) — Pyramid Consulting, Inc
-- 📍 **Location:** Frisco, TX
-- 💰 **Salary:** $40.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4449310189/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4449315027/) — Experis
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-08-05
-
-### [Technical Data Analyst](https://www.linkedin.com/jobs/view/4449307380/) — InfiCare Staffing
+### [Project Coordinator, Environmental Health](https://www.linkedin.com/jobs/view/4449942063/) — Boston University
 - 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-08-06
+
+### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4449311824/) — KDC Construction
+- 📍 **Location:** Tempe, AZ
+- 💰 **Salary:** $24.00 to $28.00
+- 🕒 **Posted:** 2026-08-06
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4449309641/) — JTI Industrial Services, LLC
+- 📍 **Location:** Fresno, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446362213/) — Saicon
-- 📍 **Location:** New York, NY
+### [Medical Safety Project Coordinator IV](https://www.linkedin.com/jobs/view/4449088704/) — MiniMed
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $57,000.00 - $97,000.00
 - 🕒 **Posted:** 2026-08-05
 
-### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4449321122/) — Jobright.ai
-- 📍 **Location:** United States
+### [Cal-Bridge Doctoral Program Coordinator](https://www.linkedin.com/jobs/view/4449946059/) — UC Irvine
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $32.74- $35.02
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449916217/) — The Cadmus Group
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $115,000 - $130,000
+### [Data Analyst (Geospatial/Visualization)](https://www.linkedin.com/jobs/view/4449306862/) — Peraton
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $112,000 - $179,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Construction Materials Field Technician](https://www.linkedin.com/jobs/view/4448917990/) — TTL, Inc.
-- 📍 **Location:** Decatur, AL
-- 💰 **Salary:** $17.00/hr - $26.00/hr
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4449932775/) — Chesterfield County
+- 📍 **Location:** Chesterfield, VA
+- 💰 **Salary:** $62,154.00 - $83,906.00 Annually
 - 🕒 **Posted:** 2026-08-05
 
-### [Field Technician, Leak Survey](https://www.linkedin.com/jobs/view/4445745663/) — Heath
-- 📍 **Location:** Lubbock, TX
+### [Survey Field Technician](https://www.linkedin.com/jobs/view/4449306840/) — PEA Group
+- 📍 **Location:** Okemos, MI
 - 🕒 **Posted:** 2026-08-05
 
-### [(Senior) Research/Data Analyst, Housing Center](https://www.linkedin.com/jobs/view/4356541988/) — American Enterprise Institute
-- 📍 **Location:** District of Columbia, United States
-- 💰 **Salary:** $65,000–$85,000
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449322457/) — Enexus Global Inc.
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-05
 
-### [Data Analyst - Data Ops](https://www.linkedin.com/jobs/view/4423566978/) — Allied Benefit Systems
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $50,000.00/yr - $55,000.00/yr
+### [→ Advanced Data Analyst](https://www.linkedin.com/jobs/view/4448062633/) — CareerSwerve
+- 📍 **Location:** Friendly, MD
 - 🕒 **Posted:** 2026-08-05
 
-### [Healthcare Data Analyst (MedInsight)](https://www.linkedin.com/jobs/view/4448073464/) — Milliman
-- 📍 **Location:** Boise, ID
-- 💰 **Salary:** $49,900 - $88,895
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449311524/) — Tempus AI
+- 📍 **Location:** Florida, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Healthcare Data Analyst (MedInsight)](https://www.linkedin.com/jobs/view/4448059880/) — Milliman
-- 📍 **Location:** Appleton, WI
-- 💰 **Salary:** $49,900 - $88,895
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4449918875/) — Parsons Corporation
+- 📍 **Location:** East Chicago, IN
+- 💰 **Salary:** $22.93 - $40.14
 - 🕒 **Posted:** 2026-08-05
 
-### [Data Analyst, Business Intelligence — Entry Level](https://www.linkedin.com/jobs/view/4449324011/) — Jobright.ai
-- 📍 **Location:** United States
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449317499/) — Tempus AI
+- 📍 **Location:** Iowa, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Project Coordinator, Advanced Industries](https://www.linkedin.com/jobs/view/4449321179/) — JE Dunn Construction
-- 📍 **Location:** Essex Junction, VT
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449324298/) — Tempus AI
+- 📍 **Location:** Montana, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Jr Network Deployment & Project Coordinator](https://www.linkedin.com/jobs/view/4432498865/) — Bridgepointe Technologies
-- 📍 **Location:** Media, PA
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449305940/) — Tempus AI
+- 📍 **Location:** Louisiana, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Information Technology Project Coordinator -- THADC5867516](https://www.linkedin.com/jobs/view/4449935035/) — Compunnel Inc.
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $39.00/hr - $40.00/hr
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449329127/) — Tempus AI
+- 📍 **Location:** Michigan, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4449910964/) — Whitestone Associates, Inc.
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $24 USD - $28 USD
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449314436/) — Tempus AI
+- 📍 **Location:** Mississippi, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4449907845/) — Coffman Engineers
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $62,000-$68,000
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449308668/) — Tempus AI
+- 📍 **Location:** Nebraska, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Project Coordinator - Oil & Gas](https://www.linkedin.com/jobs/view/4449328147/) — Primary Services
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $25.00/hr - $28.00/hr
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449324290/) — Tempus AI
+- 📍 **Location:** Kentucky, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446895919/) — Saicon
-- 📍 **Location:** Irving, TX
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449305942/) — Tempus AI
+- 📍 **Location:** Wisconsin, United States
+- 💰 **Salary:** $80,000-$115,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4449934153/) — Eating Recovery Center
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $18.25 - $29 USD
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449316467/) — Tempus AI
+- 📍 **Location:** North Dakota, United States
+- 💰 **Salary:** $80,000-$115,000
+- 🕒 **Posted:** 2026-08-05
+
+### [Mid-Level Scientist, Chemist or Geologist](https://www.linkedin.com/jobs/view/4448078543/) — EA Engineering, Science, and Technology, Inc., PBC
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $65,000—$110,000 USD
+- 🕒 **Posted:** 2026-08-05
+
+### [Sr. Research Project Coordinator (Research Administration)](https://www.linkedin.com/jobs/view/4448352228/) — The Johns Hopkins University
+- 📍 **Location:** Poplar, MT
+- 💰 **Salary:** $42,330 - $74,110 Annually
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449307677/) — Tempus AI
+- 📍 **Location:** Hawaii, United States
+- 💰 **Salary:** $80,000-$115,000
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449322352/) — Tempus AI
+- 📍 **Location:** Missouri, United States
+- 💰 **Salary:** $80,000-$115,000
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449306704/) — Tempus AI
+- 📍 **Location:** Idaho, United States
+- 💰 **Salary:** $80,000-$115,000
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449310528/) — Tempus AI
+- 📍 **Location:** Arkansas, United States
+- 💰 **Salary:** $80,000-$115,000
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4449309619/) — Tempus AI
+- 📍 **Location:** West Virginia, United States
+- 💰 **Salary:** $80,000-$115,000
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Analyst/Cyber Risk](https://www.linkedin.com/jobs/view/4449317705/) — Peraton
+- 📍 **Location:** Fort Meade, MD
+- 💰 **Salary:** $135,000 - $216,000
+- 🕒 **Posted:** 2026-08-05
+
+### [Program Coordinator III](https://www.linkedin.com/jobs/view/4448060746/) — The University of Georgia
+- 📍 **Location:** Athens, GA
 - 🕒 **Posted:** 2026-08-05
