@@ -1,58 +1,100 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-07 20:25 UTC*
+*Last updated: 2026-08-07 21:23 UTC*
 
-**12 new role(s)** since last run · 68 total in last 1h
+**21 new role(s)** since last run · 58 total in last 1h
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4449230355/) — Jacam Catalyst
-- 📍 **Location:** Johnstown, CO
+### [Lead Data Analyst](https://www.linkedin.com/jobs/view/4450365729/) — QuinStreet
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $120,000 USD to $160,000 USD annually
 - 🕒 **Posted:** 2026-08-07
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4450778274/) — Langan Engineering & Environmental Services
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4450362868/) — ACCO Engineered Systems
+- 📍 **Location:** Santa Cruz, CA
+- 💰 **Salary:** $26.92 - $33.65 per hour
+- 🕒 **Posted:** 2026-08-07
+
+### [Disability Compliance Program Coordinator](https://www.linkedin.com/jobs/view/4450771794/) — West Contra Costa Unified School District
+- 📍 **Location:** Richmond, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Program Coordinator, Medical Imaging Research Administration (MIRA)](https://www.linkedin.com/jobs/view/4449954381/) — CHOC Children's
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Data Analyst 3, Supply Chain Intelligence - (Hybrid - Seattle, WA)](https://www.linkedin.com/jobs/view/4450767833/) — Nordstrom
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $102,500.00 - $170,500.00
+- 🕒 **Posted:** 2026-08-07
+
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4450379423/) — Civil & Environmental Consultants, Inc.
+- 📍 **Location:** Athens, PA
+- 🕒 **Posted:** 2026-08-07
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4450372638/) — Galapagos Federal Systems
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** USD $115,000.00 - USD $125,000.00 /Yr
+- 🕒 **Posted:** 2026-08-07
+
+### [Data Analyst - Asset Management Affordable Housing](https://www.linkedin.com/jobs/view/4445358850/) — Volunteers of America National Services (VOANS)
+- 📍 **Location:** Alexandria, VA
+- 🕒 **Posted:** 2026-08-07
+
+### [Junior to Mid-Level Geologist/Environmental Scientist](https://www.linkedin.com/jobs/view/4450768720/) — Tetra Tech
 - 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-08-07
 
-### [Consultant, Environmental Engineer / Scientist / Geologist](https://www.linkedin.com/jobs/view/4433010619/) — ERM
-- 📍 **Location:** Ewing, NJ
-- 💰 **Salary:** $79,091–$103,711
+### [Business Data Analyst II](https://www.linkedin.com/jobs/view/4450760800/) — DHL Supply Chain
+- 📍 **Location:** Wichita, KS
+- 💰 **Salary:** $55,000 - $90,000
 - 🕒 **Posted:** 2026-08-07
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4450379349/) — WSP in the U.S.
-- 📍 **Location:** Lawrenceville, NJ
-- 💰 **Salary:** $69,000 - $89,000
+### [Data Analyst, Specialist](https://www.linkedin.com/jobs/view/4449969384/) — Vanguard
+- 📍 **Location:** Malvern, PA
 - 🕒 **Posted:** 2026-08-07
 
-### [ASO6 Data Analyst](https://www.linkedin.com/jobs/view/4450624976/) — Department for Education, South Australia
-- 📍 **Location:** Adelaide, South Australia, Australia
-- 💰 **Salary:** $105,747- $111,854 per annum
-- 🕒 **Posted:** 2026-08-06
+### [Data Analyst, People Analytics](https://www.linkedin.com/jobs/view/4450781405/) — RVO Health
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $75,000 - $95,000
+- 🕒 **Posted:** 2026-08-07
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448471648/) — Laveer Engineering
-- 📍 **Location:** Cranberry Township, PA
-- 💰 **Salary:** $64,800 to $81,000 per year
-- 🕒 **Posted:** 2026-08-06
+### [Core Logging Geologist](https://www.linkedin.com/jobs/view/4450366811/) — Talon Metals Corp.
+- 📍 **Location:** Tamarack, MN
+- 🕒 **Posted:** 2026-08-07
 
-### [Data Analyst - Physical Infrastructure](https://www.linkedin.com/jobs/view/4404384432/) — SpaceXAI
-- 📍 **Location:** Memphis, TN
-- 🕒 **Posted:** 2026-08-05
+### [Research Data Specialist - GI Oncology Clinical Trials](https://www.linkedin.com/jobs/view/4449235172/) — Dana-Farber Cancer Institute
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $50,500.00 - $56,700.00
+- 🕒 **Posted:** 2026-08-07
 
-### [Data Analyst - Coquitlam](https://www.linkedin.com/jobs/view/4445581603/) — Natural Factors
-- 📍 **Location:** Coquitlam, British Columbia, Canada
-- 💰 **Salary:** $75,000 – $90,000 per annum
-- 🕒 **Posted:** 2026-08-01
+### [Reference Data Analyst](https://www.linkedin.com/jobs/view/4450378444/) — Nuveen, a TIAA company
+- 📍 **Location:** Iselin, NJ
+- 🕒 **Posted:** 2026-08-07
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4443292886/) — The University of Sheffield
-- 📍 **Location:** Sheffield, England, United Kingdom
-- 🕒 **Posted:** 2026-07-29
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4450778283/) — The Contractor Consultants
+- 📍 **Location:** Middleton, WI
+- 💰 **Salary:** $60,000 - $70,000
+- 🕒 **Posted:** 2026-08-07
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4445279923/) — Bandera Electric Cooperative
-- 📍 **Location:** Boerne, TX
-- 🕒 **Posted:** 2026-07-25
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4449237116/) — Trinity Health MI
+- 📍 **Location:** Grand Rapids, MI
+- 🕒 **Posted:** 2026-08-07
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4405748978/) — Westinghouse Electric Company
-- 📍 **Location:** Cranberry Township, PA
-- 💰 **Salary:** $64,800 to $81,000 per year
-- 🕒 **Posted:** 2026-07-20
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4450773535/) — The Contractor Consultants
+- 📍 **Location:** Garland, TX
+- 💰 **Salary:** $60,000 - $70,000
+- 🕒 **Posted:** 2026-08-07
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4442575712/) — ARNE
-- 📍 **Location:** Warrington, England, United Kingdom
-- 🕒 **Posted:** 2026-07-13
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4440837789/) — Texas Health and Human Services
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $4,523.16 - $5,585.00
+- 🕒 **Posted:** 2026-08-07
+
+### [JCamp 180 Program Coordinator](https://www.linkedin.com/jobs/view/4444703795/) — Harold Grinspoon Foundation
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $31.25–$37.26 per hour
+- 🕒 **Posted:** 2026-08-07
+
+### [Program Coordinator (Davison, MI)](https://www.linkedin.com/jobs/view/4450764934/) — WebMD
+- 📍 **Location:** Davison, MI
+- 💰 **Salary:** $ 41,000 - $43,000
+- 🕒 **Posted:** 2026-08-07
