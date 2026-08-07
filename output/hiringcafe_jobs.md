@@ -1,19 +1,18 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-07 21:25 UTC*
+*Last updated: 2026-08-07 22:21 UTC*
 
-**3 new role(s)** since last run · 158 total in last 30d
+**3 new role(s)** since last run · 157 total in last 30d
 
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist) — AECOM
-- 📍 **Location:** Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs
-- 💰 **Salary:** $70k–$110k/yr
-- 🕒 **Posted:** 2026-07-09T20:15:46.755Z
+### [Senior Geospatial Analyst](https://careers-nv5.icims.com/jobs/12243/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — NV5
+- 📍 **Location:** Lexington or United States
+- 🕒 **Posted:** 2026-07-31T17:02:00.000Z
 
-### [Field Geologist](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371) — Arcadis
-- 📍 **Location:** Knoxville, Tennessee, United States
-- 💰 **Salary:** $58k–$87k/yr
-- 🕒 **Posted:** 2026-07-10T15:22:06.000Z
+### [Associate Water Resources Hydrologist](https://www.governmentjobs.com/careers/montereycounty/jobs/5403111) — County of Monterey
+- 📍 **Location:** Salinas, California, United States
+- 💰 **Salary:** $112k–$153k/yr
+- 🕒 **Posted:** 2026-08-07T21:32:08.000Z
 
-### [Senior Environmental Consultant Manager](https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — Sargent & Lundy
-- 📍 **Location:** Hamilton, New Jersey, United States
+### [Senior Environmental Consultant Manager](https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — Sargent & Lundy
+- 📍 **Location:** Wilmington, Delaware, United States
 - 💰 **Salary:** $166k–$253k/yr
-- 🕒 **Posted:** 2026-07-30T01:52:00.000Z
+- 🕒 **Posted:** 2026-07-30T01:56:00.000Z

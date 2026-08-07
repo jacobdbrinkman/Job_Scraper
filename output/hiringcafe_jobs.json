@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-07 21:25 UTC",
-  "total": 158,
+  "scraped_at": "2026-08-07 22:21 UTC",
+  "total": 157,
   "new_count": 3,
   "jobs": [
     {
@@ -43,6 +43,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "CITY OF CHAMBLEE",
+      "title": "GIS Analyst",
+      "location": "Chamblee, Georgia, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=215245&clientkey=E093430E6AD54236309BA47F1E42AAD0",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=215245&clientkey=E093430E6AD54236309BA47F1E42AAD0",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in GIS, environmental science, geography, or related field; 3–5 years of ArcGIS experience; Georgia driver's license; proficiency with Esri and other GIS software.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "City of Blue Springs",
       "title": "GIS Analyst",
       "location": "Blue Springs, Missouri, United States",
@@ -56,19 +69,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Angc",
-      "title": "GIS Analyst",
-      "location": "Augusta, Georgia, United States",
-      "url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/GIS-Analyst_R11657",
-      "direct_url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/GIS-Analyst_R11657",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Experience with GIS, CAD, drone mapping, GPS surveying; bachelor’s degree preferred; 0–2 years GIS experience; valid driver\\u0002s license; strong analytical and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Repsol",
       "title": "GIS Analyst",
       "location": "Houston, Texas, United States",
@@ -76,6 +76,19 @@
       "direct_url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
       "date_posted": "2026-07-14T00:00:00.000Z",
       "description": "Undergraduate degree in geography/GIS or related field, 0-2 years GIS experience, familiarity with ArcGIS platforms, cartography skills, strong verbal/written communication, and interest in renewable energy.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Angc",
+      "title": "GIS Analyst",
+      "location": "Augusta, Georgia, United States",
+      "url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/GIS-Analyst_R11657",
+      "direct_url": "https://angc.wd5.myworkdayjobs.com/angc/job/Augusta-Office/GIS-Analyst_R11657",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Experience with GIS, CAD, drone mapping, GPS surveying; bachelor’s degree preferred; 0–2 years GIS experience; valid driver\\u0002s license; strong analytical and communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -342,19 +355,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Merrick & Company",
-      "title": "GIS Analyst",
-      "location": "Greenwood Village, Colorado, United States",
-      "url": "https://careers.merrick.com/jobs/8431?lang=en-us",
-      "direct_url": "https://careers.merrick.com/jobs/8431?lang=en-us",
-      "date_posted": "2026-07-30T14:58:27.000Z",
-      "description": "5+ years experience, Associate's/Bachelor's in GIS-related field or equivalent, strong GIS concepts, ArcGIS Pro/Online, geodatabase design, spatial analysis, CAD/BIM integration, and data QA/QC.",
-      "salary": "$62k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Asheville, NC",
       "title": "GIS Analyst",
       "location": "Asheville, North Carolina, United States",
@@ -511,19 +511,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Manulife",
-      "title": "Resource GIS Analyst",
-      "location": "Charlotte, North Carolina, United States",
-      "url": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Charlotte-North-Carolina/Resource-GIS-Analyst_JR26080039",
-      "direct_url": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Charlotte-North-Carolina/Resource-GIS-Analyst_JR26080039",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Bachelor's degree in forestry or related discipline and 3+ years of GIS/resource information management and analysis experience. Requires Esri expertise, forest operations knowledge, strong analytical and communication skills; SQL Server or Python preferred.",
-      "salary": "$57k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GRVTY",
       "title": "Geospatial Analyst",
       "location": "Arnold, Missouri, United States",
@@ -610,6 +597,19 @@
       "date_posted": "2026-08-04T00:00:00.000Z",
       "description": "Bachelor's in a related field (or equivalent experience), GIS and database knowledge, programming/scripting (Python, SQL), experience producing maps and geospatial analyses, strong communication and problem-solving skills.",
       "salary": "$67k–$84k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "NV5",
+      "title": "Senior Geospatial Analyst",
+      "location": "Lexington or United States",
+      "url": "https://careers-nv5.icims.com/jobs/12243/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-nv5.icims.com/jobs/12243/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-31T17:02:00.000Z",
+      "description": "Bachelor's or Master's in GIS/related field, typically 3+ years geospatial experience, expertise with ArcGIS/QGIS and transportation data, strong analytical and communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -849,19 +849,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "NYU Langone Health",
-      "title": "Data Analyst",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.silkroad.com/NYULangone/NYULHCareers/jobs/123337?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/NYULangone/NYULHCareers/jobs/123337?embedded=true",
-      "date_posted": "2026-07-23T23:12:14.628Z",
-      "description": "Master's (or equivalent) in biostatistics/epidemiology/public health, strong R and geospatial skills, experience with SQL and Git, familiarity with public health metrics and U.S. administrative geographies, attention to detail.",
-      "salary": "$70k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Nevada (NV)",
       "title": "ENVIRONMENTAL SCIENTIST 3",
       "location": "Las Vegas, Nevada, United States",
@@ -1039,19 +1026,6 @@
       "date_posted": "2026-07-29T15:03:46.142Z",
       "description": "Bachelor's in environmental or related field, six years environmental analysis or management experience, Maryland driver's license, knowledge of environmental compliance programs and EMS.",
       "salary": "$77k–$121k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "GSI Environmental Inc.",
-      "title": "Environmental Scientist",
-      "location": "Emeryville, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
-      "salary": "$97k–$110k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1278,6 +1252,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "County of Monterey",
+      "title": "Associate Water Resources Hydrologist",
+      "location": "Salinas, California, United States",
+      "url": "https://www.governmentjobs.com/careers/montereycounty/jobs/5403111",
+      "direct_url": "https://www.governmentjobs.com/careers/montereycounty/jobs/5403111",
+      "date_posted": "2026-08-07T21:32:08.000Z",
+      "description": "Requires two years at an equivalent hydrologist level or four years in hydrology, geology, hydrogeology, engineering, or related work; a bachelor's degree is desired; California Class C license required.",
+      "salary": "$112k–$153k/yr",
+      "job_type": "Full Time, Part Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "idaho",
       "title": "Hydrologist, Staff/Technical",
       "location": "Twin Falls, Idaho, United States",
@@ -1369,19 +1356,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kentucky Energy and Environment Cabinet - Department for Environmental Protection",
-      "title": "Geologist-Registered",
-      "location": "Frankfort, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/50/home/requisition/80084?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/50/home/requisition/80084?c=kypersonnelcabinet",
-      "date_posted": "2026-07-30T00:00:00.000Z",
-      "description": "Registered by Kentucky Board for Professional Geologist, valid driver's license, ability to lift and work in office and field conditions, perform site inspections, sample soil and groundwater, and review technical environmental reports.",
-      "salary": "$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "WSP",
       "title": "Senior Geologist",
       "location": "Canton, Mississippi, United States",
@@ -1390,6 +1364,19 @@
       "date_posted": "2026-08-06T14:46:40.000Z",
       "description": "Bachelor's degree in geology or related field and 5–7 years of geologist experience. Requires environmental sampling, assessments, remediation, technical writing, QA/QC, safety compliance, and field leadership skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kentucky Energy and Environment Cabinet - Department for Environmental Protection",
+      "title": "Geologist-Registered",
+      "location": "Frankfort, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/50/home/requisition/80084?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/50/home/requisition/80084?c=kypersonnelcabinet",
+      "date_posted": "2026-07-30T00:00:00.000Z",
+      "description": "Registered by Kentucky Board for Professional Geologist, valid driver's license, ability to lift and work in office and field conditions, perform site inspections, sample soil and groundwater, and review technical environmental reports.",
+      "salary": "$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -2034,19 +2021,6 @@
     {
       "company": "Sargent & Lundy",
       "title": "Senior Environmental Consultant Manager",
-      "location": "Hamilton, New Jersey, United States",
-      "url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-30T01:52:00.000Z",
-      "description": "BS in environmental field (MS preferred),15+ years permitting/compliance experience for industrial/power projects,proven BD and project leadership,NEPA/CWA/CAA knowledge,excellent communication.",
-      "salary": "$166k–$253k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Sargent & Lundy",
-      "title": "Senior Environmental Consultant Manager",
       "location": "Cranberry Township, Pennsylvania, United States",
       "url": "https://careers-sargentlundy.icims.com/jobs/25703/senior-environmental-consultant-manager/job?in_iframe=1",
       "direct_url": "https://careers-sargentlundy.icims.com/jobs/25703/senior-environmental-consultant-manager/job?in_iframe=1",
@@ -2056,43 +2030,56 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Sargent & Lundy",
+      "title": "Senior Environmental Consultant Manager",
+      "location": "Wilmington, Delaware, United States",
+      "url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-30T01:56:00.000Z",
+      "description": "BS in environmental field (MS preferred), 15+ years environmental compliance/permitting experience for power/industrial projects, strong regulatory knowledge, business development and project management skills.",
+      "salary": "$166k–$253k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Fort Collins or Denver or Boulder or Colorado Springs or Glenwood Springs",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000136895879-geologist",
-      "date_posted": "2026-07-09T20:15:46.755Z",
-      "description": "BS in geology, 4+ years' relevant experience, valid U.S. driver’s license, pass pre-employment drug test, field sampling and report-writing experience, OSHA 40-hour HAZWOPER and PG/GIT preferred.",
-      "salary": "$70k–$110k/yr",
+      "company": "NV5",
+      "title": "Senior Geospatial Analyst",
+      "location": "Lexington or United States",
+      "url": "https://careers-nv5.icims.com/jobs/12243/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-nv5.icims.com/jobs/12243/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-31T17:02:00.000Z",
+      "description": "Bachelor's or Master's in GIS/related field, typically 3+ years geospatial experience, expertise with ArcGIS/QGIS and transportation data, strong analytical and communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Arcadis",
-      "title": "Field Geologist",
-      "location": "Knoxville, Tennessee, United States",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42371",
-      "date_posted": "2026-07-10T15:22:06.000Z",
-      "description": "Bachelor's in geology or related field, 2 years relevant experience, strong field sampling and site characterization skills, OSHA 40-hour HAZWOPER preferred, ability to travel and perform fieldwork.",
-      "salary": "$58k–$87k/yr",
-      "job_type": "Full Time",
+      "company": "County of Monterey",
+      "title": "Associate Water Resources Hydrologist",
+      "location": "Salinas, California, United States",
+      "url": "https://www.governmentjobs.com/careers/montereycounty/jobs/5403111",
+      "direct_url": "https://www.governmentjobs.com/careers/montereycounty/jobs/5403111",
+      "date_posted": "2026-08-07T21:32:08.000Z",
+      "description": "Requires two years at an equivalent hydrologist level or four years in hydrology, geology, hydrogeology, engineering, or related work; a bachelor's degree is desired; California Class C license required.",
+      "salary": "$112k–$153k/yr",
+      "job_type": "Full Time, Part Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
       "company": "Sargent & Lundy",
       "title": "Senior Environmental Consultant Manager",
-      "location": "Hamilton, New Jersey, United States",
-      "url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-30T01:52:00.000Z",
-      "description": "BS in environmental field (MS preferred),15+ years permitting/compliance experience for industrial/power projects,proven BD and project leadership,NEPA/CWA/CAA knowledge,excellent communication.",
+      "location": "Wilmington, Delaware, United States",
+      "url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-30T01:56:00.000Z",
+      "description": "BS in environmental field (MS preferred), 15+ years environmental compliance/permitting experience for power/industrial projects, strong regulatory knowledge, business development and project management skills.",
       "salary": "$166k–$253k/yr",
       "job_type": "Full Time",
       "is_remote": false,
