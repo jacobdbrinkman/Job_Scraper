@@ -1,49 +1,81 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-07 01:07 UTC*
+*Last updated: 2026-08-07 04:24 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [Senior Data Analyst - Automotive](https://www.linkedin.com/jobs/view/4450012219/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Public Health Interoperability Lead (Sr. Public Health Data Analyst)](https://www.linkedin.com/jobs/view/4448701886/) — Leidos
+- 📍 **Location:** United States
+- 💰 **Salary:** $107,900.00 - $195,050.00
 - 🕒 **Posted:** 2026-08-07
 
-### [Project Coordinator, Finance Transformation (R5546)](https://www.linkedin.com/jobs/view/4450682041/) — Shield AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $100,000 - $160,000
+### [Project Coordinator I](https://www.linkedin.com/jobs/view/4450044490/) — ATI Restoration, LLC
+- 📍 **Location:** Spring Valley, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Staff Field Solutions Engineer (R5524)](https://www.linkedin.com/jobs/view/4450670395/) — Shield AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000 - $270,000
+### [STATE GIS ANALYST](https://www.linkedin.com/jobs/view/4450040629/) — Arkansas Department of Energy & Environment
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $66,458 - $108,431
 - 🕒 **Posted:** 2026-08-07
 
-### [Program Coordinator, Cancer Research and Training](https://www.linkedin.com/jobs/view/4448957197/) — UCI Health
-- 📍 **Location:** Irvine, CA
+### [PHYSICAL SCIENTIST](https://www.linkedin.com/jobs/view/4450039893/) — U.S. Fleet Forces Command
+- 📍 **Location:** Mississippi, United States
 - 🕒 **Posted:** 2026-08-07
 
-### [Geophysical Data Analyst](https://www.linkedin.com/jobs/view/4450661546/) — KBR Careers
-- 📍 **Location:** Patrick AFB, FL
+### [NATURAL RESOURCES SPECIALIST](https://www.linkedin.com/jobs/view/4450049539/) — US Army Corps of Engineers
+- 📍 **Location:** Williston, ND
 - 🕒 **Posted:** 2026-08-07
 
-### [Project Clinical Data Analyst and Insights Engineer II](https://www.linkedin.com/jobs/view/4450669651/) — Deloitte
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $88,600 to $147,600
+### [ENERGY & ENVIRONMENT PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4450034853/) — Arkansas Department of Energy & Environment
+- 📍 **Location:** North Little Rock, AR
+- 💰 **Salary:** $52,137 - $77,163
 - 🕒 **Posted:** 2026-08-07
 
-### [Business Data Analyst](https://www.linkedin.com/jobs/view/4450666495/) — Motion Recruitment
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $76.00/hr - $83.00/hr
+### [DATA ANALYST SUPERVISOR/EXPERT](https://www.linkedin.com/jobs/view/4450033905/) — Arkansas Department of Energy & Environment
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $88,455 - $144,321
 - 🕒 **Posted:** 2026-08-07
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4450688009/) — The Springs Living, LLC
-- 📍 **Location:** Beaverton, OR
+### [Operational Data Analyst](https://www.linkedin.com/jobs/view/4450045519/) — Newsco International Energy Services
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-07
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4450673541/) — Pauley Construction, LLC
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $22.00 - $25.00
+### [E-Commerce Data Analyst](https://www.linkedin.com/jobs/view/4448723028/) — RoibyRoy
+- 📍 **Location:** Commerce, MI
 - 🕒 **Posted:** 2026-08-07
 
-### [Administrative Project Coordinator](https://www.linkedin.com/jobs/view/4450004869/) — HDR
-- 📍 **Location:** San Antonio, TX
+### [Project Coordinator (Administrative Program Support 3)](https://www.linkedin.com/jobs/view/4450055536/) — University of Connecticut
+- 📍 **Location:** Storrs, CT
+- 💰 **Salary:** $60,416 to $78,541
+- 🕒 **Posted:** 2026-08-07
+
+### [Inventory Data Management Specialist](https://www.linkedin.com/jobs/view/4448723118/) — MGM Resorts International
+- 📍 **Location:** Las Vegas Metropolitan Area
+- 🕒 **Posted:** 2026-08-07
+
+### [AI Data Analyst](https://www.linkedin.com/jobs/view/4448700996/) — RoibyRoy
+- 📍 **Location:** Baxter, TN
+- 🕒 **Posted:** 2026-08-07
+
+### [HEALTH PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4450050381/) — Arkansas Department of Energy & Environment
+- 📍 **Location:** Jonesboro, AR
+- 💰 **Salary:** $57,351 - $84,879
+- 🕒 **Posted:** 2026-08-07
+
+### [Facilities Project Coordinator](https://www.linkedin.com/jobs/view/4448712119/) — Boise State University
+- 📍 **Location:** Boise, ID
+- 🕒 **Posted:** 2026-08-07
+
+### [Language Development Program Coordinator - 0](https://www.linkedin.com/jobs/view/4445544166/) — CACI International Inc
+- 📍 **Location:** Augusta, GA
+- 💰 **Salary:** $49,200 - $100,900
+- 🕒 **Posted:** 2026-08-07
+
+### [MILITARY PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4450051453/) — Arkansas Department of Energy & Environment
+- 📍 **Location:** Fort Smith, AR
+- 💰 **Salary:** $52,137 – $77,163
+- 🕒 **Posted:** 2026-08-07
+
+### [Language Development Program Coordinator - 0](https://www.linkedin.com/jobs/view/4445540829/) — CACI International Inc
+- 📍 **Location:** Joint Base Elmendorf Richardson, AK
+- 💰 **Salary:** $57,000 - 116,800
 - 🕒 **Posted:** 2026-08-07
