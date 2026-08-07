@@ -1,13 +1,23 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-07 04:25 UTC*
+*Last updated: 2026-08-07 16:35 UTC*
 
-**2 new role(s)** since last run · 21 total in last 24h
+**4 new role(s)** since last run · 17 total in last 24h
 
-### [Financial Aid Counselor/Program Coordinator (Student Services Professional III)](https://www.indeed.com/viewjob?jk=e30f0a9c3c424afb) — California State University
-- 📍 **Location:** Chico, CA, US
+### [Environmental Field Technician (Asbestos, Lead and Mold)](https://www.indeed.com/viewjob?jk=77c6bd198667e9e2) — ALLSTATE SERVICES
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $25–$28/hr
+- 🕒 **Posted:** 2026-08-07
+
+### [Survey Technician](https://www.indeed.com/viewjob?jk=cfe7ca9c7b1d455c) — NV5
+- 📍 **Location:** South Lake Tahoe, CA, US
 - 🕒 **Posted:** 2026-08-06
 
-### [GIS Analyst](https://www.indeed.com/viewjob?jk=a43f602c22035271) — Intrado
-- 📍 **Location:** Longmont, CO, US
-- 💰 **Salary:** $50k–$60k/yr
+### [Responder / Environmental Scientist, Engineer](https://www.indeed.com/viewjob?jk=c995f617cd99c64f) — Tetra Tech
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $71k–$84k/yr
+- 🕒 **Posted:** 2026-08-06
+
+### [Data Analyst II](https://www.indeed.com/viewjob?jk=20ae84ec11a6b778) — Goldbelt
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $85k–$105k/yr
 - 🕒 **Posted:** 2026-08-06
