@@ -1,52 +1,79 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-08 04:41 UTC*
+*Last updated: 2026-08-08 16:07 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [Project Coordinator (50% FTE, Fixed Term)](https://www.linkedin.com/jobs/view/4451048143/) — Stanford University
-- 📍 **Location:** Stanford, CA
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4450913175/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator II](https://www.linkedin.com/jobs/view/4451033523/) — San Diego State University
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $5,858.67 - $9,347.58
+### [Lead Geologist - Site Investigation & Remediation](https://www.linkedin.com/jobs/view/4424449676/) — WSP in the U.S.
+- 📍 **Location:** Redmond, WA
+- 💰 **Salary:** $108,600 - $150,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4451033542/) — Papé Group
-- 📍 **Location:** Fresno, CA
+### [GIS Analyst - Energy and Environmental Planning](https://www.linkedin.com/jobs/view/4442193113/) — Jacobs
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $75,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-08-08
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4451023939/) — Dickinson Cameron Construction Company, Inc.
-- 📍 **Location:** Carlsbad, CA
+### [GIS Field Technician II- Solar](https://www.linkedin.com/jobs/view/4442180241/) — Mortenson
+- 📍 **Location:** Texas, United States
 - 🕒 **Posted:** 2026-08-08
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4450551522/) — WSP in the U.S.
-- 📍 **Location:** Valhalla, NY
-- 💰 **Salary:** $69,000 - $89,000
+### [Environmental Analyst](https://www.linkedin.com/jobs/view/4449271115/) — Perdue Farms
+- 📍 **Location:** Salisbury, MD
+- 💰 **Salary:** $68,000 - $102,000 per year
 - 🕒 **Posted:** 2026-08-08
 
-### [Workcamper Mobile Field Technician](https://www.linkedin.com/jobs/view/4447987927/) — Sparus Holdings
-- 📍 **Location:** Round Rock, TX
+### [Data Analyst](https://www.linkedin.com/jobs/view/4451092203/) — Indiana University
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $60,000.00 - 70,000.00 per year
 - 🕒 **Posted:** 2026-08-08
 
-### [Data Analyst I - UHC Cove](https://www.linkedin.com/jobs/view/4450534998/) — UnitedHealthcare
-- 📍 **Location:** Minnetonka, MN
-- 💰 **Salary:** $60,200 - $107,400 annually
+### [ES Field Technician II](https://www.linkedin.com/jobs/view/4441351910/) — Republic Services
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-08-08
 
-### [Project Coordinator (TS/SCI with Polygraph Required)](https://www.linkedin.com/jobs/view/4450559864/) — Red Alpha
-- 📍 **Location:** Columbia, MD
-- 💰 **Salary:** $75,000 - $135,000
+### [ES Field Technician I](https://www.linkedin.com/jobs/view/4381759992/) — Republic Services
+- 📍 **Location:** Browns Summit, NC
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4451046300/) — Sevita
-- 📍 **Location:** San Angelo, TX
+### [Experienced CMT Field Technician - Construction Materials Testing](https://www.linkedin.com/jobs/view/4430267090/) — Braun Intertec Corporation
+- 📍 **Location:** St Cloud, MN
+- 💰 **Salary:** $50,000.00 - $74,000.00
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator - Hope Station](https://www.linkedin.com/jobs/view/4451049204/) — Carlisle Area Chamber of Commerce
-- 📍 **Location:** Carlisle, PA
+### [Senior Procurement and Data Analyst](https://www.linkedin.com/jobs/view/4449265208/) — Perdue Farms
+- 📍 **Location:** Salisbury, MD
+- 💰 **Salary:** $89,000 - $133,000 per year
 - 🕒 **Posted:** 2026-08-08
 
-### [Safety Special Project Coordinator](https://www.linkedin.com/jobs/view/4451035627/) — Memphis-Shelby County Schools
-- 📍 **Location:** Memphis, TN
+### [Senior Financial Health Data Analyst III](https://www.linkedin.com/jobs/view/4433536377/) — HMSA
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $78,000 to $153,000
+- 🕒 **Posted:** 2026-08-08
+
+### [Revenue Cycle and Data Analyst Cath Lab](https://www.linkedin.com/jobs/view/4414410559/) — Ascension
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-08
+
+### [Senior GIS Data Analyst - Public Safety](https://www.linkedin.com/jobs/view/4401976022/) — Gwinnett County Government
+- 📍 **Location:** Gwinnett County, GA
+- 🕒 **Posted:** 2026-08-08
+
+### [Senior Data Analyst, DOS](https://www.linkedin.com/jobs/view/4333620049/) — Dexis
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-08
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4424506000/) — WSP in the U.S.
+- 📍 **Location:** Columbus, NE
+- 🕒 **Posted:** 2026-08-08
+
+### [Program Coordinator II, STEP UP  Monroe Community College](https://www.linkedin.com/jobs/view/4450919126/) — Monroe Community College
+- 📍 **Location:** Rochester, NY
+- 🕒 **Posted:** 2026-08-08
+
+### [Cabin Retrofit Solutions Engineer II](https://www.linkedin.com/jobs/view/4439285923/) — Airbus
+- 📍 **Location:** Mobile, AL
 - 🕒 **Posted:** 2026-08-08
