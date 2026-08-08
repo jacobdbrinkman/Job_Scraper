@@ -1,79 +1,54 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-08 16:07 UTC*
+*Last updated: 2026-08-08 17:12 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**11 new role(s)** since last run · 13 total in last 1h
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4450913175/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Field Technician](https://www.linkedin.com/jobs/view/4451078672/) — Spectrum
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $20.00/hr - $36.35/hr
 - 🕒 **Posted:** 2026-08-08
 
-### [Lead Geologist - Site Investigation & Remediation](https://www.linkedin.com/jobs/view/4424449676/) — WSP in the U.S.
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $108,600 - $150,000
+### [Assistant GIS Specialist](https://www.linkedin.com/jobs/view/4449312138/) — Randstad Digital Americas
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $28.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-08-08
 
-### [GIS Analyst - Energy and Environmental Planning](https://www.linkedin.com/jobs/view/4442193113/) — Jacobs
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $75,000.00/yr - $80,000.00/yr
+### [Senior Data Analyst – Reservoir Engineering](https://www.linkedin.com/jobs/view/4405410819/) — Continental Resources
+- 📍 **Location:** Oklahoma City, OK
 - 🕒 **Posted:** 2026-08-08
 
-### [GIS Field Technician II- Solar](https://www.linkedin.com/jobs/view/4442180241/) — Mortenson
-- 📍 **Location:** Texas, United States
+### [Master Data Management Specialist](https://www.linkedin.com/jobs/view/4439261670/) — DöhlerGroup
+- 📍 **Location:** Cartersville, GA
 - 🕒 **Posted:** 2026-08-08
 
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4449271115/) — Perdue Farms
-- 📍 **Location:** Salisbury, MD
-- 💰 **Salary:** $68,000 - $102,000 per year
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4244588837/) — The Mannik & Smith Group, Inc.
+- 📍 **Location:** Houghton, MI
 - 🕒 **Posted:** 2026-08-08
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4451092203/) — Indiana University
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $60,000.00 - 70,000.00 per year
+### [Data Analyst](https://www.linkedin.com/jobs/view/4450909335/) — NYU Langone Health
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,300.00 - $82,754.49 Annually
 - 🕒 **Posted:** 2026-08-08
 
-### [ES Field Technician II](https://www.linkedin.com/jobs/view/4441351910/) — Republic Services
-- 📍 **Location:** Albuquerque, NM
+### [Financial Crime Data Analyst & Governance](https://www.linkedin.com/jobs/view/4450915292/) — City National Bank of Florida
+- 📍 **Location:** Coral Gables, FL
 - 🕒 **Posted:** 2026-08-08
 
-### [ES Field Technician I](https://www.linkedin.com/jobs/view/4381759992/) — Republic Services
-- 📍 **Location:** Browns Summit, NC
+### [Data Analyst / Front End](https://www.linkedin.com/jobs/view/4433594510/) — Stellantis
+- 📍 **Location:** Auburn Hills, MI
 - 🕒 **Posted:** 2026-08-08
 
-### [Experienced CMT Field Technician - Construction Materials Testing](https://www.linkedin.com/jobs/view/4430267090/) — Braun Intertec Corporation
-- 📍 **Location:** St Cloud, MN
-- 💰 **Salary:** $50,000.00 - $74,000.00
+### [Healthcare Claims Data Analyst](https://www.linkedin.com/jobs/view/4451088216/) — General Dynamics Information Technology
+- 📍 **Location:** United States
+- 💰 **Salary:** $76,500 - $103,500
 - 🕒 **Posted:** 2026-08-08
 
-### [Senior Procurement and Data Analyst](https://www.linkedin.com/jobs/view/4449265208/) — Perdue Farms
-- 📍 **Location:** Salisbury, MD
-- 💰 **Salary:** $89,000 - $133,000 per year
+### [PROGRAM COORDINATOR (FULL-TIME)](https://www.linkedin.com/jobs/view/4451092315/) — Junior Achievement of Southeastern Pennsylvania
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $40,000 - $50,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Senior Financial Health Data Analyst III](https://www.linkedin.com/jobs/view/4433536377/) — HMSA
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $78,000 to $153,000
-- 🕒 **Posted:** 2026-08-08
-
-### [Revenue Cycle and Data Analyst Cath Lab](https://www.linkedin.com/jobs/view/4414410559/) — Ascension
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-08-08
-
-### [Senior GIS Data Analyst - Public Safety](https://www.linkedin.com/jobs/view/4401976022/) — Gwinnett County Government
-- 📍 **Location:** Gwinnett County, GA
-- 🕒 **Posted:** 2026-08-08
-
-### [Senior Data Analyst, DOS](https://www.linkedin.com/jobs/view/4333620049/) — Dexis
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-08-08
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4424506000/) — WSP in the U.S.
-- 📍 **Location:** Columbus, NE
-- 🕒 **Posted:** 2026-08-08
-
-### [Program Coordinator II, STEP UP  Monroe Community College](https://www.linkedin.com/jobs/view/4450919126/) — Monroe Community College
-- 📍 **Location:** Rochester, NY
-- 🕒 **Posted:** 2026-08-08
-
-### [Cabin Retrofit Solutions Engineer II](https://www.linkedin.com/jobs/view/4439285923/) — Airbus
-- 📍 **Location:** Mobile, AL
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4450913323/) — NYU Langone Health
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,300.00 - $71,777.82 Annually
 - 🕒 **Posted:** 2026-08-08
