@@ -1,37 +1,45 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-09 22:00 UTC*
+*Last updated: 2026-08-09 23:06 UTC*
 
-**7 new role(s)** since last run · 8 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4450983516/) — Jobright.ai
+### [Civic Data Analyst (Sustainable Mobility)](https://www.linkedin.com/jobs/view/4439377387/) — Alta Planning + Design
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $67,000 - $85,000
+- 🕒 **Posted:** 2026-08-09
+
+### [Civic Data Analyst (Sustainable Mobility)](https://www.linkedin.com/jobs/view/4439380359/) — Alta Planning + Design
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $65,000 - $80,000
+- 🕒 **Posted:** 2026-08-09
+
+### [Field Technician](https://www.linkedin.com/jobs/view/4451369591/) — SOCOTEC US
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-08-09
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4450976609/) — Haystack
+- 📍 **Location:** Huntsville-Decatur-Albertville Area
+- 💰 **Salary:** $87,100 - $157,450
+- 🕒 **Posted:** 2026-08-09
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4450995610/) — Haystack
+- 📍 **Location:** Wisconsin, United States
+- 🕒 **Posted:** 2026-08-09
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4450988638/) — RemoteHunter
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-09
 
-### [Data Analyst, Product Analytics — New Grad](https://www.linkedin.com/jobs/view/4450987571/) — Jobright.ai
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4450974596/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-09
 
-### [Project Coordinator - Data](https://www.linkedin.com/jobs/view/4451372388/) — Torentify
-- 📍 **Location:** Brea, CA
-- 💰 **Salary:** $63,000–$85,000 per year
-- 🕒 **Posted:** 2026-08-09
-
-### [Project Coordinator, Healthcare and Pharmaceutical Agency](https://www.linkedin.com/jobs/view/4450993647/) — RemoteHunter
+### [Data Analyst](https://www.linkedin.com/jobs/view/4451336689/) — Sundayy
 - 📍 **Location:** United States
-- 💰 **Salary:** $40,000—$60,000 USD
+- 💰 **Salary:** $70,000 to $75,000 USD
 - 🕒 **Posted:** 2026-08-09
 
-### [Program Coordinator (Hybrid)](https://www.linkedin.com/jobs/view/4451370498/) — Torentify
-- 📍 **Location:** Vermont, United States
-- 💰 **Salary:** $22–$27 per hour
-- 🕒 **Posted:** 2026-08-09
-
-### [Extended School Program Coordinator](https://www.linkedin.com/jobs/view/4450991603/) — Fountain Valley School District
-- 📍 **Location:** Fountain Valley, CA
-- 💰 **Salary:** $4,918 - $5,981
-- 🕒 **Posted:** 2026-08-09
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4451357819/) — Eating Recovery Center
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $18.25 - $29 USD
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4450984683/) — Triple20 | B Corp™
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $50,000-$70,000
 - 🕒 **Posted:** 2026-08-09
