@@ -1,47 +1,35 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-09 16:06 UTC*
+*Last updated: 2026-08-09 17:11 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**7 new role(s)** since last run · 9 total in last 1h
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4451359225/) — Indiana University
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $60,000.00 - 70,000.00 per year
+### [Staff Data Analyst](https://www.linkedin.com/jobs/view/4424605337/) — Quince
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $207,000 USD - $235,000 USD
 - 🕒 **Posted:** 2026-08-09
 
-### [Product Data Analyst](https://www.linkedin.com/jobs/view/4433882834/) — Zello
+### [Environmental Scientist I](https://www.linkedin.com/jobs/view/4434404010/) — Trilon
+- 📍 **Location:** Waynesburg, PA
+- 🕒 **Posted:** 2026-08-09
+
+### [Environmental Scientist/Specialist - Restoration Crew Leader | South St. Paul, MN](https://www.linkedin.com/jobs/view/4451356324/) — The Davey Tree Expert Company
+- 📍 **Location:** South St Paul, MN
+- 💰 **Salary:** $23 - $25 per hour
+- 🕒 **Posted:** 2026-08-09
+
+### [TMD - Natural Resources Specialist III (Wildland F](https://www.linkedin.com/jobs/view/4451367011/) — Texas Military Department
 - 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-08-09
 
-### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4397170453/) — Republic Services
-- 📍 **Location:** Upper Marlboro, MD
+### [Project Coordinator - Distribution](https://www.linkedin.com/jobs/view/4415585136/) — Chesapeake Utilities Corporation
+- 📍 **Location:** Florida, United States
 - 🕒 **Posted:** 2026-08-09
 
-### [Cabin Retrofit Solutions Engineer III](https://www.linkedin.com/jobs/view/4439632305/) — Airbus Aircraft
-- 📍 **Location:** Mobile, AL
+### [Data Analyst](https://www.linkedin.com/jobs/view/4450989018/) — Manha Tech Solutions
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-09
 
-### [Field Technician I](https://www.linkedin.com/jobs/view/4450951718/) — Microbac Laboratories, Inc.
-- 📍 **Location:** Cortland, NY
-- 🕒 **Posted:** 2026-08-09
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4424589363/) — TransUnion
-- 📍 **Location:** Greater Chicago Area
-- 💰 **Salary:** $90,000.00 - $150,000 annually
-- 🕒 **Posted:** 2026-08-09
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4450957296/) — Galapagos Federal Systems
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** USD $115,000.00 - USD $125,000.00 /Yr
-- 🕒 **Posted:** 2026-08-09
-
-### [Data Management Specialist](https://www.linkedin.com/jobs/view/4434045721/) — Western Alliance Bank
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-08-09
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4450944902/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-09
-
-### [Project Coordinator - Data Center](https://www.linkedin.com/jobs/view/4434088604/) — MasTec Power Delivery
-- 📍 **Location:** Boling, TX
+### [Entry-Level Data Analyst II ($110K - $120K + Bonus)](https://www.linkedin.com/jobs/view/4450947898/) — Upgrade Minds
+- 📍 **Location:** United States
+- 💰 **Salary:** $110K - $120K
 - 🕒 **Posted:** 2026-08-09
