@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10 21:27 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-08-10 22:22 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Department Of Food & Agriculture",
@@ -18,6 +18,40 @@
       "job_type": "fulltime",
       "is_remote": false,
       "emails": "ong.lao@cdfa.ca.gov, _Rights@cdfa.ca.gov",
+      "ats": "Indeed"
+    },
+    {
+      "company": "CMS Environmental Solutions, LLC",
+      "title": "Environmental Analyst",
+      "location": "Aurora, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=ba4cda23b111c9ee",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4405149/CMS-Environmental-Solutions/Environmental-Analyst?source=Indeed_Feed",
+      "company_url": "https://www.indeed.com/cmp/Cms-Environmental-Solutions,-LLC",
+      "date_posted": "2026-08-10",
+      "description": "Description:\n**Join Our Environmental Adventure!**\n\n\nAre you ready to make a real impact on the environment while working with a supportive, energetic team? CMS—a national leader in environmental compliance and management—is looking for a passionate Environmental Analyst to join our team!\n\n\nAt CMS, we blend science, integrity, and teamwork to protect and enhance our planet’s natural resources. You’ll be part of a growing company that values dependability, compassion, and doing what’s right, while offering the tools and training you need to succeed.\n\n\nOur mission is to protect the environment while empowering people. Our team lives by six core values: Dependability, Compassion, Achieve Results, Solve Problems, Do What’s Right, and Be a Leader. We work hard, have fun, and celebrate every success—big or small.\n\n**Why You’ll Love Working Here**\n\n* Meaningful Work: Every inspection and report you complete directly supports a cleaner, safer environment.\n* Supportive Culture: Work with teammates who share your passion for environmental stewardship.\n* Career Growth: Gain hands\\-on experience, professional certifications, and advancement opportunities.\n* Great Benefits: Comprehensive health coverage, 401(k) match, PTO, and more.\n\n**What You’ll Do**\n\n* Inspect erosion and sediment control measures on commercial, residential, industrial, and highway construction projects.\n* Conduct field investigations, document findings, and prepare detailed compliance reports.\n* Review, update, and maintain Stormwater Pollution Prevention Plans (SWPPPs).\n* Manage client accounts and collaborate daily with contractors, engineers, and regulatory contacts.\n* Assist in various environmental, hydrological, and geotechnical projects, including NPDES, CERCLA, RCRA, and related programs.\n\n\nRequirements:\n**What You’ll Bring**\n\n* Bachelor’s degree in Environmental Science, Geology, Hydrology, or a related field (or equivalent experience).\n* Strong technical and field skills, with a desire to pursue professional certifications such as CISEC or CPESC.\n* Excellent written and verbal communication, organizational, and analytical skills.\n* Proficiency in Microsoft Office and familiarity with environmental data systems.\n* LEVEL 1 TDEC Certification is a plus (compensation adjusted accordingly).\n* A commitment to integrity, accuracy, and environmental responsibility.",
+      "salary": "$40k–$42k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "CMS Environmental Solutions, LLC",
+      "title": "Environmental Analyst",
+      "location": "Lone Tree, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=3e8723554064c6fb",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4405133/CMS-Environmental-Solutions/Environmental-Analyst?source=Indeed_Feed",
+      "company_url": "https://www.indeed.com/cmp/Cms-Environmental-Solutions,-LLC",
+      "date_posted": "2026-08-10",
+      "description": "Description:\n**Join Our Environmental Adventure!**\n\n\nAre you ready to make a real impact on the environment while working with a supportive, energetic team? CMS—a national leader in environmental compliance and management—is looking for a passionate Environmental Analyst to join our team!\n\n\nAt CMS, we blend science, integrity, and teamwork to protect and enhance our planet’s natural resources. You’ll be part of a growing company that values dependability, compassion, and doing what’s right, while offering the tools and training you need to succeed.\n\n\nOur mission is to protect the environment while empowering people. Our team lives by six core values: Dependability, Compassion, Achieve Results, Solve Problems, Do What’s Right, and Be a Leader. We work hard, have fun, and celebrate every success—big or small.\n\n**Why You’ll Love Working Here**\n\n* Meaningful Work: Every inspection and report you complete directly supports a cleaner, safer environment.\n* Supportive Culture: Work with teammates who share your passion for environmental stewardship.\n* Career Growth: Gain hands\\-on experience, professional certifications, and advancement opportunities.\n* Great Benefits: Comprehensive health coverage, 401(k) match, PTO, and more.\n\n**What You’ll Do**\n\n* Inspect erosion and sediment control measures on commercial, residential, industrial, and highway construction projects.\n* Conduct field investigations, document findings, and prepare detailed compliance reports.\n* Review, update, and maintain Stormwater Pollution Prevention Plans (SWPPPs).\n* Manage client accounts and collaborate daily with contractors, engineers, and regulatory contacts.\n* Assist in various environmental, hydrological, and geotechnical projects, including NPDES, CERCLA, RCRA, and related programs.\n\n\nRequirements:\n**What You’ll Bring**\n\n* Bachelor’s degree in Environmental Science, Geology, Hydrology, or a related field (or equivalent experience).\n* Strong technical and field skills, with a desire to pursue professional certifications such as CISEC or CPESC.\n* Excellent written and verbal communication, organizational, and analytical skills.\n* Proficiency in Microsoft Office and familiarity with environmental data systems.\n* LEVEL 1 TDEC Certification is a plus (compensation adjusted accordingly).\n* A commitment to integrity, accuracy, and environmental responsibility.",
+      "salary": "$40k–$42k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "emails": "",
       "ats": "Indeed"
     },
     {
@@ -38,5 +72,40 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "CMS Environmental Solutions, LLC",
+      "title": "Environmental Analyst",
+      "location": "Aurora, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=ba4cda23b111c9ee",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4405149/CMS-Environmental-Solutions/Environmental-Analyst?source=Indeed_Feed",
+      "company_url": "https://www.indeed.com/cmp/Cms-Environmental-Solutions,-LLC",
+      "date_posted": "2026-08-10",
+      "description": "Description:\n**Join Our Environmental Adventure!**\n\n\nAre you ready to make a real impact on the environment while working with a supportive, energetic team? CMS—a national leader in environmental compliance and management—is looking for a passionate Environmental Analyst to join our team!\n\n\nAt CMS, we blend science, integrity, and teamwork to protect and enhance our planet’s natural resources. You’ll be part of a growing company that values dependability, compassion, and doing what’s right, while offering the tools and training you need to succeed.\n\n\nOur mission is to protect the environment while empowering people. Our team lives by six core values: Dependability, Compassion, Achieve Results, Solve Problems, Do What’s Right, and Be a Leader. We work hard, have fun, and celebrate every success—big or small.\n\n**Why You’ll Love Working Here**\n\n* Meaningful Work: Every inspection and report you complete directly supports a cleaner, safer environment.\n* Supportive Culture: Work with teammates who share your passion for environmental stewardship.\n* Career Growth: Gain hands\\-on experience, professional certifications, and advancement opportunities.\n* Great Benefits: Comprehensive health coverage, 401(k) match, PTO, and more.\n\n**What You’ll Do**\n\n* Inspect erosion and sediment control measures on commercial, residential, industrial, and highway construction projects.\n* Conduct field investigations, document findings, and prepare detailed compliance reports.\n* Review, update, and maintain Stormwater Pollution Prevention Plans (SWPPPs).\n* Manage client accounts and collaborate daily with contractors, engineers, and regulatory contacts.\n* Assist in various environmental, hydrological, and geotechnical projects, including NPDES, CERCLA, RCRA, and related programs.\n\n\nRequirements:\n**What You’ll Bring**\n\n* Bachelor’s degree in Environmental Science, Geology, Hydrology, or a related field (or equivalent experience).\n* Strong technical and field skills, with a desire to pursue professional certifications such as CISEC or CPESC.\n* Excellent written and verbal communication, organizational, and analytical skills.\n* Proficiency in Microsoft Office and familiarity with environmental data systems.\n* LEVEL 1 TDEC Certification is a plus (compensation adjusted accordingly).\n* A commitment to integrity, accuracy, and environmental responsibility.",
+      "salary": "$40k–$42k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "CMS Environmental Solutions, LLC",
+      "title": "Environmental Analyst",
+      "location": "Lone Tree, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=3e8723554064c6fb",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4405133/CMS-Environmental-Solutions/Environmental-Analyst?source=Indeed_Feed",
+      "company_url": "https://www.indeed.com/cmp/Cms-Environmental-Solutions,-LLC",
+      "date_posted": "2026-08-10",
+      "description": "Description:\n**Join Our Environmental Adventure!**\n\n\nAre you ready to make a real impact on the environment while working with a supportive, energetic team? CMS—a national leader in environmental compliance and management—is looking for a passionate Environmental Analyst to join our team!\n\n\nAt CMS, we blend science, integrity, and teamwork to protect and enhance our planet’s natural resources. You’ll be part of a growing company that values dependability, compassion, and doing what’s right, while offering the tools and training you need to succeed.\n\n\nOur mission is to protect the environment while empowering people. Our team lives by six core values: Dependability, Compassion, Achieve Results, Solve Problems, Do What’s Right, and Be a Leader. We work hard, have fun, and celebrate every success—big or small.\n\n**Why You’ll Love Working Here**\n\n* Meaningful Work: Every inspection and report you complete directly supports a cleaner, safer environment.\n* Supportive Culture: Work with teammates who share your passion for environmental stewardship.\n* Career Growth: Gain hands\\-on experience, professional certifications, and advancement opportunities.\n* Great Benefits: Comprehensive health coverage, 401(k) match, PTO, and more.\n\n**What You’ll Do**\n\n* Inspect erosion and sediment control measures on commercial, residential, industrial, and highway construction projects.\n* Conduct field investigations, document findings, and prepare detailed compliance reports.\n* Review, update, and maintain Stormwater Pollution Prevention Plans (SWPPPs).\n* Manage client accounts and collaborate daily with contractors, engineers, and regulatory contacts.\n* Assist in various environmental, hydrological, and geotechnical projects, including NPDES, CERCLA, RCRA, and related programs.\n\n\nRequirements:\n**What You’ll Bring**\n\n* Bachelor’s degree in Environmental Science, Geology, Hydrology, or a related field (or equivalent experience).\n* Strong technical and field skills, with a desire to pursue professional certifications such as CISEC or CPESC.\n* Excellent written and verbal communication, organizational, and analytical skills.\n* Proficiency in Microsoft Office and familiarity with environmental data systems.\n* LEVEL 1 TDEC Certification is a plus (compensation adjusted accordingly).\n* A commitment to integrity, accuracy, and environmental responsibility.",
+      "salary": "$40k–$42k/yr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
