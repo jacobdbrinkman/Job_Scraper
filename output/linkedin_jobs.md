@@ -1,41 +1,28 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-10 02:48 UTC*
+*Last updated: 2026-08-10 05:08 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Project Coordinator - PC80934](https://www.linkedin.com/jobs/view/4451109064/) — The British School of Amsterdam
-- 📍 **Location:** Fresno, CA
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448580014/) — Crossover
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $60.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-08-10
 
-### [Systems and Data Analyst](https://www.linkedin.com/jobs/view/4451380411/) — Vancouver Housing Authority
-- 📍 **Location:** Vancouver, WA
-- 💰 **Salary:** $85,020 to $127,530
+### [INTERDISCIPLINARY (ENGINEER/PHYSICAL SCIENTIST/OCEANOGRAPHER/COMPUTER SCIENTIST)](https://www.linkedin.com/jobs/view/4451378700/) — U.S. Fleet Forces Command
+- 📍 **Location:** Mississippi, United States
 - 🕒 **Posted:** 2026-08-10
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4450982982/) — Thompson Ventures
-- 📍 **Location:** Detroit Metropolitan Area
+### [Syndicate Data Analyst](https://www.linkedin.com/jobs/view/4451375891/) — BNP Paribas
+- 📍 **Location:** Chesterbrook, PA
+- 💰 **Salary:** $70,000 to $75,000 annually
 - 🕒 **Posted:** 2026-08-10
 
-### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4451392094/) — Excel Fluid Group
-- 📍 **Location:** Brook Park, OH
+### [Reading Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448564708/) — Crossover
+- 📍 **Location:** Tulsa, OK
+- 💰 **Salary:** $50.00/hr - $50.00/hr
 - 🕒 **Posted:** 2026-08-10
 
-### [Project Coordinator - PC15437](https://www.linkedin.com/jobs/view/4451117008/) — The British School of Amsterdam
-- 📍 **Location:** Anchorage, AK
-- 🕒 **Posted:** 2026-08-10
-
-### [Project Coordinator - PC40812](https://www.linkedin.com/jobs/view/4451110064/) — The British School of Amsterdam
-- 📍 **Location:** Augusta, GA
-- 🕒 **Posted:** 2026-08-10
-
-### [Project Coordinator - PC61429](https://www.linkedin.com/jobs/view/4451120001/) — The British School of Amsterdam
-- 📍 **Location:** Fort Wayne, IN
-- 🕒 **Posted:** 2026-08-10
-
-### [Project Coordinator - PC42751](https://www.linkedin.com/jobs/view/4451105072/) — The British School of Amsterdam
-- 📍 **Location:** Wichita, KS
-- 🕒 **Posted:** 2026-08-10
-
-### [Project Coordinator - PC90376](https://www.linkedin.com/jobs/view/4451108051/) — The British School of Amsterdam
-- 📍 **Location:** Spokane, WA
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448563754/) — Crossover
+- 📍 **Location:** Greenwich, CT
+- 💰 **Salary:** $60.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-08-10
