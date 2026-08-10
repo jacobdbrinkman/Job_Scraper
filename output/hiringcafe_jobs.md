@@ -1,45 +1,39 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-10 05:12 UTC*
+*Last updated: 2026-08-10 17:40 UTC*
 
-**9 new role(s)** since last run · 150 total in last 30d
+**8 new role(s)** since last run · 150 total in last 30d
 
-### [GIS Analyst](https://www.governmentjobs.com/careers/ashevillenc/jobs/5415781) — City of Asheville, NC
-- 📍 **Location:** Asheville, North Carolina, United States
-- 💰 **Salary:** $50k–$55k/yr
-- 🕒 **Posted:** 2026-07-24T17:59:24.219Z
-
-### [Geospatial Analyst II](https://careers-dewberry.icims.com/jobs/16084/geospatial-analyst-ii/job?in_iframe=1) — Dewberry
-- 📍 **Location:** Seattle, Washington, United States
+### [Senior Geospatial Analyst](https://careers-dewberry.icims.com/jobs/16095/senior-geospatial-analyst/job?in_iframe=1) — Dewberry
+- 📍 **Location:** Tampa or Fairfax
+- 💰 **Salary:** $91k–$118k/yr
 - 🕒 **Posted:** 2026-08-04T04:00:00.000Z
 
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
-- 📍 **Location:** Denver or United States
-- 💰 **Salary:** $80k–$90k/yr
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+### [Senior Environmental Scientist](https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/) — Salt River Project
+- 📍 **Location:** Casa Grande, Arizona, United States
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
 
-### [Environmental Scientist](https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1) — Kansas Department of Agriculture
-- 📍 **Location:** Garden City, Kansas, United States
-- 💰 **Salary:** $55k/yr
-- 🕒 **Posted:** 2026-07-14T12:00:00.000Z
+### [Hydrologist](https://www.usajobs.gov/job/878846600) — Department of Agriculture
+- 📍 **Location:** Bishop or Chester or Fall River Mills or Hathaway Pines or Susanville or Upper Lake or Willows or Custer or Ephraim or Ferron or Moab or Monticello or Price
+- 💰 **Salary:** $50k–$80k/yr
+- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
 
-### [Geologist I](https://ctmale.hua.hrsmart.com/hr/ats/Posting/view/60) — C.T. Male Associates
-- 📍 **Location:** Latham, New York, United States
-- 💰 **Salary:** $54k–$62k/yr
-- 🕒 **Posted:** 2026-08-02T21:15:14.534Z
+### [Senior Geologist](https://turner-mining-group.breezy.hr/p/8929902ecde6-senior-geologist) — Turner Mining Group
+- 📍 **Location:** Elko, Nevada, United States
+- 🕒 **Posted:** 2026-07-27T19:34:28.249Z
 
-### [Senior Geologist](https://hycroftmining.com/_resources/careers/Senior-Geologist.pdf?v=080512) — Hycroft Mining Holding Corporation
-- 📍 **Location:** Winnemucca, Nevada, United States
-- 🕒 **Posted:** 2026-08-04T19:07:33.417Z
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
+- 📍 **Location:** Morenci, Arizona, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
 
-### [Geologist II](https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62) — Ans
-- 📍 **Location:** Columbus, Ohio, United States
-- 💰 **Salary:** $66k–$75k/yr
-- 🕒 **Posted:** 2026-08-01T03:37:37.612Z
+### [Geologist II](https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106) — Asarco LLC
+- 📍 **Location:** Sahuarita, Arizona, United States
+- 🕒 **Posted:** 2026-07-23T00:11:48.000Z
 
-### [Geologist (42351)](https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351) — Cameco
-- 📍 **Location:** Douglas, Wyoming, United States
-- 🕒 **Posted:** 2026-07-22T21:41:27.000Z
+### [Senior Geologist](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c69af127d1019b0914f738061e&id=8a78859e9f4435ab019f6cf594d46983&source=&lang=en) — Florida Canyon Mining, Inc.
+- 📍 **Location:** Imlay or Winnemucca
+- 🕒 **Posted:** 2026-07-16T22:04:21.000Z
 
-### [Senior Geologist](https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist) — Turner Mining Group
-- 📍 **Location:** Winnemucca, Nevada, United States
-- 🕒 **Posted:** 2026-07-23T20:28:07.851Z
+### [Senior Geologist](https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159) — Devonenergy
+- 📍 **Location:** Pittsburgh, Pennsylvania, United States
+- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
