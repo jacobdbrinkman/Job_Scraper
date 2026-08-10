@@ -1,39 +1,53 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-10 17:40 UTC*
+*Last updated: 2026-08-10 18:37 UTC*
 
-**8 new role(s)** since last run · 150 total in last 30d
+**11 new role(s)** since last run · 152 total in last 30d
 
-### [Senior Geospatial Analyst](https://careers-dewberry.icims.com/jobs/16095/senior-geospatial-analyst/job?in_iframe=1) — Dewberry
-- 📍 **Location:** Tampa or Fairfax
-- 💰 **Salary:** $91k–$118k/yr
-- 🕒 **Posted:** 2026-08-04T04:00:00.000Z
+### [GIS Analyst](https://intellibee.my.salesforce-sites.com/apps/jobs?id=a0AUU000007WyjN2AS) — IntelliBee
+- 📍 **Location:** Detroit or Ypsilanti
+- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
 
-### [Senior Environmental Scientist](https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/) — Salt River Project
-- 📍 **Location:** Casa Grande, Arizona, United States
-- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
+### [GIS Analyst](https://careers.merrick.com/jobs/8431?lang=en-us) — Merrick & Company
+- 📍 **Location:** Greenwood Village, Colorado, United States
+- 💰 **Salary:** $62k–$80k/yr
+- 🕒 **Posted:** 2026-07-30T14:58:27.000Z
 
-### [Hydrologist](https://www.usajobs.gov/job/878846600) — Department of Agriculture
-- 📍 **Location:** Bishop or Chester or Fall River Mills or Hathaway Pines or Susanville or Upper Lake or Willows or Custer or Ephraim or Ferron or Moab or Monticello or Price
-- 💰 **Salary:** $50k–$80k/yr
-- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
+### [Geospatial Analyst II (LiDAR - Utilities Focus)](https://careers-dewberry.icims.com/jobs/16100/geospatial-analyst-ii-%28lidar---utilities-focus%29/job?in_iframe=1) — Dewberry
+- 📍 **Location:** Tampa, Florida, United States
+- 🕒 **Posted:** 2026-08-10T04:00:00.000Z
 
-### [Senior Geologist](https://turner-mining-group.breezy.hr/p/8929902ecde6-senior-geologist) — Turner Mining Group
-- 📍 **Location:** Elko, Nevada, United States
-- 🕒 **Posted:** 2026-07-27T19:34:28.249Z
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
-- 📍 **Location:** Morenci, Arizona, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
+### [Environmental Scientist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4395491) — WESTWOOD PROFESSIONAL SERVICES INC
+- 📍 **Location:** Fort Worth, Texas, United States
+- 🕒 **Posted:** 2026-08-10T15:56:48.000Z
 
-### [Geologist II](https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106) — Asarco LLC
-- 📍 **Location:** Sahuarita, Arizona, United States
-- 🕒 **Posted:** 2026-07-23T00:11:48.000Z
+### [Environmental Scientist](https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1) — Kansas Department of Agriculture
+- 📍 **Location:** Garden City, Kansas, United States
+- 💰 **Salary:** $55k/yr
+- 🕒 **Posted:** 2026-07-14T12:00:00.000Z
 
-### [Senior Geologist](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c69af127d1019b0914f738061e&id=8a78859e9f4435ab019f6cf594d46983&source=&lang=en) — Florida Canyon Mining, Inc.
-- 📍 **Location:** Imlay or Winnemucca
-- 🕒 **Posted:** 2026-07-16T22:04:21.000Z
+### [Senior Geologist](https://careers.div.energy/jobs/2637?lang=en-us) — Diversified Gas & Oil Corporation
+- 📍 **Location:** Houston, Texas, United States
+- 🕒 **Posted:** 2026-07-29T20:41:19.000Z
 
-### [Senior Geologist](https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159) — Devonenergy
-- 📍 **Location:** Pittsburgh, Pennsylvania, United States
-- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
+### [Geologist II](https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62) — Ans
+- 📍 **Location:** Columbus, Ohio, United States
+- 💰 **Salary:** $66k–$75k/yr
+- 🕒 **Posted:** 2026-08-01T03:37:37.612Z
+
+### [Geologist (42351)](https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351) — Cameco
+- 📍 **Location:** Douglas, Wyoming, United States
+- 🕒 **Posted:** 2026-07-22T21:41:27.000Z
+
+### [Senior Geologist](https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist) — Turner Mining Group
+- 📍 **Location:** Winnemucca, Nevada, United States
+- 🕒 **Posted:** 2026-07-23T20:28:07.851Z
+
+### [Senior Environmental Consultant Manager](https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — Sargent & Lundy
+- 📍 **Location:** Hamilton, New Jersey, United States
+- 💰 **Salary:** $166k–$253k/yr
+- 🕒 **Posted:** 2026-07-30T01:52:00.000Z
