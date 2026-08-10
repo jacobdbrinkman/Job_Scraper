@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10 19:45 UTC",
-  "total": 150,
-  "new_count": 1,
+  "scraped_at": "2026-08-10 20:28 UTC",
+  "total": 151,
+  "new_count": 3,
   "jobs": [
     {
       "company": "UDC",
@@ -134,19 +134,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Tampa",
-      "title": "GIS Analyst",
-      "location": "Tampa, Florida, United States",
-      "url": "https://www.jobapscloud.com/Tampa/sup/bulpreview.asp?b=&R1=260807&R2=064220&R3=001",
-      "direct_url": "https://www.jobapscloud.com/Tampa/sup/bulpreview.asp?b=&R1=260807&R2=064220&R3=001",
-      "date_posted": "2026-08-08T01:58:53.800Z",
-      "description": "Bachelor’s degree in a listed geospatial or related field and two years of GIS experience, or equivalent education, training, and experience. Driver’s license preferred.",
-      "salary": "$74k–$111k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kimley-Horn",
       "title": "GIS Analyst",
       "location": "Fort Lauderdale, Florida, United States",
@@ -155,6 +142,19 @@
       "date_posted": "2026-08-03T04:00:00.000Z",
       "description": "Bachelor's degree required, strong communication, attention to detail, ability to apply technical GIS skills; exposure to AutoCAD and Microsoft Excel preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Tampa",
+      "title": "GIS Analyst",
+      "location": "Tampa, Florida, United States",
+      "url": "https://www.jobapscloud.com/Tampa/sup/bulpreview.asp?b=&R1=260807&R2=064220&R3=001",
+      "direct_url": "https://www.jobapscloud.com/Tampa/sup/bulpreview.asp?b=&R1=260807&R2=064220&R3=001",
+      "date_posted": "2026-08-08T01:58:53.800Z",
+      "description": "Bachelor’s degree in a listed geospatial or related field and two years of GIS experience, or equivalent education, training, and experience. Driver’s license preferred.",
+      "salary": "$74k–$111k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -511,19 +511,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cognizant US Corporation",
-      "title": "GeoSpatial Analyst MAP",
-      "location": "United States",
-      "url": "https://tas-cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00069712071&lang=en",
-      "direct_url": "https://tas-cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00069712071&lang=en",
-      "date_posted": "2026-07-29T14:29:34.288Z",
-      "description": "6+ years geospatial analysis experience for wireless network planning, strong Cisco wireless/ACI/SDWAN knowledge, proficiency with geospatial tools and scripting, strong communication, hybrid work readiness.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Bah",
       "title": "Geospatial Analyst, Senior",
       "location": "Fort Gordon, Georgia, United States",
@@ -533,6 +520,19 @@
       "description": "Experience in geospatial/remote sensing analysis, spatial databases, DoD/IC geospatial processes, SOM/object production, and formal reporting; TS/SCI clearance and imagery analysis training preferred.",
       "salary": "$78k–$176k/yr",
       "job_type": "Full Time, Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Cognizant US Corporation",
+      "title": "GeoSpatial Analyst MAP",
+      "location": "United States",
+      "url": "https://tas-cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00069712071&lang=en",
+      "direct_url": "https://tas-cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00069712071&lang=en",
+      "date_posted": "2026-07-29T14:29:34.288Z",
+      "description": "6+ years geospatial analysis experience for wireless network planning, strong Cisco wireless/ACI/SDWAN knowledge, proficiency with geospatial tools and scripting, strong communication, hybrid work readiness.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -615,19 +615,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Bison Group LLC",
-      "title": "Geospatial Analyst, Mid",
-      "location": "Reston, Virginia, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362439",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362439",
-      "date_posted": "2026-07-24T17:50:39.000Z",
-      "description": "TS/SCI w/ poly clearance, 5+ years relevant experience, experience with geospatial analysis and imagery, familiarity with MARS/MIDB/ArcGIS/RemoteView/CHROME/RMT, strong written and oral communication.",
-      "salary": "$90k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Bluehawk, LLC",
       "title": "Geospatial Analyst – Senior",
       "location": "Georgia, United States",
@@ -636,6 +623,19 @@
       "date_posted": "2026-07-21T15:32:00.000Z",
       "description": "Active TS/SCI clearance, 5+ years geospatial/GIS experience, expert with enterprise GIS platforms and spatial databases, cartography, data governance, and advanced spatial analysis for DoD/IC missions.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Bison Group LLC",
+      "title": "Geospatial Analyst, Mid",
+      "location": "Reston, Virginia, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362439",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362439",
+      "date_posted": "2026-07-24T17:50:39.000Z",
+      "description": "TS/SCI w/ poly clearance, 5+ years relevant experience, experience with geospatial analysis and imagery, familiarity with MARS/MIDB/ArcGIS/RemoteView/CHROME/RMT, strong written and oral communication.",
+      "salary": "$90k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -940,6 +940,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "WESTWOOD PROFESSIONAL SERVICES INC",
+      "title": "Environmental Scientist",
+      "location": "Fort Worth, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4395491",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4395491",
+      "date_posted": "2026-08-10T15:56:48.000Z",
+      "description": "Bachelor’s degree in a natural resource-related field and 1–3 years of environmental science experience in land development. Requires fieldwork, technical writing, GIS, environmental sampling, and ability to hike 5+ miles carrying 25 pounds.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Colliers Engineering & Design",
       "title": "Environmental Scientist",
       "location": "Mount Laurel, New Jersey, United States",
@@ -979,19 +992,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Transportation",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Los Angeles County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
-      "date_posted": "2026-07-28T12:00:00.000Z",
-      "description": "Prepare and review complex environmental documents, analyze project impacts under CEQA/NEPA, provide consultation, perform field visits, and manage project cost/schedule within transportation projects.",
-      "salary": "$53k–$112k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "APTIM",
       "title": "Environmental Scientist",
       "location": "Irvine, California, United States",
@@ -1000,6 +1000,19 @@
       "date_posted": "2026-07-20T16:25:42.670Z",
       "description": "Bachelor's in environmental science or core science,4+ years related experience,knowledge of RCRA and state hazardous waste regulations,strong communication and organizational skills,ability to travel and perform fieldwork.",
       "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Los Angeles County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
+      "date_posted": "2026-07-28T12:00:00.000Z",
+      "description": "Prepare and review complex environmental documents, analyze project impacts under CEQA/NEPA, provide consultation, perform field visits, and manage project cost/schedule within transportation projects.",
+      "salary": "$53k–$112k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1148,32 +1161,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Agriculture",
-      "title": "Hydrologist",
-      "location": "Bishop or Chester or Fall River Mills or Hathaway Pines or Susanville or Upper Lake or Willows or Custer or Ephraim or Ferron or Moab or Monticello or Price",
-      "url": "https://www.usajobs.gov/job/878846600",
-      "direct_url": "https://www.usajobs.gov/job/878846600",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Bachelor's in physical/natural science or engineering with hydrology coursework, calculus and physics; specialized hydrology experience as described for GS-07/GS-09 or equivalent graduate education; U.S. citizenship and background check required.",
-      "salary": "$50k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of the Interior",
-      "title": "HYDROLOGIST",
-      "location": "Klamath Falls, Oregon, United States",
-      "url": "https://www.usajobs.gov/job/879182900",
-      "direct_url": "https://www.usajobs.gov/job/879182900",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Requires degree in physical/natural science or engineering with hydrology-related coursework and 1 year specialized experience equivalent to GS-11; must be U.S. citizen and hold valid driver's license.",
-      "salary": "$90k–$116k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lower Colorado River Authority (LCRA)",
       "title": "Hydrologist",
       "location": "Austin, Texas, United States",
@@ -1187,6 +1174,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Forest Service",
+      "title": "Hydrologist",
+      "location": "Clovis or Idaho Falls or Medford or Lufkin or Everett",
+      "url": "https://www.usajobs.gov/job/878849500",
+      "direct_url": "https://www.usajobs.gov/job/878849500",
+      "date_posted": "2026-08-04T19:00:45.832Z",
+      "description": "Bachelor's in physical or natural science/engineering (GS-1315) and specialized hydrology experience for GS-09/11; U.S. citizen required; experience collecting/analyzing watershed data and preparing environmental reports.",
+      "salary": "$62k–$97k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Department of Commerce",
       "title": "Hydrologist",
       "location": "Tucson or North Webster",
@@ -1195,6 +1195,19 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "Degree or qualifying coursework in physical or natural science, engineering, or related fields with calculus and physics; one year of specialized experience at the next lower federal grade is required.",
       "salary": "$90k–$141k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of the Interior",
+      "title": "HYDROLOGIST",
+      "location": "Klamath Falls, Oregon, United States",
+      "url": "https://www.usajobs.gov/job/879182900",
+      "direct_url": "https://www.usajobs.gov/job/879182900",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Requires degree in physical/natural science or engineering with hydrology-related coursework and 1 year specialized experience equivalent to GS-11; must be U.S. citizen and hold valid driver's license.",
+      "salary": "$90k–$116k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1382,45 +1395,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Agriculture",
-      "title": "Geologist",
-      "location": "Phoenix or Tucson or Alturas or Bridgeport or Carson City or Sparks or Price",
-      "url": "https://www.usajobs.gov/job/878852600",
-      "direct_url": "https://www.usajobs.gov/job/878852600",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Bachelor's in geology (with 20 semester hours in related sciences) or equivalent education/experience; specialized experience for GS-07/09 as described; U.S. citizenship and background checks required.",
-      "salary": "$50k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hanson",
-      "title": "Geologist",
-      "location": "St. Louis, Missouri, United States",
-      "url": "https://hansoninc.wd501.myworkdayjobs.com/hps/job/St-Louis-MO/Geologist_R2044",
-      "direct_url": "https://hansoninc.wd501.myworkdayjobs.com/hps/job/St-Louis-MO/Geologist_R2044",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Bachelor's in geology or geological engineering, 0-2 years experience, gINT and GeoStudio experience preferred, MS Office skills, FE/GRIT preferred or obtain within 6 months, willing to travel and work overtime; random drug testing.",
-      "salary": "$63k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "TRC Companies, Inc.",
-      "title": "Geologist",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://careers.trccompanies.com/jobs/26499?lang=en-us",
-      "direct_url": "https://careers.trccompanies.com/jobs/26499?lang=en-us",
-      "date_posted": "2026-08-07T20:55:32.000Z",
-      "description": "Bachelor's degree in geology, valid driver's license, scientific data analysis, technical writing, quality control, project coordination, and willingness to perform field assignments and safety screening.",
-      "salary": "$55k–$72k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Riotinto",
       "title": "Geologist",
       "location": "Superior, Arizona, United States",
@@ -1460,14 +1434,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Fervo Energy",
+      "company": "Department of Agriculture",
       "title": "Geologist",
-      "location": "Golden or Houston or Reno or Oakland or Salt Lake City",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4370630",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4370630",
-      "date_posted": "2026-07-29T22:49:54.000Z",
-      "description": "Bachelor's in geology/geophysics, 3+ years subsurface experience, field/drilling support experience, Petrel familiarity preferred, strong data integration and communication skills.",
-      "salary": "$140k–$180k/yr",
+      "location": "Phoenix or Tucson or Alturas or Bridgeport or Carson City or Sparks or Price",
+      "url": "https://www.usajobs.gov/job/878852600",
+      "direct_url": "https://www.usajobs.gov/job/878852600",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Bachelor's in geology (with 20 semester hours in related sciences) or equivalent education/experience; specialized experience for GS-07/09 as described; U.S. citizenship and background checks required.",
+      "salary": "$50k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1481,6 +1455,45 @@
       "date_posted": "2026-07-24T00:00:00.000Z",
       "description": "Bachelor's in Geology/Earth Science, 2+ years relevant experience, field investigation and report writing experience, familiarity with GIS, strong communication and organizational skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hanson",
+      "title": "Geologist",
+      "location": "St. Louis, Missouri, United States",
+      "url": "https://hansoninc.wd501.myworkdayjobs.com/hps/job/St-Louis-MO/Geologist_R2044",
+      "direct_url": "https://hansoninc.wd501.myworkdayjobs.com/hps/job/St-Louis-MO/Geologist_R2044",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Bachelor's in geology or geological engineering, 0-2 years experience, gINT and GeoStudio experience preferred, MS Office skills, FE/GRIT preferred or obtain within 6 months, willing to travel and work overtime; random drug testing.",
+      "salary": "$63k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Fervo Energy",
+      "title": "Geologist",
+      "location": "Golden or Houston or Reno or Oakland or Salt Lake City",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4370630",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4370630",
+      "date_posted": "2026-07-29T22:49:54.000Z",
+      "description": "Bachelor's in geology/geophysics, 3+ years subsurface experience, field/drilling support experience, Petrel familiarity preferred, strong data integration and communication skills.",
+      "salary": "$140k–$180k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "TRC Companies, Inc.",
+      "title": "Geologist",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://careers.trccompanies.com/jobs/26499?lang=en-us",
+      "direct_url": "https://careers.trccompanies.com/jobs/26499?lang=en-us",
+      "date_posted": "2026-08-07T20:55:32.000Z",
+      "description": "Bachelor's degree in geology, valid driver's license, scientific data analysis, technical writing, quality control, project coordination, and willingness to perform field assignments and safety screening.",
+      "salary": "$55k–$72k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1930,6 +1943,19 @@
     {
       "company": "Sargent & Lundy",
       "title": "Senior Environmental Consultant Manager",
+      "location": "Hamilton, New Jersey, United States",
+      "url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-30T01:52:00.000Z",
+      "description": "BS in environmental field (MS preferred),15+ years permitting/compliance experience for industrial/power projects,proven BD and project leadership,NEPA/CWA/CAA knowledge,excellent communication.",
+      "salary": "$166k–$253k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Sargent & Lundy",
+      "title": "Senior Environmental Consultant Manager",
       "location": "Cranberry Township, Pennsylvania, United States",
       "url": "https://careers-sargentlundy.icims.com/jobs/25703/senior-environmental-consultant-manager/job?in_iframe=1",
       "direct_url": "https://careers-sargentlundy.icims.com/jobs/25703/senior-environmental-consultant-manager/job?in_iframe=1",
@@ -1939,30 +1965,43 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Sargent & Lundy",
-      "title": "Senior Environmental Consultant Manager",
-      "location": "Wilmington, Delaware, United States",
-      "url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-30T01:56:00.000Z",
-      "description": "BS in environmental field (MS preferred), 15+ years environmental compliance/permitting experience for power/industrial projects, strong regulatory knowledge, business development and project management skills.",
-      "salary": "$166k–$253k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
+      "company": "WESTWOOD PROFESSIONAL SERVICES INC",
+      "title": "Environmental Scientist",
+      "location": "Fort Worth, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4395491",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4395491",
+      "date_posted": "2026-08-10T15:56:48.000Z",
+      "description": "Bachelor’s degree in a natural resource-related field and 1–3 years of environmental science experience in land development. Requires fieldwork, technical writing, GIS, environmental sampling, and ability to hike 5+ miles carrying 25 pounds.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Forest Service",
+      "title": "Hydrologist",
+      "location": "Clovis or Idaho Falls or Medford or Lufkin or Everett",
+      "url": "https://www.usajobs.gov/job/878849500",
+      "direct_url": "https://www.usajobs.gov/job/878849500",
+      "date_posted": "2026-08-04T19:00:45.832Z",
+      "description": "Bachelor's in physical or natural science/engineering (GS-1315) and specialized hydrology experience for GS-09/11; U.S. citizen required; experience collecting/analyzing watershed data and preparing environmental reports.",
+      "salary": "$62k–$97k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Sargent & Lundy",
       "title": "Senior Environmental Consultant Manager",
-      "location": "Wilmington, Delaware, United States",
-      "url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-30T01:56:00.000Z",
-      "description": "BS in environmental field (MS preferred), 15+ years environmental compliance/permitting experience for power/industrial projects, strong regulatory knowledge, business development and project management skills.",
+      "location": "Hamilton, New Jersey, United States",
+      "url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-30T01:52:00.000Z",
+      "description": "BS in environmental field (MS preferred),15+ years permitting/compliance experience for industrial/power projects,proven BD and project leadership,NEPA/CWA/CAA knowledge,excellent communication.",
       "salary": "$166k–$253k/yr",
       "job_type": "Full Time",
       "is_remote": false,
