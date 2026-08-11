@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-11 20:29 UTC",
+  "scraped_at": "2026-08-11 21:31 UTC",
   "total": 152,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "UDC",
@@ -1980,45 +1980,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "BLOC Resources",
-      "title": "GIS Analyst 3",
-      "location": "Atlanta, Georgia, United States",
-      "url": "https://secure7.saashr.com/ta/6212806.careers?ShowJob=621242697",
-      "direct_url": "https://secure7.saashr.com/ta/6212806.careers?ShowJob=621242697",
-      "date_posted": "2026-08-11T19:46:06.486Z",
-      "description": "Bachelor's degree in a related technical field or GIS certificate, plus 3+ years of professional GIS experience; requires advanced GIS, spatial analysis, database, automation, and technical support skills.",
-      "salary": "$62k–$71k/yr",
-      "job_type": "Contract",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Sargent & Lundy",
-      "title": "Senior Environmental Consultant Manager",
-      "location": "Tampa, Florida, United States",
-      "url": "https://careers-sargentlundy.icims.com/jobs/25979/senior-environmental-consultant-manager/job?in_iframe=1",
-      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25979/senior-environmental-consultant-manager/job?in_iframe=1",
-      "date_posted": "2026-08-10T04:00:00.000Z",
-      "description": "BS in environmental engineering, environmental science, or related field; 15+ years in environmental compliance, impact assessment, or permitting; complex project management, business development, and regulatory expertise required.",
-      "salary": "$166k–$253k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Sargent & Lundy",
-      "title": "Senior Environmental Consultant Manager",
-      "location": "Wilmington, Delaware, United States",
-      "url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25702/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-30T01:56:00.000Z",
-      "description": "BS in environmental field (MS preferred), 15+ years environmental compliance/permitting experience for power/industrial projects, strong regulatory knowledge, business development and project management skills.",
-      "salary": "$166k–$253k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
