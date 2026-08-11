@@ -1,13 +1,13 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-11 16:38 UTC*
+*Last updated: 2026-08-11 17:43 UTC*
 
-**2 new role(s)** since last run · 12 total in last 24h
+**2 new role(s)** since last run · 13 total in last 24h
 
-### [Project Geologist](https://www.indeed.com/viewjob?jk=5f89c68779043dc2) — WSB
-- 📍 **Location:** Van Nuys, CA, US
-- 🕒 **Posted:** 2026-08-04
+### [Senior Data Analyst](https://www.indeed.com/viewjob?jk=3049c2bf7417e7d4) — Capgemini
+- 📍 **Location:** Pittsburg, CA, US
+- 💰 **Salary:** $105k–$115k/yr
+- 🕒 **Posted:** 2026-08-11
 
-### [Clinical Research Data Specialist I](https://www.indeed.com/viewjob?jk=6ff590a76fcf1a8f) — University of Southern California
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $26–$30/hr
-- 🕒 **Posted:** 2026-08-10
+### [Data Analyst](https://www.indeed.com/viewjob?jk=3aaa763ce84437a0) — Network Rail Consulting
+- 📍 **Location:** Seattle, WA, US
+- 🕒 **Posted:** 2026-08-07
