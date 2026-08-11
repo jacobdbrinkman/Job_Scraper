@@ -1,9 +1,14 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-11 18:37 UTC*
+*Last updated: 2026-08-11 19:48 UTC*
 
-**1 new role(s)** since last run · 14 total in last 24h
+**2 new role(s)** since last run · 16 total in last 24h
 
-### [Senior Data Analyst](https://www.indeed.com/viewjob?jk=f0ed672bd3649ea5) — Capgemini
-- 📍 **Location:** Pittsburg, CA, US
-- 💰 **Salary:** $105k–$115k/yr
+### [Graduate Program Coordinator](https://www.indeed.com/viewjob?jk=7f7c957e0a6846f2) — UC San Diego
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $57k–$77k/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Project Geologist or Environmental Scientist](https://www.indeed.com/viewjob?jk=a486978d4069453f) — Stantec
+- 📍 **Location:** Seattle, WA, US
+- 💰 **Salary:** $86k–$125k/yr
 - 🕒 **Posted:** 2026-08-11
