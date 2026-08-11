@@ -1,67 +1,78 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-11 02:49 UTC*
+*Last updated: 2026-08-11 04:59 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Program Data Analyst](https://www.linkedin.com/jobs/view/4452137576/) — Placer County Office Of Education
-- 📍 **Location:** Rocklin, CA
-- 💰 **Salary:** $36.43/hr - $44.30/hr
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4451609597/) — COASTAL QUEST
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $65,000-75,000
 - 🕒 **Posted:** 2026-08-11
 
-### [Archaeological Field Technician (Field Based)](https://www.linkedin.com/jobs/view/4445535858/) — ERM
-- 📍 **Location:** Ontario, CA
-- 💰 **Salary:** $73,207 – $95,761
+### [Project Coordinator (50% FTE, Fixed Term)](https://www.linkedin.com/jobs/view/4451048143/) — Stanford University
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [ATE Field Technician](https://www.linkedin.com/jobs/view/4451497672/) — ATE - Automotive Technology Experts
-- 📍 **Location:** San Diego, CA
+### [Swim Program Coordinator and Head Coach](https://www.linkedin.com/jobs/view/4452196278/) — Stanford University
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4446718597/) — FE Design & Consulting
+### [Clinical Research Data Specialist I](https://www.linkedin.com/jobs/view/4451617649/) — USC Auxiliary Services
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $35–$40/hr
+- 💰 **Salary:** $26.77 - $30.57
 - 🕒 **Posted:** 2026-08-11
 
-### [Residential Construction Project Coordinator](https://www.linkedin.com/jobs/view/4451453146/) — Addition Building & Design Inc.
+### [Clinical Research Data Specialist I](https://www.linkedin.com/jobs/view/4452193449/) — Engineering Management Student Association (EMSA)
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $90,000-$110,000
+- 💰 **Salary:** $26.77 - $30.57
 - 🕒 **Posted:** 2026-08-11
 
-### [Community Program Coordinator](https://www.linkedin.com/jobs/view/4451601616/) — TrueCare
-- 📍 **Location:** San Marcos, CA
+### [Data Analyst, RCX](https://www.linkedin.com/jobs/view/4451609706/) — GigFinder.ai
+- 📍 **Location:** Bellevue, WA
 - 🕒 **Posted:** 2026-08-11
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4451489730/) — JON MAGNE FJELLSTAD
+### [GIS Specialist IV](https://www.linkedin.com/jobs/view/4451622445/) — Cherokee Federal
+- 📍 **Location:** Lafayette, LA
+- 🕒 **Posted:** 2026-08-11
+
+### [Data Analyst - $43.87 - $58.08](https://www.linkedin.com/jobs/view/4452112069/) — Vision Centric Inc
+- 📍 **Location:** Georgia, United States
+- 💰 **Salary:** $43.87 - $58.08
+- 🕒 **Posted:** 2026-08-11
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4451615480/) — Guidehouse
+- 📍 **Location:** United States
+- 💰 **Salary:** $85,000.00-$141,000.00
+- 🕒 **Posted:** 2026-08-11
+
+### [Senior Master Data Analyst - Nutrition- Columbus, OH](https://www.linkedin.com/jobs/view/4448618935/) — Abbott
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $78,000.00 – $156,000.00
+- 🕒 **Posted:** 2026-08-11
+
+### [Clinical Research Data Specialist I](https://www.linkedin.com/jobs/view/4452401283/) — University of Southern California
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $24.00/hr - $24.00/hr
+- 💰 **Salary:** $26.77 - $30.57
 - 🕒 **Posted:** 2026-08-11
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4451496724/) — SureWerx
-- 📍 **Location:** Illinois, United States
+### [Data Governance  &  Data Analyst  ---- Advanced SQL---- Locals Only --- Hybrid role](https://www.linkedin.com/jobs/view/4451474220/) — Zillion Technologies, Inc.
+- 📍 **Location:** Vienna, VA
+- 💰 **Salary:** $60.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-08-11
 
-### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4452176325/) — Excel Fluid Group
-- 📍 **Location:** Brook Park, OH
+### [Senior Investment Data Analyst, AI Enablement](https://www.linkedin.com/jobs/view/4451616171/) — Voya Investment Management
+- 📍 **Location:** Buffalo-Niagara Falls Area
+- 💰 **Salary:** $94,500 - $132,500 USD
 - 🕒 **Posted:** 2026-08-11
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4451489527/) — LexisNexis Risk Solutions
-- 📍 **Location:** Alpharetta, GA
-- 💰 **Salary:** $59,200.00/yr - $98,600.00/yr
+### [Research Data Specialist II](https://www.linkedin.com/jobs/view/4451603268/) — California Department of Forestry and Fire Protection (CAL FIRE)
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $7,640.00/mo - $9,561.00/mo
 - 🕒 **Posted:** 2026-08-11
 
-### [Sr. BI Developer & Data Analyst](https://www.linkedin.com/jobs/view/4451499436/) — ChildCareGroup
-- 📍 **Location:** Dallas, TX
+### [Community Resource Coordinator IV (Program Coordinator)](https://www.linkedin.com/jobs/view/4446970752/) — University of Louisville
+- 📍 **Location:** Louisville, KY
 - 🕒 **Posted:** 2026-08-11
 
-### [Program Coordinator (2 Positions Available)](https://www.linkedin.com/jobs/view/4451444509/) — University of Nebraska-Lincoln
-- 📍 **Location:** Lincoln, Nebraska Metropolitan Area
-- 🕒 **Posted:** 2026-08-11
-
-### [Fellowship Program Coordinator (Psychiatry & Behavioral Sciences)](https://www.linkedin.com/jobs/view/4452160716/) — University of Kansas Medical Center
-- 📍 **Location:** Wichita, KS
-- 💰 **Salary:** $28.20 - $38.35
-- 🕒 **Posted:** 2026-08-11
-
-### [NAVIGATE Program Coordinator](https://www.linkedin.com/jobs/view/4451483881/) — University of Minnesota Physicians
-- 📍 **Location:** St Louis Park, MN
+### [Program Coordinator - Out of School Time](https://www.linkedin.com/jobs/view/4451617474/) — City of Evanston
+- 📍 **Location:** Evanston, IL
 - 🕒 **Posted:** 2026-08-11
