@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-12 03:14 UTC",
-  "total": 152,
-  "new_count": 3,
+  "scraped_at": "2026-08-12 05:21 UTC",
+  "total": 153,
+  "new_count": 4,
   "jobs": [
     {
       "company": "UDC",
@@ -56,19 +56,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Repsol",
-      "title": "GIS Analyst",
-      "location": "Houston, Texas, United States",
-      "url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
-      "direct_url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "Undergraduate degree in geography/GIS or related field, 0-2 years GIS experience, familiarity with ArcGIS platforms, cartography skills, strong verbal/written communication, and interest in renewable energy.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Angc",
       "title": "GIS Analyst",
       "location": "Augusta, Georgia, United States",
@@ -90,6 +77,19 @@
       "date_posted": "2026-08-06T14:43:06.000Z",
       "description": "Associate's or bachelor's degree in a GIS-related field; GIS software, spatial analysis, geospatial modeling, databases, data formats, remote sensing, GPS, customer support, and technical communication skills.",
       "salary": "$50k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Repsol",
+      "title": "GIS Analyst",
+      "location": "Houston, Texas, United States",
+      "url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
+      "direct_url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "Undergraduate degree in geography/GIS or related field, 0-2 years GIS experience, familiarity with ArcGIS platforms, cartography skills, strong verbal/written communication, and interest in renewable energy.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -167,19 +167,6 @@
       "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4346447",
       "date_posted": "2026-07-20T16:44:25.000Z",
       "description": "5+ years fiber OSP experience, GIS/mapping platform proficiency, strong fiber network design and analytical skills, ability to perform cost/feasibility studies and communicate findings.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "IntelliBee",
-      "title": "GIS Analyst",
-      "location": "Detroit or Ypsilanti",
-      "url": "https://intellibee.my.salesforce-sites.com/apps/jobs?id=a0AUU000007WyjN2AS",
-      "direct_url": "https://intellibee.my.salesforce-sites.com/apps/jobs?id=a0AUU000007WyjN2AS",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "BS in GIS or related, 5+ years GIS experience with ESRI products, 3+ years geodatabase and AutoCAD/BIM conversion experience, proficiency with ArcGIS suite, Python/JavaScript/SQL, and GIS enterprise maintenance.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -355,19 +342,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stafford County, VA",
-      "title": "GIS Analyst ",
-      "location": "Stafford County, Virginia, United States",
-      "url": "https://www.governmentjobs.com/careers/stafford/jobs/5419413",
-      "direct_url": "https://www.governmentjobs.com/careers/stafford/jobs/5419413",
-      "date_posted": "2026-07-22T19:55:29.030Z",
-      "description": "Degree in GIS or related field and ≥2 years GIS experience; knowledge of geocoding, cartography, coordinate systems, data conversion, and ArcGIS products; experience with Visual Basic/VBA and Microsoft Office/Adobe; strong communication skills.",
-      "salary": "$64k–$138k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Wright County, MN",
       "title": "GIS Analyst",
       "location": "Buffalo, Minnesota, United States",
@@ -485,6 +459,32 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Town of Fairfield, CT",
+      "title": "GIS Analyst",
+      "location": "Fairfield, Connecticut, United States",
+      "url": "https://www.governmentjobs.com/careers/fairfieldct/jobs/5412527",
+      "direct_url": "https://www.governmentjobs.com/careers/fairfieldct/jobs/5412527",
+      "date_posted": "2026-07-16T14:11:36.514Z",
+      "description": "Bachelor's degree and 3-5 years municipal GIS experience; proficiency with ArcGIS, scripting (ModelBuilder/Arcade/SQL/Python); strong mapping, spatial analysis, data governance, and communication skills; valid motor vehicle license.",
+      "salary": "$97k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Huron-Clinton Metroparks",
+      "title": "(Full Time) GIS Analyst",
+      "location": "Brighton, Michigan, United States",
+      "url": "http://huronclintonmetroparks.applytojob.com/apply/pVLo5NWzZl/Full-Time-GIS-Analyst",
+      "direct_url": "http://huronclintonmetroparks.applytojob.com/apply/pVLo5NWzZl/Full-Time-GIS-Analyst",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in GIS, geography, information technology, or related field; 4+ years of GIS experience; Python and SQL knowledge; valid Michigan driver's license; ESRI and database expertise.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "State of South Carolina",
       "title": "Geospatial Analyst",
       "location": "Richland County, South Carolina, United States",
@@ -524,19 +524,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Bah",
-      "title": "Geospatial Analyst, Senior",
-      "location": "Fort Gordon, Georgia, United States",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Gordon-GA/Geospatial-Analyst--Senior_R0244548",
-      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Gordon-GA/Geospatial-Analyst--Senior_R0244548",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "Experience in geospatial/remote sensing analysis, spatial databases, DoD/IC geospatial processes, SOM/object production, and formal reporting; TS/SCI clearance and imagery analysis training preferred.",
-      "salary": "$78k–$176k/yr",
-      "job_type": "Full Time, Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Cognizant US Corporation",
       "title": "GeoSpatial Analyst MAP",
       "location": "United States",
@@ -546,6 +533,19 @@
       "description": "6+ years geospatial analysis experience for wireless network planning, strong Cisco wireless/ACI/SDWAN knowledge, proficiency with geospatial tools and scripting, strong communication, hybrid work readiness.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bah",
+      "title": "Geospatial Analyst, Senior",
+      "location": "Fort Gordon, Georgia, United States",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Gordon-GA/Geospatial-Analyst--Senior_R0244548",
+      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Gordon-GA/Geospatial-Analyst--Senior_R0244548",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "Experience in geospatial/remote sensing analysis, spatial databases, DoD/IC geospatial processes, SOM/object production, and formal reporting; TS/SCI clearance and imagery analysis training preferred.",
+      "salary": "$78k–$176k/yr",
+      "job_type": "Full Time, Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -628,19 +628,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Bluehawk, LLC",
-      "title": "Geospatial Analyst – Senior",
-      "location": "Georgia, United States",
-      "url": "https://careers-bluehawk.icims.com/jobs/2875/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-bluehawk.icims.com/jobs/2875/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-21T15:32:00.000Z",
-      "description": "Active TS/SCI clearance, 5+ years geospatial/GIS experience, expert with enterprise GIS platforms and spatial databases, cartography, data governance, and advanced spatial analysis for DoD/IC missions.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The Bison Group LLC",
       "title": "Geospatial Analyst, Mid",
       "location": "Reston, Virginia, United States",
@@ -649,6 +636,19 @@
       "date_posted": "2026-07-24T17:50:39.000Z",
       "description": "TS/SCI w/ poly clearance, 5+ years relevant experience, experience with geospatial analysis and imagery, familiarity with MARS/MIDB/ArcGIS/RemoteView/CHROME/RMT, strong written and oral communication.",
       "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bluehawk, LLC",
+      "title": "Geospatial Analyst – Senior",
+      "location": "Georgia, United States",
+      "url": "https://careers-bluehawk.icims.com/jobs/2875/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-bluehawk.icims.com/jobs/2875/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-21T15:32:00.000Z",
+      "description": "Active TS/SCI clearance, 5+ years geospatial/GIS experience, expert with enterprise GIS platforms and spatial databases, cartography, data governance, and advanced spatial analysis for DoD/IC missions.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1174,19 +1174,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Salt River Project",
-      "title": "Senior Environmental Scientist",
-      "location": "Casa Grande, Arizona, United States",
-      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Western Kentucky University",
       "title": "Assistant Research Hydrologist",
       "location": "Bowling Green, Kentucky, United States",
@@ -1356,19 +1343,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kentucky Energy and Environment Cabinet - Department for Environmental Protection",
-      "title": "Geologist-Registered",
-      "location": "Frankfort, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/50/home/requisition/80084?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/50/home/requisition/80084?c=kypersonnelcabinet",
-      "date_posted": "2026-07-30T00:00:00.000Z",
-      "description": "Registered by Kentucky Board for Professional Geologist, valid driver's license, ability to lift and work in office and field conditions, perform site inspections, sample soil and groundwater, and review technical environmental reports.",
-      "salary": "$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "WSP",
       "title": "Senior Geologist",
       "location": "Canton, Mississippi, United States",
@@ -1377,6 +1351,19 @@
       "date_posted": "2026-08-06T14:46:40.000Z",
       "description": "Bachelor's degree in geology or related field and 5–7 years of geologist experience. Requires environmental sampling, assessments, remediation, technical writing, QA/QC, safety compliance, and field leadership skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kentucky Energy and Environment Cabinet - Department for Environmental Protection",
+      "title": "Geologist-Registered",
+      "location": "Frankfort, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/50/home/requisition/80084?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/50/home/requisition/80084?c=kypersonnelcabinet",
+      "date_posted": "2026-07-30T00:00:00.000Z",
+      "description": "Registered by Kentucky Board for Professional Geologist, valid driver's license, ability to lift and work in office and field conditions, perform site inspections, sample soil and groundwater, and review technical environmental reports.",
+      "salary": "$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1681,6 +1668,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Langan Engineering and Environmenta",
+      "title": "Senior Environmental Data Analyst",
+      "location": "Parsippany, New Jersey, United States",
+      "url": "https://careers.langan.com/job/Parsippany-Senior-Environmental-Data-Analyst-NJ-07054-2172/1391337400/",
+      "direct_url": "https://careers.langan.com/job/Parsippany-Senior-Environmental-Data-Analyst-NJ-07054-2172/1391337400/",
+      "date_posted": "2026-08-10T07:00:00.000Z",
+      "description": "Bachelor's degree in a relevant technical discipline, 5+ years of environmental data management experience, NYSDEC and New York Brownfield experience, EQuIS expertise, and strong communication skills.",
+      "salary": "$72k–$104k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Jacobs",
       "title": "Environmental Data Management Specialist, EQuIS",
       "location": "Little Rock or Milwaukee or Hattiesburg or Montgomery or Kansas City or Dallas or Boise",
@@ -1978,44 +1978,70 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Sargent & Lundy",
+      "title": "Senior Environmental Consultant Manager",
+      "location": "Hamilton, New Jersey, United States",
+      "url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-30T01:52:00.000Z",
+      "description": "BS in environmental field (MS preferred),15+ years permitting/compliance experience for industrial/power projects,proven BD and project leadership,NEPA/CWA/CAA knowledge,excellent communication.",
+      "salary": "$166k–$253k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
+      "company": "Town of Fairfield, CT",
+      "title": "GIS Analyst",
+      "location": "Fairfield, Connecticut, United States",
+      "url": "https://www.governmentjobs.com/careers/fairfieldct/jobs/5412527",
+      "direct_url": "https://www.governmentjobs.com/careers/fairfieldct/jobs/5412527",
+      "date_posted": "2026-07-16T14:11:36.514Z",
+      "description": "Bachelor's degree and 3-5 years municipal GIS experience; proficiency with ArcGIS, scripting (ModelBuilder/Arcade/SQL/Python); strong mapping, spatial analysis, data governance, and communication skills; valid motor vehicle license.",
+      "salary": "$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Johnson, Mirmiran & Thompson, Inc.",
-      "title": "Environmental Scientist",
-      "location": "Newark, Delaware, United States",
-      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15397?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15397?embedded=true",
-      "date_posted": "2026-08-11T22:48:49.165Z",
-      "description": "Bachelor's degree in a relevant natural or environmental science field; 0–5 years of experience; Microsoft Office, AutoCAD or MicroStation, and GIS proficiency; successful motor vehicle screening.",
+      "company": "Huron-Clinton Metroparks",
+      "title": "(Full Time) GIS Analyst",
+      "location": "Brighton, Michigan, United States",
+      "url": "http://huronclintonmetroparks.applytojob.com/apply/pVLo5NWzZl/Full-Time-GIS-Analyst",
+      "direct_url": "http://huronclintonmetroparks.applytojob.com/apply/pVLo5NWzZl/Full-Time-GIS-Analyst",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in GIS, geography, information technology, or related field; 4+ years of GIS experience; Python and SQL knowledge; valid Michigan driver's license; ESRI and database expertise.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "The Doe Run Company",
-      "title": "Geologist II",
-      "location": "Viburnum, Missouri, United States",
-      "url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=c36e5574-06d6-4c62-8652-d2491deb206a",
-      "direct_url": "https://recruiting.ultipro.com/doe1000/JobBoard/a41bfe49-3416-8480-b69b-f397f56dbc16/OpportunityDetail?opportunityId=c36e5574-06d6-4c62-8652-d2491deb206a",
-      "date_posted": "2026-07-27T15:33:27.105Z",
-      "description": "Bachelor's in Geology, minimum 3 years geological experience, valid driver’s license, AcQuire and Vulcan experience preferred, Microsoft Office (Excel/Word) proficiency.",
-      "salary": "",
+      "company": "Langan Engineering and Environmenta",
+      "title": "Senior Environmental Data Analyst",
+      "location": "Parsippany, New Jersey, United States",
+      "url": "https://careers.langan.com/job/Parsippany-Senior-Environmental-Data-Analyst-NJ-07054-2172/1391337400/",
+      "direct_url": "https://careers.langan.com/job/Parsippany-Senior-Environmental-Data-Analyst-NJ-07054-2172/1391337400/",
+      "date_posted": "2026-08-10T07:00:00.000Z",
+      "description": "Bachelor's degree in a relevant technical discipline, 5+ years of environmental data management experience, NYSDEC and New York Brownfield experience, EQuIS expertise, and strong communication skills.",
+      "salary": "$72k–$104k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Sargent & Lundy",
+      "title": "Senior Environmental Consultant Manager",
+      "location": "Hamilton, New Jersey, United States",
+      "url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-30T01:52:00.000Z",
+      "description": "BS in environmental field (MS preferred),15+ years permitting/compliance experience for industrial/power projects,proven BD and project leadership,NEPA/CWA/CAA knowledge,excellent communication.",
+      "salary": "$166k–$253k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
