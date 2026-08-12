@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12 22:25 UTC",
-  "total": 6,
+  "scraped_at": "2026-08-12 23:25 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -17,23 +17,6 @@
       "salary_currency": "",
       "job_type": "fulltime",
       "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "SYNCADD Systems, Inc.",
-      "title": "GIS Analyst",
-      "location": "Joint Base Lewis McChord, WA, US",
-      "url": "https://www.indeed.com/viewjob?jk=86d36abb62509bec",
-      "direct_url": "http://www.indeed.com/job/gis-analyst-86d36abb62509bec",
-      "company_url": "https://www.indeed.com/cmp/Syncadd-Systems,-Inc.-2",
-      "date_posted": "2026-08-11",
-      "description": "**Job Overview**\n\nWe are seeking a dynamic and detail\\-oriented GIS Analyst to join our team and drive innovative geospatial solutions. In this role, you will harness cutting\\-edge mapping software and geospatial analysis tools to visualize, interpret, and manage complex spatial data. Your expertise will support critical decision\\-making processes across various projects, ensuring accurate data collection, analysis, and presentation. This position offers an exciting opportunity to contribute to impactful initiatives by developing robust GIS databases, performing advanced spatial analysis, and creating compelling cartographic products that communicate insights effectively.\n\n**Responsibilities**\n\n* Develop, maintain, and optimize GIS databases using relational database management systems such as SQL and Python scripting to ensure data integrity and accessibility.\n* Conduct comprehensive GIS analysis utilizing ArcGIS and other mapping software to identify patterns, trends, and spatial relationships relevant to project goals.\n* Collect geospatial data through GPS devices, land surveying techniques, and remote sensing methods; ensure precise data management and quality control.\n* Create detailed maps and visualizations using GIS software, incorporating cartographic principles to enhance clarity and impact for diverse audiences.\n* Write scripts and develop APIs for automating workflows, improving data processing efficiency, and integrating various geospatial data sources.\n* Collaborate with cross\\-functional teams to develop GIS models that support land surveying, urban planning, environmental monitoring, or infrastructure development projects.\n* Lead efforts in developing GIS databases by designing data models, managing spatial datasets, and ensuring seamless integration with existing systems.\n\n**Requirements**\n\n* Proven experience with GIS software such as ArcGIS or equivalent mapping platforms; proficiency in GIS analysis techniques is essential.\n* Strong knowledge of geospatial data visualization, cartography, and mapping using GIS tools.\n* Hands\\-on experience with database management including SQL, relational databases, and scripting languages like Python for automation tasks.\n* Familiarity with land surveying methods, GPS technology, and data collection techniques to ensure accurate spatial data acquisition.\n* Ability to develop GIS databases from scratch or enhance existing datasets through effective data modeling practices.\n* Skills in CAD software such as AutoCAD for drafting and integrating geospatial information into technical drawings.\n* Excellent analysis skills with the ability to interpret complex spatial datasets and generate actionable insights.\n* Leadership qualities with experience guiding projects or mentoring junior team members in GIS\\-related tasks.\n\nJoin us in shaping innovative geospatial solutions that make a real difference! This paid position offers a vibrant environment where your technical expertise will be valued as you contribute to meaningful projects across diverse sectors. If you’re passionate about mapping technology, data visualization, and problem\\-solving through spatial analysis — we want to hear from you!\n\nPay: $55,000\\.00 \\- $62,000\\.00 per year\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Employee assistance program\n* Employee discount\n* Health insurance\n* Life insurance\n* Paid time off\n* Professional development assistance\n* Referral program\n* Retirement plan\n* Tuition reimbursement\n* Vision insurance\n\nWork Location: In person",
-      "salary": "$55k–$62k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
       "emails": "",
       "ats": "Indeed"
     },
