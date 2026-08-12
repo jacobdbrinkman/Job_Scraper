@@ -1,87 +1,102 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-12 00:21 UTC*
+*Last updated: 2026-08-12 03:05 UTC*
 
-**19 new role(s)** since last run · 21 total in last 1h
+**22 new role(s)** since last run · 29 total in last 1h
 
-### [Predictive Data Analyst](https://www.linkedin.com/jobs/view/4451977399/) — VARITE INC
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $35.00/hr - $40.00/hr
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4452326307/) — Crossover
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $120,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Survey Field Technician I](https://www.linkedin.com/jobs/view/4446905210/) — Dewberry
-- 📍 **Location:** Lanham, MD
-- 💰 **Salary:** $46,000-$59,000 annually
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4452323299/) — Crossover
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $120,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Research/Data Analyst](https://www.linkedin.com/jobs/view/4451962695/) — State of Missouri
-- 📍 **Location:** Missouri, United States
+### [Geologist](https://www.linkedin.com/jobs/view/4453042419/) — AECOM
+- 📍 **Location:** Westlake Village, CA
+- 💰 **Salary:** $70,500.00/yr - $72,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Staffing - Data Analyst 2](https://www.linkedin.com/jobs/view/4453014516/) — Randstad Digital Americas
-- 📍 **Location:** Corning, NY
+### [Program Coordinator - Adult Day Program](https://www.linkedin.com/jobs/view/4453035788/) — Momentum
+- 📍 **Location:** Thousand Oaks, CA
+- 💰 **Salary:** $21.00/hr - $25.00/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4453019537/) — Ryan Companies US, Inc.
-- 📍 **Location:** Minneapolis, MN
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4452308348/) — Crossover
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $120,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4453012573/) — Ryan Companies US, Inc.
-- 📍 **Location:** Dallas, TX
+### [Airport Dining and Retail Program Coordinator](https://www.linkedin.com/jobs/view/4453032748/) — Port of Seattle
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-08-12
 
-### [Supportive Oncology Program Coordinator](https://www.linkedin.com/jobs/view/4453021553/) — Atrium Health
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $25.30 - $37.95
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4452317315/) — Crossover
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $120,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Analyst/Engineer](https://www.linkedin.com/jobs/view/4451957380/) — Quest Global
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $105,000 - $110,000 per year
-- 🕒 **Posted:** 2026-08-11
+### [Survey Field Technician | Austin, TX](https://www.linkedin.com/jobs/view/4453031537/) — IMEG
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-12
 
-### [Project Coordinator III](https://www.linkedin.com/jobs/view/4453018479/) — PTR Global
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $45- $55/hr
-- 🕒 **Posted:** 2026-08-11
+### [Consulting Associate, Environmental Scientist (Assistant Wetland Delineator)](https://www.linkedin.com/jobs/view/4438432281/) — ERM
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-08-12
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4451977112/) — Ayres Associates
-- 📍 **Location:** Green Bay, WI
-- 🕒 **Posted:** 2026-08-11
+### [Master Data Analyst](https://www.linkedin.com/jobs/view/4452327843/) — Russell Stover Chocolates
+- 📍 **Location:** Kansas City Metropolitan Area
+- 🕒 **Posted:** 2026-08-12
 
-### [Field Technician - Environment Testing](https://www.linkedin.com/jobs/view/4451936944/) — Eurofins
-- 📍 **Location:** Kittanning, PA
-- 🕒 **Posted:** 2026-08-11
+### [Field Technician](https://www.linkedin.com/jobs/view/4453039474/) — UES
+- 📍 **Location:** Farmington, NM
+- 🕒 **Posted:** 2026-08-12
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453018266/) — Tata Consultancy Services
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4453027666/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
+- 🕒 **Posted:** 2026-08-12
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4452325022/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-12
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4452326137/) — MetLife
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $90,000 - $140,000
+- 🕒 **Posted:** 2026-08-12
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4453031660/) — CGI
 - 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-08-11
+- 🕒 **Posted:** 2026-08-12
 
-### [Medical Billing Data Analyst](https://www.linkedin.com/jobs/view/4451967313/) — North Central Mental Health Services, Inc.
-- 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-08-11
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4452317157/) — MetLife
+- 📍 **Location:** Cary, NC
+- 💰 **Salary:** $90,000 - $140,000
+- 🕒 **Posted:** 2026-08-12
 
-### [Project Coordinator - Managed Projects Team](https://www.linkedin.com/jobs/view/4453025295/) — LockNet
-- 📍 **Location:** Nicholasville, KY
-- 🕒 **Posted:** 2026-08-11
+### [(Full Time) GIS Analyst](https://www.linkedin.com/jobs/view/4452308133/) — Huron-Clinton Metroparks
+- 📍 **Location:** Brighton, MI
+- 🕒 **Posted:** 2026-08-12
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4453007359/) — Wachter, Inc.
-- 📍 **Location:** Mount Laurel, NJ
-- 💰 **Salary:** $20.00/hr - $23.00/hr
-- 🕒 **Posted:** 2026-08-11
+### [Youth Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4452327295/) — Crossover
+- 📍 **Location:** Brownsville, TX
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-08-12
 
-### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4453023349/) — JLL
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $55,000.00/yr - $65,000.00/yr
-- 🕒 **Posted:** 2026-08-11
+### [Stroke Program Coordinator](https://www.linkedin.com/jobs/view/4453035813/) — Baylor Scott & White Health
+- 📍 **Location:** Temple, TX
+- 🕒 **Posted:** 2026-08-12
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4451973377/) — TriMark USA
-- 📍 **Location:** Mansfield, MA
-- 🕒 **Posted:** 2026-08-11
+### [Wound Program Coordinator](https://www.linkedin.com/jobs/view/4452325896/) — Encompass Health
+- 📍 **Location:** Texarkana, TX
+- 🕒 **Posted:** 2026-08-12
 
-### [Extension Program Coordinator (4-H) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4453001227/) — University of Illinois Urbana-Champaign
-- 📍 **Location:** Vienna, IL
-- 🕒 **Posted:** 2026-08-11
+### [Wound Program Coordinator](https://www.linkedin.com/jobs/view/4452323845/) — Encompass Health
+- 📍 **Location:** Sewickley, PA
+- 💰 **Salary:** $30.00/hr - $48.00/hr
+- 🕒 **Posted:** 2026-08-12
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4453002307/) — Commonwealth of Kentucky
-- 📍 **Location:** Richmond, KY
-- 🕒 **Posted:** 2026-08-11
+### [Project Coordinator - Integration](https://www.linkedin.com/jobs/view/4453045614/) — Toyota Automated Logistics
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-08-12
