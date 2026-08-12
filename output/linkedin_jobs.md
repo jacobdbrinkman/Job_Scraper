@@ -1,89 +1,92 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-12 21:23 UTC*
+*Last updated: 2026-08-12 22:24 UTC*
 
-**19 new role(s)** since last run · 21 total in last 1h
+**20 new role(s)** since last run · 24 total in last 1h
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4450175691/) — Atos
-- 📍 **Location:** Dixon, CA
-- 💰 **Salary:** $54,386.00 - $105,000.00 USD
-- 🕒 **Posted:** 2026-08-12
-
-### [Environmental Health and Safety Project Coordinator](https://www.linkedin.com/jobs/view/4453340273/) — Stanford Medicine Children's Health
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $41.48 to $53.93
-- 🕒 **Posted:** 2026-08-12
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4450184375/) — Verex Engineering LLC
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453350803/) — Haystack
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-12
 
-### [Business Intelligence & Vendor Data Analyst](https://www.linkedin.com/jobs/view/4450213499/) — Altivera Medical
-- 📍 **Location:** Denver, CO
+### [Mission Solutions Engineer](https://www.linkedin.com/jobs/view/4453369572/) — General Dynamics Information Technology
+- 📍 **Location:** United States
+- 💰 **Salary:** $85,093 - $115,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Interdisciplinary (Geographer or Physical Scientist)](https://www.linkedin.com/jobs/view/4450189187/) — U.S. Geological Survey (USGS)
-- 📍 **Location:** Sioux Falls, SD
+### [Project Coordinator Contractor](https://www.linkedin.com/jobs/view/4453373454/) — Deloitte
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $60 - $70
 - 🕒 **Posted:** 2026-08-12
 
-### [Consulting Associate, Environmental Scientist (Assistant Wetland Delineator)](https://www.linkedin.com/jobs/view/4438432281/) — ERM
-- 📍 **Location:** Houston, TX
+### [Data Analyst 3 - Supply Chain Planning](https://www.linkedin.com/jobs/view/4453379099/) — Nordstrom
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $102,500.00 - $170,500.00
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4450193148/) — Sedgwick
-- 📍 **Location:** Florida, United States
+### [EHS Data Analyst Specialist](https://www.linkedin.com/jobs/view/4453372623/) — TRP Infrastructure Services
+- 📍 **Location:** Sanford, FL
 - 🕒 **Posted:** 2026-08-12
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4450196160/) — Collabera
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $20.00/yr - CA$24.00/yr
+### [Senior Environmental Scientist (Part-Time)](https://www.linkedin.com/jobs/view/4450189485/) — JMT
+- 📍 **Location:** Jacksonville, FL
 - 🕒 **Posted:** 2026-08-12
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4450174157/) — SGS
-- 📍 **Location:** Deer Park, TX
+### [UAM Field Technician 1 | Engineereing | CEI](https://www.linkedin.com/jobs/view/4453385375/) — The Davey Tree Expert Company
+- 📍 **Location:** Cleveland, OH
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Analyst - Curriculum](https://www.linkedin.com/jobs/view/4412782788/) — JANUS Research Group
-- 📍 **Location:** Pensacola, FL
-- 💰 **Salary:** $68,000 - $72,000
+### [Physical Security Intelligence & Data Analyst](https://www.linkedin.com/jobs/view/4453368576/) — Verigent
+- 📍 **Location:** United States
+- 💰 **Salary:** $45.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4452742515/) — Action Packaging
-- 📍 **Location:** Woodstock, IL
+### [Senior Data Analyst, OnStar Product Engagement](https://www.linkedin.com/jobs/view/4453371372/) — General Motors
+- 📍 **Location:** Warren, MI
 - 🕒 **Posted:** 2026-08-12
 
-### [Junior And Senior Quantitative Financial Data Analyst](https://www.linkedin.com/jobs/view/4452736105/) — Thundermkt.agency
-- 📍 **Location:** Remote, OR
+### [Risk and Intelligence Data Analyst](https://www.linkedin.com/jobs/view/4453386272/) — HCA Healthcare
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-08-12
 
-### [Qualitative Data Analyst](https://www.linkedin.com/jobs/view/4418524175/) — The Amatriot Group
-- 📍 **Location:** Bethesda, MD
-- 💰 **Salary:** $90,000 - $120,000
+### [Data Analyst Associate](https://www.linkedin.com/jobs/view/4453362589/) — Haystack
+- 📍 **Location:** Charleston, SC
 - 🕒 **Posted:** 2026-08-12
 
-### [AI Solutions Engineer](https://www.linkedin.com/jobs/view/4452716386/) — Good Company
-- 📍 **Location:** Springfield, MO
-- 💰 **Salary:** $50k–$80k
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453383260/) — Premier Staffing Solution
+- 📍 **Location:** Corning, NY
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Analyst (Croatian)](https://www.linkedin.com/jobs/view/4450198028/) — Lightcast
+### [Director of Program Evaluation and Assessment (Data Analyst)](https://www.linkedin.com/jobs/view/4447014909/) — Indiana University
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-08-12
+
+### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4450183545/) — JMT
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-08-12
+
+### [Survey Technician 2](https://www.linkedin.com/jobs/view/4453385433/) — T&M Associates
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $75,000 - $85,000
+- 🕒 **Posted:** 2026-08-12
+
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4453382337/) — Optum
+- 📍 **Location:** Brentwood, TN
+- 💰 **Salary:** $91,700 to $163,700 annually
+- 🕒 **Posted:** 2026-08-12
+
+### [Solutions Engineer, Data & Platforms](https://www.linkedin.com/jobs/view/4427230351/) — Stirista
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-12
 
-### [Transmission Project Coordinator](https://www.linkedin.com/jobs/view/4450198031/) — American Electric Power
-- 📍 **Location:** New Albany, OH
-- 💰 **Salary:** $74,551- $93,188
+### [Project Coordinator (IT Project Management Specialist)](https://www.linkedin.com/jobs/view/4453377419/) — Indiana University Bloomington
+- 📍 **Location:** Bloomington, IN
 - 🕒 **Posted:** 2026-08-12
 
-### [Clinical Project Coordinator](https://www.linkedin.com/jobs/view/4450167978/) — CHI
-- 📍 **Location:** Papillion, NE
-- 💰 **Salary:** $17.24 - $24.35 /hour
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4450180619/) — Akkodis
+- 📍 **Location:** Roanoke, TX
+- 💰 **Salary:** $24.00/hr - $27.00/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Coordinator, TCU Global (International Programs)](https://www.linkedin.com/jobs/view/4451469001/) — Texas Christian University
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4450186439/) — Leidos
-- 📍 **Location:** Huntsville, AL
-- 💰 **Salary:** $73,450.00 - $132,775.00
+### [One Stop Program Coordinator II](https://www.linkedin.com/jobs/view/4453366827/) — University of Houston
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $18.32 - $20.60
 - 🕒 **Posted:** 2026-08-12
