@@ -1,60 +1,87 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-11 23:28 UTC*
+*Last updated: 2026-08-12 00:21 UTC*
 
-**13 new role(s)** since last run · 44 total in last 1h
+**19 new role(s)** since last run · 21 total in last 1h
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4446132446/) — Coinstar
-- 📍 **Location:** Moreno Valley, CA
-- 💰 **Salary:** $23.72-$28.00 per hour
-- 🕒 **Posted:** 2026-08-11
-
-### [Data Analyst _ Supply Chain](https://www.linkedin.com/jobs/view/4452694419/) — Abbott
+### [Predictive Data Analyst](https://www.linkedin.com/jobs/view/4451977399/) — VARITE INC
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $90,000.00 – $180,000.00
-- 🕒 **Posted:** 2026-08-11
+- 💰 **Salary:** $35.00/hr - $40.00/hr
+- 🕒 **Posted:** 2026-08-12
 
-### [Wellsite Geologist](https://www.linkedin.com/jobs/view/4429125765/) — Airswift
-- 📍 **Location:** North Slope Borough County, AK
-- 🕒 **Posted:** 2026-08-11
+### [Survey Field Technician I](https://www.linkedin.com/jobs/view/4446905210/) — Dewberry
+- 📍 **Location:** Lanham, MD
+- 💰 **Salary:** $46,000-$59,000 annually
+- 🕒 **Posted:** 2026-08-12
 
-### [Archaeological Field Technician](https://www.linkedin.com/jobs/view/4451945725/) — Versar Global Solutions
-- 📍 **Location:** El Paso, TX
-- 🕒 **Posted:** 2026-08-11
+### [Research/Data Analyst](https://www.linkedin.com/jobs/view/4451962695/) — State of Missouri
+- 📍 **Location:** Missouri, United States
+- 🕒 **Posted:** 2026-08-12
 
-### [Business Data Analyst (32706)](https://www.linkedin.com/jobs/view/4452693423/) — ExamWorks
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-11
+### [Staffing - Data Analyst 2](https://www.linkedin.com/jobs/view/4453014516/) — Randstad Digital Americas
+- 📍 **Location:** Corning, NY
+- 🕒 **Posted:** 2026-08-12
 
-### [Business Data Analyst II](https://www.linkedin.com/jobs/view/4451953571/) — University of North Texas System
-- 📍 **Location:** Denton, TX
-- 🕒 **Posted:** 2026-08-11
+### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4453019537/) — Ryan Companies US, Inc.
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-08-12
 
-### [Pricing Data Analyst](https://www.linkedin.com/jobs/view/4452697058/) — Infojini Inc
-- 📍 **Location:** Bridgewater, NJ
-- 🕒 **Posted:** 2026-08-11
+### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4453012573/) — Ryan Companies US, Inc.
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-08-12
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4451665449/) — Sundayy
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-11
-
-### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4452671265/) — Amentum
-- 📍 **Location:** Scoville, ID
-- 💰 **Salary:** $85,000 - $100,
-- 🕒 **Posted:** 2026-08-11
-
-### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4452646789/) — OWN, Inc.
-- 📍 **Location:** Springfield, MO
-- 🕒 **Posted:** 2026-08-11
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4452650364/) — OWN, Inc.
-- 📍 **Location:** Lowell, AR
-- 🕒 **Posted:** 2026-08-11
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4452667740/) — SERVCON
+### [Supportive Oncology Program Coordinator](https://www.linkedin.com/jobs/view/4453021553/) — Atrium Health
 - 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $48,000–$52,000
+- 💰 **Salary:** $25.30 - $37.95
+- 🕒 **Posted:** 2026-08-12
+
+### [Data Analyst/Engineer](https://www.linkedin.com/jobs/view/4451957380/) — Quest Global
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $105,000 - $110,000 per year
 - 🕒 **Posted:** 2026-08-11
 
-### [Program Coordinator - LVN or RN license required](https://www.linkedin.com/jobs/view/4451952744/) — Unitek Learning
-- 📍 **Location:** Concord, CA
+### [Project Coordinator III](https://www.linkedin.com/jobs/view/4453018479/) — PTR Global
+- 📍 **Location:** Redmond, WA
+- 💰 **Salary:** $45- $55/hr
+- 🕒 **Posted:** 2026-08-11
+
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4451977112/) — Ayres Associates
+- 📍 **Location:** Green Bay, WI
+- 🕒 **Posted:** 2026-08-11
+
+### [Field Technician - Environment Testing](https://www.linkedin.com/jobs/view/4451936944/) — Eurofins
+- 📍 **Location:** Kittanning, PA
+- 🕒 **Posted:** 2026-08-11
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453018266/) — Tata Consultancy Services
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-08-11
+
+### [Medical Billing Data Analyst](https://www.linkedin.com/jobs/view/4451967313/) — North Central Mental Health Services, Inc.
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-08-11
+
+### [Project Coordinator - Managed Projects Team](https://www.linkedin.com/jobs/view/4453025295/) — LockNet
+- 📍 **Location:** Nicholasville, KY
+- 🕒 **Posted:** 2026-08-11
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4453007359/) — Wachter, Inc.
+- 📍 **Location:** Mount Laurel, NJ
+- 💰 **Salary:** $20.00/hr - $23.00/hr
+- 🕒 **Posted:** 2026-08-11
+
+### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4453023349/) — JLL
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $55,000.00/yr - $65,000.00/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4451973377/) — TriMark USA
+- 📍 **Location:** Mansfield, MA
+- 🕒 **Posted:** 2026-08-11
+
+### [Extension Program Coordinator (4-H) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4453001227/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Vienna, IL
+- 🕒 **Posted:** 2026-08-11
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4453002307/) — Commonwealth of Kentucky
+- 📍 **Location:** Richmond, KY
 - 🕒 **Posted:** 2026-08-11
