@@ -1,69 +1,61 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-13 03:19 UTC*
+*Last updated: 2026-08-13 05:24 UTC*
 
-**14 new role(s)** since last run · 145 total in last 30d
+**12 new role(s)** since last run · 148 total in last 30d
 
-### [Data Analyst I — Geospatial and Water Resources](https://careers-lynker.icims.com/jobs/1662/data-analyst-i-%e2%80%94-geospatial-and-water-resources/job?in_iframe=1) — Lynker Corporation
-- 📍 **Location:** Boulder, Colorado, United States
-- 💰 **Salary:** $70k–$75k/yr
-- 🕒 **Posted:** 2026-08-12T04:00:00.000Z
+### [GIS Analyst](https://careers.merrick.com/jobs/8431?lang=en-us) — Merrick & Company
+- 📍 **Location:** Greenwood Village, Colorado, United States
+- 💰 **Salary:** $62k–$80k/yr
+- 🕒 **Posted:** 2026-07-30T14:58:27.000Z
 
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
-- 📍 **Location:** Boise or United States
+### [Geospatial Analyst, Senior](https://careers.boozallen.com/jobs/JobDetail/Fort-Gordon-Geospatial-Analyst-Senior-R0244548/127416) — Booz Allen Hamilton
+- 📍 **Location:** Fort Gordon, Georgia, United States
+- 💰 **Salary:** $78k–$176k/yr
+- 🕒 **Posted:** 2026-07-16T12:00:00.000Z
+
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
+- 📍 **Location:** Denver or United States
 - 💰 **Salary:** $80k–$90k/yr
 - 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Senior Geologist](https://turner-mining-group.breezy.hr/p/8929902ecde6-senior-geologist) — Turner Mining Group
-- 📍 **Location:** Elko, Nevada, United States
-- 🕒 **Posted:** 2026-07-27T19:34:28.249Z
+### [Geologist (Indianapolis, IN, US, 46209)](https://workforindiana.in.gov/job/Indianapolis-Geologist-IN-46209/1412460200/) — INDIANAOFFICEOFTECHNOLOGY
+- 📍 **Location:** Indianapolis, Indiana, United States
+- 💰 **Salary:** $67k/yr
+- 🕒 **Posted:** 2026-07-25T08:30:25.957Z
 
-### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
-- 📍 **Location:** Morenci, Arizona, United States
-- 💰 **Salary:** $98k–$138k/yr
-- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
+### [Geologist](https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/) — AECOM
+- 📍 **Location:** Westlake Village, California, United States
+- 💰 **Salary:** $70k–$72k/yr
+- 🕒 **Posted:** 2026-08-12T06:46:56.000Z
 
-### [Geologist II](https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106) — Asarco LLC
-- 📍 **Location:** Sahuarita, Arizona, United States
-- 🕒 **Posted:** 2026-07-23T00:11:48.000Z
+### [Geologist](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Geologist_R0246843) — Booz Allen Hamilton
+- 📍 **Location:** Washington, District of Columbia, United States
+- 💰 **Salary:** $78k–$176k/yr
+- 🕒 **Posted:** 2026-08-12T00:00:00.000Z
 
-### [Senior Geologist](https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159) — Devonenergy
-- 📍 **Location:** Pittsburgh, Pennsylvania, United States
-- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
+### [Geologist](https://careers.boozallen.com/jobs/JobDetail/Washington-Geologist-R0246843/128735) — Booz Allen Hamilton
+- 📍 **Location:** Washington, District of Columbia, United States
+- 💰 **Salary:** $78k–$176k/yr
+- 🕒 **Posted:** 2026-08-12T12:00:00.000Z
 
-### [TCEQ - Natural Resources Specialist II](https://erphcmprd.cpa.texas.gov/psc/candidateportal/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=102199&PostingSeq=1&SiteId=1) — TEXAS COMMISSION ON ENVIRONMENTAL QUALITY
-- 📍 **Location:** Midland, Texas, United States
-- 💰 **Salary:** $53k/yr
-- 🕒 **Posted:** 2026-08-03T12:00:00.000Z
+### [Senior Geologist](https://careers.div.energy/jobs/2637?lang=en-us) — Diversified Gas & Oil Corporation
+- 📍 **Location:** Houston, Texas, United States
+- 🕒 **Posted:** 2026-07-29T20:41:19.000Z
 
-### [Natural Resources Specialist](https://steigerwaldt.bamboohr.com/careers/291) — Steigerwaldt Land Services
-- 📍 **Location:** Tomahawk, Wisconsin, United States
-- 💰 **Salary:** $44k–$62k/yr
-- 🕒 **Posted:** 2026-07-27T00:00:00.000Z
+### [Geologist II](https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62) — Ans
+- 📍 **Location:** Columbus, Ohio, United States
+- 💰 **Salary:** $66k–$75k/yr
+- 🕒 **Posted:** 2026-08-01T03:37:37.612Z
 
-### [Natural Resources Specialist (Forestry Inventory Technician)](https://vtemployees.pageuppeople.com/job/537146) — Virginia Tech
-- 📍 **Location:** Blacksburg, Virginia, United States
-- 💰 **Salary:** $37k–$48k/yr
-- 🕒 **Posted:** 2026-07-30T13:00:00.000Z
+### [Geologist (42351)](https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351) — Cameco
+- 📍 **Location:** Douglas, Wyoming, United States
+- 🕒 **Posted:** 2026-07-22T21:41:27.000Z
 
-### [Environmental/Natural Resources Specialist III](https://www.governmentjobs.com/careers/mississippi/jobs/5445506) — State of Mississippi
-- 📍 **Location:** Harrison County or Biloxi
-- 💰 **Salary:** $44k–$54k/yr
-- 🕒 **Posted:** 2026-08-12T18:57:57.000Z
+### [Senior Geologist](https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist) — Turner Mining Group
+- 📍 **Location:** Winnemucca, Nevada, United States
+- 🕒 **Posted:** 2026-07-23T20:28:07.851Z
 
-### [Natural Resources Program Coordinator](https://plexsci.isolvedhire.com/jobs/1828955) — Plexus Scientific Corporation
-- 📍 **Location:** Fort Belvoir or Fort Liberty
-- 💰 **Salary:** $70k–$120k/yr
-- 🕒 **Posted:** 2026-07-27T00:00:00.000Z
-
-### [ENVIRONMENTAL CONSULTANT - 37010823](https://jobs.myflorida.com/job/TALLAHASSEE-ENVIRONMENTAL-CONSULTANT-37010823-FL-32399/1417139400/) — State of Florida
-- 📍 **Location:** Tallahassee, Florida, United States
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
-
-### [Environmental Scientist - Sarasota in Sarasota, Florida, United States](https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-sarasota-55677) — Ardaman & Associates, Inc.
-- 📍 **Location:** Sarasota, Florida, United States
-- 🕒 **Posted:** 2026-07-14T21:26:43.652Z
-
-### [Senior Environmental Consultant Manager](https://careers-sargentlundy.icims.com/jobs/25701/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — Sargent & Lundy
-- 📍 **Location:** Hamilton, New Jersey, United States
-- 💰 **Salary:** $166k–$253k/yr
-- 🕒 **Posted:** 2026-07-30T01:52:00.000Z
+### [Environmental/Natural Resources Specialist I](https://www.governmentjobs.com/careers/mississippi/jobs/5442300) — State of Mississippi
+- 📍 **Location:** Rankin County or Jackson
+- 💰 **Salary:** $40k–$59k/yr
+- 🕒 **Posted:** 2026-08-10T22:25:33.434Z
