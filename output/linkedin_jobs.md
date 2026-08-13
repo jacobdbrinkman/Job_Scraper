@@ -1,98 +1,100 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-13 00:22 UTC*
+*Last updated: 2026-08-13 03:07 UTC*
 
-**20 new role(s)** since last run · 24 total in last 1h
+**22 new role(s)** since last run · 23 total in last 1h
 
-### [Lead Safety & Environmental Analyst](https://www.linkedin.com/jobs/view/4422033698/) — Peraton
-- 📍 **Location:** Fort Irwin, CA
-- 💰 **Salary:** $80,000 - $128,000
+### [RESEARCH DATA ANALYST I](https://www.linkedin.com/jobs/view/4450424713/) — California Lottery
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $4,469.00/mo - $6,922.00/mo
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst, L&G - Asset Management, America](https://www.linkedin.com/jobs/view/4450406138/) — L&G – Asset Management, America
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-08-13
-
-### [Survey Field Technician I](https://www.linkedin.com/jobs/view/4446905210/) — Dewberry
-- 📍 **Location:** Lanham, MD
-- 💰 **Salary:** $46,000-$59,000 annually
-- 🕒 **Posted:** 2026-08-13
-
-### [Environmental Health and Safety Project Coordinator](https://www.linkedin.com/jobs/view/4453614066/) — Stanford Medicine Children's Health
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $41.48 to $53.93
-- 🕒 **Posted:** 2026-08-12
-
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4452769169/) — RoseyFields
-- 📍 **Location:** Santa Monica, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Staff Field Solutions Engineer (R5524)](https://www.linkedin.com/jobs/view/4453391831/) — Shield AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000 - $270,000
-- 🕒 **Posted:** 2026-08-12
-
-### [Pacific AIDS Education and Training Centers– Program Coordinator](https://www.linkedin.com/jobs/view/4453612100/) — UCLA
+### [Solar Field Technician - Los Angeles](https://www.linkedin.com/jobs/view/4453617892/) — QE Solar
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $30.36/hr - $43.49/hr
-- 🕒 **Posted:** 2026-08-12
+- 🕒 **Posted:** 2026-08-13
 
-### [Survey Field Technician](https://www.linkedin.com/jobs/view/4450186936/) — Wilson & Company, Inc., Engineers and Architects
-- 📍 **Location:** Salina, KS
-- 💰 **Salary:** $46,000 - $60,000
-- 🕒 **Posted:** 2026-08-12
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4453623710/) — Tetra Tech
+- 📍 **Location:** Buffalo, NY
+- 🕒 **Posted:** 2026-08-13
 
-### [Product Data Analyst](https://www.linkedin.com/jobs/view/4433882834/) — Zello
+### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4453618631/) — Booz Allen Hamilton
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $77,600.00 to $176,000.00
+- 🕒 **Posted:** 2026-08-13
+
+### [Consultant, Geologist / Scientist / Engineer](https://www.linkedin.com/jobs/view/4450436040/) — ERM
+- 📍 **Location:** New Orleans, LA
+- 🕒 **Posted:** 2026-08-13
+
+### [Data Analyst - Curriculum](https://www.linkedin.com/jobs/view/4412782788/) — JANUS Research Group
+- 📍 **Location:** Pensacola, FL
+- 💰 **Salary:** $68,000 - $72,000
+- 🕒 **Posted:** 2026-08-13
+
+### [Automotive Catalog Data Analyst](https://www.linkedin.com/jobs/view/4453633411/) — Perfection Automotive Aftermarket Group
+- 📍 **Location:** North Carolina, United States
+- 🕒 **Posted:** 2026-08-13
+
+### [Geologist](https://www.linkedin.com/jobs/view/4453629453/) — Booz Allen Hamilton
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $77,600.00 to $176,000.00
+- 🕒 **Posted:** 2026-08-13
+
+### [Data Analyst, Junior](https://www.linkedin.com/jobs/view/4453378032/) — Booz Allen Hamilton
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $48,000.00 to $98,000.00
+- 🕒 **Posted:** 2026-08-13
+
+### [Staff Scientist/Geologist – Entry to Mid-level](https://www.linkedin.com/jobs/view/4453635370/) — Tetra Tech
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-08-13
+
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4453626603/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
+- 🕒 **Posted:** 2026-08-13
+
+### [Student Developer & Data Analyst](https://www.linkedin.com/jobs/view/4449883337/) — Auburn University
+- 📍 **Location:** Auburn, AL
+- 🕒 **Posted:** 2026-08-13
+
+### [Data Analyst III (Healthcare Analytics)](https://www.linkedin.com/jobs/view/4450428188/) — Health Net Health Plan of Oregon, Inc.
+- 📍 **Location:** Missouri, United States
+- 💰 **Salary:** $70,100.00 - $126,200.00 per year
+- 🕒 **Posted:** 2026-08-13
+
+### [Project Coordinator – Sheet Metal](https://www.linkedin.com/jobs/view/4453629367/) — Karachaganak Petroleum Operating B.V. (KPO)
+- 📍 **Location:** Marietta, GA
+- 🕒 **Posted:** 2026-08-13
+
+### [Program Coordinator or Program Specialist](https://www.linkedin.com/jobs/view/4453375071/) — The University of Texas at Austin
 - 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-08-12
+- 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453601427/) — MeeBoss
-- 📍 **Location:** Satellite Beach, FL
-- 🕒 **Posted:** 2026-08-12
+### [Project Coordinator II or III - Transportation Planning & Development](https://www.linkedin.com/jobs/view/4453630429/) — Texas Department of Transportation
+- 📍 **Location:** Dallas-Fort Worth Metroplex
+- 💰 **Salary:** $54,278 - $87,046
+- 🕒 **Posted:** 2026-08-13
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4453601205/) — APTIM
-- 📍 **Location:** Norfolk, VA
-- 💰 **Salary:** $32.69 - $35.10 per hour
-- 🕒 **Posted:** 2026-08-12
+### [Security Project Coordinator](https://www.linkedin.com/jobs/view/4450409233/) — Milestone Technologies, Inc.
+- 📍 **Location:** Arizona, United States
+- 🕒 **Posted:** 2026-08-13
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4453610066/) — APTIM
-- 📍 **Location:** Winter Garden, FL
-- 💰 **Salary:** $32.69 - $35.10 per hour
-- 🕒 **Posted:** 2026-08-12
+### [Security Project Coordinator](https://www.linkedin.com/jobs/view/4450404343/) — Milestone Technologies, Inc.
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-08-13
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4453605166/) — APTIM
-- 📍 **Location:** Lenexa, KS
-- 💰 **Salary:** $27.88- $29.81 per hour
-- 🕒 **Posted:** 2026-08-12
+### [Program Coordinator II - Institutional Safety - Mount Sinai Hospital - Full-Time](https://www.linkedin.com/jobs/view/4449330670/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66482.07 - $85000 Annually
+- 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4450179971/) — State of Utah
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $50.00 - $76.00 Hourly
-- 🕒 **Posted:** 2026-08-12
+### [NAVIGATE Program Coordinator](https://www.linkedin.com/jobs/view/4451483881/) — University of Minnesota Physicians
+- 📍 **Location:** St Louis Park, MN
+- 🕒 **Posted:** 2026-08-13
 
-### [Project Coordinator-IL](https://www.linkedin.com/jobs/view/4453390808/) — Homer Companies
-- 📍 **Location:** Lockport, IL
-- 🕒 **Posted:** 2026-08-12
+### [Project Coordinator- University Family Medicine](https://www.linkedin.com/jobs/view/4450431076/) — UPMC
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-08-13
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4450190805/) — TriMark USA
-- 📍 **Location:** Cleveland, OH
-- 🕒 **Posted:** 2026-08-12
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4450195792/) — Dematic
-- 📍 **Location:** Grand Rapids, MI
-- 💰 **Salary:** $65,000 - $85,000
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Project Coordinator -Administrative Office of the Courts (AOC)(Non-Merit)](https://www.linkedin.com/jobs/view/4452071471/) — Commonwealth of Kentucky
-- 📍 **Location:** Shepherdsville, KY
-- 💰 **Salary:** $37,354.56 - $49,719.12 Annually
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Project Coordinator -Administrative Office of the Courts (AOC)(Non-Merit)](https://www.linkedin.com/jobs/view/4452057890/) — Commonwealth of Kentucky
-- 📍 **Location:** Paducah, KY
-- 💰 **Salary:** $37,354.56 - $49,719.12 Annually
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4453363986/) — Specialized Education Services, Inc.
-- 📍 **Location:** Hoffman Estates, IL
-- 💰 **Salary:** USD $63,000.00 - USD $65,000.00 /Yr
-- 🕒 **Posted:** 2026-08-12
+### [Standardized Patient Program Coordinator](https://www.linkedin.com/jobs/view/4453639048/) — Baylor Scott & White Health
+- 📍 **Location:** Temple, TX
+- 🕒 **Posted:** 2026-08-13
