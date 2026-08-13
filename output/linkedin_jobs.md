@@ -1,128 +1,110 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-13 16:31 UTC*
+*Last updated: 2026-08-13 17:37 UTC*
 
-**28 new role(s)** since last run · 28 total in last 1h
+**24 new role(s)** since last run · 30 total in last 1h
 
-### [Energy Management Field Technician](https://www.linkedin.com/jobs/view/4452987892/) — Inceed
-- 📍 **Location:** Thermal, CA
+### [Consumer Research Data Analyst](https://www.linkedin.com/jobs/view/4450424713/) — California Lottery
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $4,469.00/mo - $6,922.00/mo
 - 🕒 **Posted:** 2026-08-13
 
-### [Sheriffs Program Coordinator](https://www.linkedin.com/jobs/view/4452987904/) — San Diego County Sheriff's Office
-- 📍 **Location:** San Diego Metropolitan Area
-- 💰 **Salary:** $114,046.40 - $131,268.80 Annually
+### [Project Coordinator (entry level)](https://www.linkedin.com/jobs/view/4454066122/) — Canary Marketing
+- 📍 **Location:** San Ramon, CA
 - 🕒 **Posted:** 2026-08-13
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4454051878/) — Red Cedar Consultancy, LLC
-- 📍 **Location:** Virginia, United States
+### [Environmental Scientist 1](https://www.linkedin.com/jobs/view/4453221172/) — Atlas
+- 📍 **Location:** Redmond, WA
+- 💰 **Salary:** $30 - $36 hourly
 - 🕒 **Posted:** 2026-08-13
 
-### [GIS Technician I #26-19793](https://www.linkedin.com/jobs/view/4452762109/) — US Tech Solutions
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $20.00/hr - $26.00/hr
+### [Language Supports and Services Data Analyst - Student Achievement Resource Center](https://www.linkedin.com/jobs/view/4453211084/) — Cherry Creek School District
+- 📍 **Location:** Englewood, CO
 - 🕒 **Posted:** 2026-08-13
 
-### [Survey Technician (Project)](https://www.linkedin.com/jobs/view/4450499649/) — Ohio Department of Agriculture
-- 📍 **Location:** Clermont County, OH
-- 💰 **Salary:** $45,406 - $51,230 Annually
+### [Assistant Environmental Scientist - Environmental & Regulatory Compliance (Kansas City)](https://www.linkedin.com/jobs/view/4434362268/) — Burns & McDonnell
+- 📍 **Location:** Kansas City, MO
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4450813407/) — Jobot
-- 📍 **Location:** Battle Creek, MI
-- 💰 **Salary:** $63,000 - $81,000 per year
+### [Senior Data Analyst / Researcher](https://www.linkedin.com/jobs/view/4454059986/) — Index Analytics LLC
+- 📍 **Location:** Windsor Mill, MD
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454061443/) — BRMi
-- 📍 **Location:** Vienna, VA
+### [Facilities and Energy Services Data Analyst](https://www.linkedin.com/jobs/view/4450817482/) — Research Compliance Office at the Texas A&M University System
+- 📍 **Location:** College Station, TX
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454046716/) — TalentAlly
-- 📍 **Location:** San Antonio, Texas Metropolitan Area
-- 💰 **Salary:** $77,120 - $138,810
+### [INTERNAL POSTING - Program Coordinator II](https://www.linkedin.com/jobs/view/4453222218/) — State of South Carolina
+- 📍 **Location:** Charleston County, SC
 - 🕒 **Posted:** 2026-08-13
 
-### [Healthcare Data Analyst](https://www.linkedin.com/jobs/view/4454048823/) — Blanchard Valley Health System
-- 📍 **Location:** Findlay, OH
+### [Configuration Data Management Specialist](https://www.linkedin.com/jobs/view/4436121846/) — Systems Planning & Analysis
+- 📍 **Location:** Dayton, OH
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454058543/) — TalentAlly
-- 📍 **Location:** San Antonio, Texas Metropolitan Area
-- 💰 **Salary:** $77,120 - $138,810
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4450805768/) — HETI
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [Natural Resources Specialist (Ranger)](https://www.linkedin.com/jobs/view/4453207665/) — US Army Corps of Engineers
-- 📍 **Location:** Felsenthal, AR
+### [Field Technician I](https://www.linkedin.com/jobs/view/4450800746/) — SGS
+- 📍 **Location:** Sophia, WV
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Scientist / Senior Data Analyst](https://www.linkedin.com/jobs/view/4453205710/) — Integra FEC
-- 📍 **Location:** Austin, TX
+### [Junior Field Technician](https://www.linkedin.com/jobs/view/4454067163/) — SOCOTEC US
+- 📍 **Location:** Farmingdale, NY
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454056549/) — TalentAlly
-- 📍 **Location:** Greater Colorado Springs Area
-- 💰 **Salary:** $77,120 - $138,810
+### [Program Coordinator II](https://www.linkedin.com/jobs/view/4450816581/) — Research Compliance Office at the Texas A&M University System
+- 📍 **Location:** College Station, TX
 - 🕒 **Posted:** 2026-08-13
 
-### [CQA Field Technician – Compacted Clay & Geosynthetic Liners](https://www.linkedin.com/jobs/view/4454042872/) — CQA Solutions, LTD
-- 📍 **Location:** Ohio, United States
+### [Business Data Analyst II](https://www.linkedin.com/jobs/view/4451953571/) — University of North Texas System
+- 📍 **Location:** Denton, TX
 - 🕒 **Posted:** 2026-08-13
 
-### [Geology Technician II](https://www.linkedin.com/jobs/view/4416465516/) — Freeport-McMoRan
-- 📍 **Location:** Leadville, CO
-- 💰 **Salary:** $24.50 - $33.00/hour
+### [Data Analyst Mid](https://www.linkedin.com/jobs/view/4454076088/) — Progressive Insurance
+- 📍 **Location:** United States
+- 💰 **Salary:** $67,300 - $89,700/year
 - 🕒 **Posted:** 2026-08-13
 
-### [Senior Field Technician](https://www.linkedin.com/jobs/view/4454061605/) — ECS Group of Companies
-- 📍 **Location:** Jacksonville, FL
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4453202921/) — Clarion Events Inc. - North America
+- 📍 **Location:** United States
+- 💰 **Salary:** $85,000.00/yr - $95,000.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4454059360/) — Cable One/Sparklight Careers
-- 📍 **Location:** Pocatello, ID
+### [Digital Data Analyst](https://www.linkedin.com/jobs/view/4416416818/) — iHeartMedia
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,000 - $82,500
 - 🕒 **Posted:** 2026-08-13
 
-### [Field Technician- Mining Technology](https://www.linkedin.com/jobs/view/4436111189/) — Komatsu
-- 📍 **Location:** Elko, NV
+### [Project Coordinator | Rogers](https://www.linkedin.com/jobs/view/4454067326/) — Michael Page
+- 📍 **Location:** Rogers, MN
+- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst 3 - 46214](https://www.linkedin.com/jobs/view/4454042967/) — New York State Department of Health
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $106,898.00/yr - $131,665.00/yr
+### [Engineering Project Coordinator](https://www.linkedin.com/jobs/view/4453203942/) — Quest Global
+- 📍 **Location:** Rockford, IL
+- 💰 **Salary:** $22-$24/hour
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454061134/) — TalentAlly
-- 📍 **Location:** Wooster, OH
-- 💰 **Salary:** $80,000 - $100,000
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4448250808/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $43,210.08 - $64,816.08 Annually
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454041363/) — TalentAlly
-- 📍 **Location:** Dublin, CA
+### [Program Coordinator II](https://www.linkedin.com/jobs/view/4450812594/) — Research Compliance Office at the Texas A&M University System
+- 📍 **Location:** Prairie View, TX
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4452993572/) — Levi, Ray & Shoup, Inc. (LRS)
-- 📍 **Location:** Milwaukee, WI
+### [Program Coordinator II](https://www.linkedin.com/jobs/view/4450806624/) — Research Compliance Office at the Texas A&M University System
+- 📍 **Location:** College Station, TX
 - 🕒 **Posted:** 2026-08-13
 
-### [Audit Data Analyst - Senior Auditor (I)](https://www.linkedin.com/jobs/view/4450803264/) — USAA
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** $85,040 - $162,550
+### [MSW Program Coordinator](https://www.linkedin.com/jobs/view/4454049951/) — St. Ambrose University
+- 📍 **Location:** Davenport, IA
 - 🕒 **Posted:** 2026-08-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454057758/) — IDR, Inc.
-- 📍 **Location:** Brentwood, TN
-- 🕒 **Posted:** 2026-08-13
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4453202730/) — CEI
-- 📍 **Location:** Naperville, IL
-- 🕒 **Posted:** 2026-08-13
-
-### [Warrior Care Support Program Coordinator (WPCSC)](https://www.linkedin.com/jobs/view/4454039930/) — Patriot Enterprises LLC
-- 📍 **Location:** Universal City, TX
-- 🕒 **Posted:** 2026-08-13
-
-### [Corporate & Foundation Program Coordinator](https://www.linkedin.com/jobs/view/4450814351/) — KU Endowment
-- 📍 **Location:** Lawrence, KS
-- 🕒 **Posted:** 2026-08-13
-
-### [Behavioral Health Program Coordinator # 26-18618](https://www.linkedin.com/jobs/view/4453207627/) — US Tech Solutions
-- 📍 **Location:** Massachusetts, United States
-- 💰 **Salary:** $32.00/hr - $32.00/hr
+### [Academic Program Coordinator, Education Policy Studies](https://www.linkedin.com/jobs/view/4453205943/) — Penn State University
+- 📍 **Location:** University Park, PA
+- 💰 **Salary:** $40,608.00 - $58,836.00
 - 🕒 **Posted:** 2026-08-13
