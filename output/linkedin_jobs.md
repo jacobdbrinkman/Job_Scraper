@@ -1,110 +1,56 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-13 17:37 UTC*
+*Last updated: 2026-08-13 18:31 UTC*
 
-**24 new role(s)** since last run · 30 total in last 1h
+**11 new role(s)** since last run · 38 total in last 1h
 
-### [Consumer Research Data Analyst](https://www.linkedin.com/jobs/view/4450424713/) — California Lottery
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $4,469.00/mo - $6,922.00/mo
+### [Sr. Data Analyst (Product Analytics)](https://www.linkedin.com/jobs/view/4454065408/) — Thunkable
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $90,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [Project Coordinator (entry level)](https://www.linkedin.com/jobs/view/4454066122/) — Canary Marketing
-- 📍 **Location:** San Ramon, CA
+### [Entry Level Environmental Scientist](https://www.linkedin.com/jobs/view/4453233258/) — Dewberry
+- 📍 **Location:** Orlando, FL
 - 🕒 **Posted:** 2026-08-13
 
-### [Environmental Scientist 1](https://www.linkedin.com/jobs/view/4453221172/) — Atlas
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $30 - $36 hourly
+### [Assistant Project Engineer/Geologist](https://www.linkedin.com/jobs/view/4454067650/) — Engineering/Remediation Resources Group, Inc.
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $70,000 USD - $90,000 USD
 - 🕒 **Posted:** 2026-08-13
 
-### [Language Supports and Services Data Analyst - Student Achievement Resource Center](https://www.linkedin.com/jobs/view/4453211084/) — Cherry Creek School District
-- 📍 **Location:** Englewood, CO
+### [Lead Geologist](https://www.linkedin.com/jobs/view/4434359466/) — WSP in the U.S.
+- 📍 **Location:** Greensboro, NC
 - 🕒 **Posted:** 2026-08-13
 
-### [Assistant Environmental Scientist - Environmental & Regulatory Compliance (Kansas City)](https://www.linkedin.com/jobs/view/4434362268/) — Burns & McDonnell
-- 📍 **Location:** Kansas City, MO
+### [West Henrietta, NY - Office Survey Technician](https://www.linkedin.com/jobs/view/4454072625/) — DDS Companies
+- 📍 **Location:** West Henrietta, NY
+- 💰 **Salary:** $22-$30/Hour
 - 🕒 **Posted:** 2026-08-13
 
-### [Senior Data Analyst / Researcher](https://www.linkedin.com/jobs/view/4454059986/) — Index Analytics LLC
-- 📍 **Location:** Windsor Mill, MD
+### [Sr Data Analyst – ED&A Business Banking](https://www.linkedin.com/jobs/view/4444229565/) — Citizens
+- 📍 **Location:** Westwood, MA
+- 💰 **Salary:** $110,000 - $130,000 per year
 - 🕒 **Posted:** 2026-08-13
 
-### [Facilities and Energy Services Data Analyst](https://www.linkedin.com/jobs/view/4450817482/) — Research Compliance Office at the Texas A&M University System
-- 📍 **Location:** College Station, TX
+### [Business Data Analyst II](https://www.linkedin.com/jobs/view/4451436680/) — DHL Supply Chain
+- 📍 **Location:** Rincon, GA
+- 💰 **Salary:** $55,000 - $90,000
 - 🕒 **Posted:** 2026-08-13
 
-### [INTERNAL POSTING - Program Coordinator II](https://www.linkedin.com/jobs/view/4453222218/) — State of South Carolina
-- 📍 **Location:** Charleston County, SC
+### [Research Data Analyst (Pathology)](https://www.linkedin.com/jobs/view/4453199864/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $49,200 - $86,200 Annually
 - 🕒 **Posted:** 2026-08-13
 
-### [Configuration Data Management Specialist](https://www.linkedin.com/jobs/view/4436121846/) — Systems Planning & Analysis
-- 📍 **Location:** Dayton, OH
+### [SAP Master Data Analyst](https://www.linkedin.com/jobs/view/4454074385/) — Cartamundi North America
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-08-13
 
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4450805768/) — HETI
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
+### [CAD Survey Technician](https://www.linkedin.com/jobs/view/4431974861/) — CyberCoders
+- 📍 **Location:** Menasha, WI
+- 💰 **Salary:** $27.00/hr - $38.00/hr
 - 🕒 **Posted:** 2026-08-13
 
-### [Field Technician I](https://www.linkedin.com/jobs/view/4450800746/) — SGS
-- 📍 **Location:** Sophia, WV
-- 🕒 **Posted:** 2026-08-13
-
-### [Junior Field Technician](https://www.linkedin.com/jobs/view/4454067163/) — SOCOTEC US
-- 📍 **Location:** Farmingdale, NY
-- 🕒 **Posted:** 2026-08-13
-
-### [Program Coordinator II](https://www.linkedin.com/jobs/view/4450816581/) — Research Compliance Office at the Texas A&M University System
-- 📍 **Location:** College Station, TX
-- 🕒 **Posted:** 2026-08-13
-
-### [Business Data Analyst II](https://www.linkedin.com/jobs/view/4451953571/) — University of North Texas System
-- 📍 **Location:** Denton, TX
-- 🕒 **Posted:** 2026-08-13
-
-### [Data Analyst Mid](https://www.linkedin.com/jobs/view/4454076088/) — Progressive Insurance
-- 📍 **Location:** United States
-- 💰 **Salary:** $67,300 - $89,700/year
-- 🕒 **Posted:** 2026-08-13
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4453202921/) — Clarion Events Inc. - North America
-- 📍 **Location:** United States
-- 💰 **Salary:** $85,000.00/yr - $95,000.00/yr
-- 🕒 **Posted:** 2026-08-13
-
-### [Digital Data Analyst](https://www.linkedin.com/jobs/view/4416416818/) — iHeartMedia
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $66,000 - $82,500
-- 🕒 **Posted:** 2026-08-13
-
-### [Project Coordinator | Rogers](https://www.linkedin.com/jobs/view/4454067326/) — Michael Page
-- 📍 **Location:** Rogers, MN
-- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-08-13
-
-### [Engineering Project Coordinator](https://www.linkedin.com/jobs/view/4453203942/) — Quest Global
-- 📍 **Location:** Rockford, IL
-- 💰 **Salary:** $22-$24/hour
-- 🕒 **Posted:** 2026-08-13
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4448250808/) — Commonwealth of Kentucky
-- 📍 **Location:** Frankfort, KY
-- 💰 **Salary:** $43,210.08 - $64,816.08 Annually
-- 🕒 **Posted:** 2026-08-13
-
-### [Program Coordinator II](https://www.linkedin.com/jobs/view/4450812594/) — Research Compliance Office at the Texas A&M University System
-- 📍 **Location:** Prairie View, TX
-- 🕒 **Posted:** 2026-08-13
-
-### [Program Coordinator II](https://www.linkedin.com/jobs/view/4450806624/) — Research Compliance Office at the Texas A&M University System
-- 📍 **Location:** College Station, TX
-- 🕒 **Posted:** 2026-08-13
-
-### [MSW Program Coordinator](https://www.linkedin.com/jobs/view/4454049951/) — St. Ambrose University
-- 📍 **Location:** Davenport, IA
-- 🕒 **Posted:** 2026-08-13
-
-### [Academic Program Coordinator, Education Policy Studies](https://www.linkedin.com/jobs/view/4453205943/) — Penn State University
-- 📍 **Location:** University Park, PA
-- 💰 **Salary:** $40,608.00 - $58,836.00
+### [On Call Archaeology Field Technician](https://www.linkedin.com/jobs/view/4434605112/) — WSP in the U.S.
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $ 26.00 - $39.62 per hour
 - 🕒 **Posted:** 2026-08-13
