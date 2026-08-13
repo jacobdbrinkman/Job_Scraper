@@ -1,90 +1,98 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-12 23:23 UTC*
+*Last updated: 2026-08-13 00:22 UTC*
 
-**19 new role(s)** since last run · 35 total in last 1h
+**20 new role(s)** since last run · 24 total in last 1h
 
-### [RCI-ABO-47123 Project Coordinator (Medical Device) - Alameda, CA,94502](https://www.linkedin.com/jobs/view/4453388402/) — Rangam
-- 📍 **Location:** Alameda, CA
-- 💰 **Salary:** $33.00/hr - $35.27/hr
+### [Lead Safety & Environmental Analyst](https://www.linkedin.com/jobs/view/4422033698/) — Peraton
+- 📍 **Location:** Fort Irwin, CA
+- 💰 **Salary:** $80,000 - $128,000
+- 🕒 **Posted:** 2026-08-13
+
+### [Data Analyst, L&G - Asset Management, America](https://www.linkedin.com/jobs/view/4450406138/) — L&G – Asset Management, America
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-13
+
+### [Survey Field Technician I](https://www.linkedin.com/jobs/view/4446905210/) — Dewberry
+- 📍 **Location:** Lanham, MD
+- 💰 **Salary:** $46,000-$59,000 annually
+- 🕒 **Posted:** 2026-08-13
+
+### [Environmental Health and Safety Project Coordinator](https://www.linkedin.com/jobs/view/4453614066/) — Stanford Medicine Children's Health
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $41.48 to $53.93
 - 🕒 **Posted:** 2026-08-12
 
-### [ENGINEERING GEOLOGIST](https://www.linkedin.com/jobs/view/4453374725/) — Caltrans
-- 📍 **Location:** San Luis Obispo County, CA
-- 💰 **Salary:** $6,488.00/mo - $12,215.00/mo
+### [Environmental Analyst](https://www.linkedin.com/jobs/view/4452769169/) — RoseyFields
+- 📍 **Location:** Santa Monica, CA
 - 🕒 **Posted:** 2026-08-12
 
-### [Project Coordinator (36713)](https://www.linkedin.com/jobs/view/4450193485/) — Agua Caliente Band Of Cahuilla Indians
-- 📍 **Location:** Palm Springs, CA
+### [Staff Field Solutions Engineer (R5524)](https://www.linkedin.com/jobs/view/4453391831/) — Shield AI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000 - $270,000
 - 🕒 **Posted:** 2026-08-12
 
-### [GIS Analyst (Part Time-Contract)](https://www.linkedin.com/jobs/view/4453369794/) — TotalEnergies
+### [Pacific AIDS Education and Training Centers– Program Coordinator](https://www.linkedin.com/jobs/view/4453612100/) — UCLA
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $30.36/hr - $43.49/hr
+- 🕒 **Posted:** 2026-08-12
+
+### [Survey Field Technician](https://www.linkedin.com/jobs/view/4450186936/) — Wilson & Company, Inc., Engineers and Architects
+- 📍 **Location:** Salina, KS
+- 💰 **Salary:** $46,000 - $60,000
+- 🕒 **Posted:** 2026-08-12
+
+### [Product Data Analyst](https://www.linkedin.com/jobs/view/4433882834/) — Zello
 - 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4450190553/) — CFS
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453601427/) — MeeBoss
+- 📍 **Location:** Satellite Beach, FL
+- 🕒 **Posted:** 2026-08-12
+
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4453601205/) — APTIM
+- 📍 **Location:** Norfolk, VA
+- 💰 **Salary:** $32.69 - $35.10 per hour
+- 🕒 **Posted:** 2026-08-12
+
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4453610066/) — APTIM
+- 📍 **Location:** Winter Garden, FL
+- 💰 **Salary:** $32.69 - $35.10 per hour
+- 🕒 **Posted:** 2026-08-12
+
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4453605166/) — APTIM
+- 📍 **Location:** Lenexa, KS
+- 💰 **Salary:** $27.88- $29.81 per hour
+- 🕒 **Posted:** 2026-08-12
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4450179971/) — State of Utah
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $50.00 - $76.00 Hourly
+- 🕒 **Posted:** 2026-08-12
+
+### [Project Coordinator-IL](https://www.linkedin.com/jobs/view/4453390808/) — Homer Companies
+- 📍 **Location:** Lockport, IL
+- 🕒 **Posted:** 2026-08-12
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4450190805/) — TriMark USA
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-08-12
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4450195792/) — Dematic
 - 📍 **Location:** Grand Rapids, MI
-- 💰 **Salary:** $90,000-$110,000
+- 💰 **Salary:** $65,000 - $85,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Business Data Analyst II](https://www.linkedin.com/jobs/view/4450760800/) — DHL Supply Chain
-- 📍 **Location:** Wichita, KS
-- 💰 **Salary:** $55,000 - $90,000
-- 🕒 **Posted:** 2026-08-12
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453368922/) — International SOS
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-08-12
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453396214/) — Corning Incorporated
-- 📍 **Location:** Tolleson, AZ
-- 💰 **Salary:** $64,873.00 - $89,201.00
-- 🕒 **Posted:** 2026-08-12
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4453074932/) — Sundayy
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-12
-
-### [Data Analyst (Dashboard Developer)](https://www.linkedin.com/jobs/view/4453384405/) — Guidehouse
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $98,000.00-$163,000.00
-- 🕒 **Posted:** 2026-08-12
-
-### [Compliance & Quality Reporting Sr. Data Analyst](https://www.linkedin.com/jobs/view/4447338777/) — Southern California Edison (SCE)
-- 📍 **Location:** Pomona, CA
-- 💰 **Salary:** $101,900.00/yr - $152,800.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453096771/) — Sundayy
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-12
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4453384496/) — The Fountain Group
-- 📍 **Location:** Lake County, IL
-- 💰 **Salary:** $46.00/hr - $49.00/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Project Coordinator, CHCC](https://www.linkedin.com/jobs/view/4450194625/) — University of New England
-- 📍 **Location:** Biddeford, ME
-- 🕒 **Posted:** 2026-08-12
-
-### [PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4453383612/) — Loyola University Chicago
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Project Coordinator -Administrative Office of the Courts (AOC)(Non-Merit)](https://www.linkedin.com/jobs/view/4452059648/) — Commonwealth of Kentucky
-- 📍 **Location:** Louisville, KY
+### [Program Project Coordinator -Administrative Office of the Courts (AOC)(Non-Merit)](https://www.linkedin.com/jobs/view/4452071471/) — Commonwealth of Kentucky
+- 📍 **Location:** Shepherdsville, KY
 - 💰 **Salary:** $37,354.56 - $49,719.12 Annually
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4448250808/) — Commonwealth of Kentucky
-- 📍 **Location:** Frankfort, KY
-- 💰 **Salary:** $43,210.08 - $64,816.08 Annually
+### [Program Project Coordinator -Administrative Office of the Courts (AOC)(Non-Merit)](https://www.linkedin.com/jobs/view/4452057890/) — Commonwealth of Kentucky
+- 📍 **Location:** Paducah, KY
+- 💰 **Salary:** $37,354.56 - $49,719.12 Annually
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Coordinator, Student Culture and Community](https://www.linkedin.com/jobs/view/4448571440/) — University of Nebraska-Lincoln
-- 📍 **Location:** Lincoln, Nebraska Metropolitan Area
-- 🕒 **Posted:** 2026-08-12
-
-### [UNIV - Research Program Coordinator I - Psychiatry: Addiction Sciences Division](https://www.linkedin.com/jobs/view/4452718667/) — MUSC Health
-- 📍 **Location:** Charleston, SC
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4453363986/) — Specialized Education Services, Inc.
+- 📍 **Location:** Hoffman Estates, IL
+- 💰 **Salary:** USD $63,000.00 - USD $65,000.00 /Yr
 - 🕒 **Posted:** 2026-08-12
