@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-12 23:26 UTC",
-  "total": 146,
-  "new_count": 5,
+  "scraped_at": "2026-08-13 00:47 UTC",
+  "total": 136,
+  "new_count": 0,
   "jobs": [
     {
       "company": "UDC",
@@ -64,19 +64,6 @@
       "date_posted": "2026-08-06T14:43:06.000Z",
       "description": "Associate's or bachelor's degree in a GIS-related field; GIS software, spatial analysis, geospatial modeling, databases, data formats, remote sensing, GPS, customer support, and technical communication skills.",
       "salary": "$50k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Repsol",
-      "title": "GIS Analyst",
-      "location": "Houston, Texas, United States",
-      "url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
-      "direct_url": "https://repsol.wd3.myworkdayjobs.com/repsol/job/Downtown-Houston/GIS-Analyst_83551-1",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "Undergraduate degree in geography/GIS or related field, 0-2 years GIS experience, familiarity with ArcGIS platforms, cartography skills, strong verbal/written communication, and interest in renewable energy.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -194,19 +181,6 @@
       "date_posted": "2026-07-17T00:00:00.000Z",
       "description": "BS in GIS or related, 5+ years GIS experience with ESRI products, 3+ years geodatabase and AutoCAD/BIM conversion experience, proficiency with ArcGIS suite, Python/JavaScript/SQL, and GIS enterprise maintenance.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stvinc",
-      "title": "GIS Analyst",
-      "location": "Dallas or Austin or Fort Worth",
-      "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Dallas-Texas/GIS-Analyst_JR5834",
-      "direct_url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Dallas-Texas/GIS-Analyst_JR5834",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "Bachelor's in GIS/GIS&T/Geography,8+ years GIS experience,proficiency with ArcMap,ArcGIS Pro,ArcGIS Online and Web AppBuilder/Experience Builder/Dashboards,QA/QC,communication and data analytics skills.",
-      "salary": "$164k–$188k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1603,19 +1577,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "San Diego County Water Authority",
-      "title": "Senior Water Resources Specialist (Water Use Efficiency)",
-      "location": "Kearny Mesa, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sdcwa/jobs/5400936",
-      "direct_url": "https://www.governmentjobs.com/careers/sdcwa/jobs/5400936",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "Bachelor's degree in related field plus 6+ years water resources/environmental planning experience (or equivalent). Requires technical expertise in water-use efficiency, landscape irrigation, program management, data analysis, and strong communication skills.",
-      "salary": "$143k–$192k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering and Environmenta",
       "title": "Senior Environmental Data Analyst",
       "location": "Parsippany, New Jersey, United States",
@@ -1785,71 +1746,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "TEXAS COMMISSION ON ENVIRONMENTAL QUALITY",
-      "title": "TCEQ - Natural Resources Specialist II",
-      "location": "Midland, Texas, United States",
-      "url": "https://erphcmprd.cpa.texas.gov/psc/candidateportal/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=102199&PostingSeq=1&SiteId=1",
-      "direct_url": "https://erphcmprd.cpa.texas.gov/psc/candidateportal/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=102199&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-08-03T12:00:00.000Z",
-      "description": "Bachelor's in natural/physical science, engineering, environmental studies or related field; ability to analyze rules, conduct outreach, and prepare guidance for small businesses and local governments.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Steigerwaldt Land Services",
-      "title": "Natural Resources Specialist",
-      "location": "Tomahawk, Wisconsin, United States",
-      "url": "https://steigerwaldt.bamboohr.com/careers/291",
-      "direct_url": "https://steigerwaldt.bamboohr.com/careers/291",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Entry-level forester role; requires ability to perform field forestry tasks, GPS data collection, travel frequently, valid driver's license, ATV/snowmobile certifications preferred, Microsoft Office and ESRI GIS experience preferred.",
-      "salary": "$44k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Virginia Tech",
-      "title": "Natural Resources Specialist (Forestry Inventory Technician)",
-      "location": "Blacksburg, Virginia, United States",
-      "url": "https://vtemployees.pageuppeople.com/job/537146",
-      "direct_url": "https://vtemployees.pageuppeople.com/job/537146",
-      "date_posted": "2026-07-30T13:00:00.000Z",
-      "description": "Bachelor's in a related field (or equivalent experience), field crew experience in forest inventory/vegetation surveys, tree identification, valid driver's license, ability to work outdoors and complete background checks, proficiency with Microsoft Office, GPS/GNSS, and ESRI GIS tools.",
-      "salary": "$37k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Mississippi",
-      "title": "Environmental/Natural Resources Specialist I",
-      "location": "Rankin County or Jackson",
-      "url": "https://www.governmentjobs.com/careers/mississippi/jobs/5442300",
-      "direct_url": "https://www.governmentjobs.com/careers/mississippi/jobs/5442300",
-      "date_posted": "2026-08-10T22:25:33.434Z",
-      "description": "Bachelor's degree typically required with 0–1 year of experience; requires communication, teamwork, adaptability, problem-solving, and critical-thinking skills.",
-      "salary": "$40k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Plexus Scientific Corporation",
-      "title": "Natural Resources Program Coordinator",
-      "location": "Fort Belvoir or Fort Liberty",
-      "url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "direct_url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Bachelor's in biological or environmental field, 5+ years natural resources experience, knowledge of federal natural resource laws, strong program/project management, communication, and Microsoft Office skills; U.S. citizenship and driver's license required.",
-      "salary": "$70k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Infosys Limited",
       "title": "GIS Consultant",
       "location": "Oakland, California, United States",
@@ -1874,99 +1770,7 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Florida",
-      "title": "ENVIRONMENTAL CONSULTANT - 37010823",
-      "location": "Tallahassee, Florida, United States",
-      "url": "https://jobs.myflorida.com/job/TALLAHASSEE-ENVIRONMENTAL-CONSULTANT-37010823-FL-32399/1417139400/",
-      "direct_url": "https://jobs.myflorida.com/job/TALLAHASSEE-ENVIRONMENTAL-CONSULTANT-37010823-FL-32399/1417139400/",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Seven years of related environmental experience or qualifying post-secondary education, valid driver's license, FCCM designation or ability to obtain it, and skills in environmental analysis, stakeholder coordination, reporting, and MS Office, GIS, and modeling tools.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ardaman & Associates, Inc.",
-      "title": "Environmental Scientist - Sarasota in Sarasota, Florida, United States",
-      "location": "Sarasota, Florida, United States",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-sarasota-55677",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-sarasota-55677",
-      "date_posted": "2026-07-14T21:26:43.652Z",
-      "description": "Bachelor's in a science field, strong technical writing, GIS and computer skills, ability to obtain PE or Geologist licensure within 2 years, ability to work weekends/extended hours and travel to field sites.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "FNB Corporation",
-      "title": "Geospatial Data Analyst",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Pittsburgh-PA/Geospatial-Data-Analyst_2026-01927",
-      "direct_url": "https://fnbcorp.wd501.myworkdayjobs.com/fnbcorp/job/Pittsburgh-PA/Geospatial-Data-Analyst_2026-01927",
-      "date_posted": "2026-08-12T00:00:00.000Z",
-      "description": "Bachelor's degree and 5 years of related experience required. Requires analytics, communication, organization, Python, SQL, Esri GIS Platform, Microsoft Word, Excel, and PowerPoint skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Diversified Gas & Oil Corporation",
-      "title": "Senior Geologist",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers.div.energy/jobs/2637?lang=en-us",
-      "direct_url": "https://careers.div.energy/jobs/2637?lang=en-us",
-      "date_posted": "2026-07-29T20:41:19.000Z",
-      "description": "10+ years geology experience focused on Oklahoma and unconventional reservoir evaluation; proficiency with Petra, ArcGIS, and Danomics; strong petrophysical/geophysical workflows and well planning experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ans",
-      "title": "Geologist II",
-      "location": "Columbus, Ohio, United States",
-      "url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
-      "direct_url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
-      "date_posted": "2026-08-01T03:37:37.612Z",
-      "description": "Bachelor's in Geology/Earth Science, ≥6 months relevant experience, experience with geotechnical and geophysical investigations and project coordination, and proficiency with AutoCAD and QGIS.",
-      "salary": "$66k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Cameco",
-      "title": "Geologist (42351)",
-      "location": "Douglas, Wyoming, United States",
-      "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351",
-      "direct_url": "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351",
-      "date_posted": "2026-07-22T21:41:27.000Z",
-      "description": "Bachelor's in geology required, valid driver’s license, field and office geology experience, geophysical log interpretation, mapping, sampling, report writing; ArcGIS and Microsoft Office preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Turner Mining Group",
-      "title": "Senior Geologist",
-      "location": "Winnemucca, Nevada, United States",
-      "url": "https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist",
-      "direct_url": "https://turner-mining-group.breezy.hr/p/c8a9aca1081b-senior-geologist",
-      "date_posted": "2026-07-23T20:28:07.851Z",
-      "description": "Bachelor's in Geosciences, field camp experience, strong exploration geology and QA/QC skills; 10+ years preferred; experience with drilling, mapping, sampling, and geological modeling.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
