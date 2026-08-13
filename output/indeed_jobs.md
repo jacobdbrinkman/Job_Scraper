@@ -1,29 +1,13 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-13 00:45 UTC*
+*Last updated: 2026-08-13 03:17 UTC*
 
-**5 new role(s)** since last run · 10 total in last 24h
+**2 new role(s)** since last run · 12 total in last 24h
 
-### [Environmental Scientist/Project Manager](https://www.indeed.com/viewjob?jk=8cb6e72f24fbb479) — EnSafe Inc.
-- 📍 **Location:** Del Mar, CA, US
-- 💰 **Salary:** $71k–$110k/yr
+### [Environmental GIS Specialist](https://www.indeed.com/viewjob?jk=568bbae090c740c1) — Unknown
+- 📍 **Location:** Coachella, CA, US
 - 🕒 **Posted:** 2026-08-12
 
-### [Environmental Scientist/Project Manager](https://www.indeed.com/viewjob?jk=3863003e8d321d46) — EnSafe Inc.
-- 📍 **Location:** San Marcos, CA, US
-- 💰 **Salary:** $71k–$110k/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Environmental Scientist/Project Manager](https://www.indeed.com/viewjob?jk=ecad731c4ad53c92) — EnSafe Inc.
-- 📍 **Location:** Poway, CA, US
-- 💰 **Salary:** $71k–$110k/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Environmental Scientist/Project Manager](https://www.indeed.com/viewjob?jk=b1fe3f2861ff7324) — EnSafe Inc.
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $71k–$110k/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Environmental Scientist/Project Manager](https://www.indeed.com/viewjob?jk=170d4a5698d393f7) — EnSafe Inc.
-- 📍 **Location:** Escondido, CA, US
-- 💰 **Salary:** $71k–$110k/yr
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=f91df706620308ec) — TRC
+- 📍 **Location:** Woodinville, WA, US
+- 💰 **Salary:** $24–$27/hr
 - 🕒 **Posted:** 2026-08-12
