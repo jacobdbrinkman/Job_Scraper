@@ -1,13 +1,41 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-14 03:16 UTC*
+*Last updated: 2026-08-14 05:22 UTC*
 
-**2 new role(s)** since last run · 142 total in last 30d
+**8 new role(s)** since last run · 147 total in last 30d
 
-### [GIS Analyst](https://job-boards.greenhouse.io/assystinc/jobs/4368456009) — ASSYST, Inc.
-- 📍 **Location:** Gaithersburg, Maryland, United States
-- 🕒 **Posted:** 2026-08-13T12:02:53.000Z
+### [GIS Analyst](https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/CSFS-Foothills/GIS-Analyst_R2026105077) — Colorado State University
+- 📍 **Location:** Fort Collins, Colorado, United States
+- 💰 **Salary:** $60k–$65k/yr
+- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
 
-### [Utilities Industry ArcGIS Consultant](https://www.accenture.com/us-en/careers/jobdetails?id=R00351019_en&title=Utilities+Industry+ArcGIS+Consultant) — Accenture
-- 📍 **Location:** Albany or Arlington or Atlanta or Austin or Beaverton or Bentonville or Boston or Carmel or Charlotte or Chicago or Cincinnati or Cleveland or Columbus or Culver City or Denver or Des Moines or Detroit or Hartford or Houston or Kirkland or Miami or Milwaukee or Minneapolis or Morristown or Mountain View or Nashville or New York City or Oklahoma City or Overland Park or Philadelphia or Pittsburgh or Raleigh or Sacramento or San Diego or San Francisco or Scottsdale or Seattle or St. Louis or St. Petersburg or Walnut Creek or United States
-- 💰 **Salary:** $54k–$206k/yr
-- 🕒 **Posted:** 2026-08-13T14:12:02.732Z
+### [GIS Analyst III](https://careers2-quanta.icims.com/jobs/17630/gis-analyst-iii/job?hub=15&in_iframe=1) — Canacre
+- 📍 **Location:** Spring, Texas, United States
+- 🕒 **Posted:** 2026-08-13T04:00:00.000Z
+
+### [GIS Analyst II](https://prim.wd108.myworkdayjobs.com/primoris/job/Nationwide/GIS-Analyst-II_JR101528) — Prim
+- 📍 **Location:** United States
+- 💰 **Salary:** $70k–$100k/yr
+- 🕒 **Posted:** 2026-08-10T00:00:00.000Z
+
+### [GIS Analyst II](https://hntb.jobs/nashville-tn/gis-analyst-ii/228A1154100143E5B4943A3566122D71/job/) — HNTB
+- 📍 **Location:** Nashville, Tennessee, United States
+- 🕒 **Posted:** 2026-08-10T17:48:38.000Z
+
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+
+### [Environmental Scientist II](https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Anchorage-AK/Environmental-Scientist-II_JR109609) — Calista Brice
+- 📍 **Location:** Anchorage or Grand Junction or Fairbanks or Salt Lake City
+- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
+
+### [Geologist](https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/) — AECOM
+- 📍 **Location:** Westlake Village, California, United States
+- 💰 **Salary:** $70k–$72k/yr
+- 🕒 **Posted:** 2026-08-12T06:46:56.000Z
+
+### [Environmental Chemist and/or Environmental Data Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417899) — Hana Engineers and Consultants, LLC
+- 📍 **Location:** United States
+- 💰 **Salary:** $70k–$90k/yr
+- 🕒 **Posted:** 2026-08-13T17:44:38.000Z
