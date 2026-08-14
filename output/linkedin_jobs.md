@@ -1,41 +1,91 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-14 00:21 UTC*
+*Last updated: 2026-08-14 03:07 UTC*
 
-**8 new role(s)** since last run · 28 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Environmental & Social Responsibility Project Coordinator](https://www.linkedin.com/jobs/view/4453283538/) — VF Corporation
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $64,800.00 USD - $81,000.00 USD annually
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454370021/) — MeeBoss
+- 📍 **Location:** United States
+- 💰 **Salary:** $60,000-80,000/year
 - 🕒 **Posted:** 2026-08-14
 
-### [Environmental Scientist III](https://www.linkedin.com/jobs/view/4445792622/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $81,000 - $104,000
+### [AI Data Analyst, Journeyman](https://www.linkedin.com/jobs/view/4450928300/) — KSA Integration
+- 📍 **Location:** United States
+- 💰 **Salary:** $100,000 - $120,000 USD
 - 🕒 **Posted:** 2026-08-14
 
-### [Project Coordinator (Walmart)](https://www.linkedin.com/jobs/view/4453277642/) — Henderson Engineers
-- 📍 **Location:** Lenexa, KS
+### [Senior Data Analyst (5469C), California Policy Lab #88224](https://www.linkedin.com/jobs/view/4454342731/) — University of California, Berkeley
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $95,000.00 - 130,000.00
 - 🕒 **Posted:** 2026-08-14
 
-### [Embraer Program Coordinator - 1447](https://www.linkedin.com/jobs/view/4454343006/) — West Star Aviation Inc.
-- 📍 **Location:** East Alton, IL
-- 💰 **Salary:** $125,000-$130,000
+### [Consumer Research Data Analyst](https://www.linkedin.com/jobs/view/4450424713/) — California Lottery
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $4,469.00/mo - $6,922.00/mo
 - 🕒 **Posted:** 2026-08-14
 
-### [Business Operations & Data Analyst](https://www.linkedin.com/jobs/view/4454324270/) — Guidehouse
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $98,000.00-$163,000.00
-- 🕒 **Posted:** 2026-08-13
+### [Early Career Environmental Scientist](https://www.linkedin.com/jobs/view/4453298490/) — WSP in the U.S.
+- 📍 **Location:** Albuquerque, NM
+- 🕒 **Posted:** 2026-08-14
 
-### [Data Analyst, Data Transformation](https://www.linkedin.com/jobs/view/4450844592/) — The Citco Group Limited
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-08-13
+### [Early Career Environmental Scientist](https://www.linkedin.com/jobs/view/4453290534/) — WSP in the U.S.
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-08-14
 
-### [Supply Chain Process & Data Analyst](https://www.linkedin.com/jobs/view/4453275578/) — JLG Industries
-- 📍 **Location:** Frederick, MD
-- 💰 **Salary:** $82,900.00 - $134,300.00
-- 🕒 **Posted:** 2026-08-13
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4454352935/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
+- 🕒 **Posted:** 2026-08-14
 
-### [Research Program Coordinator](https://www.linkedin.com/jobs/view/4454311689/) — Philadelphia College of Osteopathic Medicine
-- 📍 **Location:** Suwanee, GA
-- 🕒 **Posted:** 2026-08-13
+### [Staff Scientist/Geologist – Entry to Mid-level](https://www.linkedin.com/jobs/view/4454366163/) — Tetra Tech
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-14
+
+### [Communications Field Technician II](https://www.linkedin.com/jobs/view/4440306433/) — Total Safety
+- 📍 **Location:** La Porte, TX
+- 🕒 **Posted:** 2026-08-14
+
+### [Emergency Management Program Coordinator](https://www.linkedin.com/jobs/view/4453289707/) — Jefferson County, Washington
+- 📍 **Location:** Jefferson County, WA
+- 🕒 **Posted:** 2026-08-14
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454369045/) — MeeBoss
+- 📍 **Location:** Fairfax County, VA
+- 💰 **Salary:** $90,000-120,000/year
+- 🕒 **Posted:** 2026-08-14
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454349693/) — MeeBoss
+- 📍 **Location:** Satellite Beach, FL
+- 💰 **Salary:** $70,000-90,000/year
+- 🕒 **Posted:** 2026-08-14
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453285526/) — Daxwell
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-08-14
+
+### [Health Data Analyst I/II](https://www.linkedin.com/jobs/view/4454355595/) — Blue Cross of Idaho
+- 📍 **Location:** Meridian, ID
+- 💰 **Salary:** $66,353 - $92,894
+- 🕒 **Posted:** 2026-08-14
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4454357422/) — The Lockwood Group
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-08-14
+
+### [Data Analyst-Senior](https://www.linkedin.com/jobs/view/4450859125/) — UT Health San Antonio
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-08-14
+
+### [Project Coordinator - Power Delivery Project Management](https://www.linkedin.com/jobs/view/4453285509/) — WSP in the U.S.
+- 📍 **Location:** Baton Rouge, LA
+- 🕒 **Posted:** 2026-08-14
+
+### [Project Coordinator - Power Delivery Project Management](https://www.linkedin.com/jobs/view/4453298491/) — WSP in the U.S.
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-08-14
+
+### [Program Coordinator, Neuroscience and Behavioral Biology - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4450848208/) — Emory University
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-14
+
+### [Program Coordinator, Data & Decision Sciences - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4450844765/) — Emory University
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-14
