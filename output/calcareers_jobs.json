@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-08-14 17:06 UTC",
+  "scraped_at": "2026-08-15 16:36 UTC",
   "total": 16,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
-      "date_posted": "2026-07-20",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
     {
       "company": "Department of Transportation",
       "title": "ENVIRONMENTAL SCIENTIST",
@@ -36,6 +27,15 @@
       "location": "Stanislaus County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526566",
       "date_posted": "2026-07-28",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Orange County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
+      "date_posted": "2026-07-20",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
