@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 20:59 UTC",
+  "scraped_at": "2026-08-15 21:58 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "University of California Berkeley",
@@ -72,23 +72,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jemini ",
-      "title": "Senior Geologist",
-      "location": "Mariposa, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=3708f000c7dfa90e",
-      "direct_url": "http://www.indeed.com/job/senior-geologist-3708f000c7dfa90e",
-      "company_url": "https://www.indeed.com/cmp/Jemini-3",
-      "date_posted": "2026-08-15",
-      "description": "**Position Summary**\n\nThe Senior Geologist manages day\\-to\\-day exploration activities, drilling programs, geological interpretation, and field operations. The role provides technical leadership while supporting resource growth and mentoring junior geologists.\n\n**Key Responsibilities**\n\n· ⁠Plan and supervise exploration and drilling programs.\n\n· Log drill core and oversee geological mapping and sampling.\n\n· ⁠Interpret geological, structural, geochemical, and geophysical data.\n\n· ⁠Build and update geological models.\n\n· ⁠Ensure QA/QC protocols are followed.\n\n· ⁠Coordinate drilling contractors and field crews.\n\n· ⁠Prepare technical reports and recommendations.\n\n· ⁠Assist with mineral resource estimation and technical studies.\n\n· ⁠Mentor junior geologists and geological technicians.\n\n· ⁠Maintain high safety and environmental standards.\n\n**Qualifications** \n\n· ⁠B.Sc. in Geology or related discipline.\n\n· ⁠P.Geo. designation or working toward registration.\n\n· ⁠8–10 years of mineral exploration experience.\n\n· Strong understanding of gold exploration systems.\n\n· Experience with geological software and GIS.\n\n· Excellent organizational and communication skills.\n\n· Ability to work independently in remote field environments.\n\nPay: $94,123\\.13 \\- $113,352\\.59 per year\n\nWork Location: In person",
-      "salary": "$94k–$113k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime, contract",
-      "is_remote": true,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
