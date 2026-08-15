@@ -1,18 +1,17 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-15 21:49 UTC*
+*Last updated: 2026-08-15 22:51 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4453938312/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Technical Solutions Engineer](https://www.linkedin.com/jobs/view/4455137325/) — Clark Pacific
+- 📍 **Location:** West Sacramento, CA
 - 🕒 **Posted:** 2026-08-15
 
-### [Peer Counselor Program Coordinator](https://www.linkedin.com/jobs/view/4453945301/) — CommonSpirit Health
-- 📍 **Location:** Lakewood, WA
-- 💰 **Salary:** $29.44 - $48.57 /hour
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453948367/) — Galapagos Federal Systems
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** USD $115,000.00 - USD $125,000.00 /Yr
 - 🕒 **Posted:** 2026-08-15
 
-### [Data Analyst I](https://www.linkedin.com/jobs/view/4453725789/) — Health District
-- 📍 **Location:** Fort Collins, CO
-- 💰 **Salary:** $62,720 – $76,832 annually
+### [Data Analyst II (Enterprise)](https://www.linkedin.com/jobs/view/4454895666/) — Sundayy
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-15
