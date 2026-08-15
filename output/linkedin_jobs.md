@@ -1,41 +1,60 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-15 17:55 UTC*
+*Last updated: 2026-08-15 19:08 UTC*
 
-**8 new role(s)** since last run · 17 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Project Coordinator - Safety Projects / Daylighting](https://www.linkedin.com/jobs/view/4451736526/) — City of New York
-- 📍 **Location:** Manhattan, NY
-- 💰 **Salary:** $62,868.00 – $87,144.00
+### [Mergers & Acquisitions, Integration Project Coordinator, IV](https://www.linkedin.com/jobs/view/4441833135/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $152,000.00 - $208,500.00
 - 🕒 **Posted:** 2026-08-15
 
-### [Solutions Engineer - New Products](https://www.linkedin.com/jobs/view/4445221158/) — Vantor
-- 📍 **Location:** Herndon, VA
+### [Senior Geologist](https://www.linkedin.com/jobs/view/4416318626/) — WSP in the U.S.
+- 📍 **Location:** Tacoma, WA
+- 💰 **Salary:** $74,200 - $126,000
+- 🕒 **Posted:** 2026-08-15
+
+### [Solutions Engineer - New Products](https://www.linkedin.com/jobs/view/4445202984/) — Vantor
+- 📍 **Location:** Westminster, CO
 - 💰 **Salary:** $109,000.00 - $145,000.00
 - 🕒 **Posted:** 2026-08-15
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4451739632/) — Navajo County
-- 📍 **Location:** Holbrook, AZ
+### [Harmon Construction Project Coordinator](https://www.linkedin.com/jobs/view/4455123830/) — Harmon
+- 📍 **Location:** Littleton, CO
 - 🕒 **Posted:** 2026-08-15
 
-### [Sr Data Analyst/Content Manager- Ft Shafter, HI](https://www.linkedin.com/jobs/view/4406400304/) — BAE Systems, Inc.
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $118095 - $200762
-- 🕒 **Posted:** 2026-08-15
-
-### [Environmental Scientist – Mid-Level – Ecology/Biology Focus (Hybrid)](https://www.linkedin.com/jobs/view/4414354353/) — Barr Engineering Co.
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $80,000–$100,000
-- 🕒 **Posted:** 2026-08-15
-
-### [Field Technician](https://www.linkedin.com/jobs/view/4426692681/) — SOCOTEC
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-08-15
-
-### [Administrative Project Coordinator](https://www.linkedin.com/jobs/view/4407554574/) — Pepper Construction Group
-- 📍 **Location:** Barrington, IL
-- 🕒 **Posted:** 2026-08-15
-
-### [Digital Project Coordinator](https://www.linkedin.com/jobs/view/4453950060/) — Dunn&Co.
+### [Building Data Analyst, Facility Operations](https://www.linkedin.com/jobs/view/4406422318/) — McKinstry
 - 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $42,000.00/yr - $52,000.00/yr
+- 💰 **Salary:** $76,320 - $109,980 per year
+- 🕒 **Posted:** 2026-08-15
+
+### [Environmental Engineer, Geologist or Scientist](https://www.linkedin.com/jobs/view/4423158467/) — EA Engineering, Science, and Technology, Inc., PBC
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $50,000—$70,000 USD
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Geologist/Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4435272111/) — WSP in the U.S.
+- 📍 **Location:** Springfield, IL
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4426900739/) — SWBC
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-08-15
+
+### [Senior Data Analyst - Risk Product Data](https://www.linkedin.com/jobs/view/4445339303/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $111,200 - $126,900
+- 🕒 **Posted:** 2026-08-15
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4445250854/) — Wesco
+- 📍 **Location:** Carol Stream, IL
+- 💰 **Salary:** $25.41/hr - $31.77/hr
+- 🕒 **Posted:** 2026-08-15
+
+### [Executive Administrator and Project Coordinator](https://www.linkedin.com/jobs/view/4444368909/) — Mission Technologies, a division of HII
+- 📍 **Location:** Springfield, VA
+- 💰 **Salary:** $78,906.00 - $120,000.00
+- 🕒 **Posted:** 2026-08-15
+
+### [Rural Health Program Coordinator - Mercy Washington](https://www.linkedin.com/jobs/view/2147625155/) — Mercy
+- 📍 **Location:** Washington, MO
 - 🕒 **Posted:** 2026-08-15
