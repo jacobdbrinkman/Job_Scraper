@@ -1,48 +1,73 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-15 00:00 UTC*
+*Last updated: 2026-08-15 02:09 UTC*
 
-**10 new role(s)** since last run · 38 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST) JC-528730](https://www.linkedin.com/jobs/view/4453745250/) — California Department of Public Health
-- 📍 **Location:** Sacramento County, CA
-- 💰 **Salary:** $7,820.00/mo - $10,732.00/mo
-- 🕒 **Posted:** 2026-08-14
+### [Research Data Analyst (8273C), School of Public Health - #88230](https://www.linkedin.com/jobs/view/4454850496/) — University of California, Berkeley
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-08-15
 
-### [Wetland & Environmental Scientist II](https://www.linkedin.com/jobs/view/4454814661/) — RETTEW
-- 📍 **Location:** Uniontown, OH
-- 🕒 **Posted:** 2026-08-14
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453775214/) — University of California, Riverside BCOE Systems
+- 📍 **Location:** Westminster, CA
+- 🕒 **Posted:** 2026-08-15
 
-### [Wetland & Environmental Scientist II](https://www.linkedin.com/jobs/view/4454809790/) — RETTEW
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-08-14
+### [Material Project Coordinator 1](https://www.linkedin.com/jobs/view/4454845579/) — Kenworth Truck Co.
+- 📍 **Location:** Kirkland, WA
+- 💰 **Salary:** $80,800 - $120,800 annually
+- 🕒 **Posted:** 2026-08-15
 
-### [Senior Quality and Data Analyst - SSO Quality & Safety Mgt. - USA Health Shared Services](https://www.linkedin.com/jobs/view/4451276376/) — USA Health
-- 📍 **Location:** Mobile, AL
-- 🕒 **Posted:** 2026-08-14
+### [Assessment Administrator/GIS Technician I or II](https://www.linkedin.com/jobs/view/4454830716/) — Garfield County Govt., CO
+- 📍 **Location:** Glenwood Springs, CO
+- 💰 **Salary:** $20.12 - $24.14
+- 🕒 **Posted:** 2026-08-15
 
-### [Survey Field Technician](https://www.linkedin.com/jobs/view/4448537626/) — Bolton & Menk, Inc.
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-08-14
+### [Operations Data Analyst - Power Systems](https://www.linkedin.com/jobs/view/4454846630/) — Ziegler Caterpillar
+- 📍 **Location:** Shakopee, MN
+- 💰 **Salary:** $71,400.00 to $89,250.00
+- 🕒 **Posted:** 2026-08-15
 
-### [Environmental Scientist III](https://www.linkedin.com/jobs/view/4453746255/) — Commonwealth of Kentucky
-- 📍 **Location:** Hazard, KY
-- 💰 **Salary:** $4,297.66 - $5,941.50 Monthly
-- 🕒 **Posted:** 2026-08-14
+### [Data Analyst I](https://www.linkedin.com/jobs/view/4453760475/) — Neogen Corporation
+- 📍 **Location:** Lincoln, NE
+- 🕒 **Posted:** 2026-08-15
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453748050/) — Talent Glider
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-14
+### [Business and Data Analyst](https://www.linkedin.com/jobs/view/4454848574/) — Booz Allen Hamilton
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $77,600.00 to $176,000.00
+- 🕒 **Posted:** 2026-08-15
 
-### [Wetland & Environmental Scientist II](https://www.linkedin.com/jobs/view/4454813699/) — RETTEW
-- 📍 **Location:** Morgantown, WV
-- 🕒 **Posted:** 2026-08-14
+### [Geologist/Environmental Scientist](https://www.linkedin.com/jobs/view/4453794050/) — AECOM
+- 📍 **Location:** Novi, MI
+- 💰 **Salary:** $50000 to $60000
+- 🕒 **Posted:** 2026-08-15
 
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4451267488/) — HETI
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-08-14
+### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4453764368/) — WGI
+- 📍 **Location:** Fleming Island, FL
+- 🕒 **Posted:** 2026-08-15
 
-### [Business Data Analyst II](https://www.linkedin.com/jobs/view/4454803305/) — DHL Supply Chain
-- 📍 **Location:** Mechanicsburg, PA
-- 💰 **Salary:** $55,000 - $90,000
-- 🕒 **Posted:** 2026-08-14
+### [Field Technician Sr, Damage Prevention](https://www.linkedin.com/jobs/view/4451269712/) — ONE Gas
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-15
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454813897/) — Samaritan's Purse
+- 📍 **Location:** North Wilkesboro, NC
+- 🕒 **Posted:** 2026-08-15
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4454842212/) — Schuff Steel
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-08-15
+
+### [Project Coordinator – Flexible hours, great pay and benefits!](https://www.linkedin.com/jobs/view/4453748801/) — Flex-Staff Inc.
+- 📍 **Location:** Kaukauna, WI
+- 🕒 **Posted:** 2026-08-15
+
+### [Program Coordinator, Political Science - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4450840946/) — Emory University
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-15
+
+### [Construction - Technology Solutions Engineer](https://www.linkedin.com/jobs/view/4454838205/) — Clark Construction Group
+- 📍 **Location:** Reno, NV
+- 🕒 **Posted:** 2026-08-15
+
+### [Youth Program Coordinator](https://www.linkedin.com/jobs/view/4454843675/) — pii
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-15
