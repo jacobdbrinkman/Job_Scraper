@@ -1,55 +1,41 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-15 17:00 UTC*
+*Last updated: 2026-08-15 17:55 UTC*
 
-**12 new role(s)** since last run · 14 total in last 1h
+**8 new role(s)** since last run · 17 total in last 1h
 
-### [Staff Geologist - Environmental Remediation (Denver)](https://www.linkedin.com/jobs/view/4416576161/) — Burns & McDonnell
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $90,000.00-140,000.00
+### [Project Coordinator - Safety Projects / Daylighting](https://www.linkedin.com/jobs/view/4451736526/) — City of New York
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $62,868.00 – $87,144.00
 - 🕒 **Posted:** 2026-08-15
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4426689732/) — SOCOTEC
-- 📍 **Location:** Centennial, CO
+### [Solutions Engineer - New Products](https://www.linkedin.com/jobs/view/4445221158/) — Vantor
+- 📍 **Location:** Herndon, VA
+- 💰 **Salary:** $109,000.00 - $145,000.00
 - 🕒 **Posted:** 2026-08-15
 
-### [Entry Level Environmental Scientist or Geologist (Virginia Beach)](https://www.linkedin.com/jobs/view/4443944727/) — Jacobs
-- 📍 **Location:** Reston, VA
-- 💰 **Salary:** $58,656.00/yr - $87,890.00/yr
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4451739632/) — Navajo County
+- 📍 **Location:** Holbrook, AZ
 - 🕒 **Posted:** 2026-08-15
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4445279923/) — Bandera Electric Cooperative
-- 📍 **Location:** Boerne, TX
+### [Sr Data Analyst/Content Manager- Ft Shafter, HI](https://www.linkedin.com/jobs/view/4406400304/) — BAE Systems, Inc.
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $118095 - $200762
 - 🕒 **Posted:** 2026-08-15
 
-### [Associate Market Solutions Engineer](https://www.linkedin.com/jobs/view/4368335396/) — NYISO
-- 📍 **Location:** Rensselaer, NY
-- 💰 **Salary:** $68,900 - $115,200 USD
+### [Environmental Scientist – Mid-Level – Ecology/Biology Focus (Hybrid)](https://www.linkedin.com/jobs/view/4414354353/) — Barr Engineering Co.
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $80,000–$100,000
 - 🕒 **Posted:** 2026-08-15
 
-### [Environmental Scientist (Mid-Level) (3884)](https://www.linkedin.com/jobs/view/4451733529/) — Navarro Research and Engineering
-- 📍 **Location:** Oak Ridge, TN
+### [Field Technician](https://www.linkedin.com/jobs/view/4426692681/) — SOCOTEC
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-08-15
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4426906656/) — SOCOTEC
-- 📍 **Location:** Salt Lake City, UT
+### [Administrative Project Coordinator](https://www.linkedin.com/jobs/view/4407554574/) — Pepper Construction Group
+- 📍 **Location:** Barrington, IL
 - 🕒 **Posted:** 2026-08-15
 
-### [Field Technician - Kissimmee, FL - Pumps](https://www.linkedin.com/jobs/view/4368048633/) — Opifex-Synergy
-- 📍 **Location:** Kissimmee, FL
-- 🕒 **Posted:** 2026-08-15
-
-### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4453927402/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-15
-
-### [Data Analyst- W2 Contract](https://www.linkedin.com/jobs/view/4453929436/) — Golden Technology
-- 📍 **Location:** Cincinnati Metropolitan Area
-- 🕒 **Posted:** 2026-08-15
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453927462/) — Kelly
-- 📍 **Location:** Mason, OH
-- 🕒 **Posted:** 2026-08-15
-
-### [Project Coordinator III](https://www.linkedin.com/jobs/view/4445231573/) — Texas A&M University
-- 📍 **Location:** College Station, TX
+### [Digital Project Coordinator](https://www.linkedin.com/jobs/view/4453950060/) — Dunn&Co.
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $42,000.00/yr - $52,000.00/yr
 - 🕒 **Posted:** 2026-08-15
