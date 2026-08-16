@@ -1,22 +1,17 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-16 03:26 UTC*
+*Last updated: 2026-08-16 04:11 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 6 total in last 1h
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4449819661/) — Capgemini
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $112,700 - $148,000
+### [Hydrogeologist/Hydrologist](https://www.linkedin.com/jobs/view/4451758531/) — The Foth Companies
+- 📍 **Location:** Madison, WI
+- 💰 **Salary:** $50,000.00/yr - $70,000.00/yr
 - 🕒 **Posted:** 2026-08-16
 
-### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4455172023/) — Excel Fluid Group
-- 📍 **Location:** Brook Park, OH
+### [Archaeological Field Technician – MD/VA/DE](https://www.linkedin.com/jobs/view/4455177107/) — Applied Archaeology and History Associates, Inc.
+- 📍 **Location:** Baltimore County, MD
 - 🕒 **Posted:** 2026-08-16
 
-### [AI Project Coordinator - Fully Remote | Upto $70/hr](https://www.linkedin.com/jobs/view/4439581521/) — Mercor
-- 📍 **Location:** United States
-- 💰 **Salary:** $45.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-08-16
-
-### [Contingent Workforce Program Coordinator](https://www.linkedin.com/jobs/view/4453977300/) — BayOne Solutions
-- 📍 **Location:** New York, NY
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4455166099/) — Nine Engineering
+- 📍 **Location:** Progress, PA
 - 🕒 **Posted:** 2026-08-16
