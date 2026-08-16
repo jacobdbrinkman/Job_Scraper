@@ -1,26 +1,39 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-15 23:07 UTC*
+*Last updated: 2026-08-16 00:25 UTC*
 
-**5 new role(s)** since last run · 136 total in last 30d
+**7 new role(s)** since last run · 142 total in last 30d
 
-### [Senior Environmental Scientist](https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/) — Salt River Project
-- 📍 **Location:** Casa Grande, Arizona, United States
-- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
-
-### [GIS Consultant](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25633&siteid=5439&PageType=JobDetails&jobid=2248122) — Infosys Limited
-- 📍 **Location:** Oakland, California, United States
-- 💰 **Salary:** $102k–$132k/yr
-- 🕒 **Posted:** 2026-07-21T12:00:00.000Z
-
-### [Consulting GIS Specialist (Service Center Manager & Site Supervisor/Application Developer)](https://terrestris-global-solutions.breezy.hr/p/bdfea5b1b70301-consulting-gis-specialist-service-center-manager-site-supervisor-application-developer) — Terrestris Global Solutions
-- 📍 **Location:** Sacramento, California, United States
-- 🕒 **Posted:** 2026-07-21T21:01:28.032Z
-
-### [ENVIRONMENTAL CONSULTANT - 37010823](https://jobs.myflorida.com/job/TALLAHASSEE-ENVIRONMENTAL-CONSULTANT-37010823-FL-32399/1417139400/) — State of Florida
-- 📍 **Location:** Tallahassee, Florida, United States
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
 - 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Utilities Industry ArcGIS Consultant](https://www.accenture.com/us-en/careers/jobdetails?id=R00351019_en&title=Utilities+Industry+ArcGIS+Consultant) — Accenture
-- 📍 **Location:** Albany or Arlington or Atlanta or Austin or Beaverton or Bentonville or Boston or Carmel or Charlotte or Chicago or Cincinnati or Cleveland or Columbus or Culver City or Denver or Des Moines or Detroit or Hartford or Houston or Kirkland or Miami or Milwaukee or Minneapolis or Morristown or Mountain View or Nashville or New York City or Oklahoma City or Overland Park or Philadelphia or Pittsburgh or Raleigh or Sacramento or San Diego or San Francisco or Scottsdale or Seattle or St. Louis or St. Petersburg or Walnut Creek or United States
-- 💰 **Salary:** $54k–$206k/yr
-- 🕒 **Posted:** 2026-08-13T14:12:02.732Z
+### [Geologist](https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/) — AECOM
+- 📍 **Location:** Westlake Village, California, United States
+- 💰 **Salary:** $70k–$72k/yr
+- 🕒 **Posted:** 2026-08-12T06:46:56.000Z
+
+### [TCEQ - Natural Resources Specialist II](https://erphcmprd.cpa.texas.gov/psc/candidateportal/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=102199&PostingSeq=1&SiteId=1) — TEXAS COMMISSION ON ENVIRONMENTAL QUALITY
+- 📍 **Location:** Midland, Texas, United States
+- 💰 **Salary:** $53k/yr
+- 🕒 **Posted:** 2026-08-03T12:00:00.000Z
+
+### [Natural Resources Specialist](https://steigerwaldt.bamboohr.com/careers/291) — Steigerwaldt Land Services
+- 📍 **Location:** Tomahawk, Wisconsin, United States
+- 💰 **Salary:** $44k–$62k/yr
+- 🕒 **Posted:** 2026-07-27T00:00:00.000Z
+
+### [Natural Resources Specialist (Forestry Inventory Technician)](https://vtemployees.pageuppeople.com/job/537146) — Virginia Tech
+- 📍 **Location:** Blacksburg, Virginia, United States
+- 💰 **Salary:** $37k–$48k/yr
+- 🕒 **Posted:** 2026-07-30T13:00:00.000Z
+
+### [Environmental/Natural Resources Specialist I](https://www.governmentjobs.com/careers/mississippi/jobs/5446566) — State of Mississippi
+- 📍 **Location:** Lafayette County, Mississippi, United States
+- 💰 **Salary:** $40k–$59k/yr
+- 🕒 **Posted:** 2026-08-13T00:26:28.000Z
+
+### [Natural Resources Program Coordinator](https://plexsci.isolvedhire.com/jobs/1828955) — Plexus Scientific Corporation
+- 📍 **Location:** Fort Belvoir or Fort Liberty
+- 💰 **Salary:** $70k–$120k/yr
+- 🕒 **Posted:** 2026-07-27T00:00:00.000Z
