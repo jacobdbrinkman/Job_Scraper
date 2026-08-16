@@ -1,22 +1,22 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-16 02:10 UTC*
+*Last updated: 2026-08-16 03:26 UTC*
 
 **4 new role(s)** since last run · 4 total in last 1h
 
-### [Executive Assistant / Project Coordinator](https://www.linkedin.com/jobs/view/4453974206/) — DEL ACADEMY
-- 📍 **Location:** California, United States
+### [Data Analyst](https://www.linkedin.com/jobs/view/4449819661/) — Capgemini
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $112,700 - $148,000
 - 🕒 **Posted:** 2026-08-16
 
-### [Peer Counselor Program Coordinator](https://www.linkedin.com/jobs/view/4451757054/) — Virginia Mason Franciscan Health
-- 📍 **Location:** Lakewood, WA
-- 💰 **Salary:** $29.44 - $48.57 /hour
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4455172023/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
 - 🕒 **Posted:** 2026-08-16
 
-### [Data Analyst | AWS Cloud | PostgreSQL](https://www.linkedin.com/jobs/view/4450937030/) — Capgemini
+### [AI Project Coordinator - Fully Remote | Upto $70/hr](https://www.linkedin.com/jobs/view/4439581521/) — Mercor
+- 📍 **Location:** United States
+- 💰 **Salary:** $45.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-08-16
+
+### [Contingent Workforce Program Coordinator](https://www.linkedin.com/jobs/view/4453977300/) — BayOne Solutions
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00/yr - $118,000.00/yr
-- 🕒 **Posted:** 2026-08-16
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4453945316/) — Greater Indy Habitat for Humanity
-- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-08-16
