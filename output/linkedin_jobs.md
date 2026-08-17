@@ -1,60 +1,110 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-17 22:03 UTC*
+*Last updated: 2026-08-17 23:03 UTC*
 
-**12 new role(s)** since last run · 53 total in last 1h
+**23 new role(s)** since last run · 25 total in last 1h
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4455386235/) — Martenson, Hasbrouck & Simon LLP
-- 📍 **Location:** Costa Mesa, CA
-- 💰 **Salary:** $75,000 - $95,000
+### [RESEARCH DATA ANALYST II](https://www.linkedin.com/jobs/view/4452628174/) — California Department of Social Services
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $6,647.00/mo - $8,325.00/mo
 - 🕒 **Posted:** 2026-08-17
 
-### [Associate Geologist/Hydrogeologist](https://www.linkedin.com/jobs/view/4455382315/) — WSP in the U.S.
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $80,169 - $84,200
+### [Archaeological Field Technician (Field Based)](https://www.linkedin.com/jobs/view/4445535858/) — ERM
+- 📍 **Location:** Ontario, CA
+- 💰 **Salary:** $73,207 – $95,761
 - 🕒 **Posted:** 2026-08-17
 
-### [Associate Geologist/Hydrogeologist](https://www.linkedin.com/jobs/view/4455393231/) — WSP in the U.S.
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $80,169 - $84,200
+### [Archaeological Field Technician (Field Based)](https://www.linkedin.com/jobs/view/4445537828/) — ERM
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $73,207 – $95,761
 - 🕒 **Posted:** 2026-08-17
 
-### [Field Geologist / Geotechnical Coordinator](https://www.linkedin.com/jobs/view/4454436056/) — TTL, Inc.
-- 📍 **Location:** Tuscaloosa, AL
-- 💰 **Salary:** $20.00/hr - $25.00/hr
+### [Field Technician III](https://www.linkedin.com/jobs/view/4455383736/) — Electric Power Systems
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $45.00 – $60.00 per hour
 - 🕒 **Posted:** 2026-08-17
 
-### [Associate Geologist/Hydrogeologist](https://www.linkedin.com/jobs/view/4455380374/) — WSP in the U.S.
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $80,169 - $84,200
+### [Geologist](https://www.linkedin.com/jobs/view/4454294646/) — Colorado School of Mines
+- 📍 **Location:** Colorado, United States
 - 🕒 **Posted:** 2026-08-17
 
-### [Data Analyst - Hybrid Role - Locals Only to Pensacola, FL](https://www.linkedin.com/jobs/view/4454431698/) — Zillion Technologies, Inc.
-- 📍 **Location:** Pensacola, FL
+### [Data Analyst III(Network Traffic Analytics)](https://www.linkedin.com/jobs/view/4455387669/) — Iridium
+- 📍 **Location:** Chandler, AZ
+- 💰 **Salary:** $95,000 - $125,000 USD
 - 🕒 **Posted:** 2026-08-17
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4454422748/) — DISH TV
-- 📍 **Location:** Douglas, WY
+### [Environmental Scientist/Geologist (CT)](https://www.linkedin.com/jobs/view/4454443035/) — Weston & Sampson
+- 📍 **Location:** Rocky Hill, CT
+- 💰 **Salary:** $55,000.00/yr - $57,000.00/yr
 - 🕒 **Posted:** 2026-08-17
 
-### [Environmental Scientist 2 - Project Scientist](https://www.linkedin.com/jobs/view/4455386185/) — Apex Companies
-- 📍 **Location:** Iselin, NJ
-- 💰 **Salary:** $55,000 USD - $72,000 USD
+### [ES Field Technician II](https://www.linkedin.com/jobs/view/4454448034/) — Republic Services
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-08-17
 
-### [Experienced Data Analyst – Wealth Management – New York](https://www.linkedin.com/jobs/view/4440480327/) — Evercore Wealth Management
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
+### [Healthcare Business Data Analyst (Need only on W2)](https://www.linkedin.com/jobs/view/4454426875/) — Noblesoft Solutions
+- 📍 **Location:** Jacksonville, FL
 - 🕒 **Posted:** 2026-08-17
 
-### [Finance Data Analyst](https://www.linkedin.com/jobs/view/4452502076/) — UW Credit Union
-- 📍 **Location:** Madison, WI
-- 💰 **Salary:** $86,400.00/yr - $95,500.00/yr
+### [Field Technician, Leak Survey](https://www.linkedin.com/jobs/view/4454428954/) — Heath
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $19.00/hr - $20.00/hr
 - 🕒 **Posted:** 2026-08-17
 
-### [Project Coordinator – Data Entry & Rebate Processing](https://www.linkedin.com/jobs/view/4455382265/) — HireTalent - Staffing & Recruiting Firm
+### [ES Field Technician II](https://www.linkedin.com/jobs/view/4454435224/) — Republic Services
+- 📍 **Location:** Greensboro, NC
+- 🕒 **Posted:** 2026-08-17
+
+### [Data Management Specialist II](https://www.linkedin.com/jobs/view/4454451039/) — Children's Network of Hillsborough
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-08-17
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4455390289/) — TalentAlly
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $77,120 - $138,810
+- 🕒 **Posted:** 2026-08-17
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4455392224/) — TalentAlly
+- 📍 **Location:** San Antonio, Texas Metropolitan Area
+- 💰 **Salary:** $77,120 - $138,810
+- 🕒 **Posted:** 2026-08-17
+
+### [Data Analyst, IEM360](https://www.linkedin.com/jobs/view/4455390452/) — Industrial Electric Mfg. (IEM)
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-08-17
+
+### [Construction Data Analyst](https://www.linkedin.com/jobs/view/4454433762/) — Turner & Townsend
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $90K - $140K per year
+- 🕒 **Posted:** 2026-08-17
+
+### [Geospatial Analyst - Data Specialist](https://www.linkedin.com/jobs/view/4454457040/) — Coastal Elite Pro
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-08-17
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4455398603/) — ManpowerGroup
+- 📍 **Location:** St Francisville, LA
+- 💰 **Salary:** $110,000 - $145,000
+- 🕒 **Posted:** 2026-08-17
+
+### [Project Coordinator | Commercial Construction](https://www.linkedin.com/jobs/view/4439930164/) — Ultimate Staffing
 - 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $55,000.00/yr - $65,000.00/yr
 - 🕒 **Posted:** 2026-08-17
 
-### [Problem Solving Court (PSC) Program Coordinator](https://www.linkedin.com/jobs/view/4454828849/) — Maryland Judiciary
-- 📍 **Location:** Rockville, MD
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4455505295/) — Washington County
+- 📍 **Location:** Hillsboro, OR
+- 💰 **Salary:** $86,271.48 - $104,816.76
+- 🕒 **Posted:** 2026-08-17
+
+### [Project Coordinator ($40k-$45k)](https://www.linkedin.com/jobs/view/4404790597/) — Ultimate Staffing
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $42,000.00/yr - $45,000.00/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4454442038/) — Hope Network
+- 📍 **Location:** Grand Rapids, MI
+- 🕒 **Posted:** 2026-08-17
+
+### [Program Coordinator, Transplant](https://www.linkedin.com/jobs/view/4454450118/) — Corewell Health
+- 📍 **Location:** Royal Oak, MI
 - 🕒 **Posted:** 2026-08-17
