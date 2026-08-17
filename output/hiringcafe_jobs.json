@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 22:09 UTC",
-  "total": 143,
-  "new_count": 3,
+  "scraped_at": "2026-08-17 23:09 UTC",
+  "total": 140,
+  "new_count": 0,
   "jobs": [
     {
       "company": "UDC",
@@ -1785,45 +1785,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Virginia Tech",
-      "title": "Natural Resources Specialist (Forestry Inventory Technician)",
-      "location": "Blacksburg, Virginia, United States",
-      "url": "https://vtemployees.pageuppeople.com/job/537146",
-      "direct_url": "https://vtemployees.pageuppeople.com/job/537146",
-      "date_posted": "2026-07-30T13:00:00.000Z",
-      "description": "Bachelor's in a related field (or equivalent experience), field crew experience in forest inventory/vegetation surveys, tree identification, valid driver's license, ability to work outdoors and complete background checks, proficiency with Microsoft Office, GPS/GNSS, and ESRI GIS tools.",
-      "salary": "$37k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Mississippi",
-      "title": "Environmental/Natural Resources Specialist I",
-      "location": "Lafayette County, Mississippi, United States",
-      "url": "https://www.governmentjobs.com/careers/mississippi/jobs/5446566",
-      "direct_url": "https://www.governmentjobs.com/careers/mississippi/jobs/5446566",
-      "date_posted": "2026-08-13T00:26:28.000Z",
-      "description": "Typically requires a bachelor's degree and 0–1 year of experience; requires communication, teamwork, adaptability, problem-solving, critical thinking, and collaboration skills.",
-      "salary": "$40k–$59k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Plexus Scientific Corporation",
-      "title": "Natural Resources Program Coordinator",
-      "location": "Fort Belvoir or Fort Liberty",
-      "url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "direct_url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Bachelor's in biological or environmental field, 5+ years natural resources experience, knowledge of federal natural resource laws, strong program/project management, communication, and Microsoft Office skills; U.S. citizenship and driver's license required.",
-      "salary": "$70k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Infosys Limited",
       "title": "GIS Consultant",
       "location": "Oakland, California, United States",
@@ -1863,45 +1824,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Radise International LLC",
-      "title": "GIS Analyst",
-      "location": "West Palm Beach, Florida, United States",
-      "url": "https://careers.jobscore.com/careers/radiseinternationllc/jobs/gis-analyst-a3fSm_VGPbHyTWaArHsFLT?ref=rss&sid=68",
-      "direct_url": "https://careers.jobscore.com/careers/radiseinternationllc/jobs/gis-analyst-a3fSm_VGPbHyTWaArHsFLT?ref=rss&sid=68",
-      "date_posted": "2026-08-17T18:20:54.198Z",
-      "description": "Bachelor's degree in a relevant field and 3+ years of GIS experience. Requires ArcGIS, spatial data, mapping, coordinate systems, dashboard, and technical communication skills; infrastructure experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Westlake Village, California, United States",
-      "url": "https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/",
-      "direct_url": "https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/",
-      "date_posted": "2026-08-12T06:46:56.000Z",
-      "description": "Bachelor's degree in geology or related science, valid U.S. driver's license, U.S. citizenship, fieldwork readiness, travel flexibility, and ability to lift up to 50 pounds. HAZWOPER certification preferred.",
-      "salary": "$70k–$72k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "San Diego County Water Authority",
-      "title": "Senior Water Resources Specialist",
-      "location": "San Diego or California",
-      "url": "https://www.governmentjobs.com/careers/sdcwa/jobs/5420687",
-      "direct_url": "https://www.governmentjobs.com/careers/sdcwa/jobs/5420687",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Bachelor's degree in a related field plus six years of professional water resources or environmental planning experience, or equivalent training and experience; strong project management, analytical, communication, and spreadsheet skills.",
-      "salary": "$143k–$192k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
