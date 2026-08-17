@@ -1,9 +1,9 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-17 18:17 UTC*
+*Last updated: 2026-08-17 19:17 UTC*
 
-**1 new role(s)** since last run · 140 total in last 30d
+**1 new role(s)** since last run · 122 total in last 30d
 
-### [Geologist](https://careers.boozallen.com/jobs/JobDetail/Washington-Geologist-R0246843/128735) — Booz Allen Hamilton
-- 📍 **Location:** Washington, District of Columbia, United States
-- 💰 **Salary:** $78k–$176k/yr
-- 🕒 **Posted:** 2026-08-12T12:00:00.000Z
+### [Geospatial Analyst, Mid](https://careers.boozallen.com/jobs/JobDetail/Aurora-Geospatial-Analyst-Mid-R0247083/128924) — Booz Allen Hamilton
+- 📍 **Location:** Aurora, Colorado, United States
+- 💰 **Salary:** $62k–$141k/yr
+- 🕒 **Posted:** 2026-08-17T12:00:00.000Z
