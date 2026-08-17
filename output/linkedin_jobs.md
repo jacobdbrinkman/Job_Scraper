@@ -1,27 +1,16 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-17 02:09 UTC*
+*Last updated: 2026-08-17 03:27 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Field Technician I](https://www.linkedin.com/jobs/view/4453362067/) — MPW Industrial Services
-- 📍 **Location:** Moundsville, WV
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4455214948/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
 - 🕒 **Posted:** 2026-08-17
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4452217425/) — JAK Travel Agency
-- 📍 **Location:** United States
-- 💰 **Salary:** $98,000.00/yr - $132,000.00/yr
+### [Field Technician](https://www.linkedin.com/jobs/view/4455249041/) — Corkyy
+- 📍 **Location:** Marietta, GA
 - 🕒 **Posted:** 2026-08-17
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4452220453/) — Hallford Travels
-- 📍 **Location:** United States
-- 💰 **Salary:** $98,000.00/yr - $132,000.00/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4455212857/) — VitalHires
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $18.25—$29 USD
-- 🕒 **Posted:** 2026-08-17
-
-### [National Sudan Program Coordinator](https://www.linkedin.com/jobs/view/4454223448/) — UMR UMN
-- 📍 **Location:** Indiana, United States
+### [Development Specialist - Event Program Coordinator](https://www.linkedin.com/jobs/view/4454216679/) — University of Utah
+- 📍 **Location:** Salt Lake City, UT
 - 🕒 **Posted:** 2026-08-17
