@@ -1,129 +1,93 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-17 19:16 UTC*
+*Last updated: 2026-08-17 20:08 UTC*
 
-**28 new role(s)** since last run · 28 total in last 1h
+**19 new role(s)** since last run · 44 total in last 1h
 
-### [Procurement Data Analyst](https://www.linkedin.com/jobs/view/4455328961/) — Cupertino Electric, Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $67,500- $128,000
-- 🕒 **Posted:** 2026-08-17
-
-### [Senior Data Analyst, Operations Workforce Strategy](https://www.linkedin.com/jobs/view/4450296821/) — Aurora
+### [Data Analyst](https://www.linkedin.com/jobs/view/4455369264/) — InfoStride
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $115,000 - $167,000 per year
+- 💰 **Salary:** $50.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-08-17
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4455344702/) — MeeBoss
-- 📍 **Location:** United States
-- 💰 **Salary:** $60,000-80,000/year
+### [Land Survey Field Technician I](https://www.linkedin.com/jobs/view/4454414511/) — Forest Lawn Memorial Parks and Mortuaries
+- 📍 **Location:** Glendale, CA
+- 💰 **Salary:** $33.00/hr - $40.00/hr
 - 🕒 **Posted:** 2026-08-17
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4455350574/) — FetchJobs.co
-- 📍 **Location:** United States
+### [Land Survey Field Technician II](https://www.linkedin.com/jobs/view/4454427392/) — Forest Lawn Memorial Parks and Mortuaries
+- 📍 **Location:** Glendale, CA
+- 💰 **Salary:** $34.00/hr - $41.00/hr
 - 🕒 **Posted:** 2026-08-17
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4455334659/) — North Sky Communications
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $24.00 - $26.00
+### [RESEARCH DATA ANALYST II](https://www.linkedin.com/jobs/view/4452628174/) — California Department of Social Services
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $6,647.00/mo - $8,325.00/mo
 - 🕒 **Posted:** 2026-08-17
 
-### [Project Coordinator II](https://www.linkedin.com/jobs/view/4454298985/) — Milestone Technologies, Inc.
-- 📍 **Location:** Menlo Park, CA
+### [Geospatial Analyst, Senior](https://www.linkedin.com/jobs/view/4455368506/) — Booz Allen Hamilton
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $77,600.00 to $176,000.00
 - 🕒 **Posted:** 2026-08-17
 
-### [Staff Geologist](https://www.linkedin.com/jobs/view/4454291923/) — NV5
-- 📍 **Location:** Nevada County, CA
+### [Geospatial Analyst, Mid](https://www.linkedin.com/jobs/view/4455356590/) — Booz Allen Hamilton
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $61,900.00 to $141,000.00
 - 🕒 **Posted:** 2026-08-17
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4454408518/) — Linean
-- 📍 **Location:** Bakersfield, CA
-- 💰 **Salary:** $75,000–$90,000
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454414331/) — DBD International
+- 📍 **Location:** Aiken, SC
 - 🕒 **Posted:** 2026-08-17
 
-### [Project Coordinator- Traffic Control](https://www.linkedin.com/jobs/view/4452272899/) — RoadSafe Traffic Systems
-- 📍 **Location:** Fresno, CA
+### [Hybrid Geosteering Geologist (Remote Training | Houston Operations)](https://www.linkedin.com/jobs/view/4454417117/) — Terra Guidance, LLC
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-17
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4455345632/) — RADISE International
-- 📍 **Location:** West Palm Beach, FL
-- 🕒 **Posted:** 2026-08-17
-
-### [Survey Technician](https://www.linkedin.com/jobs/view/4452286636/) — Keeley Construction Group
-- 📍 **Location:** Cape Girardeau, MO
-- 🕒 **Posted:** 2026-08-17
-
-### [Survey Technician](https://www.linkedin.com/jobs/view/4452276773/) — Keeley Construction Group
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-08-17
-
-### [Procurement Data Analyst](https://www.linkedin.com/jobs/view/4455331743/) — Cupertino Electric, Inc.
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $67,500- $128,000
-- 🕒 **Posted:** 2026-08-17
-
-### [Public Notice - Physical Scientist/Physicist (Direct Hire)](https://www.linkedin.com/jobs/view/4452279636/) — NASA - National Aeronautics and Space Administration
-- 📍 **Location:** Greenbelt, MD
-- 🕒 **Posted:** 2026-08-17
-
-### [Environmental Scientist (Hydrogeologist)](https://www.linkedin.com/jobs/view/4444453976/) — GeoSystems Analysis
-- 📍 **Location:** Tucson, AZ
-- 💰 **Salary:** $68,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Senior Environmental Compliance Specialist / Environmental Scientist](https://www.linkedin.com/jobs/view/4407955511/) — WSP in the U.S.
-- 📍 **Location:** Valhalla, NY
-- 💰 **Salary:** $89,000 - 146,900
-- 🕒 **Posted:** 2026-08-17
-
-### [Field Technician Level 1](https://www.linkedin.com/jobs/view/4455347675/) — Rangeline Group
-- 📍 **Location:** North Carolina, United States
-- 💰 **Salary:** $25.00/hr - $30.00/hr
-- 🕒 **Posted:** 2026-08-17
-
-### [Traveling Field Technician - HAZMAT Emergency Response](https://www.linkedin.com/jobs/view/4455343671/) — Clean Harbors
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $15.00/hr - $36.00/hr
-- 🕒 **Posted:** 2026-08-17
-
-### [Development Facility Field Technician Full Time](https://www.linkedin.com/jobs/view/4455344859/) — Sun Tan City of Southwest Missouri
+### [Project Hydrogeologist](https://www.linkedin.com/jobs/view/4455372475/) — SCS Engineers
 - 📍 **Location:** Madison, WI
-- 💰 **Salary:** $30–$35/hour
+- 💰 **Salary:** USD $80,000.00 - USD $110,000.00 /Yr
 - 🕒 **Posted:** 2026-08-17
 
-### [Data Analyst - BI Reports with Table SSRS](https://www.linkedin.com/jobs/view/4455351827/) — Intellibee Inc
-- 📍 **Location:** Lexington, KY
+### [ARCHAEOLOGY FIELD TECHNICIANS](https://www.linkedin.com/jobs/view/4455364258/) — Broadbent & Associates, Inc.
+- 📍 **Location:** Reno, NV
 - 🕒 **Posted:** 2026-08-17
 
-### [Data Analyst / Data Scientist](https://www.linkedin.com/jobs/view/4454289880/) — Infinedi LLC
-- 📍 **Location:** Tulsa, OK
+### [Field Technician](https://www.linkedin.com/jobs/view/4454420457/) — PDM
+- 📍 **Location:** Des Moines, IA
 - 🕒 **Posted:** 2026-08-17
 
-### [Program Coordinator, Neuroscience and Behavioral Biology - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4450848208/) — Emory University
-- 📍 **Location:** Atlanta, GA
+### [Senior Data Analyst, Institutional Research](https://www.linkedin.com/jobs/view/4454414065/) — Le Moyne College
+- 📍 **Location:** Syracuse, NY
 - 🕒 **Posted:** 2026-08-17
 
-### [Fellowship Program Coordinator](https://www.linkedin.com/jobs/view/4455343673/) — Children's Hospital of The King's Daughters
-- 📍 **Location:** Norfolk, VA
+### [IDEA Data Analyst](https://www.linkedin.com/jobs/view/4452283972/) — University of Colorado Colorado Springs
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $ 56,286- $72,627 annually
 - 🕒 **Posted:** 2026-08-17
 
-### [Program Coordinator, Brand Licensing - Americas](https://www.linkedin.com/jobs/view/4455347821/) — Opensignal
-- 📍 **Location:** Massachusetts, United States
-- 💰 **Salary:** $75,000 - $95,000 USD
+### [Intelligence Data Analyst](https://www.linkedin.com/jobs/view/4455358627/) — Booz Allen Hamilton
+- 📍 **Location:** Ashburn, VA
+- 💰 **Salary:** $62,000.00 to $141,000.00
 - 🕒 **Posted:** 2026-08-17
 
-### [Senior Program Coordinator - School of Medicine Neurology](https://www.linkedin.com/jobs/view/4452291552/) — Emory University
-- 📍 **Location:** Atlanta, GA
+### [AI Data Analyst Junior](https://www.linkedin.com/jobs/view/4450911651/) — KSA Integration
+- 📍 **Location:** United States
+- 💰 **Salary:** $75,000 - $100,000 USD
 - 🕒 **Posted:** 2026-08-17
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4454404936/) — Church World Service
-- 📍 **Location:** Jersey City, NJ
+### [Data Analyst](https://www.linkedin.com/jobs/view/4452282458/) — Synergie Systems Inc.
+- 📍 **Location:** Plano, TX
 - 🕒 **Posted:** 2026-08-17
 
-### [Child Support Program Coordinator](https://www.linkedin.com/jobs/view/4455348495/) — Nebraska Department of Health and Human Services
-- 📍 **Location:** Lincoln, NE
+### [Senior Data Analyst, HR Shared Services](https://www.linkedin.com/jobs/view/4452294505/) — Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $115,000 - $135,000
 - 🕒 **Posted:** 2026-08-17
 
-### [Program Coordinator - Clearance Required](https://www.linkedin.com/jobs/view/4446520478/) — LMI
-- 📍 **Location:** Fort Liberty, NC
-- 💰 **Salary:** $111,000-$192,000
+### [Geospatial Analyst, Mid](https://www.linkedin.com/jobs/view/4455362586/) — Booz Allen Hamilton
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $61,900.00 to $141,000.00
+- 🕒 **Posted:** 2026-08-17
+
+### [Data Analyst IV](https://www.linkedin.com/jobs/view/4452293729/) — MedImpact Healthcare Systems, Inc.
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $60,987 - $80,808
 - 🕒 **Posted:** 2026-08-17
