@@ -1,131 +1,77 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-18 02:12 UTC*
+*Last updated: 2026-08-18 03:28 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**16 new role(s)** since last run · 22 total in last 1h
 
-### [Program Coordinator I](https://www.linkedin.com/jobs/view/4454435945/) — Abode
-- 📍 **Location:** San Leandro, CA
-- 💰 **Salary:** $33.65 – $37.02 per hour
+### [Data Analyst Senior](https://www.linkedin.com/jobs/view/4455560895/) — General Dynamics Information Technology
+- 📍 **Location:** United States
+- 💰 **Salary:** $93,662 - $115,000
 - 🕒 **Posted:** 2026-08-18
 
-### [Data Analyst (PowerBI, Adv. Excel)](https://www.linkedin.com/jobs/view/4454436787/) — Ledgent Technology
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $40.00/hr - $48.00/hr
+### [Archaeological Field Technician (Field Based)](https://www.linkedin.com/jobs/view/4445535858/) — ERM
+- 📍 **Location:** Ontario, CA
+- 💰 **Salary:** $73,207 – $95,761
 - 🕒 **Posted:** 2026-08-18
 
-### [Procurement Project Coordinator— Hospitality Interiors (FF&E)](https://www.linkedin.com/jobs/view/4454437914/) — DyeLot
-- 📍 **Location:** Long Beach, CA
+### [Program Coordinator I](https://www.linkedin.com/jobs/view/4454462168/) — San Diego State University
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $33.80 to $53.93 per hour
 - 🕒 **Posted:** 2026-08-18
 
-### [Field Technician (Mid-Level)](https://www.linkedin.com/jobs/view/4455560472/) — Shannon & Wilson
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $30 to $40 per hour
+### [Project Coordinator III](https://www.linkedin.com/jobs/view/4455556649/) — Nikkiso Clean Energy & Industrial Gases
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $26.00 - $34.00 per hour
 - 🕒 **Posted:** 2026-08-18
 
-### [Apartment Program Coordinator](https://www.linkedin.com/jobs/view/4455568297/) — The Support, Inc. Network
-- 📍 **Location:** Centennial, CO
+### [Program Coordinator, Categorical](https://www.linkedin.com/jobs/view/4454480130/) — South Orange County Community College District
+- 📍 **Location:** Mission Viejo, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [GIS Analyst - Public Works](https://www.linkedin.com/jobs/view/4454454610/) — City of College Station
-- 📍 **Location:** College Station-Bryan Area
+### [Cultural Resources GIS Analyst](https://www.linkedin.com/jobs/view/4448625248/) — Tetra Tech
+- 📍 **Location:** Salisbury, NC
+- 💰 **Salary:** $62,000 - $72,000,
 - 🕒 **Posted:** 2026-08-18
 
-### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4442230119/) — Spire
-- 📍 **Location:** Birmingham, AL
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4455553837/) — Tetra Tech
+- 📍 **Location:** Germantown, MD
 - 🕒 **Posted:** 2026-08-18
 
-### [Geologist II](https://www.linkedin.com/jobs/view/4455564033/) — Calista Brice LLC
-- 📍 **Location:** Salt Lake City, UT
+### [Environmental Scientist V - Air Quality Modeling](https://www.linkedin.com/jobs/view/4454462293/) — Delaware Department of Natural Resources and Environmental Control
+- 📍 **Location:** New Castle, DE
 - 🕒 **Posted:** 2026-08-18
 
-### [Salesforce Data Analyst](https://www.linkedin.com/jobs/view/4455568114/) — MCIM
-- 📍 **Location:** Virginia, United States
+### [Trasmission Field Services Data Analyst Associate - TFS Data Analyst](https://www.linkedin.com/jobs/view/4452523712/) — American Electric Power
+- 📍 **Location:** Roanoke, VA
+- 💰 **Salary:** $63,496-$79,369 /year
 - 🕒 **Posted:** 2026-08-18
 
-### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4455556070/) — Calista Brice LLC
-- 📍 **Location:** Fairbanks, AK
+### [MDM Data Analyst I-IV (Depends on Experience)](https://www.linkedin.com/jobs/view/4452563341/) — Grant County Public Utility District
+- 📍 **Location:** Ephrata, WA
+- 💰 **Salary:** $97,786 - $163,405
 - 🕒 **Posted:** 2026-08-18
 
-### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4455548177/) — Calista Brice LLC
-- 📍 **Location:** Salt Lake City, UT
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4455552747/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
 - 🕒 **Posted:** 2026-08-18
 
-### [Field Technician II](https://www.linkedin.com/jobs/view/4455567592/) — UES
-- 📍 **Location:** North Charleston, SC
+### [Store Operations Data Analyst](https://www.linkedin.com/jobs/view/4455535365/) — O'Reilly Auto Parts
+- 📍 **Location:** Springfield, MO
 - 🕒 **Posted:** 2026-08-18
 
-### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4455547944/) — Calista Brice LLC
-- 📍 **Location:** Grand Junction, CO
-- 💰 **Salary:** $60,000-$80,000
+### [Program Coordinator - Reporting, Training and Continuous Improvement (THRIVE)](https://www.linkedin.com/jobs/view/4454091862/) — University of Kansas Medical Center
+- 📍 **Location:** Wichita, KS
+- 💰 **Salary:** $28.20 - $38.35
 - 🕒 **Posted:** 2026-08-18
 
-### [Geologist II](https://www.linkedin.com/jobs/view/4455556074/) — Calista Brice LLC
-- 📍 **Location:** Fairbanks, AK
+### [Clinical Education Program Coordinator](https://www.linkedin.com/jobs/view/4454470218/) — Wright State University
+- 📍 **Location:** Dayton, OH
 - 🕒 **Posted:** 2026-08-18
 
-### [Senior Geologist](https://www.linkedin.com/jobs/view/4452538745/) — Freeport-McMoRan
-- 📍 **Location:** Bagdad, AZ
-- 💰 **Salary:** $105,000-$145,000
-- 🕒 **Posted:** 2026-08-18
-
-### [Field Technician I](https://www.linkedin.com/jobs/view/4455552622/) — UES
-- 📍 **Location:** Shawnee, KS
-- 🕒 **Posted:** 2026-08-18
-
-### [Field Technician I](https://www.linkedin.com/jobs/view/4455548715/) — UES
-- 📍 **Location:** Chantilly, VA
-- 🕒 **Posted:** 2026-08-18
-
-### [Program Coordinator, 4-H Events](https://www.linkedin.com/jobs/view/4452530716/) — University of Arizona, Maricopa County Cooperative Extension
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-08-18
-
-### [Field Technician Performance Operations](https://www.linkedin.com/jobs/view/4454445803/) — New Jersey Resources
-- 📍 **Location:** Wall Township, NJ
-- 💰 **Salary:** $64,000- $86,500
-- 🕒 **Posted:** 2026-08-18
-
-### [Senior Data Analyst III](https://www.linkedin.com/jobs/view/4454461002/) — Elsevier
-- 📍 **Location:** Forest Home, NY
-- 💰 **Salary:** $115,400.00/yr - $192,200.00/yr
-- 🕒 **Posted:** 2026-08-18
-
-### [IAR Senior Data Analyst](https://www.linkedin.com/jobs/view/4455532621/) — Western Governors University
-- 📍 **Location:** Salt Lake City Metropolitan Area
-- 💰 **Salary:** $91,000.00 - $136,400.00
-- 🕒 **Posted:** 2026-08-18
-
-### [Data Analyst Associate](https://www.linkedin.com/jobs/view/4454443428/) — CLA (CliftonLarsonAllen)
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-08-18
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4454438925/) — Lee Company
-- 📍 **Location:** Franklin, TN
-- 🕒 **Posted:** 2026-08-18
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4455571337/) — AUC Group
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-08-18
-
-### [Project Coordinator (Omaha, NE)](https://www.linkedin.com/jobs/view/4455356389/) — FNBO
-- 📍 **Location:** Omaha Metropolitan Area
-- 💰 **Salary:** $69,616.00-$114,867.00
-- 🕒 **Posted:** 2026-08-18
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4455560581/) — Booz Allen Hamilton
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $55,200.00 to $126,000.00
-- 🕒 **Posted:** 2026-08-18
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4455549660/) — Booz Allen Hamilton
+### [Healthcare Research & Program Coordinator - $75K-$87K - DC](https://www.linkedin.com/jobs/view/4454471190/) — Beacon Hill
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $55,200.00 to $126,000.00
+- 💰 **Salary:** $75,000.00/yr - $87,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Program Coordinator - Hendricks County - Residential](https://www.linkedin.com/jobs/view/4455556436/) — Sycamore Rehabilitation Services, Inc.
-- 📍 **Location:** Danville, IN
-- 🕒 **Posted:** 2026-08-18
-
-### [GA - Clinical Program Coordinator](https://www.linkedin.com/jobs/view/4454444870/) — Health Connect America
-- 📍 **Location:** Dalton, GA
+### [Research Program Coordinator](https://www.linkedin.com/jobs/view/4455554715/) — UW School of Medicine and Public Health
+- 📍 **Location:** Madison, WI
 - 🕒 **Posted:** 2026-08-18
