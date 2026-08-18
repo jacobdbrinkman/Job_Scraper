@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 20:08 UTC",
-  "total": 141,
-  "new_count": 7,
+  "scraped_at": "2026-08-18 21:10 UTC",
+  "total": 140,
+  "new_count": 0,
   "jobs": [
     {
       "company": "UDC",
@@ -1018,19 +1018,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -1044,14 +1031,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "South Dakota State Government",
-      "title": "Environmental Scientist 1",
-      "location": "Pierre, South Dakota, United States",
-      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
-      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
-      "date_posted": "2026-08-15T16:21:14.000Z",
-      "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
-      "salary": "$56k–$63k/yr",
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1065,6 +1052,19 @@
       "date_posted": "2026-07-20T21:00:46.869Z",
       "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, strong writing, communication, MS Office proficiency, and ability to work independently and on teams.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "South Dakota State Government",
+      "title": "Environmental Scientist 1",
+      "location": "Pierre, South Dakota, United States",
+      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "date_posted": "2026-08-15T16:21:14.000Z",
+      "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
+      "salary": "$56k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1746,19 +1746,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Broward County, FL",
-      "title": "Natural Resources Specialist (Mosquito Control)",
-      "location": "Pompano Beach or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
-      "url": "https://www.governmentjobs.com/careers/broward/jobs/5445316",
-      "direct_url": "https://www.governmentjobs.com/careers/broward/jobs/5445316",
-      "date_posted": "2026-08-18T17:47:17.028Z",
-      "description": "Bachelor's degree in chemistry, geology, biology, environmental science, or related field; six months related experience; valid Florida Class E driver's license; mosquito control and pesticide knowledge required.",
-      "salary": "$57k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Virginia Tech",
       "title": "Natural Resources Specialist (Forestry Inventory Technician)",
       "location": "Blacksburg, Virginia, United States",
@@ -1837,97 +1824,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Boise or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Westlake Village, California, United States",
-      "url": "https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/",
-      "direct_url": "https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/",
-      "date_posted": "2026-08-12T06:46:56.000Z",
-      "description": "Bachelor's degree in geology or related science, valid U.S. driver's license, U.S. citizenship, fieldwork readiness, travel flexibility, and ability to lift up to 50 pounds. HAZWOPER certification preferred.",
-      "salary": "$70k–$72k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Devonenergy",
-      "title": "Senior Geologist",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159",
-      "direct_url": "https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Proven track record in onshore unconventional exploration, 10+ years upstream oil & gas experience, graduate degree in geology/geophysics, strong technical leadership, and data integration skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Diversified Gas & Oil Corporation",
-      "title": "Senior Geologist",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers.div.energy/jobs/2637?lang=en-us",
-      "direct_url": "https://careers.div.energy/jobs/2637?lang=en-us",
-      "date_posted": "2026-07-29T20:41:19.000Z",
-      "description": "10+ years geology experience focused on Oklahoma and unconventional reservoir evaluation; proficiency with Petra, ArcGIS, and Danomics; strong petrophysical/geophysical workflows and well planning experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ans",
-      "title": "Geologist II",
-      "location": "Columbus, Ohio, United States",
-      "url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
-      "direct_url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
-      "date_posted": "2026-08-01T03:37:37.612Z",
-      "description": "Bachelor's in Geology/Earth Science, ≥6 months relevant experience, experience with geotechnical and geophysical investigations and project coordination, and proficiency with AutoCAD and QGIS.",
-      "salary": "$66k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Cameco",
-      "title": "Geologist (42351)",
-      "location": "Douglas, Wyoming, United States",
-      "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351",
-      "direct_url": "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351",
-      "date_posted": "2026-07-22T21:41:27.000Z",
-      "description": "Bachelor's in geology required, valid driver’s license, field and office geology experience, geophysical log interpretation, mapping, sampling, report writing; ArcGIS and Microsoft Office preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "County of Santa Clara, CA",
-      "title": "Parks Natural Resource Program Coordinator",
-      "location": "Santa Clara County, California, United States",
-      "url": "https://www.governmentjobs.com/careers/santaclara/jobs/5412011",
-      "direct_url": "https://www.governmentjobs.com/careers/santaclara/jobs/5412011",
-      "date_posted": "2026-07-22T16:41:38.000Z",
-      "description": "Bachelor's in natural resources or related field and 2 years professional natural resource planning/protection; valid CA driver license, Standard First Aid/CPR, Wildfire Red Card; able to perform field work and lifting.",
-      "salary": "$92k–$111k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
