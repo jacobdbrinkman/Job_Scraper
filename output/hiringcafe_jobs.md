@@ -1,24 +1,32 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-19 18:13 UTC*
+*Last updated: 2026-08-19 19:16 UTC*
 
-**4 new role(s)** since last run · 143 total in last 30d
+**6 new role(s)** since last run · 143 total in last 30d
 
-### [GIS Analyst](https://careers.merrick.com/jobs/8431?lang=en-us) — Merrick & Company
-- 📍 **Location:** Greenwood Village, Colorado, United States
-- 💰 **Salary:** $62k–$80k/yr
-- 🕒 **Posted:** 2026-07-30T14:58:27.000Z
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
+- 📍 **Location:** Denver or United States
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Environmental Scientist I](https://pcshi.bamboohr.com/careers/27) — Pacific Commercial Services
-- 📍 **Location:** Kapolei, Hawaii, United States
-- 💰 **Salary:** $65k/yr
+### [Environmental Scientist](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/5202/Environmental-Scientist_JR104845) — City of Austin
+- 📍 **Location:** Austin or United States
+- 💰 **Salary:** $62k–$78k/yr
 - 🕒 **Posted:** 2026-08-19T00:00:00.000Z
 
-### [Senior Hydrologist-C-E-000006481](https://fa-eqsg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/4430) — BOCC Career Site
-- 📍 **Location:** Tampa, Florida, United States
-- 💰 **Salary:** $65k–$105k/yr
-- 🕒 **Posted:** 2026-07-23T17:48:16.000Z
+### [Senior Geologist](https://devonenergy.wd5.myworkdayjobs.com/careers/job/Pittsburgh-PA/Senior-Geologist_R26159) — Devonenergy
+- 📍 **Location:** Pittsburgh, Pennsylvania, United States
+- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
 
-### [Natural Resources Specialist (Mosquito Control)](https://www.governmentjobs.com/careers/broward/jobs/5445316) — Broward County, FL
-- 📍 **Location:** Pompano Beach or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County
-- 💰 **Salary:** $57k–$90k/yr
-- 🕒 **Posted:** 2026-08-18T17:47:17.028Z
+### [Geologist II](https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Grand-Junction-CO/Geologist-II_JR109631-1) — Calista Brice
+- 📍 **Location:** Anchorage or Fairbanks or Salt Lake City or Grand Junction
+- 💰 **Salary:** $60k–$80k/yr
+- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
+
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
+- 📍 **Location:** Morenci, Arizona, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
+
+### [Geologist II](https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106) — Asarco LLC
+- 📍 **Location:** Sahuarita, Arizona, United States
+- 🕒 **Posted:** 2026-07-23T00:11:48.000Z
