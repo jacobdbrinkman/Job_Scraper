@@ -1,155 +1,125 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-19 16:09 UTC*
+*Last updated: 2026-08-19 17:11 UTC*
 
-**34 new role(s)** since last run · 34 total in last 1h
+**28 new role(s)** since last run · 32 total in last 1h
 
-### [Project Coordinator Hybrid 2 days a week onsite in Sacramento](https://www.linkedin.com/jobs/view/4455420138/) — Zeektek
-- 📍 **Location:** Greater Sacramento
-- 🕒 **Posted:** 2026-08-19
-
-### [Project Coordinator - Workforce Development | Hybrid](https://www.linkedin.com/jobs/view/4455439076/) — Zeektek
-- 📍 **Location:** Sacramento, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Support Operations Data Analyst](https://www.linkedin.com/jobs/view/4427767840/) — Harvey
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $112,000 - $168,000 USD
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4455436015/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4433991504/) — Joseph J. Albanese
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4456322580/) — Applicantz
+### [Data Analyst](https://www.linkedin.com/jobs/view/4456341175/) — Applicantz
 - 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $40.00/yr - $46.43/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4456313690/) — GForce Life Sciences
-- 📍 **Location:** Alameda, CA
+### [Geologist II](https://www.linkedin.com/jobs/view/4445772257/) — HydroGeoLogic, Inc.
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $73,512.00/yr - $106,593.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [GIS Analyst III](https://www.linkedin.com/jobs/view/4456323974/) — Quanta Infrastructure Solutions Group
-- 📍 **Location:** Spring, TX
+### [Program Coordinator (Temporary)](https://www.linkedin.com/jobs/view/4387906731/) — California State University - East Bay
+- 📍 **Location:** Hayward, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Natural Resources Specialist (Ranger)](https://www.linkedin.com/jobs/view/4455441150/) — US Army Corps of Engineers
-- 📍 **Location:** Felsenthal, AR
+### [Orientation Program Coordinator](https://www.linkedin.com/jobs/view/4388588712/) — San José State University
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Sr. Survey Technician](https://www.linkedin.com/jobs/view/4436814419/) — ENTRUST Solutions Group
-- 📍 **Location:** Linthicum, MD
-- 🕒 **Posted:** 2026-08-19
-
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4454052483/) — System One
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $25.00 - $30.00
-- 🕒 **Posted:** 2026-08-19
-
-### [Field Survey Technician II](https://www.linkedin.com/jobs/view/4443608226/) — JMT
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $25.00 - $38.00/hourly
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453468063/) — Certerra
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $24.00/hr - $28.00/hr
-- 🕒 **Posted:** 2026-08-19
-
-### [Sr. Ore Control Geologist](https://www.linkedin.com/jobs/view/4453454968/) — First Majestic Silver Corp-Jerritt Canyon Gold
-- 📍 **Location:** Elko, NV
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4433990971/) — Gerdau North America
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4455433174/) — Open Systems Technologies
-- 📍 **Location:** Reston, VA
-- 🕒 **Posted:** 2026-08-19
-
-### [Environmental Compliance Specialist / Environmental Scientist](https://www.linkedin.com/jobs/view/4436252414/) — WSP in the U.S.
-- 📍 **Location:** Jackson, MS
-- 🕒 **Posted:** 2026-08-19
-
-### [Environmental Scientist/ Project Manager Reno, NV](https://www.linkedin.com/jobs/view/4444969709/) — Certerra
-- 📍 **Location:** Reno, NV
+### [Environmental Scientist/ Project Manager Fresno](https://www.linkedin.com/jobs/view/4444987047/) — Certerra
+- 📍 **Location:** Fresno, CA
 - 💰 **Salary:** $75,000.00/yr - $95,000.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Environmental Scientist Entry Level- Phoenix, AZ](https://www.linkedin.com/jobs/view/4444982376/) — Certerra
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $75,000.00/yr - $90,000.00/yr
+### [Field Technician III](https://www.linkedin.com/jobs/view/4456356284/) — Sunstate Equipment Co., LLC
+- 📍 **Location:** Colton, CA
+- 💰 **Salary:** $35.50 - $45/HR
 - 🕒 **Posted:** 2026-08-19
 
-### [Data Analyst - Visualization Specialist](https://www.linkedin.com/jobs/view/4453441963/) — CACI International Inc
+### [GIS Technician](https://www.linkedin.com/jobs/view/4456359168/) — SAM
+- 📍 **Location:** Merriam, KS
+- 🕒 **Posted:** 2026-08-19
+
+### [Leak Survey Technician](https://www.linkedin.com/jobs/view/4453468128/) — Magnolia River
+- 📍 **Location:** Rock Hill, SC
+- 🕒 **Posted:** 2026-08-19
+
+### [Project Geologist, Construction Materials](https://www.linkedin.com/jobs/view/4456344309/) — Arcosa Inc.
+- 📍 **Location:** Arlington, TX
+- 🕒 **Posted:** 2026-08-19
+
+### [Staff Geologist](https://www.linkedin.com/jobs/view/4455423290/) — Ur-Energy Inc.
+- 📍 **Location:** Casper, WY
+- 🕒 **Posted:** 2026-08-19
+
+### [RIS Senior Data Analyst](https://www.linkedin.com/jobs/view/4453466280/) — Research Compliance Office at the Texas A&M University System
+- 📍 **Location:** College Station, TX
+- 🕒 **Posted:** 2026-08-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4446565774/) — SAIC
+- 📍 **Location:** Bedford, IN
+- 🕒 **Posted:** 2026-08-19
+
+### [Engineering Project Coordinator](https://www.linkedin.com/jobs/view/4455419795/) — City of Eagan
+- 📍 **Location:** Eagan, MN
+- 💰 **Salary:** $45.68 - $59.23 Hourly
+- 🕒 **Posted:** 2026-08-19
+
+### [Data Analyst Logistics - Pharmacy - Full Time](https://www.linkedin.com/jobs/view/4455439275/) — NYU Langone Health
+- 📍 **Location:** Patchogue, NY
+- 💰 **Salary:** $59,800.80 - $82,524.00 Annually
+- 🕒 **Posted:** 2026-08-19
+
+### [Project Geologist](https://www.linkedin.com/jobs/view/4455443109/) — Ur-Energy Inc.
+- 📍 **Location:** Casper, WY
+- 🕒 **Posted:** 2026-08-19
+
+### [Art Restoration Specialist](https://www.linkedin.com/jobs/view/4454419512/) — Prism Specialties Art of Central Texas
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-19
+
+### [Architectural Project Coordinator](https://www.linkedin.com/jobs/view/4371600013/) — University of Mississippi
+- 📍 **Location:** University, MS
+- 💰 **Salary:** $68,681.60 - $103,001.60
+- 🕒 **Posted:** 2026-08-19
+
+### [Senior Enterprise Data Analyst](https://www.linkedin.com/jobs/view/4437888386/) — First Citizens Bank
+- 📍 **Location:** Raleigh, NC
+- 🕒 **Posted:** 2026-08-19
+
+### [Dealer Audit - Data Analyst & AI Solutions](https://www.linkedin.com/jobs/view/4446554651/) — Stellantis
+- 📍 **Location:** Auburn Hills, MI
+- 🕒 **Posted:** 2026-08-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4455443234/) — Jackson & Correia LLC
+- 📍 **Location:** Massachusetts, United States
+- 💰 **Salary:** $80.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-08-19
+
+### [Data Analyst I - Financial Services](https://www.linkedin.com/jobs/view/4446524693/) — ArcBest
+- 📍 **Location:** Fort Smith, AR
+- 🕒 **Posted:** 2026-08-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453461148/) — Bristol Myers Squibb
+- 📍 **Location:** New Brunswick, NJ
+- 🕒 **Posted:** 2026-08-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4456354299/) — Managed Staffing, Inc.
+- 📍 **Location:** Darien, CT
+- 🕒 **Posted:** 2026-08-19
+
+### [Liquid Cooling Project Coordinator](https://www.linkedin.com/jobs/view/4446806614/) — Tate
+- 📍 **Location:** Columbia, MD
+- 🕒 **Posted:** 2026-08-19
+
+### [Program Coordinator - Epilepsy Surgery](https://www.linkedin.com/jobs/view/4453467197/) — MedStar Health
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $90,300-$189,600
+- 💰 **Salary:** USD $23.65 - USD $42.03 /Hr
 - 🕒 **Posted:** 2026-08-19
 
-### [Geothermal Exploration and Development Geologist](https://www.linkedin.com/jobs/view/4456332878/) — Mazama Energy
-- 📍 **Location:** Dallas-Fort Worth Metroplex
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4455430246/) — South Plains Food Bank
+- 📍 **Location:** Lubbock, TX
 - 🕒 **Posted:** 2026-08-19
 
-### [Construction Materials Testing (CMT) Field Technician (Experienced)](https://www.linkedin.com/jobs/view/4433990237/) — Braun Intertec Corporation
-- 📍 **Location:** Fargo, ND
-- 💰 **Salary:** $50,000.00 - $74,000.00
+### [Program Coordinator II](https://www.linkedin.com/jobs/view/4453473223/) — Research Compliance Office at the Texas A&M University System
+- 📍 **Location:** College Station, TX
 - 🕒 **Posted:** 2026-08-19
 
-### [Entry-Level Field Technician - Construction Materials Testing](https://www.linkedin.com/jobs/view/4455437002/) — Intertek Building & Construction
-- 📍 **Location:** Spring, TX
-- 🕒 **Posted:** 2026-08-19
-
-### [Field Technician - Charleston](https://www.linkedin.com/jobs/view/4450372975/) — Sparus Holdings
-- 📍 **Location:** Mount Pleasant, SC
-- 🕒 **Posted:** 2026-08-19
-
-### [Field Technician Turn](https://www.linkedin.com/jobs/view/4453458877/) — AMH
+### [Cardiac Services Program Coordinator](https://www.linkedin.com/jobs/view/4436500439/) — Sunrise Hospital
 - 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $27.42 to $34.28 Hourly
-- 🕒 **Posted:** 2026-08-19
-
-### [Research Data Analyst II](https://www.linkedin.com/jobs/view/4447596549/) — AdventHealth
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $54,230.45 - $100,875.88
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4453474064/) — Columbia University Irving Medical Center
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-19
-
-### [Support Operations Data Analyst](https://www.linkedin.com/jobs/view/4427787182/) — Harvey
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $112,000 - $168,000 USD
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4456335792/) — Vernovis
-- 📍 **Location:** Mason, OH
-- 🕒 **Posted:** 2026-08-19
-
-### [AI/Data Solutions Engineer TS/SCI (FSP)](https://www.linkedin.com/jobs/view/4425791880/) — IBM
-- 📍 **Location:** Reston, VA
-- 💰 **Salary:** $116,000.00/yr - $216,000.00/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [AI/Data Solutions Engineer TS/SCI (FSP)](https://www.linkedin.com/jobs/view/4426411236/) — IBM
-- 📍 **Location:** Chantilly, VA
-- 💰 **Salary:** $116,000.00/yr - $216,000.00/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Training Program Coordinator](https://www.linkedin.com/jobs/view/4456317769/) — PTR Global
-- 📍 **Location:** Chester, VA
-- 🕒 **Posted:** 2026-08-19
-
-### [Junior Project Coordinator](https://www.linkedin.com/jobs/view/4455423116/) — Badan Eksekutif Mahasiswa FIA UB
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-08-19
-
-### [Program Coordinator, Speech-Language Pathology](https://www.linkedin.com/jobs/view/4456328816/) — Drexel University
-- 📍 **Location:** Elkins Park, PA
-- 💰 **Salary:** $45,330 - $68,000 per year
+- 💰 **Salary:** $80704.00 - $121035.20
 - 🕒 **Posted:** 2026-08-19
