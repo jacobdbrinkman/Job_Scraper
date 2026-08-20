@@ -1,100 +1,137 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-20 18:10 UTC*
+*Last updated: 2026-08-20 19:23 UTC*
 
-**22 new role(s)** since last run · 59 total in last 1h
+**30 new role(s)** since last run · 36 total in last 1h
 
-### [Contingent Workforce Program Coordinator -$75/hr](https://www.linkedin.com/jobs/view/4454221178/) — Trilyon, Inc.
+### [Senior Data Analyst/ Data Engineer lead](https://www.linkedin.com/jobs/view/4456774977/) — Maven Workforce Inc.
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-20
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4456767197/) — Industrial Systems Consulting
-- 📍 **Location:** Bakersfield, CA
+### [Data Analyst – Healthcare Data Quality | Hybrid](https://www.linkedin.com/jobs/view/4456023666/) — Zeektek
+- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Project Coordinator I](https://www.linkedin.com/jobs/view/4427235012/) — Hill International, Inc.
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $70,000-$100,000
+### [Project Coordinator - Project Management Office (PMO)](https://www.linkedin.com/jobs/view/4456794031/) — FELICIS
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $70,000 - $85,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Inventory Data Analyst](https://www.linkedin.com/jobs/view/4456759539/) — Motion
-- 📍 **Location:** Birmingham, AL
+### [Junior Designer/Project Coordinator](https://www.linkedin.com/jobs/view/4451900899/) — Studio John Sharp
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4446834896/) — Arkansas Blue Cross and Blue Shield
-- 📍 **Location:** Little Rock, AR
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4456039099/) — Brooksource
+- 📍 **Location:** Greater Seattle Area
 - 🕒 **Posted:** 2026-08-20
 
-### [Geologist Professional Career Level](https://www.linkedin.com/jobs/view/4456753546/) — Jacobs
-- 📍 **Location:** Gainesville, FL
-- 💰 **Salary:** $92,000.00/yr - $139,150.00/yr
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4456038242/) — Custom Mechanical Solutions
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** $60,000-$80,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Environmental Consultant – Mid/Senior Level – Sediment Remediation (Hybrid)](https://www.linkedin.com/jobs/view/4444173545/) — Barr Engineering Co.
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $115,000–$155,000 annually
+### [Senior Environmental Scientist / Geologist](https://www.linkedin.com/jobs/view/4456774925/) — Tasman, Inc.
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $95,000.00/yr - $125,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Staff Engineer/Geologist/Environmental Scientist](https://www.linkedin.com/jobs/view/4456000674/) — Ensolum, LLC
-- 📍 **Location:** Round Rock, TX
+### [AI/ML Ecosystem Data Analyst](https://www.linkedin.com/jobs/view/4456780857/) — University of Vermont
+- 📍 **Location:** Burlington, VT
+- 💰 **Salary:** $80,000 - $95,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Fourmile - Senior Geologist](https://www.linkedin.com/jobs/view/4446879843/) — Barrick Mining Corporation
-- 📍 **Location:** Elko, NV
+### [Groundwater Modeler/Hydrogeologist](https://www.linkedin.com/jobs/view/4456038116/) — HDR
+- 📍 **Location:** Plymouth Meeting, PA
 - 🕒 **Posted:** 2026-08-20
 
-### [Geologist – Mid Level – Remediation Focus (Hybrid)](https://www.linkedin.com/jobs/view/4426850195/) — Barr Engineering Co.
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $75,000–$95,000 annually
+### [Groundwater Modeler/Hydrogeologist](https://www.linkedin.com/jobs/view/4456032187/) — HDR
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-08-20
 
-### [Environmental Scientist III](https://www.linkedin.com/jobs/view/4453746255/) — Commonwealth of Kentucky
-- 📍 **Location:** Hazard, KY
-- 💰 **Salary:** $4,297.66 - $5,941.50 Monthly
+### [Hydrogeologist](https://www.linkedin.com/jobs/view/4454124867/) — NewRange Copper Nickel
+- 📍 **Location:** Hoyt Lakes, MN
+- 💰 **Salary:** $106,000.00/yr - $125,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Masonry Restoration Specialist](https://www.linkedin.com/jobs/view/4456001490/) — Benchmark Masonry, Inc.
-- 📍 **Location:** Lewistown, MT
+### [Survey Technician](https://www.linkedin.com/jobs/view/4408931615/) — Colliers Engineering & Design
+- 📍 **Location:** New Haven, CT
 - 🕒 **Posted:** 2026-08-20
 
-### [Data Analyst, Customer Insights — New Grad](https://www.linkedin.com/jobs/view/4456005604/) — Jobright.ai
+### [Field Technician](https://www.linkedin.com/jobs/view/4456793256/) — Clarke
+- 📍 **Location:** Roselle, IL
+- 🕒 **Posted:** 2026-08-20
+
+### [Geotechnical Field Technician](https://www.linkedin.com/jobs/view/4456775940/) — Geo-Technology Associates, Inc. (GTA)
+- 📍 **Location:** Wytheville, VA
+- 🕒 **Posted:** 2026-08-20
+
+### [Geotechnical Field Technician](https://www.linkedin.com/jobs/view/4456780952/) — Geo-Technology Associates, Inc. (GTA)
+- 📍 **Location:** Roanoke, VA
+- 🕒 **Posted:** 2026-08-20
+
+### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4456040286/) — Momentum Environmental
+- 📍 **Location:** Syracuse, NY
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454126988/) — Travel Group Luxembourg
 - 📍 **Location:** United States
+- 💰 **Salary:** $50,000.00/yr - $76,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4456017561/) — Jobright.ai
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454124965/) — Billingsley Travel
 - 📍 **Location:** United States
+- 💰 **Salary:** $50,000.00/yr - $76,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Federal Government Financial Data Analyst](https://www.linkedin.com/jobs/view/4456713980/) — VISI Solutions
-- 📍 **Location:** Washington DC-Baltimore Area
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454139032/) — Holidays Travel Ecuador (Agencia de Viajes IATA)
+- 📍 **Location:** United States
+- 💰 **Salary:** $50,000.00/yr - $76,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Data Analyst / Process Simulation Modeler (R&D Engineer 1/2)](https://www.linkedin.com/jobs/view/4438205670/) — Los Alamos National Laboratory
-- 📍 **Location:** Los Alamos, NM
-- 💰 **Salary:** $96,600 - $158,000
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454122940/) — Harvest Advertising Inc
+- 📍 **Location:** United States
+- 💰 **Salary:** $50,000.00/yr - $76,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4452827113/) — Russell-Cooke
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-08-18
+### [Strategic Data Analyst - Global Business Solutions - Austin](https://www.linkedin.com/jobs/view/4456044291/) — TikTok
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-20
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4452222746/) — Macquarie Group
-- 📍 **Location:** Sydney, New South Wales, Australia
-- 🕒 **Posted:** 2026-08-17
+### [Specialty Pharmacy Data Analyst](https://www.linkedin.com/jobs/view/4456011975/) — Loopback Health
+- 📍 **Location:** Dallas-Fort Worth Metroplex
+- 🕒 **Posted:** 2026-08-20
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4453527786/) — CLO Haus
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-08-14
+### [Senior Healthcare Data Analyst](https://www.linkedin.com/jobs/view/4456040067/) — Lucet
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $103,000 - $115,000,
+- 🕒 **Posted:** 2026-08-20
 
-### [Sr. Project Coordinator](https://www.linkedin.com/jobs/view/4441613120/) — RealREPP
-- 📍 **Location:** Dulles, VA
-- 💰 **Salary:** $65,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-08-07
+### [Data Analyst](https://www.linkedin.com/jobs/view/4428070912/) — SWBC
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-08-20
 
-### [Project Coordinator, Industrial](https://www.linkedin.com/jobs/view/4437308524/) — Beedie
-- 📍 **Location:** Burnaby, British Columbia, Canada
-- 💰 **Salary:** $65,000.00/yr - CA$75,000.00/yr
-- 🕒 **Posted:** 2026-08-06
+### [Junior Health Data Analyst](https://www.linkedin.com/jobs/view/4456770522/) — GBMC HealthCare
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $58,488.99 - $93,582.39
+- 🕒 **Posted:** 2026-08-20
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4445846937/) — Standards Australia
-- 📍 **Location:** Sydney, New South Wales, Australia
-- 🕒 **Posted:** 2026-08-02
+### [Senior Operations Data Analyst](https://www.linkedin.com/jobs/view/4429716776/) — Medical Mutual
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Analyst III/II/I](https://www.linkedin.com/jobs/view/4429585415/) — American Fidelity
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-08-20
+
+### [Program Coordinator (Our Closet In Your Neighborhood)](https://www.linkedin.com/jobs/view/4456793287/) — Jewish Family and Children's Service of Greater Philadelphia
+- 📍 **Location:** Bala-Cynwyd, PA
+- 🕒 **Posted:** 2026-08-20
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4456778731/) — ECHO Incorporated
+- 📍 **Location:** Lake Zurich, IL
+- 💰 **Salary:** $50,000-$65,000
+- 🕒 **Posted:** 2026-08-20
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4454127977/) — Magical Destinations Travel by Amy
+- 📍 **Location:** United States
+- 💰 **Salary:** $44,000.00/yr - $68,000.00/yr
+- 🕒 **Posted:** 2026-08-20
