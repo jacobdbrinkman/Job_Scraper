@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 03:34 UTC",
-  "total": 139,
-  "new_count": 7,
+  "scraped_at": "2026-08-20 04:23 UTC",
+  "total": 126,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Colorado State University",
@@ -797,6 +797,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Winter Garden, Florida, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
+      "date_posted": "2026-08-12T20:05:32.050Z",
+      "description": "Bachelor's degree in environmental science, science, engineering, or related field; 2–4 years of related experience; environmental compliance knowledge; strong communication, organization, and Microsoft application skills.",
+      "salary": "$68k–$73k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Mott MacDonald",
       "title": "Environmental Scientist",
       "location": "Los Angeles, California, United States",
@@ -810,14 +823,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
+      "company": "Ayres Associates",
       "title": "Environmental Scientist",
-      "location": "Winter Garden, Florida, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
-      "date_posted": "2026-08-12T20:05:32.050Z",
-      "description": "Bachelor's degree in environmental science, science, engineering, or related field; 2–4 years of related experience; environmental compliance knowledge; strong communication, organization, and Microsoft application skills.",
-      "salary": "$68k–$73k/yr",
+      "location": "Green Bay, Wisconsin, United States",
+      "url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "direct_url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "date_posted": "2026-08-11T20:41:07.441Z",
+      "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -836,14 +849,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ayres Associates",
+      "company": "AECOM",
       "title": "Environmental Scientist",
-      "location": "Green Bay, Wisconsin, United States",
-      "url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
-      "direct_url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
-      "date_posted": "2026-08-11T20:41:07.441Z",
-      "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
-      "salary": "",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -870,19 +883,6 @@
       "date_posted": "2026-08-03T12:00:00.000Z",
       "description": "Bachelor's in biology/ecology/environmental science, 7+ years preparing federal/state/local environmental permits, USACE/NJDEP permitting and wetland delineation experience, 40-hr HAZWOPER or ability to attain, US citizenship.",
       "salary": "$99k–$176k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -979,19 +979,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Muckleshoot Indian Tribe",
-      "title": "Environmental Scientist",
-      "location": "Auburn, Washington, United States",
-      "url": "https://careers-muckleshootgov.icims.com/jobs/6302/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-muckleshootgov.icims.com/jobs/6302/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-21T21:25:00.000Z",
-      "description": "Master's in related field plus 4 years' relevant experience OR Bachelor's plus 8 years; expertise in environmental regulations (NEPA, SEPA, ESA, NPDES, HPAs, USACE), strong analysis, writing, and collaboration skills.",
-      "salary": "$80k–$127k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Rhode Island",
       "title": "ENVIRONMENTAL SCIENTIST I",
       "location": "Providence, Rhode Island, United States",
@@ -1000,6 +987,19 @@
       "date_posted": "2026-08-19T00:00:00.000Z",
       "description": "Bachelor’s degree in an environmental, physical, or biological science, engineering, meteorology, environmental economics, or related field; current motor vehicle license required; environmental fieldwork and regulatory knowledge required.",
       "salary": "$73k–$82k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Muckleshoot Indian Tribe",
+      "title": "Environmental Scientist",
+      "location": "Auburn, Washington, United States",
+      "url": "https://careers-muckleshootgov.icims.com/jobs/6302/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-muckleshootgov.icims.com/jobs/6302/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-21T21:25:00.000Z",
+      "description": "Master's in related field plus 4 years' relevant experience OR Bachelor's plus 8 years; expertise in environmental regulations (NEPA, SEPA, ESA, NPDES, HPAs, USACE), strong analysis, writing, and collaboration skills.",
+      "salary": "$80k–$127k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1551,84 +1551,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Langan Engineering and Environmenta",
-      "title": "Senior Environmental Data Analyst",
-      "location": "Parsippany, New Jersey, United States",
-      "url": "https://careers.langan.com/job/Parsippany-Senior-Environmental-Data-Analyst-NJ-07054-2172/1391337400/",
-      "direct_url": "https://careers.langan.com/job/Parsippany-Senior-Environmental-Data-Analyst-NJ-07054-2172/1391337400/",
-      "date_posted": "2026-08-10T07:00:00.000Z",
-      "description": "Bachelor's degree in a relevant technical discipline, 5+ years of environmental data management experience, NYSDEC and New York Brownfield experience, EQuIS expertise, and strong communication skills.",
-      "salary": "$72k–$104k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Jacobs",
-      "title": "Environmental Data Management Specialist, EQuIS",
-      "location": "Little Rock or Milwaukee or Hattiesburg or Montgomery or Kansas City or Dallas or Boise",
-      "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Data-Management-Specialist-EQuIS/42682",
-      "direct_url": "https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Data-Management-Specialist-EQuIS/42682",
-      "date_posted": "2026-07-23T12:00:00.000Z",
-      "description": "Bachelor's in environmental or related field,2+ years environmental consulting,1+ years remediation field work,1+ years data management including EQuIS or Microsoft Access,knowledge of databases/programming,strong communication.",
-      "salary": "$79k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hana Engineers and Consultants, LLC",
-      "title": "Environmental Chemist and/or Environmental Data Specialist",
-      "location": "United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417899",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417899",
-      "date_posted": "2026-08-13T17:44:38.000Z",
-      "description": "Bachelor's degree in a technical field, 5–10 years of relevant environmental experience, analytical data and QA/QC knowledge, strong organizational and communication skills, and Microsoft Excel proficiency.",
-      "salary": "$70k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Environmental Geologist",
-      "location": "Hanover, Maryland, United States",
-      "url": "https://arcadis.eightfold.ai/careers/job/563671532814675",
-      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532814675",
-      "date_posted": "2026-07-30T18:49:13.000Z",
-      "description": "B.S. in Geology/Geosciences/Environmental Science, 3+ years related experience, valid driver’s license, proficiency with Microsoft Office and field data apps, able to perform physically demanding fieldwork.",
-      "salary": "$65k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Environmental Geologist",
-      "location": "Hanover, Maryland, United States",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42854",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/42854",
-      "date_posted": "2026-07-30T18:49:13.000Z",
-      "description": "BS in Geology/Geosciences/Environmental Science, 3+ years related experience, valid driver's license, proficiency with MS Office and field data apps, able to perform heavy fieldwork and H&S procedures.",
-      "salary": "$65k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Perdue Farms Inc",
-      "title": "Environmental Analyst",
-      "location": "Salisbury, Maryland, United States",
-      "url": "https://jobs.perduecareers.com/job/Salisbury-Environmental-Analyst-MD-21804/1417245100/",
-      "direct_url": "https://jobs.perduecareers.com/job/Salisbury-Environmental-Analyst-MD-21804/1417245100/",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "High school diploma or GED with related experience; 0–3 years required, 5–7 preferred. Requires Power BI, SharePoint, website development, technical writing, environmental auditing, data analysis, and communication skills.",
-      "salary": "$68k–$102k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Department of the Army",
       "title": "Natural Resources Specialist (Ranger)",
       "location": "Cottage Grove, Oregon, United States",
@@ -1694,84 +1616,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Steigerwaldt Land Services",
-      "title": "Natural Resources Specialist",
-      "location": "Tomahawk, Wisconsin, United States",
-      "url": "https://steigerwaldt.bamboohr.com/careers/291",
-      "direct_url": "https://steigerwaldt.bamboohr.com/careers/291",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Entry-level forester role; requires ability to perform field forestry tasks, GPS data collection, travel frequently, valid driver's license, ATV/snowmobile certifications preferred, Microsoft Office and ESRI GIS experience preferred.",
-      "salary": "$44k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Mississippi",
-      "title": "Environmental/Natural Resources Specialist II",
-      "location": "Hinds County, Mississippi, United States",
-      "url": "https://www.governmentjobs.com/careers/mississippi/jobs/5451354",
-      "direct_url": "https://www.governmentjobs.com/careers/mississippi/jobs/5451354",
-      "date_posted": "2026-08-17T23:21:33.000Z",
-      "description": "Bachelor's degree in natural resources or a related field and typically 2–4 years of experience; requires advanced conservation knowledge, regulatory interpretation, statistical analysis, and agency collaboration.",
-      "salary": "$40k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Broward County, FL",
-      "title": "Natural Resources Specialist (Mosquito Control)",
-      "location": "Pompano Beach or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
-      "url": "https://www.governmentjobs.com/careers/broward/jobs/5445316",
-      "direct_url": "https://www.governmentjobs.com/careers/broward/jobs/5445316",
-      "date_posted": "2026-08-18T17:47:17.028Z",
-      "description": "Bachelor's degree in chemistry, geology, biology, environmental science, or related field; six months related experience; valid Florida Class E driver's license; mosquito control and pesticide knowledge required.",
-      "salary": "$57k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Virginia Tech",
-      "title": "Natural Resources Specialist (Forestry Inventory Technician)",
-      "location": "Blacksburg, Virginia, United States",
-      "url": "https://vtemployees.pageuppeople.com/job/537146",
-      "direct_url": "https://vtemployees.pageuppeople.com/job/537146",
-      "date_posted": "2026-07-30T13:00:00.000Z",
-      "description": "Bachelor's in a related field (or equivalent experience), field crew experience in forest inventory/vegetation surveys, tree identification, valid driver's license, ability to work outdoors and complete background checks, proficiency with Microsoft Office, GPS/GNSS, and ESRI GIS tools.",
-      "salary": "$37k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Plexus Scientific Corporation",
-      "title": "Natural Resources Program Coordinator",
-      "location": "Fort Belvoir or Fort Liberty",
-      "url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "direct_url": "https://plexsci.isolvedhire.com/jobs/1828955",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Bachelor's in biological or environmental field, 5+ years natural resources experience, knowledge of federal natural resource laws, strong program/project management, communication, and Microsoft Office skills; U.S. citizenship and driver's license required.",
-      "salary": "$70k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "County of Santa Clara, CA",
-      "title": "Parks Natural Resource Program Coordinator",
-      "location": "Santa Clara County, California, United States",
-      "url": "https://www.governmentjobs.com/careers/santaclara/jobs/5412011",
-      "direct_url": "https://www.governmentjobs.com/careers/santaclara/jobs/5412011",
-      "date_posted": "2026-07-22T16:41:38.000Z",
-      "description": "Bachelor's in natural resources or related field and 2 years professional natural resource planning/protection; valid CA driver license, Standard First Aid/CPR, Wildfire Red Card; able to perform field work and lifting.",
-      "salary": "$92k–$111k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Infosys Limited",
       "title": "GIS Consultant",
       "location": "Oakland, California, United States",
@@ -1796,112 +1640,7 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Florida",
-      "title": "ENVIRONMENTAL CONSULTANT - 37010823",
-      "location": "Tallahassee, Florida, United States",
-      "url": "https://jobs.myflorida.com/job/TALLAHASSEE-ENVIRONMENTAL-CONSULTANT-37010823-FL-32399/1417139400/",
-      "direct_url": "https://jobs.myflorida.com/job/TALLAHASSEE-ENVIRONMENTAL-CONSULTANT-37010823-FL-32399/1417139400/",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Seven years of related environmental experience or qualifying post-secondary education, valid driver's license, FCCM designation or ability to obtain it, and skills in environmental analysis, stakeholder coordination, reporting, and MS Office, GIS, and modeling tools.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Philadelphia",
-      "title": "Lead GIS Analyst",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000143562589-lead-gis-analyst",
-      "direct_url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000143562589-lead-gis-analyst",
-      "date_posted": "2026-08-14T16:51:32.715Z",
-      "description": "Four years of relevant experience and a bachelor's degree in GIS or a related analytical field. Requires Python, SQL, PostgreSQL, ArcGIS Pro, ArcGIS Online, Microsoft Office, communication, and project planning skills.",
-      "salary": "$67k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Texas Water Development Board (TWDB)",
-      "title": "TWDB - 26-112: GW Modeler (Geoscientist I-II/Hydrologist II-III)",
-      "location": "Austin or Texas",
-      "url": "https://jobs.smartrecruiters.com/TexasWaterDevelopmentBoardTWDB/744000144359220-twdb-26-112-gw-modeler-geoscientist-i-ii-hydrologist-ii-iii-",
-      "direct_url": "https://jobs.smartrecruiters.com/TexasWaterDevelopmentBoardTWDB/744000144359220-twdb-26-112-gw-modeler-geoscientist-i-ii-hydrologist-ii-iii-",
-      "date_posted": "2026-08-19T16:27:28.767Z",
-      "description": "Bachelor's degree in a relevant field and 2+ years of geoscience or hydrology experience; groundwater modeling with MODFLOW or FloPy, Python programming, GIS, and Texas professional geoscientist licensure for geoscientist roles.",
-      "salary": "$70k–$86k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Geologist",
-      "location": "Westlake Village, California, United States",
-      "url": "https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/",
-      "direct_url": "https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/",
-      "date_posted": "2026-08-12T06:46:56.000Z",
-      "description": "Bachelor's degree in geology or related science, valid U.S. driver's license, U.S. citizenship, fieldwork readiness, travel flexibility, and ability to lift up to 50 pounds. HAZWOPER certification preferred.",
-      "salary": "$70k–$72k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Diversified Gas & Oil Corporation",
-      "title": "Senior Geologist",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers.div.energy/jobs/2637?lang=en-us",
-      "direct_url": "https://careers.div.energy/jobs/2637?lang=en-us",
-      "date_posted": "2026-07-29T20:41:19.000Z",
-      "description": "10+ years geology experience focused on Oklahoma and unconventional reservoir evaluation; proficiency with Petra, ArcGIS, and Danomics; strong petrophysical/geophysical workflows and well planning experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ans",
-      "title": "Geologist II",
-      "location": "Columbus, Ohio, United States",
-      "url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
-      "direct_url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
-      "date_posted": "2026-08-01T03:37:37.612Z",
-      "description": "Bachelor's in Geology/Earth Science, ≥6 months relevant experience, experience with geotechnical and geophysical investigations and project coordination, and proficiency with AutoCAD and QGIS.",
-      "salary": "$66k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Cameco",
-      "title": "Geologist (42351)",
-      "location": "Douglas, Wyoming, United States",
-      "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351",
-      "direct_url": "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351",
-      "date_posted": "2026-07-22T21:41:27.000Z",
-      "description": "Bachelor's in geology required, valid driver’s license, field and office geology experience, geophysical log interpretation, mapping, sampling, report writing; ArcGIS and Microsoft Office preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Broward County, FL",
-      "title": "Natural Resources Specialist (Mosquito Control)",
-      "location": "Pompano Beach or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
-      "url": "https://www.governmentjobs.com/careers/broward/jobs/5445316",
-      "direct_url": "https://www.governmentjobs.com/careers/broward/jobs/5445316",
-      "date_posted": "2026-08-18T17:47:17.028Z",
-      "description": "Bachelor's degree in chemistry, geology, biology, environmental science, or related field; six months related experience; valid Florida Class E driver's license; mosquito control and pesticide knowledge required.",
-      "salary": "$57k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
