@@ -1,14 +1,23 @@
 {
-  "scraped_at": "2026-08-19 16:43 UTC",
-  "total": 18,
+  "scraped_at": "2026-08-20 16:47 UTC",
+  "total": 19,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Pesticide Regulation",
+      "company": "Department of Toxic Substances Control",
       "title": "Environmental Scientist",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
-      "date_posted": "2026-07-20",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518357",
+      "date_posted": "2026-05-14",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Toxic Substances Control",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525998",
+      "date_posted": "2026-08-19",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -85,15 +94,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Transportation",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "San Diego County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528475",
-      "date_posted": "2026-08-13",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "State Water Resources Control Board",
       "title": "Engineering Geologist",
       "location": "San Diego County",
@@ -154,6 +154,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527492",
       "date_posted": "2026-08-12",
       "salary": "$10854.00 - $13493.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "San Diego County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528475",
+      "date_posted": "2026-08-13",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
