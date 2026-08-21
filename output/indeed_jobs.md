@@ -1,5 +1,5 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-21 20:05 UTC*
+*Last updated: 2026-08-21 21:04 UTC*
 
 **0 new role(s)** since last run · 8 total in last 24h
 
