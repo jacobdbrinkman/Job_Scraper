@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 21:11 UTC",
-  "total": 131,
-  "new_count": 0,
+  "scraped_at": "2026-08-21 22:09 UTC",
+  "total": 132,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Colorado State University",
@@ -43,19 +43,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ASSYST, Inc.",
-      "title": "GIS Analyst",
-      "location": "Gaithersburg, Maryland, United States",
-      "url": "https://job-boards.greenhouse.io/assystinc/jobs/4368456009",
-      "direct_url": "https://job-boards.greenhouse.io/assystinc/jobs/4368456009",
-      "date_posted": "2026-08-13T12:02:53.000Z",
-      "description": "Bachelor’s degree in GIS, geography, computer science, information systems, or related field; hands-on ArcGIS experience; GIS data editing, maintenance, QA/QC, geodatabases, and application support.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Blue Springs",
       "title": "GIS Analyst",
       "location": "Blue Springs, Missouri, United States",
@@ -69,14 +56,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Intrado Life & Safety, Inc.",
+      "company": "ASSYST, Inc.",
       "title": "GIS Analyst",
-      "location": "Longmont, Colorado, United States",
-      "url": "https://careers.intrado.com/jobs/4613?lang=en-us",
-      "direct_url": "https://careers.intrado.com/jobs/4613?lang=en-us",
-      "date_posted": "2026-08-06T14:43:06.000Z",
-      "description": "Associate's or bachelor's degree in a GIS-related field; GIS software, spatial analysis, geospatial modeling, databases, data formats, remote sensing, GPS, customer support, and technical communication skills.",
-      "salary": "$50k–$60k/yr",
+      "location": "Gaithersburg, Maryland, United States",
+      "url": "https://job-boards.greenhouse.io/assystinc/jobs/4368456009",
+      "direct_url": "https://job-boards.greenhouse.io/assystinc/jobs/4368456009",
+      "date_posted": "2026-08-13T12:02:53.000Z",
+      "description": "Bachelor’s degree in GIS, geography, computer science, information systems, or related field; hands-on ArcGIS experience; GIS data editing, maintenance, QA/QC, geodatabases, and application support.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "SYNCADD Systems Inc.",
+      "title": "GIS Analyst",
+      "location": "JBLM, Washington, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c6902d77d301909815ec9b28d6&id=8a78839e9fd3ba7b019ff3173fa84497&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c6902d77d301909815ec9b28d6&id=8a78839e9fd3ba7b019ff3173fa84497&source=&lang=en",
+      "date_posted": "2026-08-11T23:10:15.000Z",
+      "description": "Bachelor's or master's degree in geography, GIS, or related field; 1–4 years of experience with ArcGIS, GIS principles, and Microsoft Office. U.S. citizenship and ability to obtain security clearances required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -95,14 +95,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SYNCADD Systems Inc.",
+      "company": "Intrado Life & Safety, Inc.",
       "title": "GIS Analyst",
-      "location": "Fort Drum, New York, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c6902d77d301909815ec9b28d6&id=8a78859e9fd3bb2501a020ff1e7a2a8e&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c6902d77d301909815ec9b28d6&id=8a78859e9fd3bb2501a020ff1e7a2a8e&source=&lang=en",
-      "date_posted": "2026-08-20T21:06:25.000Z",
-      "description": "Bachelor’s or master’s degree in geography, GIS, or related field; 1–4 years of ArcGIS and GIS experience; Microsoft Office knowledge; U.S. citizenship; ability to obtain security and installation access.",
-      "salary": "",
+      "location": "Longmont, Colorado, United States",
+      "url": "https://careers.intrado.com/jobs/4613?lang=en-us",
+      "direct_url": "https://careers.intrado.com/jobs/4613?lang=en-us",
+      "date_posted": "2026-08-06T14:43:06.000Z",
+      "description": "Associate's or bachelor's degree in a GIS-related field; GIS software, spatial analysis, geospatial modeling, databases, data formats, remote sensing, GPS, customer support, and technical communication skills.",
+      "salary": "$50k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -199,6 +199,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "SABG",
+      "title": "GIS Analyst",
+      "location": "Colorado Springs or Colorado Springs",
+      "url": "https://secure.entertimeonline.com/ta/SABGLLC.careers?ShowJob=872566031",
+      "direct_url": "https://secure.entertimeonline.com/ta/SABGLLC.careers?ShowJob=872566031",
+      "date_posted": "2026-08-14T18:16:08.658Z",
+      "description": "Associate degree in science or 2 years technical experience; extensive geospatial knowledge; GIS, CADD, cartography, data management, Microsoft Office, technical documentation, and problem-solving skills required.",
+      "salary": "$70k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "CSEngineering",
       "title": "GIS Analyst",
       "location": "Colorado Springs, Colorado, United States",
@@ -212,14 +225,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SABG",
-      "title": "GIS Analyst",
-      "location": "Colorado Springs or Colorado Springs",
-      "url": "https://secure.entertimeonline.com/ta/SABGLLC.careers?ShowJob=872566031",
-      "direct_url": "https://secure.entertimeonline.com/ta/SABGLLC.careers?ShowJob=872566031",
-      "date_posted": "2026-08-14T18:16:08.658Z",
-      "description": "Associate degree in science or 2 years technical experience; extensive geospatial knowledge; GIS, CADD, cartography, data management, Microsoft Office, technical documentation, and problem-solving skills required.",
-      "salary": "$70k–$100k/yr",
+      "company": "City of Bradenton",
+      "title": "GIS ANALYST",
+      "location": "Bradenton, Florida, United States",
+      "url": "https://cityofbradentonfl.munisselfservice.com/ess/EmploymentOpportunities/JobDetail.aspx?req=1093&sreq=1&form=1000&desc=GIS%20ANALYST",
+      "direct_url": "https://cityofbradentonfl.munisselfservice.com/ess/EmploymentOpportunities/JobDetail.aspx?req=1093&sreq=1&form=1000&desc=GIS%20ANALYST",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Bachelor's degree in geographic information systems or related field and 2 years of GIS experience in mapping, data analysis, and application development. Florida driver's license and good driving record required.",
+      "salary": "$54k–$92k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -290,19 +303,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tetra Tech",
-      "title": "GIS Analyst",
-      "location": "Buffalo or Pittsburgh or Houston",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/gis-analyst-56169",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/gis-analyst-56169",
-      "date_posted": "2026-08-12T21:28:35.093Z",
-      "description": "Bachelor's degree in geosciences, geography, GIS, or a related field; 5+ years of GIS experience, 1+ year of Azure Cloud experience, Python and JavaScript knowledge, and a valid driver's license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "BGE, Inc",
       "title": "GIS Analyst",
       "location": "Houston or Frisco or Katy or Texas",
@@ -313,6 +313,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tetra Tech",
+      "title": "GIS Analyst",
+      "location": "Buffalo or Pittsburgh or Houston",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/gis-analyst-56169",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/gis-analyst-56169",
+      "date_posted": "2026-08-12T21:28:35.093Z",
+      "description": "Bachelor's degree in geosciences, geography, GIS, or a related field; 5+ years of GIS experience, 1+ year of Azure Cloud experience, Python and JavaScript knowledge, and a valid driver's license.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -605,6 +618,19 @@
       "company": "Invenergyllc",
       "title": "Senior Geospatial Analyst",
       "location": "Chicago, Illinois, United States",
+      "url": "https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Senior-Geospatial-Analyst_R11048-1",
+      "direct_url": "https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Senior-Geospatial-Analyst_R11048-1",
+      "date_posted": "2026-08-19T00:00:00.000Z",
+      "description": "Bachelor's degree in a related field, 2+ years of relevant experience, ArcGIS Pro and ArcGIS Online/Portal experience, spatial data analysis, communication, organization, and U.S. work authorization without sponsorship.",
+      "salary": "$72k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Invenergyllc",
+      "title": "Senior Geospatial Analyst",
+      "location": "Chicago, Illinois, United States",
       "url": "https://invenergyllc.wd1.myworkdayjobs.com/invenergyllc/job/Chicago-IL/Senior-Geospatial-Analyst_R11048",
       "direct_url": "https://invenergyllc.wd1.myworkdayjobs.com/invenergyllc/job/Chicago-IL/Senior-Geospatial-Analyst_R11048",
       "date_posted": "2026-08-19T00:00:00.000Z",
@@ -636,19 +662,6 @@
       "date_posted": "2026-08-04T04:00:00.000Z",
       "description": "Bachelor's in related field, minimum 5 years emergency management planning experience, FEMA planning familiarity, eligible for Public Trust, valid driver's license, strong communication and technical skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Invenergyllc",
-      "title": "Senior Geospatial Analyst",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Senior-Geospatial-Analyst_R11048-1",
-      "direct_url": "https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Senior-Geospatial-Analyst_R11048-1",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Bachelor's degree in a related field, 2+ years of relevant experience, ArcGIS Pro and ArcGIS Online/Portal experience, spatial data analysis, communication, organization, and U.S. work authorization without sponsorship.",
-      "salary": "$72k–$85k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -825,6 +838,19 @@
     {
       "company": "AECOM",
       "title": "Environmental Scientist",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
       "location": "Arlington, Virginia, United States",
       "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
       "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
@@ -844,19 +870,6 @@
       "date_posted": "2026-08-03T12:00:00.000Z",
       "description": "Bachelor's in biology/ecology/environmental science, 7+ years preparing federal/state/local environmental permits, USACE/NJDEP permitting and wetland delineation experience, 40-hr HAZWOPER or ability to attain, US citizenship.",
       "salary": "$99k–$176k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -992,19 +1005,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -1013,6 +1013,19 @@
       "date_posted": "2026-08-14T18:58:27.000Z",
       "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
       "salary": "$68k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1447,19 +1460,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cameco",
-      "title": "Geologist (42351)",
-      "location": "Douglas, Wyoming, United States",
-      "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351",
-      "direct_url": "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351",
-      "date_posted": "2026-07-22T21:41:27.000Z",
-      "description": "Bachelor's in geology required, valid driver’s license, field and office geology experience, geophysical log interpretation, mapping, sampling, report writing; ArcGIS and Microsoft Office preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Department of the Interior",
       "title": "Geologist (Coal)",
       "location": "Lakewood, Colorado, United States",
@@ -1481,6 +1481,19 @@
       "date_posted": "2026-07-30T14:59:16.561Z",
       "description": "Bachelor's degree in geology or environmental science, 5+ years related experience, ability to pass background/drug screening, valid driver's license, US citizenship for DoD/DOE access; PG and HAZWOPER 40-hour preferred; CPR/FA a plus.",
       "salary": "$80k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ormat Technologies",
+      "title": "Geologist (6128)",
+      "location": "United States",
+      "url": "https://performancemanager.successfactors.eu/career?career_ns=job_listing&company=ormatsyste&career_job_req_id=6128",
+      "direct_url": "https://performancemanager.successfactors.eu/career?career_ns=job_listing&company=ormatsyste&career_job_req_id=6128",
+      "date_posted": "2026-08-05T19:32:33.000Z",
+      "description": "Master's degree in a relevant subject, 2+ years of industry or related experience, field mapping and structural geology experience, software proficiency, English fluency, and a valid driver's license.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1707,5 +1720,32 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "City of Bradenton",
+      "title": "GIS ANALYST",
+      "location": "Bradenton, Florida, United States",
+      "url": "https://cityofbradentonfl.munisselfservice.com/ess/EmploymentOpportunities/JobDetail.aspx?req=1093&sreq=1&form=1000&desc=GIS%20ANALYST",
+      "direct_url": "https://cityofbradentonfl.munisselfservice.com/ess/EmploymentOpportunities/JobDetail.aspx?req=1093&sreq=1&form=1000&desc=GIS%20ANALYST",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Bachelor's degree in geographic information systems or related field and 2 years of GIS experience in mapping, data analysis, and application development. Florida driver's license and good driving record required.",
+      "salary": "$54k–$92k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ormat Technologies",
+      "title": "Geologist (6128)",
+      "location": "United States",
+      "url": "https://performancemanager.successfactors.eu/career?career_ns=job_listing&company=ormatsyste&career_job_req_id=6128",
+      "direct_url": "https://performancemanager.successfactors.eu/career?career_ns=job_listing&company=ormatsyste&career_job_req_id=6128",
+      "date_posted": "2026-08-05T19:32:33.000Z",
+      "description": "Master's degree in a relevant subject, 2+ years of industry or related experience, field mapping and structural geology experience, software proficiency, English fluency, and a valid driver's license.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
