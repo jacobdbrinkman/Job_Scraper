@@ -1,22 +1,23 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-21 17:18 UTC*
+*Last updated: 2026-08-21 18:17 UTC*
 
-**4 new role(s)** since last run · 132 total in last 30d
+**4 new role(s)** since last run · 128 total in last 30d
 
-### [GIS Analyst II](https://hntb.jobs/nashville-tn/gis-analyst-ii/228A1154100143E5B4943A3566122D71/job/) — HNTB
-- 📍 **Location:** Nashville, Tennessee, United States
-- 🕒 **Posted:** 2026-08-10T17:48:38.000Z
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
+- 📍 **Location:** Denver or United States
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Senior Geologist](https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2784) — Terracon
-- 📍 **Location:** Sarasota, Florida, United States
-- 🕒 **Posted:** 2026-08-20T18:19:48.826Z
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
+- 📍 **Location:** Morenci, Arizona, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
 
-### [Geologist II](https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Grand-Junction-CO/Geologist-II_JR109631-1) — Calista Brice
-- 📍 **Location:** Anchorage or Fairbanks or Salt Lake City or Grand Junction
-- 💰 **Salary:** $60k–$80k/yr
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
+### [Geologist II](https://myjobs.adp.com/asarco/cx/job-details?reqId=5001213850106) — Asarco LLC
+- 📍 **Location:** Sahuarita, Arizona, United States
+- 🕒 **Posted:** 2026-07-23T00:11:48.000Z
 
-### [Environmental/Natural Resources Specialist I](https://www.governmentjobs.com/careers/mississippi/jobs/5446566) — State of Mississippi
-- 📍 **Location:** Lafayette County, Mississippi, United States
-- 💰 **Salary:** $40k–$59k/yr
-- 🕒 **Posted:** 2026-08-13T00:26:28.000Z
+### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4411879) — CMS Environmental Solutions LLC
+- 📍 **Location:** Birmingham, Alabama, United States
+- 💰 **Salary:** $38k–$40k/yr
+- 🕒 **Posted:** 2026-08-11T21:00:35.000Z
