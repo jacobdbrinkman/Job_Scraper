@@ -1,74 +1,95 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-21 00:03 UTC*
+*Last updated: 2026-08-21 02:20 UTC*
 
-**15 new role(s)** since last run · 39 total in last 1h
+**20 new role(s)** since last run · 21 total in last 1h
 
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4454145768/) — HETI
+### [Senior Hydrogeologist](https://www.linkedin.com/jobs/view/4456062802/) — Harper Harrison
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $170,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Worldwide Program Coordinator [AQ-14137]](https://www.linkedin.com/jobs/view/4454147786/) — Aquent
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $46.00/hr - $51.00/hr
+- 🕒 **Posted:** 2026-08-21
+
+### [RFuW Field Solutions Engineer - Seattle Area](https://www.linkedin.com/jobs/view/4454153704/) — Keysight Technologies
+- 📍 **Location:** Everett, WA
+- 🕒 **Posted:** 2026-08-21
+
+### [Program Coordinator / Patient Scheduler - Harborview - Foot, Ankle and Hand Clinic](https://www.linkedin.com/jobs/view/4457052905/) — University of Washington
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-08-20
+- 🕒 **Posted:** 2026-08-21
 
-### [Digital Environmental Consultant](https://www.linkedin.com/jobs/view/4457020733/) — Jacobs
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $70,000.00/yr - $95,000.00/yr
-- 🕒 **Posted:** 2026-08-20
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4457049893/) — University of Washington
+- 📍 **Location:** Bothell, WA
+- 🕒 **Posted:** 2026-08-21
 
-### [Utilization Management Data Analyst](https://www.linkedin.com/jobs/view/4457023971/) — Trillium Health Resources
-- 📍 **Location:** Fayetteville, North Carolina Metropolitan Area
-- 💰 **Salary:** $42,765.00/yr - $61,546.00/yr
-- 🕒 **Posted:** 2026-08-20
+### [Intermediate Hydrogeologist](https://www.linkedin.com/jobs/view/4457061144/) — Stantec
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $80,300.00 - $116,500.00 Annually
+- 🕒 **Posted:** 2026-08-21
 
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4454146745/) — HETI
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-08-20
+### [GIS Technician I](https://www.linkedin.com/jobs/view/4456051873/) — Pike Corporation
+- 📍 **Location:** Fort Mill, SC
+- 🕒 **Posted:** 2026-08-21
 
-### [Senior Data Analyst, Product](https://www.linkedin.com/jobs/view/4454780582/) — Wealth.com
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4457060213/) — Tive
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $110,000 - $140,000
+- 🕒 **Posted:** 2026-08-21
+
+### [Intermediate Hydrogeologist](https://www.linkedin.com/jobs/view/4457067078/) — Stantec
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $80,300.00 - $116,500.00 Annually
+- 🕒 **Posted:** 2026-08-21
+
+### [Intermediate Hydrogeologist](https://www.linkedin.com/jobs/view/4457071045/) — Stantec
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $80,300.00 - $116,500.00 Annually
+- 🕒 **Posted:** 2026-08-21
+
+### [Portfolio Data Analyst](https://www.linkedin.com/jobs/view/4457051993/) — Motorola Solutions
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-21
+
+### [Underground Survey Technician](https://www.linkedin.com/jobs/view/4457074120/) — Eagle Mine
+- 📍 **Location:** Michigamme, MI
+- 🕒 **Posted:** 2026-08-21
+
+### [Sr. Exploration Geologist](https://www.linkedin.com/jobs/view/4454161315/) — McEwen Inc.
+- 📍 **Location:** Eureka, NV
+- 🕒 **Posted:** 2026-08-21
+
+### [Accounting Data Analyst](https://www.linkedin.com/jobs/view/4457058083/) — U-Haul
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-08-21
+
+### [Sr Business Data Analyst](https://www.linkedin.com/jobs/view/4457074230/) — DHL Supply Chain
+- 📍 **Location:** Westerville, OH
+- 💰 **Salary:** $70,000 - $115,000
+- 🕒 **Posted:** 2026-08-21
+
+### [Senior Data Analyst - Analytics & Transformation](https://www.linkedin.com/jobs/view/4457048944/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-20
+- 💰 **Salary:** $111,200 - $126,900
+- 🕒 **Posted:** 2026-08-21
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4452342764/) — CFS
+### [Senior Fraud Data Analyst](https://www.linkedin.com/jobs/view/4456070824/) — Suncoast Credit Union
 - 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-08-20
+- 💰 **Salary:** $75,000 - $117,000
+- 🕒 **Posted:** 2026-08-21
 
-### [Manufacturing Data Analyst - Durham, NC](https://www.linkedin.com/jobs/view/4457030088/) — PowerSecure, Inc.
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-08-20
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4457055364/) — LINX
+- 📍 **Location:** Cheyenne, WY
+- 💰 **Salary:** $20.00/hr - $28.00/hr
+- 🕒 **Posted:** 2026-08-21
 
-### [UNIV - Reserach Program Coordinator I - Novice - Pediatrics: Developmental Behavioral](https://www.linkedin.com/jobs/view/4456032701/) — MUSC Children's Health
-- 📍 **Location:** Charleston, SC
-- 🕒 **Posted:** 2026-08-20
+### [On-Site Project Coordinator](https://www.linkedin.com/jobs/view/4457067229/) — LINX
+- 📍 **Location:** Fayetteville, GA
+- 💰 **Salary:** $20.00/hr - $28.00/hr
+- 🕒 **Posted:** 2026-08-21
 
-### [Cordell Institute/CERL Program Coordinator - Law School](https://www.linkedin.com/jobs/view/4456059233/) — Washington University in St. Louis
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $21.17 - $32.85
-- 🕒 **Posted:** 2026-08-20
-
-### [Global Talent Development: Program Coordinator](https://www.linkedin.com/jobs/view/4457045095/) — News Corp
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50,00 - $70,000
-- 🕒 **Posted:** 2026-08-20
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4457052060/) — Texas Tech University Health Sciences Center
-- 📍 **Location:** Odessa, TX
-- 🕒 **Posted:** 2026-08-20
-
-### [PROGRAM COORDINATOR-RELEASE](https://www.linkedin.com/jobs/view/4457036015/) — OCHIN, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $56,347-$90,156
-- 🕒 **Posted:** 2026-08-20
-
-### [Program Project Coordinator #10117646, Full Time, TERM #10117646, in Albuquerque, NM](https://www.linkedin.com/jobs/view/4456059455/) — New Mexico Courts
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $51,965.00 - 64,956.00 annually
-- 🕒 **Posted:** 2026-08-20
-
-### [Administrative Project Coordinator](https://www.linkedin.com/jobs/view/4457019860/) — Abonmarche
-- 📍 **Location:** South Bend, IN
-- 🕒 **Posted:** 2026-08-20
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4457027678/) — RealREPP
-- 📍 **Location:** Hillsboro, OR
-- 🕒 **Posted:** 2026-08-20
+### [Program Coordinator - Optimal Aging Program](https://www.linkedin.com/jobs/view/4457057105/) — University of Utah Health
+- 📍 **Location:** Salt Lake City Metropolitan Area
+- 🕒 **Posted:** 2026-08-21
