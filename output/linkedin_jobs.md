@@ -1,221 +1,135 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-21 19:22 UTC*
+*Last updated: 2026-08-21 20:04 UTC*
 
-**46 new role(s)** since last run · 51 total in last 1h
+**29 new role(s)** since last run · 65 total in last 1h
 
-### [Workforce Analyst / Research Data Specialist (Record Linkage Specialist/Workforce Data Specialist)](https://www.linkedin.com/jobs/view/4456253864/) — California Cradle-to-Career Data System
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** $8,692.00/mo - $10,505.00/mo
+### [Program Coordinator (Upward Bound)](https://www.linkedin.com/jobs/view/4454649671/) — Contra Costa Community College District
+- 📍 **Location:** Martinez, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Customer Analytics Data Analyst (remote)](https://www.linkedin.com/jobs/view/4457394221/) — The Fountain Group
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $60-$66.67/hour
+### [Customer Success Engineer ($130k-$180k + Equity) at Tasklet](https://www.linkedin.com/jobs/view/4456285005/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130k-$180k
 - 🕒 **Posted:** 2026-08-21
 
-### [Field Technician Lead - Tehachapi, CA](https://www.linkedin.com/jobs/view/4457380224/) — Race Communications
-- 📍 **Location:** Tehachapi, CA
-- 💰 **Salary:** $58,240.00/yr - $70,720.00/yr
+### [Event Program Coordinator (Contractor)](https://www.linkedin.com/jobs/view/4457381591/) — Saicon
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4454650498/) — SYNCADD Systems Inc.
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $68,000.00/yr - $78,000.00/yr
+### [Program Coordinator, Annual Giving](https://www.linkedin.com/jobs/view/4457394898/) — University of Colorado Boulder
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $57,000 - $62,000 annually
 - 🕒 **Posted:** 2026-08-21
 
-### [Event Project Coordinator: 26-02192](https://www.linkedin.com/jobs/view/4447270275/) — Akraya, Inc.
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $45 - $47 per hour
+### [Data Analyst](https://www.linkedin.com/jobs/view/4457385581/) — RELI Group, Inc.
+- 📍 **Location:** Springfield, VA
+- 💰 **Salary:** $90,000— $110,000
 - 🕒 **Posted:** 2026-08-21
 
-### [Environmental Field Scientist III](https://www.linkedin.com/jobs/view/4457500238/) — Tasman, Inc.
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $36.00/hr - $48.00/hr
+### [Geologist/GIT/EIT](https://www.linkedin.com/jobs/view/4457393817/) — Stantec
+- 📍 **Location:** Mequon, WI
 - 🕒 **Posted:** 2026-08-21
 
-### [Seasonal Agricultural Field Technician](https://www.linkedin.com/jobs/view/4457389123/) — Precision.Ag, LLC
-- 📍 **Location:** Findlay, OH
+### [GIS Analyst III or IV](https://www.linkedin.com/jobs/view/4457392943/) — Texas Department of Transportation
+- 📍 **Location:** Houston, PA
 - 🕒 **Posted:** 2026-08-21
 
-### [Environmental Consultant](https://www.linkedin.com/jobs/view/4407496772/) — NOVA Engineering and Environmental, LLC
-- 📍 **Location:** Metro Jacksonville
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4457501324/) — Cartwheel
+- 📍 **Location:** Cambridge, MA
+- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Analyst (DASW, Materiel Readiness) - Clearance Required](https://www.linkedin.com/jobs/view/4457395273/) — LMI
-- 📍 **Location:** Alexandria, VA
-- 💰 **Salary:** $100,209.58 - $140,317.81
+### [Geologist/GIT/EIT](https://www.linkedin.com/jobs/view/4457384939/) — Stantec
+- 📍 **Location:** Green Bay, WI
 - 🕒 **Posted:** 2026-08-21
 
-### [Revit Field Technician](https://www.linkedin.com/jobs/view/4456263678/) — Coast 2 Coast
-- 📍 **Location:** Chattanooga, TN
+### [Geologist/GIT/EIT](https://www.linkedin.com/jobs/view/4457388907/) — Stantec
+- 📍 **Location:** Madison, WI
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454657528/) — Holidays Travel Ecuador (Agencia de Viajes IATA)
-- 📍 **Location:** United States
-- 💰 **Salary:** $50,000.00/yr - $68,000.00/yr
+### [Traveling Staff Engineer - Geologist/Geotechnical](https://www.linkedin.com/jobs/view/4454665640/) — Braun Intertec Corporation
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $50,000.00 - $74,000.00
 - 🕒 **Posted:** 2026-08-21
 
-### [Senior Geologist (PG)](https://www.linkedin.com/jobs/view/4407490753/) — NOVA Engineering and Environmental, LLC
-- 📍 **Location:** Metro Jacksonville
+### [Environmental Scientist - Phase I Environmental Site Assessments (ESAs)](https://www.linkedin.com/jobs/view/4456280074/) — Kimley-Horn
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-08-21
 
-### [Geologist III](https://www.linkedin.com/jobs/view/4456261808/) — HydroGeoLogic, Inc.
-- 📍 **Location:** Ballston Lake, NY
-- 💰 **Salary:** $73,593.00/yr - $110,389.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454658353/) — Bristol Myers Squibb
-- 📍 **Location:** Lawrenceville, NJ
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4457384449/) — Access | Information Management
-- 📍 **Location:** Peabody, MA
-- 🕒 **Posted:** 2026-08-21
-
-### [Construction Materials Field Technician](https://www.linkedin.com/jobs/view/4454664388/) — Professional Engineering Consultants
-- 📍 **Location:** Wichita, KS
-- 🕒 **Posted:** 2026-08-21
-
-### [Utility Field Technician 1-Water](https://www.linkedin.com/jobs/view/4457392501/) — Metropolitan Government of Nashville and Davidson County
+### [Environmental Scientist/Ecologist](https://www.linkedin.com/jobs/view/4457384897/) — HNTB
 - 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-08-21
 
-### [Survey Field Technician](https://www.linkedin.com/jobs/view/4456263698/) — Barge Design Solutions
-- 📍 **Location:** Peachtree Corners, GA
+### [PV Solar Field Technician Intermediate Level - Rush Springs II: Duncan, OK](https://www.linkedin.com/jobs/view/4454670356/) — NextEra Energy Resources
+- 📍 **Location:** Duncan, OK
 - 🕒 **Posted:** 2026-08-21
 
-### [Field Technician (Pest Control & Pressure Washing) - San Antonio, TX](https://www.linkedin.com/jobs/view/4456251745/) — Trash Butler
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $18.00/hr - $20.00/hr
+### [Health Services Data Analyst](https://www.linkedin.com/jobs/view/4457382211/) — Elevance Health
+- 📍 **Location:** Hartford County, CT
 - 🕒 **Posted:** 2026-08-21
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4456276144/) — Restoration Management Company
-- 📍 **Location:** Norcross, GA
-- 💰 **Salary:** $16.54 - $26.30 Hourly
+### [Data Analyst](https://www.linkedin.com/jobs/view/4454176180/) — Sedgwick
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $49,530.00 - 69,342.00
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454650548/) — Smartly Technologies
+### [Data Analyst](https://www.linkedin.com/jobs/view/4457396492/) — RELI Group, Inc.
+- 📍 **Location:** Annapolis Junction, MD
+- 💰 **Salary:** $85,000— $105,000
+- 🕒 **Posted:** 2026-08-21
+
+### [Senior Data Analyst, Perkins Reporting](https://www.linkedin.com/jobs/view/4449852990/) — Higher Education
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $80,000-$95,000
+- 🕒 **Posted:** 2026-08-21
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4457380871/) — frēijē Engineered Solutions Company
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-08-21
+
+### [Technical Project Coordinator](https://www.linkedin.com/jobs/view/4454666490/) — Customand
 - 📍 **Location:** United States
-- 💰 **Salary:** $50,000.00/yr - $68,000.00/yr
+- 💰 **Salary:** $60,000.00/yr - $94,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454652553/) — Talento PriceTravel Holding
-- 📍 **Location:** United States
-- 💰 **Salary:** $50,000.00/yr - $68,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Virtual Data Analyst / Entry Level (Remote)](https://www.linkedin.com/jobs/view/4454655521/) — Draftomat
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Virtual Data Analyst / Entry Level (Remote)](https://www.linkedin.com/jobs/view/4454652549/) — Think Tell Junction
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454670447/) — Draftomat
-- 📍 **Location:** United States
-- 💰 **Salary:** $50,000.00/yr - $68,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Virtual Data Analyst / Entry Level (Remote)](https://www.linkedin.com/jobs/view/4454652609/) — Stone 2000 Enterprises Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Virtual Data Analyst / Entry Level (Remote)](https://www.linkedin.com/jobs/view/4454655463/) — Seronda Network
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454656573/) — Seronda Network
-- 📍 **Location:** United States
-- 💰 **Salary:** $50,000.00/yr - $68,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Virtual Data Analyst / Entry Level (Remote)](https://www.linkedin.com/jobs/view/4454652558/) — BiyaheKo.ph
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454663545/) — BiyaheKo.ph
-- 📍 **Location:** United States
-- 💰 **Salary:** $50,000.00/yr - $68,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Virtual Data Analyst / Entry Level (Remote)](https://www.linkedin.com/jobs/view/4454667494/) — Lorygen Group
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Virtual Data Analyst / Entry Level (Remote)](https://www.linkedin.com/jobs/view/4454660524/) — Jewelry Store Marketers
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Virtual Data Analyst / Entry Level (Remote)](https://www.linkedin.com/jobs/view/4454657562/) — Hustle Notice Biz
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4454652603/) — Jewelry Store Marketers
-- 📍 **Location:** United States
-- 💰 **Salary:** $50,000.00/yr - $68,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Analyst III](https://www.linkedin.com/jobs/view/4456269806/) — PANTHERx Rare Pharmacy
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-08-21
-
-### [Power BI Data Analyst](https://www.linkedin.com/jobs/view/4454657411/) — Nigel Frank International
-- 📍 **Location:** Charlotte Metro
-- 💰 **Salary:** $70,000 – $100,000
-- 🕒 **Posted:** 2026-08-21
-
-### [Business and Data Analyst, Global Media, Reporting & Analytics COE](https://www.linkedin.com/jobs/view/4456264648/) — Lenovo
-- 📍 **Location:** North Carolina, United States
-- 💰 **Salary:** $110,000 - $140,000
-- 🕒 **Posted:** 2026-08-21
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4457396233/) — Junior Achievement of the Michigan Great Lakes
-- 📍 **Location:** Petoskey, MI
-- 🕒 **Posted:** 2026-08-21
-
-### [Program Coordinator II](https://www.linkedin.com/jobs/view/4457379636/) — Texas A&M AgriLife Research
-- 📍 **Location:** College Station, TX
-- 🕒 **Posted:** 2026-08-21
-
-### [Program Coordinator I P9](https://www.linkedin.com/jobs/view/4457500167/) — Texas A&M Engineering Experiment Station (TEES)
-- 📍 **Location:** College Station, TX
-- 🕒 **Posted:** 2026-08-21
-
-### [Program Coordinator - Clearance Required](https://www.linkedin.com/jobs/view/4446520478/) — LMI
-- 📍 **Location:** Fort Liberty, NC
-- 💰 **Salary:** $111,000-$192,000
-- 🕒 **Posted:** 2026-08-21
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4457378483/) — Massachusetts General Hospital
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $19.81 - $28.30/Hourly
-- 🕒 **Posted:** 2026-08-21
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4454663484/) — BiyaheKo.ph
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4454664470/) — Jewelry Store Marketers
 - 📍 **Location:** United States
 - 💰 **Salary:** $45,000.00/yr - $58,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4454658575/) — Travel Congress
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4454668494/) — Talento PriceTravel Holding
 - 📍 **Location:** United States
 - 💰 **Salary:** $45,000.00/yr - $58,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4454671460/) — Gladex Travel and Tours Corp
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4454658573/) — Hustle Notice Biz
 - 📍 **Location:** United States
 - 💰 **Salary:** $45,000.00/yr - $58,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4454658525/) — Holidays Travel Ecuador (Agencia de Viajes IATA)
-- 📍 **Location:** United States
-- 💰 **Salary:** $45,000.00/yr - $58,000.00/yr
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4456287151/) — CMC
+- 📍 **Location:** Summerville, SC
+- 🕒 **Posted:** 2026-08-21
+
+### [Community Development Program Coordinator, (A269720-1), 207, Housing Rehab](https://www.linkedin.com/jobs/view/4457396633/) — City of Laredo
+- 📍 **Location:** Laredo, TX
+- 🕒 **Posted:** 2026-08-21
+
+### [Research Program Coordinator - Urology](https://www.linkedin.com/jobs/view/4456261919/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $58661 - $74250 Annually
+- 🕒 **Posted:** 2026-08-21
+
+### [Project Coordinator/APM- Commercial construction](https://www.linkedin.com/jobs/view/4457399710/) — Talent Edge Recruiting
+- 📍 **Location:** Abilene, TX
+- 💰 **Salary:** $65,000.00/yr - $90,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Pathway Home Project Coordinator](https://www.linkedin.com/jobs/view/4457380644/) — Amity Foundation
+- 📍 **Location:** South Hill, WA
+- 💰 **Salary:** $70,000 - $75,000
+- 🕒 **Posted:** 2026-08-21
+
+### [Program Coordinator - Optimal Aging Program](https://www.linkedin.com/jobs/view/4457057105/) — University of Utah Health
+- 📍 **Location:** Salt Lake City Metropolitan Area
 - 🕒 **Posted:** 2026-08-21
