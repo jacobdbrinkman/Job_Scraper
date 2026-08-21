@@ -1,36 +1,19 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-21 02:21 UTC*
+*Last updated: 2026-08-21 03:38 UTC*
 
-**7 new role(s)** since last run · 131 total in last 30d
+**3 new role(s)** since last run · 132 total in last 30d
 
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
-- 📍 **Location:** Boise or United States
-- 💰 **Salary:** $80k–$90k/yr
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+### [Environmental Scientist 1](https://job-boards.greenhouse.io/apexcompanies/jobs/5395816008) — Apex Companies
+- 📍 **Location:** Urbandale or Iowa or North America
+- 💰 **Salary:** $50k–$60k/yr
+- 🕒 **Posted:** 2026-08-20T20:08:29.000Z
 
-### [Senior Geologist](https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2784) — Terracon
-- 📍 **Location:** Sarasota, Florida, United States
-- 🕒 **Posted:** 2026-08-20T18:19:48.826Z
+### [Geologist](https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/) — AECOM
+- 📍 **Location:** Westlake Village, California, United States
+- 💰 **Salary:** $70k–$72k/yr
+- 🕒 **Posted:** 2026-08-12T06:46:56.000Z
 
-### [Senior Geologist](https://careers.div.energy/jobs/2637?lang=en-us) — Diversified Gas & Oil Corporation
-- 📍 **Location:** Houston, Texas, United States
-- 🕒 **Posted:** 2026-07-29T20:41:19.000Z
-
-### [Geologist II](https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62) — Ans
-- 📍 **Location:** Columbus, Ohio, United States
-- 💰 **Salary:** $66k–$75k/yr
-- 🕒 **Posted:** 2026-08-01T03:37:37.612Z
-
-### [Geologist (42351)](https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&career_job_req_id=42351) — Cameco
-- 📍 **Location:** Douglas, Wyoming, United States
-- 🕒 **Posted:** 2026-07-22T21:41:27.000Z
-
-### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4411879) — CMS Environmental Solutions LLC
-- 📍 **Location:** Birmingham, Alabama, United States
-- 💰 **Salary:** $38k–$40k/yr
-- 🕒 **Posted:** 2026-08-11T21:00:35.000Z
-
-### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4421256) — CMS Environmental Solutions LLC
-- 📍 **Location:** Towson, Maryland, United States
-- 💰 **Salary:** $38k–$40k/yr
-- 🕒 **Posted:** 2026-08-14T15:51:57.000Z
+### [Geologist II](https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Grand-Junction-CO/Geologist-II_JR109631-1) — Calista Brice
+- 📍 **Location:** Anchorage or Fairbanks or Salt Lake City or Grand Junction
+- 💰 **Salary:** $60k–$80k/yr
+- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
