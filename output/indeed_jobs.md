@@ -1,6 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-22 04:17 UTC*
+*Last updated: 2026-08-22 16:00 UTC*
 
-**0 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Senior GIS Analyst](https://www.indeed.com/viewjob?jk=86192f6cc24af603) — City of Tacoma
+- 📍 **Location:** Tacoma, WA, US
+- 💰 **Salary:** $42–$66/hr
+- 🕒 **Posted:** 2026-08-21
