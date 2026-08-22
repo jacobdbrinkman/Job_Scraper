@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 23:05 UTC",
-  "total": 11,
-  "new_count": 1,
+  "scraped_at": "2026-08-22 00:03 UTC",
+  "total": 10,
+  "new_count": 0,
   "jobs": [
     {
       "company": "aptim",
@@ -51,23 +51,6 @@
       "salary_currency": "USD",
       "job_type": "",
       "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Summit Engineering, Inc.",
-      "title": "Water Wastewater Project Engineer / Hydrogeologist",
-      "location": "Santa Rosa, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=3e6fc3c61e127d06",
-      "direct_url": "http://www.indeed.com/job/water-wastewater-project-engineer-hydrogeologist-3e6fc3c61e127d06",
-      "company_url": "https://www.indeed.com/cmp/Summit-Engineering,-Inc.-1",
-      "date_posted": "2026-08-20",
-      "description": "Summit Engineering, Inc. is seeking a highly motivated Water Wastewater Project Engineer or Geologist with Hydrogeology experience to join our dynamic team. This role is focused on groundwater supply, water availability, and water adequacy evaluations for water supply systems and infrastructure projects. The ideal candidate will have experience evaluating whether existing or proposed groundwater sources can reliably meet current and future water demands, including review of well records, aquifer testing, pumping data, modeling, seasonal groundwater trends, water quality and applicable County or regulatory requirements. The ideal candidate is self\\-directed, technically strong and capable of managing complex hydrogeologic and engineering tasks while contributing to client relationships and business development.\n\nOnsite (Santa Rosa) or Remote (depending upon experience)\n\n**Salary Range:** $95,000 to $160,000 annually\n\n**Duties and Responsibilities:**\n\n**Hydrogeology \\& Water Resources Experience**\n\n* Plan, facilitate and execute groundwater investigations, including desktop studies, aquifer testing data interpretation\n* Design, oversee and analyze aquifer tests (pumping, step\\-drawdown, slug tests) to estimate aquifer parameters\n* Evaluate site geology and regional geologic setting to understand how subsurface conditions may influence groundwater occurrence, aquifer behavior, recharge potential, storage, flow direction, water quality, well performance, and project feasibility\n* Prepare and support groundwater source adequacy, water availability, and well capacity evaluations for development projects\n* Review and interpret well completion reports, driller’s logs, geologic maps, boring logs, pump test data, static and pumping water levels, well production records, and available local groundwater data\n* Develop or review water demand estimates and compare existing/proposed demands to available water supply data\n* Plan, oversee, and interpret aquifer and well performance testing, including pumping tests, step\\-drawdown tests, slug tests, and water level monitoring\n* Evaluate seasonal reliability, dry\\-year performance, well interference potential, and limitations of existing or proposed groundwater sources\n* Analyze hydrogeologic data using appropriate tools, including conceptual hydrogeologic models and, where applicable, numerical groundwater modeling\n* Prepare technical memoranda, water availability evaluations, and client and agency\\-facing summaries that clearly communicate assumptions, limitations, risks, and recommended next steps\n* Coordinate with regulatory agencies, well drillers, pump contractors, laboratories, and design teams as needed\n* Analyze hydrogeologic data using appropriate tools\n* Collect groundwater quality samples, coordinate lab analysis and interpret geochemical data\n* Support conceptual and numerical groundwater modeling\n\n**Engineering \\& Project Delivery**\n\n* Develop fee and time estimates for proposal preparation\n* Communicate project status and updates to Project Managers\n* Identify scope changes and alert Project Managers accordingly\n* Prepare engineering analysis, calculations, and designs for assigned project components\n* Produce construction documents with minimal oversight\n* Manage task assignments to meet project budget and timelines\n* Mentor junior engineers and provide technical guidance\n* Stay current with industry codes and standards\n* Respond to RFIs, review submittals and perform site visits\n* Collaborate with clients and consultants for data collection and coordination\n* Act as a technical lead on multi\\-disciplinary tasks as needed\n\n**Qualifications**\n\n* Bachelor’s degree in Hydrogeology, Geology, Civil/Environmental Engineering or related field\n* Minimum of 3 years of relevant experience in the field of hydrogeology, groundwater resources, or environmental consulting\n* California Professional Engineer (PE) license or Professional Geologist (PG) preferred or in the process of obtaining\n* Familiarity with multiple hydrogeologic settings (unconsolidated, consolidated and bedrock aquifers)\n* Experience with groundwater modeling software (e.g. MODFLOW, SWMM or similar tools)\n* Proficiency in engineering and design software such as AutoCAD, Civil 3D, and Bluebeam\n* Strong communication, organization, time management and problem\\-solving skills with the ability to support multiple projects\n* Understanding of applicable codes, permitting processes, and engineering design principles\n* Must maintain a valid Driver’s License\n* Eligible to work in the United States without sponsorship\n\nSummit Engineering, Inc. is a multi\\-disciplined design engineering firm located in the heart of beautiful Sonoma County, in Santa Rosa, CA. Our Civil, Wastewater, Structural and Electrical engineering and Planning divisions provide consulting services for wineries, high\\-end residential properties, resorts, and other private sector projects. Summit Engineering has been voted as a “Best Places to Work” for twenty years. We work a 9/80 schedule, which means you have every other Friday off. Employees also have the option to work from home one day a week after their 90\\-day introductory period.\n\nJob Type: Full\\-time\n\nPay: $95,000\\.00 \\- $160,000\\.00 per year\n\nBenefits:\n\n* 401(k)\n* Dental insurance\n* Employee assistance program\n* Flexible schedule\n* Health insurance\n* Life insurance\n* Paid time off\n* Professional development assistance\n* Referral program\n* Retirement plan\n* Vision insurance\n\nWork Location: In person",
-      "salary": "$95k–$160k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
       "emails": "",
       "ats": "Indeed"
     },
@@ -191,23 +174,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jacam Catalyst",
-      "title": "Field Technician",
-      "location": "Johnstown, CO, US",
-      "url": "https://www.indeed.com/viewjob?jk=c14dbfc5ac09aa6f",
-      "direct_url": "https://recruiting.ultipro.com/JAC1008JACAM2/JobBoard/78f93132-0f92-4d96-92fd-6bc9a0e91b52/OpportunityDetail?opportunityId=1a4a743d-232c-4962-a2b3-df781b9b9b1b&postingId=a9e74b02-5009-43b5-820f-f75b592f890d",
-      "company_url": "https://www.indeed.com/cmp/Jacam-Catalyst",
-      "date_posted": "2026-08-21",
-      "description": "**Position Summary:**\n\n\n\nProvide hands\\-on field support and analytics to Account Managers and customers. Day\\-to\\-day will consist of driving to and from the field for our customers. While in the field, you will gather water samples from well heads and batteries. While on location you will be gathering chemical inventories, checking rates, adjusting rates, and fixing chemical pumps. You will also be delivering chemicals to location. You must perform a daily report on the computer.\n\n\n**Essential Functions:**\n\n\n* Collect critical customer information to improve customer product and supplier relationships\n* Properly collect and distribute field samples\n* Routinely collect oilfield samples and conduct various water analysis Accurately read and document data for Account Managers\n* Properly maintain, operate, and repair all company equipment required for performing job duties\n* Provide excellent customer service skills with all customers and field office personnel\n* Maintain the highest level of safety at all times\n* Work well independently and in a team atmosphere\n\n\n**Qualifications:**\n\n\n* Minimum of 2 years’ previous oilfield experience operating and maintaining high\\-pressure wells• Forklift certification preferred.\n* Class B CDL with current Medical Certificate, Hazmat, Tanker and Airbrake endorsements a plus.\n* Must possess a valid driver’s license\n\n\n**Skills \\& Abilities:**\n\n\n* Computer Skills: Have basic computer skills. Efficiently navigate a web browser, follow online  \n\ninstructions, type and use a mouse.  \n\nCustomer Service Skills: Meet internal and external commitments, respond promptly to customer  \n\nneeds, and solicit customer feedback to improve service.\n* Work Ethic: Be dependable, trustworthy, truthful, and credible in the workplace. Display a sincere  \n\ndesire to provide service or assistance, follow instructions, and take responsibility for own actions.  \n\nShow a commitment to doing the best job possible.\n* Physical Abilities: Lift and carry 50 pounds in various packaging. Tip and move 55 gallon drums,  \n\nweighing up to 600 pounds, with the use of a drum dolly.\n\n\n**Work Environment:**\n\n\n\nIndoors and outdoors, with driving involved. Employees could be faced with working in temperature extremes. Employees must be able to lift and carry 100 pounds, manual dexterity and mechanical aptitude helpful. Use of safety equipment to include, but not limited to: hardhat, safety glasses, hearing protection, work boots, gloves, and H2S Monitor as required or needed.\n\n\n\nAll employees of *Jacam Chemical Company 2013, LLC*, and its subsidiaries are required to adhere to the following:  \n\n* Comply with all Federal, State, and Local laws\n* Have the ability to read, write and speak in English fluently\n* Adhere to guidelines, policies, and procedures as described in the Jacam handbook\n* Adhere to Jacam’s Drug and Alcohol policy and agree to submit to random drug testing as a condition of employment\n\n\n\\*\\*\\*This company reserves the right to modify, interpret, or apply this job description in any way the company desires. This job description in no way implies that these are the only duties, including essential duties, to be performed by the employee occupying this position. THIS JOB DESCRIPTION IS NOT AN EMPLOYMENT CONTRACT, IMPLIED OR OTHERWISE. THE COMPANY REMAINS AN “AT\\-WILL” EMPLOYER. Qualified employees who require reasonable accommodations to perform the essential functions of the position should notify the Human Resources Director. \\*\\*\\*\n\n#### **Experience**\n\n\nPreferred* 2 year(s): Oilfield Experience Preferred\n\n#### **Education**\n\n\nRequired* High School or better\n\n#### **Licenses \\& Certifications**\n\n\nRequired* Driver's License\n\n\nEqual Opportunity Employer  \n\nThis employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights (https://www.eeoc.gov/poster) notice from the Department of Labor.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
