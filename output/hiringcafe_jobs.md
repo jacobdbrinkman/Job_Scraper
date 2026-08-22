@@ -1,41 +1,42 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-22 00:24 UTC*
+*Last updated: 2026-08-22 02:13 UTC*
 
 **8 new role(s)** since last run · 133 total in last 30d
 
-### [Geospatial Analyst](https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/) — Stantec
-- 📍 **Location:** Richmond, Virginia, United States
+### [GIS Analyst](https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43476) — Cherokee Federal
+- 📍 **Location:** Colorado Springs, Colorado, United States
+- 🕒 **Posted:** 2026-08-21T20:32:15.000Z
+
+### [Senior GIS Analyst](https://www.governmentjobs.com/careers/tacoma/jobs/5449100) — City of Tacoma
+- 📍 **Location:** Tacoma, Washington, United States
+- 💰 **Salary:** $89k–$137k/yr
+- 🕒 **Posted:** 2026-08-21T19:05:43.000Z
+
+### [GIS Analyst](https://job-boards.greenhouse.io/bgeinc/jobs/5394773008) — BGE, Inc
+- 📍 **Location:** Houston or Frisco or Katy or Texas
+- 🕒 **Posted:** 2026-08-18T21:28:24.000Z
+
+### [Geospatial Analyst](https://stantec.jobs/williamsburg-va/geospatial-analyst/EAF1B201A76746F2B4C01E823633272F/job/) — Stantec
+- 📍 **Location:** Williamsburg or Richmond
 - 💰 **Salary:** $54k–$75k/yr
 - 🕒 **Posted:** 2026-08-21T20:03:48.000Z
 
-### [Geospatial Analyst](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1007338) — Stantec
-- 📍 **Location:** Richmond or Williamsburg
-- 💰 **Salary:** $54k–$75k/yr
-- 🕒 **Posted:** 2026-08-21T17:33:16.000Z
+### [Geospatial Analyst - Senior](https://careers-decisionpointcorp.icims.com/jobs/3666/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — DecisionPoint | Cortek
+- 📍 **Location:** Offutt AFB, Nebraska, United States
+- 💰 **Salary:** $110k–$115k/yr
+- 🕒 **Posted:** 2026-07-27T17:09:00.000Z
 
-### [TWDB - 26-112: GW Modeler (Geoscientist I-II/Hydrologist II-III)](https://jobs.smartrecruiters.com/TexasWaterDevelopmentBoardTWDB/744000144359220-twdb-26-112-gw-modeler-geoscientist-i-ii-hydrologist-ii-iii-) — Texas Water Development Board (TWDB)
-- 📍 **Location:** Austin or Texas
-- 💰 **Salary:** $70k–$86k/yr
-- 🕒 **Posted:** 2026-08-19T16:27:28.767Z
+### [Environmental Scientist 1](https://job-boards.greenhouse.io/apexcompanies/jobs/5395816008) — Apex Companies
+- 📍 **Location:** Urbandale or Iowa or North America
+- 💰 **Salary:** $50k–$60k/yr
+- 🕒 **Posted:** 2026-08-20T20:08:29.000Z
 
-### [Senior Geologist](https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2784) — Terracon
-- 📍 **Location:** Sarasota, Florida, United States
-- 🕒 **Posted:** 2026-08-20T18:19:48.826Z
+### [Senior Geologist](https://talent.fmjobs.com/careers/job/42915005) — Freeport-McMoRan
+- 📍 **Location:** Morenci, Arizona, United States
+- 💰 **Salary:** $98k–$138k/yr
+- 🕒 **Posted:** 2026-07-23T14:56:17.000Z
 
-### [Geologist II](https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Grand-Junction-CO/Geologist-II_JR109631-1) — Calista Brice
-- 📍 **Location:** Anchorage or Fairbanks or Salt Lake City or Grand Junction
-- 💰 **Salary:** $60k–$80k/yr
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
-
-### [Geologist (6128)](https://performancemanager.successfactors.eu/career?career_ns=job_listing&company=ormatsyste&career_job_req_id=6128) — Ormat Technologies
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-05T19:32:33.000Z
-
-### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4421256) — CMS Environmental Solutions LLC
-- 📍 **Location:** Towson, Maryland, United States
-- 💰 **Salary:** $38k–$40k/yr
-- 🕒 **Posted:** 2026-08-14T15:51:57.000Z
-
-### [Natural Resources Field Technician](https://acrt.wd1.myworkdayjobs.com/enviroscienceinc/job/Stow-OH/Natural-Resources-Field-Technician_R9295) — EnviroScience
-- 📍 **Location:** Stow or Hendersonville
-- 🕒 **Posted:** 2026-08-21T00:00:00.000Z
+### [Environmental/Natural Resources Specialist I](https://www.governmentjobs.com/careers/mississippi/jobs/5456907) — State of Mississippi
+- 📍 **Location:** Hinds County, Mississippi, United States
+- 💰 **Salary:** $40k–$59k/yr
+- 🕒 **Posted:** 2026-08-21T21:49:50.000Z
