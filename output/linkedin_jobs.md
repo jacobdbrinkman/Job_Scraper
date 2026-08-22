@@ -1,34 +1,54 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-22 20:54 UTC*
+*Last updated: 2026-08-22 21:50 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**11 new role(s)** since last run · 16 total in last 1h
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4456679313/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Data Analyst III](https://www.linkedin.com/jobs/view/4456692036/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $120,000–$140,000
 - 🕒 **Posted:** 2026-08-22
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4456679250/) — Kiely Family of Companies
-- 📍 **Location:** Hammonton, NJ
-- 💰 **Salary:** $23.08 - $31.25 hourly
+### [Extended School Program Coordinator](https://www.linkedin.com/jobs/view/4456680073/) — Fountain Valley School District
+- 📍 **Location:** Fountain Valley, CA
+- 💰 **Salary:** $4,918 - $5,981
 - 🕒 **Posted:** 2026-08-22
 
-### [Data Analyst, Business Intelligence — Entry Level](https://www.linkedin.com/jobs/view/4456658605/) — Jobright.ai
+### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4456689037/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-22
 
-### [Sr. Business Data Analyst](https://www.linkedin.com/jobs/view/4455067332/) — Vedan Technologies
-- 📍 **Location:** United States
+### [Systems/Data Analyst](https://www.linkedin.com/jobs/view/4454660744/) — Capgemini
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $62,000 - $72,000
 - 🕒 **Posted:** 2026-08-22
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4456694023/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $45–$55 per hour
+### [Data Analyst](https://www.linkedin.com/jobs/view/4456690039/) — Galapagos Federal Systems
+- 📍 **Location:** Patrick AFB, FL
+- 💰 **Salary:** USD $135,000.00 - USD $150,000.00 /Yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Project Coordinator - Power Delivery](https://www.linkedin.com/jobs/view/4456682044/) — RemoteHunter
-- 📍 **Location:** United States
+### [Senior Enterprise Data Analyst](https://www.linkedin.com/jobs/view/4457853389/) — First Citizens Bank
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-08-22
 
-### [Furnishings Project Coordinator](https://www.linkedin.com/jobs/view/4457859344/) — Lisa Ellis Design
-- 📍 **Location:** Athens, GA
+### [Senior Enterprise Data Analyst](https://www.linkedin.com/jobs/view/4457859399/) — First Citizens Bank
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-08-22
+
+### [Enterprise Data Analyst II](https://www.linkedin.com/jobs/view/4457853394/) — First Citizens Bank
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-08-22
+
+### [Enterprise Data Analyst II](https://www.linkedin.com/jobs/view/4457867404/) — First Citizens Bank
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-08-22
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4456683037/) — iTradeNetwork, Inc.
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $61,000 - $68,000
+- 🕒 **Posted:** 2026-08-22
+
+### [Program Coordinator (Health Policy and Management)](https://www.linkedin.com/jobs/view/4456685048/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $21.80–$37.80
 - 🕒 **Posted:** 2026-08-22
