@@ -1,13 +1,19 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-22 18:09 UTC*
+*Last updated: 2026-08-22 19:13 UTC*
 
-**2 new role(s)** since last run · 133 total in last 30d
+**3 new role(s)** since last run · 129 total in last 30d
 
-### [Senior Geologist](https://careers.div.energy/jobs/2637?lang=en-us) — Diversified Gas & Oil Corporation
-- 📍 **Location:** Houston, Texas, United States
-- 🕒 **Posted:** 2026-07-29T20:41:19.000Z
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
+- 📍 **Location:** Denver or United States
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Geologist II](https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62) — Ans
-- 📍 **Location:** Columbus, Ohio, United States
-- 💰 **Salary:** $66k–$75k/yr
-- 🕒 **Posted:** 2026-08-01T03:37:37.612Z
+### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4421256) — CMS Environmental Solutions LLC
+- 📍 **Location:** Towson, Maryland, United States
+- 💰 **Salary:** $38k–$40k/yr
+- 🕒 **Posted:** 2026-08-14T15:51:57.000Z
+
+### [Environmental/Natural Resources Specialist III](https://www.governmentjobs.com/careers/mississippi/jobs/5447146) — State of Mississippi
+- 📍 **Location:** Harrison County or Mississippi
+- 💰 **Salary:** $44k–$48k/yr
+- 🕒 **Posted:** 2026-08-14T00:01:26.000Z
