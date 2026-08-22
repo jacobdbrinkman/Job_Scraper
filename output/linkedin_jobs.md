@@ -1,138 +1,90 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-21 23:04 UTC*
+*Last updated: 2026-08-22 00:01 UTC*
 
-**30 new role(s)** since last run · 32 total in last 1h
+**19 new role(s)** since last run · 40 total in last 1h
 
-### [Residency/Fellowship Program Coordinator 3](https://www.linkedin.com/jobs/view/4457071878/) — Stanford University
-- 📍 **Location:** Stanford, CA
+### [RESEARCH DATA ANALYST II JC-529597](https://www.linkedin.com/jobs/view/4456282842/) — California Department of Public Health
+- 📍 **Location:** Contra Costa County, CA
+- 💰 **Salary:** $6,647.00/mo - $8,325.00/mo
 - 🕒 **Posted:** 2026-08-21
 
-### [Event Program Coordinator (Contractor)](https://www.linkedin.com/jobs/view/4457381591/) — Saicon
-- 📍 **Location:** San Jose, CA
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4454677271/) — HETI
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4454658983/) — INA Solution
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $60,000.00/yr - $70,000.00/yr
+### [Project Coordinator II](https://www.linkedin.com/jobs/view/4456290782/) — Hill International, Inc.
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $80,000-$100,000
 - 🕒 **Posted:** 2026-08-21
 
-### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4454693121/) — Banner Health
-- 📍 **Location:** Greeley, CO
-- 💰 **Salary:** $27.78 - $38.30
+### [Data Analyst, Global Tax Services, Global Tax Services - Data Ops](https://www.linkedin.com/jobs/view/4457548056/) — Find Data Science Jobs
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-08-21
 
-### [GIS Technician](https://www.linkedin.com/jobs/view/4456359168/) — SAM
-- 📍 **Location:** Merriam, KS
+### [Hydrography Geospatial Analyst II](https://www.linkedin.com/jobs/view/4456294924/) — Dewberry
+- 📍 **Location:** Fairfax, VA
+- 💰 **Salary:** $74,000-$95,000
 - 🕒 **Posted:** 2026-08-21
 
-### [GIS Coordinator](https://www.linkedin.com/jobs/view/4456291607/) — American Planning Association Massachusetts Chapter
-- 📍 **Location:** City of Washington County, DC
+### [SENIOR GEOLOGIST / ENVIRONMENTAL SCIENTIST](https://www.linkedin.com/jobs/view/4456601229/) — Broadbent & Associates, Inc.
+- 📍 **Location:** Henderson, NV
 - 🕒 **Posted:** 2026-08-21
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4457511832/) — Guidehouse
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $56,000.00-$94,000.00
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4456298568/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $85,000–$115,000 per year
 - 🕒 **Posted:** 2026-08-21
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4457503828/) — Guidehouse
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $56,000.00-$94,000.00
+### [Field Technician - Charleston](https://www.linkedin.com/jobs/view/4450372975/) — Sparus Holdings
+- 📍 **Location:** Mount Pleasant, SC
 - 🕒 **Posted:** 2026-08-21
 
-### [Field Technician](https://www.linkedin.com/jobs/view/4456282637/) — EarthOptics
-- 📍 **Location:** Greater Amarillo Area
+### [Mid Geospatial Analyst](https://www.linkedin.com/jobs/view/4457536190/) — E&M Technologies, Inc.
+- 📍 **Location:** Alexandria, VA
 - 🕒 **Posted:** 2026-08-21
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4457519756/) — Guidehouse
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $56,000.00-$94,000.00
-- 🕒 **Posted:** 2026-08-21
-
-### [Environmental Analyst 2 Estimated start date October 23, 2026](https://www.linkedin.com/jobs/view/4457506908/) — New York State Center for Recruitment & Public Service
-- 📍 **Location:** Latham, NY
-- 💰 **Salary:** $86,773.00/yr - $86,773.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Environmental Scientist Transportation Specialist](https://www.linkedin.com/jobs/view/4454674288/) — State of Utah
+### [Data Analyst - Institutional Research and Analytics (IAR)](https://www.linkedin.com/jobs/view/4457526250/) — Find Data Science Jobs
 - 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $25.90 - $53.87 Hourly
+- 💰 **Salary:** $75,200.00 - $112,700.00
 - 🕒 **Posted:** 2026-08-21
 
-### [Clinical Application Specialist II / RWE data analyst](https://www.linkedin.com/jobs/view/4456036846/) — Randstad USA
-- 📍 **Location:** United States
+### [Senior Data Analyst - Analytics & Transformation](https://www.linkedin.com/jobs/view/4457544096/) — Find Data Science Jobs
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $111,200 - $126,900
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Analyst, Customer Success](https://www.linkedin.com/jobs/view/4456284576/) — VAST Data
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-08-21
-
-### [Financial Data Analyst - Chicago or Decatur, IL. or Erlanger, KY.](https://www.linkedin.com/jobs/view/4456276991/) — ADM
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $91,500.00 - $147,100.00
-- 🕒 **Posted:** 2026-08-21
-
-### [Information Technology Specialist – Computer Aided Dispatch ( GIS Specialist)](https://www.linkedin.com/jobs/view/4454681227/) — Broward County Government
-- 📍 **Location:** Miami-Fort Lauderdale Area
-- 💰 **Salary:** $87,341.79/yr - $139,397.61/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Solutions Engineer](https://www.linkedin.com/jobs/view/4457512966/) — Spectrum Business
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $0.00 - $0.00
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Solutions Engineer](https://www.linkedin.com/jobs/view/4457527011/) — Spectrum Business
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $0.00 - $0.00
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4456290557/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-21
-
-### [UNIV - Program Coordinator II - Psychiatry: NCVRTC](https://www.linkedin.com/jobs/view/4456278690/) — MUSC Health
-- 📍 **Location:** Charleston, SC
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4457526059/) — Altec
+### [Data Analyst](https://www.linkedin.com/jobs/view/4456295851/) — Sunstar Insurance Group
 - 📍 **Location:** Birmingham, AL
 - 🕒 **Posted:** 2026-08-21
 
-### [Channel Data Analyst](https://www.linkedin.com/jobs/view/4457509850/) — Mack Trucks
-- 📍 **Location:** Greensboro, NC
-- 💰 **Salary:** $63,100 - $77,900 annually
+### [Business Data Analyst - Full-Time](https://www.linkedin.com/jobs/view/4457532381/) — Erlanger
+- 📍 **Location:** Chattanooga, TN
 - 🕒 **Posted:** 2026-08-21
 
-### [Sr. Data Analyst, Finance (REMOTE)](https://www.linkedin.com/jobs/view/4456290541/) — RemoteHunter
+### [Data Analyst](https://www.linkedin.com/jobs/view/4457534369/) — Bluesight
 - 📍 **Location:** United States
+- 💰 **Salary:** $70,000.00/yr - $82,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Utility Field Technician – Power Pole Data Collection](https://www.linkedin.com/jobs/view/4457519794/) — Sigma Technologies, Ltd.
-- 📍 **Location:** Columbus, OH
+### [Senior Signature/Data Analyst](https://www.linkedin.com/jobs/view/4453334031/) — Parsons Corporation
+- 📍 **Location:** Huntsville, AL
+- 💰 **Salary:** $112,200.00 - $196,400.00
 - 🕒 **Posted:** 2026-08-21
 
-### [Construction Project Coordinator - Commercial & Retail Construction](https://www.linkedin.com/jobs/view/4454685140/) — Florida Construction Connection, Inc.
-- 📍 **Location:** Broward County, FL
+### [Systems Engineer II - Radar Data Analyst - Flight Test Onsite](https://www.linkedin.com/jobs/view/4457545084/) — Find Data Science Jobs
+- 📍 **Location:** Huntsville, AL
 - 🕒 **Posted:** 2026-08-21
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4456290679/) — Sciens Building Solutions
-- 📍 **Location:** Piscataway, NJ
+### [Program Coordinator II - Administration - Enterprise Physical Operations](https://www.linkedin.com/jobs/view/4456291816/) — Washington University in St. Louis
+- 📍 **Location:** St Louis, MO
+- 💰 **Salary:** $23.37 - $36.19
 - 🕒 **Posted:** 2026-08-21
 
-### [Real Estate Project Coordinator](https://www.linkedin.com/jobs/view/4455427468/) — Advia Credit Union
-- 📍 **Location:** Elkhorn, WI
-- 💰 **Salary:** $25.94-$31.13 per hour
+### [Senior Architectural Project Coordinator](https://www.linkedin.com/jobs/view/4456292695/) — Placement By Design, Inc.
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Assistant / Project Coordinator](https://www.linkedin.com/jobs/view/4456288572/) — Mack & Associates, Ltd.
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-08-21
-
-### [UNIV - Program Coordinator II - Radiology](https://www.linkedin.com/jobs/view/4456279742/) — MUSC Health
-- 📍 **Location:** Charleston, SC
-- 🕒 **Posted:** 2026-08-21
-
-### [Sr Program Coordinator](https://www.linkedin.com/jobs/view/4457515914/) — Boston Children's Hospital
-- 📍 **Location:** Brookline, MA
-- 💰 **Salary:** $58,676.80/yr - $93,901.60/yr
+### [Pulmonary Program Coordinator (RN)](https://www.linkedin.com/jobs/view/4457509920/) — The McGuire Group Health Care Facilities
+- 📍 **Location:** Patchogue, NY
 - 🕒 **Posted:** 2026-08-21
