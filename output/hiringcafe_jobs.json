@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 00:26 UTC",
-  "total": 127,
-  "new_count": 2,
+  "scraped_at": "2026-08-23 02:16 UTC",
+  "total": 128,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Colorado State University",
@@ -30,19 +30,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cherokee Federal",
-      "title": "GIS Analyst",
-      "location": "Colorado Springs, Colorado, United States",
-      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43476",
-      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43476",
-      "date_posted": "2026-08-21T20:32:15.000Z",
-      "description": "Associate degree in science or 2+ years in a technical field; knowledge of geospatial concepts, cartography, remote sensing, data standards, GIS, and CADD/GIS data management preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "CITY OF CHAMBLEE",
       "title": "GIS Analyst",
       "location": "Chamblee, Georgia, United States",
@@ -50,6 +37,19 @@
       "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=215245&clientkey=E093430E6AD54236309BA47F1E42AAD0",
       "date_posted": "2026-08-07T00:00:00.000Z",
       "description": "Bachelor's degree in GIS, environmental science, geography, or related field; 3–5 years of ArcGIS experience; Georgia driver's license; proficiency with Esri and other GIS software.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Cherokee Federal",
+      "title": "GIS Analyst",
+      "location": "Colorado Springs, Colorado, United States",
+      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43476",
+      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43476",
+      "date_posted": "2026-08-21T20:32:15.000Z",
+      "description": "Associate degree in science or 2+ years in a technical field; knowledge of geospatial concepts, cartography, remote sensing, data standards, GIS, and CADD/GIS data management preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -82,19 +82,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Intrado Life & Safety, Inc.",
-      "title": "GIS Analyst",
-      "location": "Longmont, Colorado, United States",
-      "url": "https://careers.intrado.com/jobs/4613?lang=en-us",
-      "direct_url": "https://careers.intrado.com/jobs/4613?lang=en-us",
-      "date_posted": "2026-08-06T14:43:06.000Z",
-      "description": "Associate's or bachelor's degree in a GIS-related field; GIS software, spatial analysis, geospatial modeling, databases, data formats, remote sensing, GPS, customer support, and technical communication skills.",
-      "salary": "$50k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "SYNCADD Systems Inc.",
       "title": "GIS Analyst",
       "location": "JBLM, Washington, United States",
@@ -103,6 +90,19 @@
       "date_posted": "2026-08-11T23:10:15.000Z",
       "description": "Bachelor's or master's degree in geography, GIS, or related field; 1–4 years of experience with ArcGIS, GIS principles, and Microsoft Office. U.S. citizenship and ability to obtain security clearances required.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Intrado Life & Safety, Inc.",
+      "title": "GIS Analyst",
+      "location": "Longmont, Colorado, United States",
+      "url": "https://careers.intrado.com/jobs/4613?lang=en-us",
+      "direct_url": "https://careers.intrado.com/jobs/4613?lang=en-us",
+      "date_posted": "2026-08-06T14:43:06.000Z",
+      "description": "Associate's or bachelor's degree in a GIS-related field; GIS software, spatial analysis, geospatial modeling, databases, data formats, remote sensing, GPS, customer support, and technical communication skills.",
+      "salary": "$50k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -199,14 +199,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SABG",
-      "title": "GIS Analyst",
-      "location": "Colorado Springs or Colorado Springs",
-      "url": "https://secure.entertimeonline.com/ta/SABGLLC.careers?ShowJob=872566031",
-      "direct_url": "https://secure.entertimeonline.com/ta/SABGLLC.careers?ShowJob=872566031",
-      "date_posted": "2026-08-14T18:16:08.658Z",
-      "description": "Associate degree in science or 2 years technical experience; extensive geospatial knowledge; GIS, CADD, cartography, data management, Microsoft Office, technical documentation, and problem-solving skills required.",
-      "salary": "$70k–$100k/yr",
+      "company": "City of Bradenton",
+      "title": "GIS ANALYST",
+      "location": "Bradenton, Florida, United States",
+      "url": "https://cityofbradentonfl.munisselfservice.com/ess/EmploymentOpportunities/JobDetail.aspx?req=1093&sreq=1&form=1000&desc=GIS%20ANALYST",
+      "direct_url": "https://cityofbradentonfl.munisselfservice.com/ess/EmploymentOpportunities/JobDetail.aspx?req=1093&sreq=1&form=1000&desc=GIS%20ANALYST",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Bachelor's degree in geographic information systems or related field and 2 years of GIS experience in mapping, data analysis, and application development. Florida driver's license and good driving record required.",
+      "salary": "$54k–$92k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -225,14 +225,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Bradenton",
-      "title": "GIS ANALYST",
-      "location": "Bradenton, Florida, United States",
-      "url": "https://cityofbradentonfl.munisselfservice.com/ess/EmploymentOpportunities/JobDetail.aspx?req=1093&sreq=1&form=1000&desc=GIS%20ANALYST",
-      "direct_url": "https://cityofbradentonfl.munisselfservice.com/ess/EmploymentOpportunities/JobDetail.aspx?req=1093&sreq=1&form=1000&desc=GIS%20ANALYST",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "Bachelor's degree in geographic information systems or related field and 2 years of GIS experience in mapping, data analysis, and application development. Florida driver's license and good driving record required.",
-      "salary": "$54k–$92k/yr",
+      "company": "SABG",
+      "title": "GIS Analyst",
+      "location": "Colorado Springs or Colorado Springs",
+      "url": "https://secure.entertimeonline.com/ta/SABGLLC.careers?ShowJob=872566031",
+      "direct_url": "https://secure.entertimeonline.com/ta/SABGLLC.careers?ShowJob=872566031",
+      "date_posted": "2026-08-14T18:16:08.658Z",
+      "description": "Associate degree in science or 2 years technical experience; extensive geospatial knowledge; GIS, CADD, cartography, data management, Microsoft Office, technical documentation, and problem-solving skills required.",
+      "salary": "$70k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -565,11 +565,11 @@
     {
       "company": "Stantec",
       "title": "Geospatial Analyst",
-      "location": "Richmond, Virginia, United States",
-      "url": "https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/",
-      "direct_url": "https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/",
+      "location": "Williamsburg or Richmond",
+      "url": "https://stantec.jobs/williamsburg-va/geospatial-analyst/EAF1B201A76746F2B4C01E823633272F/job/",
+      "direct_url": "https://stantec.jobs/williamsburg-va/geospatial-analyst/EAF1B201A76746F2B4C01E823633272F/job/",
       "date_posted": "2026-08-21T20:03:48.000Z",
-      "description": "Bachelor's degree in GIS, geography, geoscience, environmental science, or related field; GIS training; 1–3 years preferred. Requires ArcGIS experience, data analysis, cartography, communication skills, and a valid driver's license.",
+      "description": "Bachelor's degree or equivalent in GIS, geography, geoscience, environmental science, or related field; 1–3 years of professional GIS experience preferred. Requires GIS, mapping, analysis, communication, and a valid state driver's license.",
       "salary": "$54k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -784,6 +784,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Irvine, California, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "date_posted": "2026-08-21T16:46:28.016Z",
+      "description": "Bachelor's degree in environmental science, core science, engineering, or related field; 3–4 years of experience; RCRA and environmental compliance knowledge; strong communication, organization, and computer skills.",
+      "salary": "$73k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Mott MacDonald",
       "title": "Environmental Scientist",
       "location": "Los Angeles, California, United States",
@@ -797,14 +810,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
+      "company": "United Water Conservation District",
       "title": "Environmental Scientist",
-      "location": "Winter Garden, Florida, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
-      "date_posted": "2026-08-12T20:05:32.050Z",
-      "description": "Bachelor's degree in environmental science, science, engineering, or related field; 2–4 years of related experience; environmental compliance knowledge; strong communication, organization, and Microsoft application skills.",
-      "salary": "$68k–$73k/yr",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -823,14 +836,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "United Water Conservation District",
+      "company": "AECOM",
       "title": "Environmental Scientist",
-      "location": "Oxnard, California, United States",
-      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "date_posted": "2026-08-07T19:57:38.000Z",
-      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
-      "salary": "$100k–$121k/yr",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -857,19 +870,6 @@
       "date_posted": "2026-08-03T12:00:00.000Z",
       "description": "Bachelor's in biology/ecology/environmental science, 7+ years preparing federal/state/local environmental permits, USACE/NJDEP permitting and wetland delineation experience, 40-hr HAZWOPER or ability to attain, US citizenship.",
       "salary": "$99k–$176k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -979,19 +979,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Rhode Island",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental, physical, or biological sciences, engineering, meteorology, environmental economics, or related field; environmental regulation, research, data analysis, communication, and fieldwork skills required.",
-      "salary": "$73k–$82k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Calista Brice",
       "title": "Environmental Scientist II",
       "location": "Anchorage or Fairbanks or Salt Lake City or Grand Junction",
@@ -1000,6 +987,19 @@
       "date_posted": "2026-08-17T00:00:00.000Z",
       "description": "Bachelor's degree in physical or environmental science, 5–10 years of environmental project experience, environmental regulations knowledge, driver's license, and ability to pass drug and background screening.",
       "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Rhode Island",
+      "title": "ENVIRONMENTAL SCIENTIST I",
+      "location": "Rhode Island, United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental, physical, or biological sciences, engineering, meteorology, environmental economics, or related field; environmental regulation, research, data analysis, communication, and fieldwork skills required.",
+      "salary": "$73k–$82k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1018,19 +1018,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -1039,6 +1026,19 @@
       "date_posted": "2026-08-14T18:58:27.000Z",
       "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
       "salary": "$68k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1078,19 +1078,6 @@
       "date_posted": "2026-07-27T05:00:00.000Z",
       "description": "Conduct asbestos and lead surveys, collect environmental samples, prepare technical reports; requires bachelor\\u0002s or equivalent, 1+ years environmental consulting experience, required accreditations for SC/NC, valid driver license.",
       "salary": "$60k–$70k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "TRC Companies, Inc.",
-      "title": "Environmental Scientist I",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://careers.trccompanies.com/jobs/26597?lang=en-us",
-      "direct_url": "https://careers.trccompanies.com/jobs/26597?lang=en-us",
-      "date_posted": "2026-08-17T15:04:32.000Z",
-      "description": "Bachelor's degree in geology, environmental science, or related field; 1–5 years of environmental consulting experience; 40-hour HAZWOPER; valid driver's license; strong writing, analysis, QA/QC, and project management skills.",
-      "salary": "$52k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1408,6 +1395,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Diversified Gas & Oil Corporation",
+      "title": "Senior Geologist",
+      "location": "Houston, Texas, United States",
+      "url": "https://careers.div.energy/jobs/2637?lang=en-us",
+      "direct_url": "https://careers.div.energy/jobs/2637?lang=en-us",
+      "date_posted": "2026-07-29T20:41:19.000Z",
+      "description": "10+ years geology experience focused on Oklahoma and unconventional reservoir evaluation; proficiency with Petra, ArcGIS, and Danomics; strong petrophysical/geophysical workflows and well planning experience.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Hycroft Mining Holding Corporation",
       "title": "Senior Geologist",
       "location": "Winnemucca, Nevada, United States",
@@ -1421,14 +1421,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Aleut Federal, LLC",
-      "title": "Geologist III",
-      "location": "Oxford or Raleigh",
-      "url": "https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b",
-      "direct_url": "https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b",
-      "date_posted": "2026-07-30T14:59:16.561Z",
-      "description": "Bachelor's degree in geology or environmental science, 5+ years related experience, ability to pass background/drug screening, valid driver's license, US citizenship for DoD/DOE access; PG and HAZWOPER 40-hour preferred; CPR/FA a plus.",
-      "salary": "$80k–$95k/yr",
+      "company": "Ans",
+      "title": "Geologist II",
+      "location": "Columbus, Ohio, United States",
+      "url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
+      "direct_url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
+      "date_posted": "2026-08-01T03:37:37.612Z",
+      "description": "Bachelor's in Geology/Earth Science, ≥6 months relevant experience, experience with geotechnical and geophysical investigations and project coordination, and proficiency with AutoCAD and QGIS.",
+      "salary": "$66k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1442,6 +1442,19 @@
       "date_posted": "2026-08-13T00:00:00.000Z",
       "description": "Geology degree plus 20 semester hours in related sciences or qualifying equivalent education and experience; specialized coal geology experience at GS-12 or GS-13 level; valid driver's license and U.S. citizenship required.",
       "salary": "$100k–$154k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Aleut Federal, LLC",
+      "title": "Geologist III",
+      "location": "Oxford or Raleigh",
+      "url": "https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b",
+      "direct_url": "https://recruiting.ultipro.com/ale1006alef/JobBoard/8809ff6f-fb60-47a7-81af-6d15e92a801b/OpportunityDetail?opportunityId=38ee1fbb-5f94-43ee-b341-63f570f4058b",
+      "date_posted": "2026-07-30T14:59:16.561Z",
+      "description": "Bachelor's degree in geology or environmental science, 5+ years related experience, ability to pass background/drug screening, valid driver's license, US citizenship for DoD/DOE access; PG and HAZWOPER 40-hour preferred; CPR/FA a plus.",
+      "salary": "$80k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1659,25 +1672,38 @@
     {
       "company": "Stantec",
       "title": "Geospatial Analyst",
-      "location": "Richmond, Virginia, United States",
-      "url": "https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/",
-      "direct_url": "https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/",
+      "location": "Williamsburg or Richmond",
+      "url": "https://stantec.jobs/williamsburg-va/geospatial-analyst/EAF1B201A76746F2B4C01E823633272F/job/",
+      "direct_url": "https://stantec.jobs/williamsburg-va/geospatial-analyst/EAF1B201A76746F2B4C01E823633272F/job/",
       "date_posted": "2026-08-21T20:03:48.000Z",
-      "description": "Bachelor's degree in GIS, geography, geoscience, environmental science, or related field; GIS training; 1–3 years preferred. Requires ArcGIS experience, data analysis, cartography, communication skills, and a valid driver's license.",
+      "description": "Bachelor's degree or equivalent in GIS, geography, geoscience, environmental science, or related field; 1–3 years of professional GIS experience preferred. Requires GIS, mapping, analysis, communication, and a valid state driver's license.",
       "salary": "$54k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Terracon",
+      "company": "Diversified Gas & Oil Corporation",
       "title": "Senior Geologist",
-      "location": "Sarasota, Florida, United States",
-      "url": "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2784",
-      "direct_url": "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2784",
-      "date_posted": "2026-08-20T18:19:48.826Z",
-      "description": "Bachelor’s degree in geology, hydrogeology, or related field; 9+ years of related experience; certification and Professional Geologist designation; Terracon Authorized Project Reviewer status; driver’s license may be required.",
+      "location": "Houston, Texas, United States",
+      "url": "https://careers.div.energy/jobs/2637?lang=en-us",
+      "direct_url": "https://careers.div.energy/jobs/2637?lang=en-us",
+      "date_posted": "2026-07-29T20:41:19.000Z",
+      "description": "10+ years geology experience focused on Oklahoma and unconventional reservoir evaluation; proficiency with Petra, ArcGIS, and Danomics; strong petrophysical/geophysical workflows and well planning experience.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ans",
+      "title": "Geologist II",
+      "location": "Columbus, Ohio, United States",
+      "url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
+      "direct_url": "https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62",
+      "date_posted": "2026-08-01T03:37:37.612Z",
+      "description": "Bachelor's in Geology/Earth Science, ≥6 months relevant experience, experience with geotechnical and geophysical investigations and project coordination, and proficiency with AutoCAD and QGIS.",
+      "salary": "$66k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
