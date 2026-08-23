@@ -1,19 +1,29 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-23 18:09 UTC*
+*Last updated: 2026-08-23 19:12 UTC*
 
-**3 new role(s)** since last run · 121 total in last 30d
+**5 new role(s)** since last run · 122 total in last 30d
 
-### [Geospatial Analyst - Senior](https://careers-decisionpointcorp.icims.com/jobs/3666/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — DecisionPoint | Cortek
-- 📍 **Location:** Offutt AFB, Nebraska, United States
-- 💰 **Salary:** $110k–$115k/yr
-- 🕒 **Posted:** 2026-07-27T17:09:00.000Z
+### [GIS Analyst II](https://prim.wd108.myworkdayjobs.com/primoris/job/Nationwide/GIS-Analyst-II_JR101528) — Prim
+- 📍 **Location:** United States
+- 💰 **Salary:** $70k–$100k/yr
+- 🕒 **Posted:** 2026-08-10T00:00:00.000Z
 
-### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4411879) — CMS Environmental Solutions LLC
-- 📍 **Location:** Birmingham, Alabama, United States
+### [Geospatial Analyst](https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/) — Stantec
+- 📍 **Location:** Richmond, Virginia, United States
+- 💰 **Salary:** $54k–$75k/yr
+- 🕒 **Posted:** 2026-08-21T20:03:48.000Z
+
+### [Environmental Scientist 1](https://job-boards.greenhouse.io/apexcompanies/jobs/5395816008) — Apex Companies
+- 📍 **Location:** Urbandale or Iowa or North America
+- 💰 **Salary:** $50k–$60k/yr
+- 🕒 **Posted:** 2026-08-20T20:08:29.000Z
+
+### [Geologist](https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/) — AECOM
+- 📍 **Location:** Westlake Village, California, United States
+- 💰 **Salary:** $70k–$72k/yr
+- 🕒 **Posted:** 2026-08-12T06:46:56.000Z
+
+### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4421256) — CMS Environmental Solutions LLC
+- 📍 **Location:** Towson, Maryland, United States
 - 💰 **Salary:** $38k–$40k/yr
-- 🕒 **Posted:** 2026-08-11T21:00:35.000Z
-
-### [Environmental/Natural Resources Specialist III](https://www.governmentjobs.com/careers/mississippi/jobs/5447146) — State of Mississippi
-- 📍 **Location:** Harrison County or Mississippi
-- 💰 **Salary:** $44k–$48k/yr
-- 🕒 **Posted:** 2026-08-14T00:01:26.000Z
+- 🕒 **Posted:** 2026-08-14T15:51:57.000Z
