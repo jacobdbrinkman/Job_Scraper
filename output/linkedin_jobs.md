@@ -1,22 +1,17 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-22 23:49 UTC*
+*Last updated: 2026-08-23 02:14 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4455052509/) — HETI
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-08-22
+### [Customer Success Engineer ($130k-$180k + Equity) at Tasklet](https://www.linkedin.com/jobs/view/4456685611/) — Jack & Jill
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130k-$180k
+- 🕒 **Posted:** 2026-08-23
 
-### [Project Coordinator (Construction)](https://www.linkedin.com/jobs/view/4456688194/) — Facade and Building Jobs
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-08-22
+### [Project Coordinator- Washington (D.C.)](https://www.linkedin.com/jobs/view/4456684631/) — Equans Services Canada & US
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-23
 
-### [Senior Financial & Data Analyst (FinOps) - Hanover, Maryland](https://www.linkedin.com/jobs/view/4414495916/) — Ciena
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $89,300.00 - $142,700.00 USD
-- 🕒 **Posted:** 2026-08-22
-
-### [Manufacturing Project Coordinator](https://www.linkedin.com/jobs/view/4457862591/) — Qualdoc
-- 📍 **Location:** Marietta, OH
-- 🕒 **Posted:** 2026-08-22
+### [Mechanical Project Coordinator](https://www.linkedin.com/jobs/view/4455061544/) — Power Design Resources
+- 📍 **Location:** St. Petersburg, FL
+- 🕒 **Posted:** 2026-08-23
