@@ -1,29 +1,33 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-23 19:12 UTC*
+*Last updated: 2026-08-23 20:06 UTC*
 
-**5 new role(s)** since last run · 122 total in last 30d
+**6 new role(s)** since last run · 123 total in last 30d
 
-### [GIS Analyst II](https://prim.wd108.myworkdayjobs.com/primoris/job/Nationwide/GIS-Analyst-II_JR101528) — Prim
-- 📍 **Location:** United States
-- 💰 **Salary:** $70k–$100k/yr
-- 🕒 **Posted:** 2026-08-10T00:00:00.000Z
+### [Lead GIS Analyst](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000143562589-lead-gis-analyst) — City of Philadelphia
+- 📍 **Location:** Philadelphia, Pennsylvania, United States
+- 💰 **Salary:** $67k–$80k/yr
+- 🕒 **Posted:** 2026-08-14T16:51:32.715Z
 
-### [Geospatial Analyst](https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/) — Stantec
-- 📍 **Location:** Richmond, Virginia, United States
+### [Geospatial Analyst](https://stantec.jobs/williamsburg-va/geospatial-analyst/EAF1B201A76746F2B4C01E823633272F/job/) — Stantec
+- 📍 **Location:** Williamsburg or Richmond
 - 💰 **Salary:** $54k–$75k/yr
 - 🕒 **Posted:** 2026-08-21T20:03:48.000Z
 
-### [Environmental Scientist 1](https://job-boards.greenhouse.io/apexcompanies/jobs/5395816008) — Apex Companies
-- 📍 **Location:** Urbandale or Iowa or North America
-- 💰 **Salary:** $50k–$60k/yr
-- 🕒 **Posted:** 2026-08-20T20:08:29.000Z
+### [Environmental Scientist I](https://careers.trccompanies.com/jobs/26597?lang=en-us) — TRC Companies, Inc.
+- 📍 **Location:** Chicago, Illinois, United States
+- 💰 **Salary:** $52k–$75k/yr
+- 🕒 **Posted:** 2026-08-17T15:04:32.000Z
 
-### [Geologist](https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/) — AECOM
-- 📍 **Location:** Westlake Village, California, United States
-- 💰 **Salary:** $70k–$72k/yr
-- 🕒 **Posted:** 2026-08-12T06:46:56.000Z
+### [Senior Geologist](https://careers.div.energy/jobs/2637?lang=en-us) — Diversified Gas & Oil Corporation
+- 📍 **Location:** Houston, Texas, United States
+- 🕒 **Posted:** 2026-07-29T20:41:19.000Z
 
-### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4421256) — CMS Environmental Solutions LLC
-- 📍 **Location:** Towson, Maryland, United States
-- 💰 **Salary:** $38k–$40k/yr
-- 🕒 **Posted:** 2026-08-14T15:51:57.000Z
+### [Geologist II](https://jobs.lever.co/ans/85a8f17e-9203-40ba-8e2b-a5e3eea96e62) — Ans
+- 📍 **Location:** Columbus, Ohio, United States
+- 💰 **Salary:** $66k–$75k/yr
+- 🕒 **Posted:** 2026-08-01T03:37:37.612Z
+
+### [Environmental/Natural Resources Specialist I](https://www.governmentjobs.com/careers/mississippi/jobs/5456907) — State of Mississippi
+- 📍 **Location:** Hinds County, Mississippi, United States
+- 💰 **Salary:** $40k–$59k/yr
+- 🕒 **Posted:** 2026-08-21T21:49:50.000Z
