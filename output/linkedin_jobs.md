@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-23 22:51 UTC*
+*Last updated: 2026-08-23 23:49 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Data Analyst, Customer Insights — New Grad](https://www.linkedin.com/jobs/view/4456818915/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-23

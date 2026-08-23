@@ -1,7 +1,29 @@
 {
-  "scraped_at": "2026-08-23 22:51 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-08-23 23:49 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Jobright.ai",
+      "title": "Data Analyst, Customer Insights — New Grad",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4456818915/",
+      "date_posted": "2026-08-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Jobright is your personal AI job search agent that transforms the way you do job search from solo, time-consuming efforts to a fast, expert-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. The New Grad Data Analyst will help understand the needs and behaviors of job seekers by analyzing data, customer feedback, and research findings to improve customer satisfaction and retention.\n\nWhy Join Us\n\n• Build real, production AI agents used by real users\n• High ownership and impact\n• Work at the intersection of AI, agents, and product\n• Shape how people experience AI-driven job search\n\nResponsibilities\n\n• Analyze customer behavior, engagement, retention, and satisfaction\n• Combine quantitative data with surveys and support feedback\n• Build customer segments, dashboards, and recurring reports\n• Identify recurring pain points and unmet customer needs\n• Measure the impact of customer-experience initiatives\n• Present findings and recommendations to cross-functional teams\nQualification\n\nRequired\n\n• Recent graduate in Data Science, Statistics, Economics, Psychology, Business, or a related field\n• Strong SQL and spreadsheet skills\n• Understanding of statistics and customer-behavior analysis\n• Strong written and verbal communication skills\n• Ability to work effectively in a remote environment\n\nPreferred\n\n• Experience with surveys, segmentation, or customer research\n• Familiarity with Python, Tableau, Looker, or product analytics tools\n• Experience analyzing support, CRM, or user-feedback data\n• Interest in consumer technology and AI products\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nSoftware Development"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Jobright.ai",
+      "title": "Data Analyst, Customer Insights — New Grad",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4456818915/",
+      "date_posted": "2026-08-23",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Jobright is your personal AI job search agent that transforms the way you do job search from solo, time-consuming efforts to a fast, expert-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. The New Grad Data Analyst will help understand the needs and behaviors of job seekers by analyzing data, customer feedback, and research findings to improve customer satisfaction and retention.\n\nWhy Join Us\n\n• Build real, production AI agents used by real users\n• High ownership and impact\n• Work at the intersection of AI, agents, and product\n• Shape how people experience AI-driven job search\n\nResponsibilities\n\n• Analyze customer behavior, engagement, retention, and satisfaction\n• Combine quantitative data with surveys and support feedback\n• Build customer segments, dashboards, and recurring reports\n• Identify recurring pain points and unmet customer needs\n• Measure the impact of customer-experience initiatives\n• Present findings and recommendations to cross-functional teams\nQualification\n\nRequired\n\n• Recent graduate in Data Science, Statistics, Economics, Psychology, Business, or a related field\n• Strong SQL and spreadsheet skills\n• Understanding of statistics and customer-behavior analysis\n• Strong written and verbal communication skills\n• Ability to work effectively in a remote environment\n\nPreferred\n\n• Experience with surveys, segmentation, or customer research\n• Familiarity with Python, Tableau, Looker, or product analytics tools\n• Experience analyzing support, CRM, or user-feedback data\n• Interest in consumer technology and AI products\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nSoftware Development"
+    }
+  ]
 }
