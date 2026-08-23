@@ -1,17 +1,17 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-23 02:14 UTC*
+*Last updated: 2026-08-23 03:28 UTC*
 
 **3 new role(s)** since last run · 3 total in last 1h
 
-### [Customer Success Engineer ($130k-$180k + Equity) at Tasklet](https://www.linkedin.com/jobs/view/4456685611/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130k-$180k
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4457886029/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
 - 🕒 **Posted:** 2026-08-23
 
-### [Project Coordinator- Washington (D.C.)](https://www.linkedin.com/jobs/view/4456684631/) — Equans Services Canada & US
+### [Data Analyst, Population Health Management](https://www.linkedin.com/jobs/view/4457881168/) — One Brooklyn Health
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-08-23
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4456684676/) — Galapagos Federal Systems
 - 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-08-23
-
-### [Mechanical Project Coordinator](https://www.linkedin.com/jobs/view/4455061544/) — Power Design Resources
-- 📍 **Location:** St. Petersburg, FL
+- 💰 **Salary:** USD $115,000.00 - USD $125,000.00 /Yr
 - 🕒 **Posted:** 2026-08-23
