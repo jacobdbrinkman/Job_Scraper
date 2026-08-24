@@ -1,28 +1,24 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-23 23:07 UTC*
+*Last updated: 2026-08-24 00:26 UTC*
 
-**5 new role(s)** since last run · 125 total in last 30d
+**4 new role(s)** since last run · 123 total in last 30d
 
-### [Senior Geologist](https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2784) — Terracon
-- 📍 **Location:** Sarasota, Florida, United States
-- 🕒 **Posted:** 2026-08-20T18:19:48.826Z
+### [GIS Analyst](https://careers.merrick.com/jobs/8431?lang=en-us) — Merrick & Company
+- 📍 **Location:** Greenwood Village, Colorado, United States
+- 💰 **Salary:** $62k–$80k/yr
+- 🕒 **Posted:** 2026-07-30T14:58:27.000Z
 
-### [Geologist](https://jobs.smartrecruiters.com/AECOM2/744000144118774-geologist) — AECOM
-- 📍 **Location:** Oakland or Sacramento
-- 💰 **Salary:** $70k–$80k/yr
-- 🕒 **Posted:** 2026-08-18T15:57:18.964Z
+### [Senior Geospatial Analyst](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Senior-Geospatial-Analyst_R11048-1) — Invenergyllc
+- 📍 **Location:** Chicago, Illinois, United States
+- 💰 **Salary:** $72k–$85k/yr
+- 🕒 **Posted:** 2026-08-19T00:00:00.000Z
 
-### [Geologist](https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/) — AECOM
-- 📍 **Location:** Westlake Village, California, United States
-- 💰 **Salary:** $70k–$72k/yr
-- 🕒 **Posted:** 2026-08-12T06:46:56.000Z
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Geologist II](https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Grand-Junction-CO/Geologist-II_JR109631-1) — Calista Brice
-- 📍 **Location:** Anchorage or Fairbanks or Salt Lake City or Grand Junction
-- 💰 **Salary:** $60k–$80k/yr
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
-
-### [Environmental/Natural Resources Specialist III](https://www.governmentjobs.com/careers/mississippi/jobs/5447146) — State of Mississippi
-- 📍 **Location:** Harrison County or Mississippi
-- 💰 **Salary:** $44k–$48k/yr
-- 🕒 **Posted:** 2026-08-14T00:01:26.000Z
+### [Environmental/Natural Resources Specialist I](https://www.governmentjobs.com/careers/mississippi/jobs/5456907) — State of Mississippi
+- 📍 **Location:** Hinds County, Mississippi, United States
+- 💰 **Salary:** $40k–$59k/yr
+- 🕒 **Posted:** 2026-08-21T21:49:50.000Z
