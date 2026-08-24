@@ -1,14 +1,16 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-24 02:13 UTC*
+*Last updated: 2026-08-24 03:30 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Customer Success Engineer ($130k-$180k + Equity) at Tasklet](https://www.linkedin.com/jobs/view/4456863062/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130k-$180k
+### [GIS Specialist](https://www.linkedin.com/jobs/view/4455839371/) — Saasuji
+- 📍 **Location:** Little Canada, MN
 - 🕒 **Posted:** 2026-08-24
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4455824181/) — Fly My Group
-- 📍 **Location:** United States
-- 💰 **Salary:** $90,000.00/yr - $99,000.00/yr
+### [Project Solutions Engineer](https://www.linkedin.com/jobs/view/4458146838/) — Excel Fluid Group
+- 📍 **Location:** Brook Park, OH
+- 🕒 **Posted:** 2026-08-24
+
+### [Safety Program Coordinator](https://www.linkedin.com/jobs/view/4458143909/) — Bengal Logistics Services, LLC
+- 📍 **Location:** Ascension Parish County, LA
 - 🕒 **Posted:** 2026-08-24
