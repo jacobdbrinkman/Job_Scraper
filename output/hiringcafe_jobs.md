@@ -1,22 +1,32 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-25 00:25 UTC*
+*Last updated: 2026-08-25 02:15 UTC*
 
-**4 new role(s)** since last run · 124 total in last 30d
+**6 new role(s)** since last run · 126 total in last 30d
 
-### [Geospatial Analyst](https://stantec.jobs/williamsburg-va/geospatial-analyst/EAF1B201A76746F2B4C01E823633272F/job/) — Stantec
-- 📍 **Location:** Williamsburg or Richmond
+### [GIS Analyst](https://tetratech.referrals.selectminds.com/jobs/gis-analyst-56169) — Tetra Tech
+- 📍 **Location:** Buffalo or Pittsburgh or Houston
+- 🕒 **Posted:** 2026-08-12T21:28:35.093Z
+
+### [Geospatial Analyst](https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/) — Stantec
+- 📍 **Location:** Richmond, Virginia, United States
 - 💰 **Salary:** $54k–$75k/yr
 - 🕒 **Posted:** 2026-08-21T20:03:48.000Z
 
-### [Environmental Scientist Lead ](https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877) — Pond & Company
-- 📍 **Location:** Tampa or Peachtree Corners or Jacksonville or Atlanta
-- 🕒 **Posted:** 2026-08-24T04:00:00.000Z
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Senior Geologist](http://infinitynr.applytojob.com/apply/IHGBkYSmtB/Senior-Geologist) — Infinity Natural Resources
-- 📍 **Location:** Morgantown or Ohio or Pennsylvania
-- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
+### [Environmental Scientist](https://www.cnd.nd.gov/psc/recruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=3033600&PostingSeq=1&SiteId=11000) — North Dakota Department of Agriculture
+- 📍 **Location:** Bismarck, North Dakota, United States
+- 💰 **Salary:** $60k–$66k/yr
+- 🕒 **Posted:** 2026-08-24T22:23:08.344Z
 
-### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4411879) — CMS Environmental Solutions LLC
-- 📍 **Location:** Birmingham, Alabama, United States
+### [Geologist](https://crescentenergyco.wd108.myworkdayjobs.com/crescent_energy_careers/job/Houston-TX/Geologist_R412) — Crescent Energy
+- 📍 **Location:** Houston or Texas
+- 🕒 **Posted:** 2026-08-24T00:00:00.000Z
+
+### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4421256) — CMS Environmental Solutions LLC
+- 📍 **Location:** Towson, Maryland, United States
 - 💰 **Salary:** $38k–$40k/yr
-- 🕒 **Posted:** 2026-08-11T21:00:35.000Z
+- 🕒 **Posted:** 2026-08-14T15:51:57.000Z
