@@ -1,18 +1,24 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-25 22:12 UTC*
+*Last updated: 2026-08-25 23:13 UTC*
 
-**3 new role(s)** since last run · 127 total in last 30d
+**4 new role(s)** since last run · 129 total in last 30d
 
-### [Geologist](https://careers.jacobs.com/en_US/careers/JobDetail/Geologist/44276) — Jacobs
-- 📍 **Location:** Bellevue or North America
-- 💰 **Salary:** $71k–$124k/yr
-- 🕒 **Posted:** 2026-08-25T12:00:00.000Z
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Senior Geologist](http://infinitynr.applytojob.com/apply/IHGBkYSmtB/Senior-Geologist) — Infinity Natural Resources
-- 📍 **Location:** Morgantown or Ohio or Pennsylvania
-- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
+### [Environmental Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4421256) — CMS Environmental Solutions LLC
+- 📍 **Location:** Towson, Maryland, United States
+- 💰 **Salary:** $38k–$40k/yr
+- 🕒 **Posted:** 2026-08-14T15:51:57.000Z
 
-### [GEOLOGIST I](https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=001028&R3=0004) — State of Maryland - MDE - Land and Materials Administration (LMA)
-- 📍 **Location:** Baltimore, Maryland, United States
-- 💰 **Salary:** $63k–$100k/yr
-- 🕒 **Posted:** 2026-08-25T00:00:00.000Z
+### [Natural Resources Specialist](https://steigerwaldt.bamboohr.com/careers/291) — Steigerwaldt Land Services
+- 📍 **Location:** Tomahawk, Wisconsin, United States
+- 💰 **Salary:** $44k–$62k/yr
+- 🕒 **Posted:** 2026-07-27T00:00:00.000Z
+
+### [Environmental/Natural Resources Specialist I](https://www.governmentjobs.com/careers/mississippi/jobs/5456907) — State of Mississippi
+- 📍 **Location:** Hinds County, Mississippi, United States
+- 💰 **Salary:** $40k–$59k/yr
+- 🕒 **Posted:** 2026-08-21T21:49:50.000Z
