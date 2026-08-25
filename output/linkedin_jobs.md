@@ -1,88 +1,180 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-25 20:11 UTC*
+*Last updated: 2026-08-25 21:11 UTC*
 
-**19 new role(s)** since last run · 45 total in last 1h
+**39 new role(s)** since last run · 56 total in last 1h
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4459023217/) — CP Marine LLC
-- 📍 **Location:** District of Columbia, United States
-- 💰 **Salary:** $90,000.00 to $102,000.00 annually
+### [Senior Data Analyst, People](https://www.linkedin.com/jobs/view/4459043398/) — Fivetran
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $156,082—$195,102.50 USD
 - 🕒 **Posted:** 2026-08-25
 
-### [Survey Hydrogeologist](https://www.linkedin.com/jobs/view/4457630602/) — University of Nebraska-Lincoln
-- 📍 **Location:** Lincoln, Nebraska Metropolitan Area
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4457633764/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-25
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4459019972/) — Stantec
-- 📍 **Location:** Georgia, United States
+### [Meetings & Events Coordinator – Project Coordinator](https://www.linkedin.com/jobs/view/4456952628/) — Russell Tobin
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $35.00/hr - $39.00/hr
 - 🕒 **Posted:** 2026-08-25
 
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4459032123/) — Goldbelt Professional Services
-- 📍 **Location:** Georgia, United States
-- 💰 **Salary:** $85,000-$105,000 annually
+### [Data Analyst / Customer data platform Developer](https://www.linkedin.com/jobs/view/4457641259/) — Chasepro
+- 📍 **Location:** Torrance, CA
 - 🕒 **Posted:** 2026-08-25
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4459034191/) — Stantec
-- 📍 **Location:** Alpharetta, GA
+### [Field Technician 1](https://www.linkedin.com/jobs/view/4457632620/) — Crystal Clean
+- 📍 **Location:** Pomona, CA
+- 💰 **Salary:** $18 - $25 per hour
 - 🕒 **Posted:** 2026-08-25
 
-### [Geologist, Environmental Scientist, or Environmental Engineer](https://www.linkedin.com/jobs/view/4457637451/) — Property Solutions Inc.
-- 📍 **Location:** Moorestown, NJ
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4457637633/) — Carpenters’ Regional Council
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $80,000-$100,000
 - 🕒 **Posted:** 2026-08-25
 
-### [Exploration Geologist](https://www.linkedin.com/jobs/view/4436845644/) — Robertson & Company Ltd.
-- 📍 **Location:** Hawthorne, NV
-- 💰 **Salary:** $120,000 - $140,000
+### [GIS Technician](https://www.linkedin.com/jobs/view/4451439429/) — ESG Consulting
+- 📍 **Location:** Greater Savannah Area
 - 🕒 **Posted:** 2026-08-25
 
-### [Geologist](https://www.linkedin.com/jobs/view/4457623648/) — AECOM
-- 📍 **Location:** Providence, RI
-- 💰 **Salary:** $60000 to $70000
+### [Demographic Data Analyst](https://www.linkedin.com/jobs/view/4451946550/) — University of Utah
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $55,000-$75,000
 - 🕒 **Posted:** 2026-08-25
 
-### [Environmental Consultant - Electric Transmission Permitting (NOVA)](https://www.linkedin.com/jobs/view/4456786712/) — Dominion Energy
-- 📍 **Location:** Herndon, VA
-- 💰 **Salary:** $112500 - $146100
+### [Environmental Engineer, Scientist, or Geologist II](https://www.linkedin.com/jobs/view/4457636603/) — True Environmental
+- 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-08-25
 
-### [Commercial Fisheries and Seafood Specialist (Program Coordinator II)](https://www.linkedin.com/jobs/view/4459022548/) — Texas A&M University
-- 📍 **Location:** Galveston, TX
-- 💰 **Salary:** $65,000-$75,000/annually
+### [Housing Assessment & Data Analyst](https://www.linkedin.com/jobs/view/4458501366/) — University of Miami
+- 📍 **Location:** Coral Gables, FL
 - 🕒 **Posted:** 2026-08-25
 
-### [Voluntary Cleanup Program Site Manager (Hydrogeologist 3) Two Positions](https://www.linkedin.com/jobs/view/4446501660/) — Washington State Department of Ecology
-- 📍 **Location:** Lacey, WA
+### [Environmental Engineer, Scientist, or Geologist I](https://www.linkedin.com/jobs/view/4457626692/) — True Environmental
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-25
 
-### [Equity Data Analyst - Trading Firm in Midtown](https://www.linkedin.com/jobs/view/4459017739/) — Coda Search│Staffing
+### [Lead Data Analyst (Management Data Analysis), Data Analysis and Reporting](https://www.linkedin.com/jobs/view/4456950734/) — National Grid
+- 📍 **Location:** Waltham, MA
+- 💰 **Salary:** $127,000 - $149,000
+- 🕒 **Posted:** 2026-08-25
+
+### [Energy Efficiency & Consumer Program Coordinator](https://www.linkedin.com/jobs/view/4452852443/) — American Electric Power
+- 📍 **Location:** Fort Wayne, IN
+- 💰 **Salary:** $74,551.00 - $93,188.50
+- 🕒 **Posted:** 2026-08-25
+
+### [Technical Data Analyst](https://www.linkedin.com/jobs/view/4459028677/) — IDR, Inc.
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-08-25
+
+### [Data Analyst IV](https://www.linkedin.com/jobs/view/4459043534/) — Texas Health and Human Services
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $5,425.33 - $8,886.16
+- 🕒 **Posted:** 2026-08-25
+
+### [Environmental Field Technician](https://www.linkedin.com/jobs/view/4456968400/) — Groundwater & Environmental Services, Inc.
+- 📍 **Location:** Valparaiso, IN
+- 🕒 **Posted:** 2026-08-25
+
+### [Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4457639489/) — Crystal Clean
+- 📍 **Location:** Hoffman Estates, IL
+- 💰 **Salary:** $57,000.00 - $69,000.00
+- 🕒 **Posted:** 2026-08-25
+
+### [Field Technician I](https://www.linkedin.com/jobs/view/4459039436/) — Crystal Clean
+- 📍 **Location:** Sparks, NV
+- 💰 **Salary:** $22.00 -$25.00 hourly
+- 🕒 **Posted:** 2026-08-25
+
+### [Senior Project Manager - Hydrogeologist](https://www.linkedin.com/jobs/view/4459034001/) — Spheros Environmental
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $120,000 - $180,000 annually
+- 🕒 **Posted:** 2026-08-25
+
+### [Field Technician II](https://www.linkedin.com/jobs/view/4459023581/) — UES
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-08-25
+
+### [Jr. Mine Geologist](https://www.linkedin.com/jobs/view/4456945754/) — McEwen Inc.
+- 📍 **Location:** Eureka, NV
+- 🕒 **Posted:** 2026-08-25
+
+### [Field Technician, Junior](https://www.linkedin.com/jobs/view/4456946779/) — SGS
+- 📍 **Location:** Chester, IL
+- 🕒 **Posted:** 2026-08-25
+
+### [Data Analyst II, Clinical](https://www.linkedin.com/jobs/view/4458737286/) — Sundayy
+- 📍 **Location:** United States
+- 💰 **Salary:** $94,000 to $128,000,
+- 🕒 **Posted:** 2026-08-25
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4459005765/) — FetchJobs.co
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-25
+
+### [Data Analyst, Business Intelligence — Entry Level](https://www.linkedin.com/jobs/view/4457625721/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-25
+
+### [Data Analyst - Remote](https://www.linkedin.com/jobs/view/4458729306/) — Sundayy
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-25
+
+### [Senior Data Analyst, People](https://www.linkedin.com/jobs/view/4459030621/) — Fivetran
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $156,082—$195,102.50 USD
 - 🕒 **Posted:** 2026-08-25
 
-### [Junior Metrics Data Analyst](https://www.linkedin.com/jobs/view/4459024239/) — Sawdey Solution Services
-- 📍 **Location:** Chesapeake, VA
+### [Data Analyst](https://www.linkedin.com/jobs/view/4456953582/) — Divine Talent
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-25
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4456966592/) — Progressive Leasing
-- 📍 **Location:** Utah, United States
+### [Data Analyst](https://www.linkedin.com/jobs/view/4459031608/) — Marketech International Corporation USA
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-08-25
 
-### [Environmental Geologist](https://www.linkedin.com/jobs/view/4457629615/) — AECOM
-- 📍 **Location:** Providence, RI
-- 💰 **Salary:** $75000 to $100000
+### [Project Coordinator - Power Delivery Project Management](https://www.linkedin.com/jobs/view/4457633603/) — WSP in the U.S.
+- 📍 **Location:** Boise, ID
+- 💰 **Salary:** $65,000 - $75,000
 - 🕒 **Posted:** 2026-08-25
 
-### [Project Coordinator / Field Operations Coordinator](https://www.linkedin.com/jobs/view/4459026315/) — W3Global
-- 📍 **Location:** Centreville, MI
-- 💰 **Salary:** $25.00/hr - $30.00/hr
+### [Project Coordinator - Power Delivery Project Management](https://www.linkedin.com/jobs/view/4457619798/) — WSP in the U.S.
+- 📍 **Location:** Ann Arbor, MI
+- 💰 **Salary:** $65,000 - $75,000
 - 🕒 **Posted:** 2026-08-25
 
-### [Project Coordinator - Health](https://www.linkedin.com/jobs/view/4459026425/) — HKS, Inc.
-- 📍 **Location:** Richmond, VA
+### [Project Coordinator I](https://www.linkedin.com/jobs/view/4457632751/) — NPL Construction Co.
+- 📍 **Location:** Glendale, AZ
 - 🕒 **Posted:** 2026-08-25
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4459037309/) — Booth & Associates
-- 📍 **Location:** Raleigh, NC
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4459019922/) — Motorola Solutions
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $58,500 - $85,200
 - 🕒 **Posted:** 2026-08-25
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4456948728/) — Hays
-- 📍 **Location:** Maplewood, MN
+### [Administrative Program Coordinator](https://www.linkedin.com/jobs/view/4459024198/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-25
+
+### [Youth Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4457639592/) — Crossover
+- 📍 **Location:** Brownsville, TX
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [HR Program Coordinator (Workforce Pathways & Programs)](https://www.linkedin.com/jobs/view/4456945878/) — Northwestern Medicine
+- 📍 **Location:** Warrenville, IL
+- 💰 **Salary:** $26.63/hr - $39.95/hr
+- 🕒 **Posted:** 2026-08-25
+
+### [Preschool Program Coordinator, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4457624801/) — Crossover
+- 📍 **Location:** Round Rock, TX
+- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4457146806/) — Advanced Wireless Communications
+- 📍 **Location:** Lakeville, MN
+- 💰 **Salary:** $45,000 - $65,000
+- 🕒 **Posted:** 2026-08-25
+
+### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4457624946/) — JAS Worldwide
+- 📍 **Location:** Greater Houston
 - 🕒 **Posted:** 2026-08-25
