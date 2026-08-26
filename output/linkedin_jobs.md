@@ -1,72 +1,93 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-26 00:05 UTC*
+*Last updated: 2026-08-26 02:22 UTC*
 
-**15 new role(s)** since last run · 38 total in last 1h
+**21 new role(s)** since last run · 22 total in last 1h
 
-### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4456992042/) — Qualus
-- 📍 **Location:** Brooklyn Park, MN
+### [SEO Data Analyst (Streaming and AI Discovery)](https://www.linkedin.com/jobs/view/4457666525/) — Cella
+- 📍 **Location:** Burbank, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Senior Solutions Engineer (Presales)](https://www.linkedin.com/jobs/view/4434057786/) — Arango
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-25
+### [Land Survey Technician](https://www.linkedin.com/jobs/view/4459092535/) — SEH
+- 📍 **Location:** Mason City, IA
+- 🕒 **Posted:** 2026-08-26
 
-### [Senior Environmental Geologist](https://www.linkedin.com/jobs/view/4445620196/) — APTIM
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $130K-$165K
-- 🕒 **Posted:** 2026-08-25
+### [Utilities Data Analyst](https://www.linkedin.com/jobs/view/4459100199/) — Texas A&M University
+- 📍 **Location:** College Station, TX
+- 🕒 **Posted:** 2026-08-26
 
-### [Internal Audit and Advisory Data Analyst](https://www.linkedin.com/jobs/view/4459046986/) — DaVita Kidney Care
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $57,784.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-08-25
+### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4442230119/) — Spire
+- 📍 **Location:** Birmingham, AL
+- 🕒 **Posted:** 2026-08-26
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4459056820/) — Talent Groups
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $40.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-08-25
+### [Field Technician Damage Prevention](https://www.linkedin.com/jobs/view/4453863252/) — ONE Gas
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-08-26
 
-### [Data analyst and project coordinator](https://www.linkedin.com/jobs/view/4457665116/) — Tata Consultancy Services
-- 📍 **Location:** Edison, NJ
-- 💰 **Salary:** $45,000 to $55,000 Per Annum
-- 🕒 **Posted:** 2026-08-25
+### [Field Technician](https://www.linkedin.com/jobs/view/4459112039/) — UES
+- 📍 **Location:** Lubbock, TX
+- 🕒 **Posted:** 2026-08-26
 
-### [Professional Geologist Supervisor](https://www.linkedin.com/jobs/view/4451915268/) — Kansas Department of Health and Environment
-- 📍 **Location:** Shawnee County, KS
-- 💰 **Salary:** $35.60-$39.25
-- 🕒 **Posted:** 2026-08-25
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4459078122/) — ArborMetrics Solutions, LLC
-- 📍 **Location:** Huntingdon, PA
-- 💰 **Salary:** $26.00/hr - $29.00/hr
-- 🕒 **Posted:** 2026-08-25
-
-### [Data Analyst (Commercial Analytics)](https://www.linkedin.com/jobs/view/4445038510/) — American Greetings
-- 📍 **Location:** Westlake, OH
-- 🕒 **Posted:** 2026-08-25
-
-### [Data Analyst, AI Agent Analytics — New Grad](https://www.linkedin.com/jobs/view/4457658500/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-25
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4456973266/) — The University of Georgia
-- 📍 **Location:** Athens, GA
-- 🕒 **Posted:** 2026-08-25
-
-### [Project Coordinator - Level 1](https://www.linkedin.com/jobs/view/4456977245/) — DaBella
+### [Data Analyst: Tickle College of Engineering Research Office - UTK](https://www.linkedin.com/jobs/view/4457665782/) — Knoxville Technology Council
 - 📍 **Location:** Knoxville, TN
-- 💰 **Salary:** $22.00 - $24.00 Hourly
-- 🕒 **Posted:** 2026-08-25
+- 🕒 **Posted:** 2026-08-26
 
-### [Program/Project Coordinator #10100034-23500, Full-Time, Perm in Lovington, NM](https://www.linkedin.com/jobs/view/4457666195/) — New Mexico Courts
-- 📍 **Location:** Lovington, NM
-- 💰 **Salary:** $24.98-$28.67 per hour
-- 🕒 **Posted:** 2026-08-25
+### [Field Technician - Lubbock, TX](https://www.linkedin.com/jobs/view/4457654862/) — VetJobs
+- 📍 **Location:** Lubbock, TX
+- 🕒 **Posted:** 2026-08-26
 
-### [Classified, Program Coordinator- Copy, Print and Mail Services](https://www.linkedin.com/jobs/view/4456975210/) — Whatcom Community College
-- 📍 **Location:** Bellingham, WA
-- 🕒 **Posted:** 2026-08-25
+### [Environmental Scientist IV](https://www.linkedin.com/jobs/view/4457407629/) — AECOM
+- 📍 **Location:** Fort Collins, CO
+- 💰 **Salary:** $95000 to $135000
+- 🕒 **Posted:** 2026-08-26
 
-### [Program Coordinator, Arts in Healing-Florence](https://www.linkedin.com/jobs/view/4457647320/) — MUSC Health
-- 📍 **Location:** Florence, SC
-- 🕒 **Posted:** 2026-08-25
+### [Environmental Scientist IV](https://www.linkedin.com/jobs/view/4457417042/) — AECOM
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $95000 to $135000
+- 🕒 **Posted:** 2026-08-26
+
+### [Project Coordinator I, Special Events (Office of Development)](https://www.linkedin.com/jobs/view/4454902387/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66482.07 - $75000 Annually
+- 🕒 **Posted:** 2026-08-26
+
+### [Procurement and Project Coordinator](https://www.linkedin.com/jobs/view/4459090970/) — Housing Authority of the City of Goldsboro, NC
+- 📍 **Location:** Goldsboro, NC
+- 🕒 **Posted:** 2026-08-26
+
+### [Project Coordinator (73545)](https://www.linkedin.com/jobs/view/4459111032/) — Valcourt Group
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-08-26
+
+### [Project Coordinator (73173)](https://www.linkedin.com/jobs/view/4459109112/) — Valcourt Group
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-08-26
+
+### [Project Coordinator – NA](https://www.linkedin.com/jobs/view/4459083900/) — Synoptek
+- 📍 **Location:** Las Vegas, NV
+- 🕒 **Posted:** 2026-08-26
+
+### [Implementations Project Coordinator](https://www.linkedin.com/jobs/view/4459084947/) — U.S. Bank
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $66,640.00 - $78,400.00
+- 🕒 **Posted:** 2026-08-26
+
+### [Sr. Project Coordinator - Controls](https://www.linkedin.com/jobs/view/4457668434/) — XS Telecom
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $90,000- $100,000annually
+- 🕒 **Posted:** 2026-08-26
+
+### [Assistant Sports Program Coordinator - Lifestyle Wellness (Billings, MT)](https://www.linkedin.com/jobs/view/4457680050/) — AWARE Inc.
+- 📍 **Location:** Billings, MT
+- 🕒 **Posted:** 2026-08-26
+
+### [Medical Education Program Coordinator - MEDICAL EDUCATION](https://www.linkedin.com/jobs/view/4459019866/) — Kettering Health
+- 📍 **Location:** Dayton, OH
+- 🕒 **Posted:** 2026-08-26
+
+### [FAMILY MEDICINE RESIDENCY PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4459083999/) — East Alabama Health
+- 📍 **Location:** Opelika, AL
+- 🕒 **Posted:** 2026-08-26
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4454592092/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-26
