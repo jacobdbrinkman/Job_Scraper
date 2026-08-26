@@ -1,18 +1,24 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-26 00:26 UTC*
+*Last updated: 2026-08-26 02:22 UTC*
 
-**3 new role(s)** since last run · 127 total in last 30d
+**4 new role(s)** since last run · 125 total in last 30d
 
-### [Geospatial Analyst](https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/) — Stantec
-- 📍 **Location:** Richmond, Virginia, United States
-- 💰 **Salary:** $54k–$75k/yr
-- 🕒 **Posted:** 2026-08-21T20:03:48.000Z
+### [Environmental Scientist](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/43485) — Arcadis
+- 📍 **Location:** Middletown or Florida
+- 💰 **Salary:** $65k–$97k/yr
+- 🕒 **Posted:** 2026-08-25T21:15:13.000Z
 
-### [Environmental Scientist](https://stantec.jobs/georgia-usa/environmental-scientist/026EE8D161A84459870A32BB67CA6AE7/job/) — Stantec
-- 📍 **Location:** Alpharetta or Georgia or Alabama or Florida or Mississippi or United States
-- 🕒 **Posted:** 2026-08-25T17:03:01.000Z
+### [Geologist (Indianapolis, IN, US, 46024)](https://workforindiana.in.gov/job/Indianapolis-Geologist-IN-46024/1423149900/) — Indiana Office of Technology
+- 📍 **Location:** Indianapolis or Indiana
+- 💰 **Salary:** $60k/yr
+- 🕒 **Posted:** 2026-08-25T19:32:16.818Z
 
-### [Staff Environmental Scientist](https://jobs.dayforcehcm.com/en-US/eisholding/candidateportal/jobs/117) — Eisholding
-- 📍 **Location:** West Columbia or Irmo or Orangeburg or Chapin or Newberry or Aiken or Columbia or Camden or Lexington
+### [Geologist](https://aecom.jobs/providence-ri/geologist/7F970EBFA1984558BFE75E967232E124/job/) — AECOM
+- 📍 **Location:** Providence, Rhode Island, United States
 - 💰 **Salary:** $60k–$70k/yr
-- 🕒 **Posted:** 2026-07-27T05:00:00.000Z
+- 🕒 **Posted:** 2026-08-25T18:53:11.000Z
+
+### [Geologist II](https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Grand-Junction-CO/Geologist-II_JR109631-1) — Calista Brice
+- 📍 **Location:** Anchorage or Fairbanks or Salt Lake City or Grand Junction
+- 💰 **Salary:** $60k–$80k/yr
+- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
