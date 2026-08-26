@@ -1,93 +1,94 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-26 02:22 UTC*
+*Last updated: 2026-08-26 03:39 UTC*
 
-**21 new role(s)** since last run · 22 total in last 1h
+**19 new role(s)** since last run · 24 total in last 1h
 
-### [SEO Data Analyst (Streaming and AI Discovery)](https://www.linkedin.com/jobs/view/4457666525/) — Cella
-- 📍 **Location:** Burbank, CA
+### [Senior Geologist](https://www.linkedin.com/jobs/view/4428783815/) — Fugro
+- 📍 **Location:** Walnut Creek, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Land Survey Technician](https://www.linkedin.com/jobs/view/4459092535/) — SEH
-- 📍 **Location:** Mason City, IA
+### [Senior Data Analyst – Customer Data Platforms (CDP)](https://www.linkedin.com/jobs/view/4458784912/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $54.00/hr - $61.00/hr
 - 🕒 **Posted:** 2026-08-26
 
-### [Utilities Data Analyst](https://www.linkedin.com/jobs/view/4459100199/) — Texas A&M University
-- 📍 **Location:** College Station, TX
+### [Senior Data Analyst, Inbound Integrations - HYBRID (Seattle, WA)](https://www.linkedin.com/jobs/view/4459107469/) — Nordstrom
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $121,000.00 - $199,000.00
 - 🕒 **Posted:** 2026-08-26
 
-### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4442230119/) — Spire
-- 📍 **Location:** Birmingham, AL
-- 🕒 **Posted:** 2026-08-26
-
-### [Field Technician Damage Prevention](https://www.linkedin.com/jobs/view/4453863252/) — ONE Gas
-- 📍 **Location:** Oklahoma City, OK
-- 🕒 **Posted:** 2026-08-26
-
-### [Field Technician](https://www.linkedin.com/jobs/view/4459112039/) — UES
-- 📍 **Location:** Lubbock, TX
-- 🕒 **Posted:** 2026-08-26
-
-### [Data Analyst: Tickle College of Engineering Research Office - UTK](https://www.linkedin.com/jobs/view/4457665782/) — Knoxville Technology Council
-- 📍 **Location:** Knoxville, TN
-- 🕒 **Posted:** 2026-08-26
-
-### [Field Technician - Lubbock, TX](https://www.linkedin.com/jobs/view/4457654862/) — VetJobs
-- 📍 **Location:** Lubbock, TX
-- 🕒 **Posted:** 2026-08-26
-
-### [Environmental Scientist IV](https://www.linkedin.com/jobs/view/4457407629/) — AECOM
-- 📍 **Location:** Fort Collins, CO
-- 💰 **Salary:** $95000 to $135000
-- 🕒 **Posted:** 2026-08-26
-
-### [Environmental Scientist IV](https://www.linkedin.com/jobs/view/4457417042/) — AECOM
+### [Geologist / Geological Engineer](https://www.linkedin.com/jobs/view/4459116057/) — SRK Consulting
 - 📍 **Location:** Denver, CO
-- 💰 **Salary:** $95000 to $135000
+- 💰 **Salary:** $100,000-$110,000 USD per annum
 - 🕒 **Posted:** 2026-08-26
 
-### [Project Coordinator I, Special Events (Office of Development)](https://www.linkedin.com/jobs/view/4454902387/) — Mount Sinai Health System
+### [Event & Program Coordinator](https://www.linkedin.com/jobs/view/4457671446/) — Beacon Hill
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $20.00/hr - $28.00/hr
+- 🕒 **Posted:** 2026-08-26
+
+### [Geospatial Analyst Expert](https://www.linkedin.com/jobs/view/4457689458/) — Tactica Solutions, LLC
+- 📍 **Location:** Augusta, GA
+- 💰 **Salary:** $94,929.00 - $109,929.00 USD
+- 🕒 **Posted:** 2026-08-26
+
+### [Geospatial Analyst Senior](https://www.linkedin.com/jobs/view/4457685492/) — Tactica Solutions, LLC
+- 📍 **Location:** Augusta, GA
+- 💰 **Salary:** $83,685.00 - $98,685.00 USD
+- 🕒 **Posted:** 2026-08-26
+
+### [NCBO Marine Environmental Data Analyst](https://www.linkedin.com/jobs/view/4459113315/) — Entarian
+- 📍 **Location:** Annapolis, MD
+- 💰 **Salary:** $60,000 - 70,000/year
+- 🕒 **Posted:** 2026-08-26
+
+### [Maintenance Data Analyst](https://www.linkedin.com/jobs/view/4459104492/) — Sev1Tech LLC
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $140,000 - $150,000
+- 🕒 **Posted:** 2026-08-26
+
+### [Data Analyst Supporting the ATF](https://www.linkedin.com/jobs/view/4456975990/) — FSA
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-26
+
+### [Senior Associate, Federal Data Analyst](https://www.linkedin.com/jobs/view/4457672588/) — KPMG US
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-26
+
+### [Medical Analytics Impact & Outcomes Senior Data Analyst](https://www.linkedin.com/jobs/view/4459116034/) — Pfizer
+- 📍 **Location:** Cambridge, MA
+- 💰 **Salary:** $162,900.00 to $271,500.00
+- 🕒 **Posted:** 2026-08-26
+
+### [Medical Analytics Impact & Outcomes Senior Data Analyst](https://www.linkedin.com/jobs/view/4459112287/) — Pfizer
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $66482.07 - $75000 Annually
+- 💰 **Salary:** $162,900.00 to $271,500.00
 - 🕒 **Posted:** 2026-08-26
 
-### [Procurement and Project Coordinator](https://www.linkedin.com/jobs/view/4459090970/) — Housing Authority of the City of Goldsboro, NC
-- 📍 **Location:** Goldsboro, NC
-- 🕒 **Posted:** 2026-08-26
-
-### [Project Coordinator (73545)](https://www.linkedin.com/jobs/view/4459111032/) — Valcourt Group
-- 📍 **Location:** Orlando, FL
-- 🕒 **Posted:** 2026-08-26
-
-### [Project Coordinator (73173)](https://www.linkedin.com/jobs/view/4459109112/) — Valcourt Group
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-08-26
-
-### [Project Coordinator – NA](https://www.linkedin.com/jobs/view/4459083900/) — Synoptek
-- 📍 **Location:** Las Vegas, NV
-- 🕒 **Posted:** 2026-08-26
-
-### [Implementations Project Coordinator](https://www.linkedin.com/jobs/view/4459084947/) — U.S. Bank
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $66,640.00 - $78,400.00
-- 🕒 **Posted:** 2026-08-26
-
-### [Sr. Project Coordinator - Controls](https://www.linkedin.com/jobs/view/4457668434/) — XS Telecom
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $90,000- $100,000annually
-- 🕒 **Posted:** 2026-08-26
-
-### [Assistant Sports Program Coordinator - Lifestyle Wellness (Billings, MT)](https://www.linkedin.com/jobs/view/4457680050/) — AWARE Inc.
-- 📍 **Location:** Billings, MT
-- 🕒 **Posted:** 2026-08-26
-
-### [Medical Education Program Coordinator - MEDICAL EDUCATION](https://www.linkedin.com/jobs/view/4459019866/) — Kettering Health
-- 📍 **Location:** Dayton, OH
-- 🕒 **Posted:** 2026-08-26
-
-### [FAMILY MEDICINE RESIDENCY PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4459083999/) — East Alabama Health
-- 📍 **Location:** Opelika, AL
-- 🕒 **Posted:** 2026-08-26
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4454592092/) — The University of Texas at Austin
+### [Data Analyst/Report Writer](https://www.linkedin.com/jobs/view/4457675353/) — Neos Consulting Group
 - 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-26
+
+### [Senior Associate, Federal Data Analyst](https://www.linkedin.com/jobs/view/4457674566/) — KPMG US
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-08-26
+
+### [Medical Analytics Impact & Outcomes Senior Data Analyst](https://www.linkedin.com/jobs/view/4459094957/) — Pfizer
+- 📍 **Location:** Pennsylvania, United States
+- 💰 **Salary:** $162,900.00 to $271,500.00
+- 🕒 **Posted:** 2026-08-26
+
+### [Medical Education Program Coordinator](https://www.linkedin.com/jobs/view/4459110266/) — University of Illinois Chicago
+- 📍 **Location:** Peoria, IL
+- 💰 **Salary:** $29.08 - $30.85
+- 🕒 **Posted:** 2026-08-26
+
+### [Glens Falls Program Coordinator (Full-time)](https://www.linkedin.com/jobs/view/4457689442/) — Saratoga Regional YMCA
+- 📍 **Location:** Glens Falls, NY
+- 💰 **Salary:** $20.88-$22.81
+- 🕒 **Posted:** 2026-08-26
+
+### [FACES for the Future Program Coordinator](https://www.linkedin.com/jobs/view/4456993680/) — Public Health Institute
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $65,962 to $94,454 per year
 - 🕒 **Posted:** 2026-08-26
