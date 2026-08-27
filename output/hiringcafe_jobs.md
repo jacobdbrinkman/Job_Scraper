@@ -1,27 +1,38 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-26 21:19 UTC*
+*Last updated: 2026-08-27 02:16 UTC*
 
-**5 new role(s)** since last run · 128 total in last 30d
+**7 new role(s)** since last run · 131 total in last 30d
 
-### [Geospatial Analyst — Senior and Expert](https://jobs.jobvite.com/altamiracorps/job/o2UHAfwX?nl=1&fr=true) — Altamira Technologies Corp.
-- 📍 **Location:** Fort Gordon or Fort Eisenhower
-- 🕒 **Posted:** 2026-08-26T12:00:00.000Z
-
-### [Geospatial Analyst](https://stantec.jobs/richmond-va/geospatial-analyst/3648BB1BEAE24DFFA70409CB4DB28BA7/job/) — Stantec
-- 📍 **Location:** Richmond, Virginia, United States
+### [Geospatial Analyst](https://stantec.jobs/williamsburg-va/geospatial-analyst/EAF1B201A76746F2B4C01E823633272F/job/) — Stantec
+- 📍 **Location:** Williamsburg or Richmond
 - 💰 **Salary:** $54k–$75k/yr
 - 🕒 **Posted:** 2026-08-21T20:03:48.000Z
 
-### [Environmental Scientist](https://onterris.wd1.myworkdayjobs.com/ont/job/USA-TN-Nashville/Environmental-Scientist_R8707) — Onterris
-- 📍 **Location:** Nashville or Florida
-- 💰 **Salary:** $75k–$90k/yr
-- 🕒 **Posted:** 2026-08-26T00:00:00.000Z
+### [Environmental Scientist III](https://careers-dewberry.icims.com/jobs/16222/environmental-scientist-iii/job?in_iframe=1) — Dewberry
+- 📍 **Location:** Richmond, Virginia, United States
+- 💰 **Salary:** $81k–$104k/yr
+- 🕒 **Posted:** 2026-08-26T04:00:00.000Z
 
-### [Environmental Scientist, III](https://beringstraits.rec.pro.ukg.net/ber1502bsnc/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=0473d6ed-b7b7-472b-b1f3-874d92440027) — Paragon Professional Services
-- 📍 **Location:** Anchorage or Alaska
-- 🕒 **Posted:** 2026-08-26T16:51:31.152Z
+### [Geologist](https://aecom.jobs/westlake-village-ca/geologist/A25E3D29C0A64082898134701C204819/job/) — AECOM
+- 📍 **Location:** Westlake Village, California, United States
+- 💰 **Salary:** $70k–$72k/yr
+- 🕒 **Posted:** 2026-08-12T06:46:56.000Z
 
-### [Interdisciplinary Soil Conservationist/Natural Resources Specialist](https://www.usajobs.gov/job/882185300) — Department of Agriculture
-- 📍 **Location:** Ladysmith or Medford
-- 💰 **Salary:** $75k–$116k/yr
-- 🕒 **Posted:** 2026-08-26T09:36:29.033Z
+### [Senior Geologist](http://infinitynr.applytojob.com/apply/IHGBkYSmtB/Senior-Geologist) — Infinity Natural Resources
+- 📍 **Location:** Morgantown or Ohio or Pennsylvania
+- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
+
+### [GEOLOGIST I](https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=001028&R3=0004) — State of Maryland - MDE - Land and Materials Administration (LMA)
+- 📍 **Location:** Baltimore, Maryland, United States
+- 💰 **Salary:** $63k–$100k/yr
+- 🕒 **Posted:** 2026-08-25T00:00:00.000Z
+
+### [Environmental Data Specialist](https://jobs.smartrecruiters.com/LLNL/3743990014881846-environmental-data-specialist) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, California, United States
+- 💰 **Salary:** $96k–$117k/yr
+- 🕒 **Posted:** 2026-08-26T20:22:48.290Z
+
+### [Environmental/Natural Resources Specialist I](https://www.governmentjobs.com/careers/mississippi/jobs/5462288) — State of Mississippi
+- 📍 **Location:** Hinds County, Mississippi, United States
+- 💰 **Salary:** $34k/yr
+- 🕒 **Posted:** 2026-08-26T22:08:46.773Z
