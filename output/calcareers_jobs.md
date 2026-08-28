@@ -1,6 +1,6 @@
 # 🏛 CalCareers — California State Geospatial & Environmental Data Roles
-*Last updated: 2026-08-26 17:01 UTC*
+*Last updated: 2026-08-28 00:51 UTC*
 
-**0 new role(s)** since last run · 17 total in current CalCareers postings
+**0 new role(s)** since last run · 19 total in current CalCareers postings
 
 No new CalCareers roles since the last run.
