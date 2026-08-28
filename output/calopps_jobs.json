@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-26 18:06 UTC",
+  "scraped_at": "2026-08-28 00:59 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Marin Municipal Water District",
@@ -22,15 +22,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Marin Municipal Water District",
-      "title": "Project Coordinator",
-      "location": "Northern Bay Area",
-      "url": "https://www.calopps.org/marin-municipal-water-district/job-20770272",
-      "date_posted": "",
-      "salary": "$8,348.00-$10,252.00 Monthly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
