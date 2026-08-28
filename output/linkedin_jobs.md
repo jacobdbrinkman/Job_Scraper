@@ -1,152 +1,104 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-28 00:48 UTC*
+*Last updated: 2026-08-28 13:11 UTC*
 
-**35 new role(s)** since last run · 35 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458911219/) — American Heart Association
-- 📍 **Location:** Sacramento, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458913224/) — American Heart Association
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458916220/) — American Heart Association
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458918082/) — American Heart Association
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458919032/) — American Heart Association
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458919033/) — American Heart Association
-- 📍 **Location:** Bakersfield, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4460151515/) — Leidos
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $65,650.00 - $118,675.00
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458913228/) — American Heart Association
-- 📍 **Location:** Fresno, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Trauma Program Coordinator - Trauma Service - F/T - Days](https://www.linkedin.com/jobs/view/4459630255/) — UCI Health
-- 📍 **Location:** Orange, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458905321/) — American Heart Association
-- 📍 **Location:** Riverside, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458696773/) — American Heart Association
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458910248/) — American Heart Association
-- 📍 **Location:** Long Beach, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458903396/) — American Heart Association
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4429885490/) — K2 Space Corporation
 - 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $140,000 - $180,000
 - 🕒 **Posted:** 2026-08-28
 
-### [Data Analyst, Returns SX](https://www.linkedin.com/jobs/view/4460136419/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458917115/) — American Heart Association
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-08-28
-
-### [Program Coordinator (Grow Your Own Hub)](https://www.linkedin.com/jobs/view/4458678072/) — Puget Sound Educational Service District
-- 📍 **Location:** Greater Seattle Area
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458699422/) — American Heart Association
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458909262/) — American Heart Association
-- 📍 **Location:** Aurora, CO
-- 🕒 **Posted:** 2026-08-28
-
-### [Survey Technician](https://www.linkedin.com/jobs/view/4460149524/) — Hudbay Minerals U.S. Business Unit
-- 📍 **Location:** Sahuarita, AZ
-- 🕒 **Posted:** 2026-08-28
-
-### [Surface Project Coordinator](https://www.linkedin.com/jobs/view/4458055086/) — CITY OF MISSOULA
-- 📍 **Location:** Missoula, MT
-- 🕒 **Posted:** 2026-08-28
-
-### [Senior Data Analyst (Hybrid)](https://www.linkedin.com/jobs/view/4460140395/) — Beth Israel Lahey Health
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $74,880.00 USD - $124,800.00 USD
-- 🕒 **Posted:** 2026-08-28
-
-### [Field Technician](https://www.linkedin.com/jobs/view/4460132844/) — HVJ Associates®
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458915229/) — American Heart Association
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458900445/) — American Heart Association
-- 📍 **Location:** Boise, ID
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458902407/) — American Heart Association
-- 📍 **Location:** Milwaukee, WI
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator - Data Center Construction](https://www.linkedin.com/jobs/view/4460140612/) — Cupertino Electric, Inc.
-- 📍 **Location:** Santa Teresa, NM
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4460137323/) — Evolution Health Group, LLC
-- 📍 **Location:** Pearl River, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Solar Project Coordinator](https://www.linkedin.com/jobs/view/4458919186/) — A Hiring Company
-- 📍 **Location:** Petaluma, CA
-- 💰 **Salary:** $30-$35 per hour
-- 🕒 **Posted:** 2026-08-28
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4458913230/) — American Heart Association
-- 📍 **Location:** Corpus Christi, TX
-- 🕒 **Posted:** 2026-08-28
-
-### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4458918028/) — Dewberry
-- 📍 **Location:** Rancho Cordova, CA
-- 💰 **Salary:** $38-$43
-- 🕒 **Posted:** 2026-08-27
-
-### [Data Analyst: IV](https://www.linkedin.com/jobs/view/4458058045/) — TALENT Software Services
+### [Infrastructure & Capital Projects – Project Coordinator II, ANS](https://www.linkedin.com/jobs/view/4449758730/) — Accenture
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $90.00/hr - $99.00/hr
-- 🕒 **Posted:** 2026-08-27
+- 💰 **Salary:** $95,000 - $103,000
+- 🕒 **Posted:** 2026-08-28
 
-### [Senior Data Analyst – Customer Data Platforms (CDP)](https://www.linkedin.com/jobs/view/4460150156/) — Delta Computer Consulting
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $54.00/hr - $61.00/hr
-- 🕒 **Posted:** 2026-08-27
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4448949893/) — Avantor
+- 📍 **Location:** Carpinteria, CA
+- 💰 **Salary:** $50,000.00 - $80,500.00
+- 🕒 **Posted:** 2026-08-28
 
-### [Data Analyst, MH&P](https://www.linkedin.com/jobs/view/4458692331/) — SanMar
-- 📍 **Location:** Greater Seattle Area
-- 💰 **Salary:** $80,170 - $100,000 annually
-- 🕒 **Posted:** 2026-08-27
+### [Staff Professional (Scientist, Geologist, Engineer)](https://www.linkedin.com/jobs/view/4432269493/) — Onterris
+- 📍 **Location:** Loveland, CO
+- 💰 **Salary:** $60K to $75K
+- 🕒 **Posted:** 2026-08-28
 
-### [Data Analyst/Product Operations (SQL/Tableau)](https://www.linkedin.com/jobs/view/4458903292/) — Agile Resources, Inc.
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-08-27
+### [Network Analysis/GIS Specialist II](https://www.linkedin.com/jobs/view/4450625984/) — UGI Utilities, Inc.
+- 📍 **Location:** Reading, PA
+- 🕒 **Posted:** 2026-08-28
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4458040140/) — NR Consulting
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $48.00/hr - $50.50/hr
-- 🕒 **Posted:** 2026-08-27
+### [Survey Technician](https://www.linkedin.com/jobs/view/4441471505/) — Ulteig
+- 📍 **Location:** St Louis Park, MN
+- 💰 **Salary:** $25.00 - $34.00/hour
+- 🕒 **Posted:** 2026-08-28
+
+### [Geologist Advisor](https://www.linkedin.com/jobs/view/4432332408/) — Apache Corporation
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-08-28
+
+### [Water Quality Environmental Scientist (Junior-Level)](https://www.linkedin.com/jobs/view/4441245692/) — Environmental Science Associates
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-08-28
+
+### [Water Quality Environmental Scientist (Mid-Level)](https://www.linkedin.com/jobs/view/4441244715/) — Environmental Science Associates
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-08-28
+
+### [Environmental Scientist, Environmental Site Investigations](https://www.linkedin.com/jobs/view/4439927549/) — Atlas
+- 📍 **Location:** Murfreesboro, TN
+- 🕒 **Posted:** 2026-08-28
+
+### [TCEQ - Hydrologist Hiring Program (Statewide)](https://www.linkedin.com/jobs/view/4450271902/) — Texas Commission on Environmental Quality
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-08-28
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4457335077/) — Haystack
+- 📍 **Location:** Raleigh, NC
+- 💰 **Salary:** $27.00/hr - $28.00/hr
+- 🕒 **Posted:** 2026-08-28
+
+### [Environmental Field Technician - Power Start-Ups (Stack)](https://www.linkedin.com/jobs/view/4440798813/) — Onterris
+- 📍 **Location:** Elk Grove Village, IL
+- 💰 **Salary:** $23.50 to $28.00 per hour
+- 🕒 **Posted:** 2026-08-28
+
+### [Project Manager, Environmental Engineer, Geologist or Scientist](https://www.linkedin.com/jobs/view/4433379794/) — Haley & Aldrich
+- 📍 **Location:** Bethlehem, PA
+- 💰 **Salary:** $110,000 - $140,000 annually
+- 🕒 **Posted:** 2026-08-28
+
+### [On Call Archaeological Field Technician](https://www.linkedin.com/jobs/view/4404040241/) — WSP in the U.S.
+- 📍 **Location:** Reno, NV
+- 💰 **Salary:** $21.00 - $36.00 per hour
+- 🕒 **Posted:** 2026-08-28
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4450283724/) — Moore
+- 📍 **Location:** Lanham, MD
+- 💰 **Salary:** $70,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Data Analyst, User Operations](https://www.linkedin.com/jobs/view/4432882493/) — Cursor
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-28
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4404334926/) — WSP in the U.S.
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-28
+
+### [Engineering Project Coordinator](https://www.linkedin.com/jobs/view/4441258831/) — Vertiv
+- 📍 **Location:** Anderson, SC
+- 🕒 **Posted:** 2026-08-28
+
+### [Project Coordinator - Medina, OH](https://www.linkedin.com/jobs/view/4428087791/) — Convergint
+- 📍 **Location:** Medina, OH
+- 💰 **Salary:** $25.00 - $30.00
+- 🕒 **Posted:** 2026-08-28
+
+### [Project Coordinator - AI & Data (Remote)](https://www.linkedin.com/jobs/view/4460334858/) — Hire Feed
+- 📍 **Location:** United States
+- 💰 **Salary:** $45.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-08-28
+
+### [Program Coordinator (ACP)](https://www.linkedin.com/jobs/view/4460338431/) — DC Department of Human Resources
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-28
