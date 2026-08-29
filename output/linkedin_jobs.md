@@ -1,44 +1,38 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-29 18:48 UTC*
+*Last updated: 2026-08-29 21:58 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Lead Geologist - Site Investigation & Remediation](https://www.linkedin.com/jobs/view/4424449676/) — WSP in the U.S.
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $108,600 - $150,000
+### [Data Analyst, Customer Insights — New Grad](https://www.linkedin.com/jobs/view/4459704829/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Data Analyst - Enterprise Services](https://www.linkedin.com/jobs/view/4384159907/) — Capital One
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $111,200 - $126,900
+### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4459487939/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Environmental Consultant Manager](https://www.linkedin.com/jobs/view/4424247220/) — Sargent & Lundy
-- 📍 **Location:** Reading, PA
-- 💰 **Salary:** $165,610 - $253,015
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4459493909/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-29
 
-### [Natural Resources Field Technician Lead 04077 NWRC](https://www.linkedin.com/jobs/view/4423388747/) — North Wind Group
-- 📍 **Location:** Salt Lake City, UT
+### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4459484923/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Technical Manager, Geologist](https://www.linkedin.com/jobs/view/4424256357/) — WSP in the U.S.
-- 📍 **Location:** Duluth, GA
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4459704799/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Data Analyst- Channel](https://www.linkedin.com/jobs/view/4420713880/) — AvePoint
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $85,000 - $110,000
+### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4459483993/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-29
 
-### [Contract Logistics Distribution Solutions Engineer](https://www.linkedin.com/jobs/view/4442180485/) — Kuehne+Nagel
-- 📍 **Location:** Dallas, TX
+### [PK3-Early Childhood Education Program Coordinator](https://www.linkedin.com/jobs/view/4446613371/) — Vanguard University of Southern California
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $28.00 - $29.50 per hour
 - 🕒 **Posted:** 2026-08-29
 
-### [Client Administration Project Coordinator](https://www.linkedin.com/jobs/view/4423066386/) — Greenberg Traurig, LLP
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-29
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4424506000/) — WSP in the U.S.
-- 📍 **Location:** Columbus, NE
+### [Project Coordinator - AI & Data Projects](https://www.linkedin.com/jobs/view/4459489916/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $45 to $70 per hour
 - 🕒 **Posted:** 2026-08-29
