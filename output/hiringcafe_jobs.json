@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-28 13:24 UTC",
+  "scraped_at": "2026-08-29 00:45 UTC",
   "total": 130,
-  "new_count": 8,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Colorado State University",
@@ -1694,110 +1694,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "HNTB",
-      "title": "GIS Analyst II",
-      "location": "Nashville, Tennessee, United States",
-      "url": "https://hntb.jobs/nashville-tn/gis-analyst-ii/228A1154100143E5B4943A3566122D71/job/",
-      "direct_url": "https://hntb.jobs/nashville-tn/gis-analyst-ii/228A1154100143E5B4943A3566122D71/job/",
-      "date_posted": "2026-08-10T17:48:38.000Z",
-      "description": "Bachelor's degree in computer science, engineering, geography, planning, or related field plus 3 years of GIS experience, or 7 years of relevant experience without a degree; ESRI, Intergraph, or Bentley experience required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Nevada",
-      "title": "ENVIRONMENTAL SCIENTIST 4",
-      "location": "Carson City, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5463725",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5463725",
-      "date_posted": "2026-08-27T18:53:40.000Z",
-      "description": "Requires a bachelor's degree in a relevant science or engineering field plus 4 years of environmental experience, or equivalent alternatives; driver's license required; supervisory or expert-level environmental program experience.",
-      "salary": "$73k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Burgess & Niple",
-      "title": "Geologist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://job-boards.greenhouse.io/burgessniple/jobs/4361418009",
-      "direct_url": "https://job-boards.greenhouse.io/burgessniple/jobs/4361418009",
-      "date_posted": "2026-08-18T20:50:10.000Z",
-      "description": "Bachelor's degree in geology, hydrogeology, or related earth science; 2–5 years of related experience; MS Office proficiency; ability to obtain OSHA 40-hour HAZWOPER certification and travel up to 50%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Calista Brice",
-      "title": "Geologist II",
-      "location": "Anchorage or Fairbanks or Salt Lake City or Post Falls or Portland or Grand Junction",
-      "url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Post-Falls-Idaho/Geologist-II_JR109683-1",
-      "direct_url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Post-Falls-Idaho/Geologist-II_JR109683-1",
-      "date_posted": "2026-08-24T00:00:00.000Z",
-      "description": "Bachelor's degree in physical or environmental science, 5–10 years of environmental project experience, environmental regulation knowledge, valid driver's license, vehicle qualification, and ability to pass drug and background screening.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "NV5",
-      "title": "Staff Geologist",
-      "location": "Nevada City, California, United States",
-      "url": "https://careers-nv5.icims.com/jobs/12505/staff-geologist/job?in_iframe=1",
-      "direct_url": "https://careers-nv5.icims.com/jobs/12505/staff-geologist/job?in_iframe=1",
-      "date_posted": "2026-08-14T04:00:00.000Z",
-      "description": "Bachelor’s or master’s degree in geology or a master’s in geotechnical engineering; valid driver’s license, geological testing knowledge, regulatory standards knowledge, and strong communication skills required.",
-      "salary": "$62k–$94k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Universal Engineering Sciences",
-      "title": "Geologist I",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://careers.teamues.com/jobs/4587?lang=en-us",
-      "direct_url": "https://careers.teamues.com/jobs/4587?lang=en-us",
-      "date_posted": "2026-08-25T03:24:42.000Z",
-      "description": "Bachelor’s degree in geology or related field; ability to obtain FG certification; OSHA 40-hour HAZWOPER; valid driver’s license; Microsoft Office and Teams or SharePoint familiarity; environmental sampling and regulatory knowledge.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Diversified Gas & Oil Corporation",
-      "title": "Senior Geologist",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers.div.energy/jobs/2637?lang=en-us",
-      "direct_url": "https://careers.div.energy/jobs/2637?lang=en-us",
-      "date_posted": "2026-07-29T20:41:19.000Z",
-      "description": "10+ years geology experience focused on Oklahoma and unconventional reservoir evaluation; proficiency with Petra, ArcGIS, and Danomics; strong petrophysical/geophysical workflows and well planning experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of the Interior",
-      "title": "Geologist (Coal)",
-      "location": "Lakewood, Colorado, United States",
-      "url": "https://www.usajobs.gov/job/880388300",
-      "direct_url": "https://www.usajobs.gov/job/880388300",
-      "date_posted": "2026-08-13T00:00:00.000Z",
-      "description": "Geology degree plus 20 semester hours in related sciences or qualifying equivalent education and experience; specialized coal geology experience at GS-12 or GS-13 level; valid driver's license and U.S. citizenship required.",
-      "salary": "$100k–$154k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
