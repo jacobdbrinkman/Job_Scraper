@@ -1,39 +1,44 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-29 07:18 UTC*
+*Last updated: 2026-08-29 18:48 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Community Program Coordinator](https://www.linkedin.com/jobs/view/4460589621/) — AppleOne Employment Services
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $55,000 to $60,000 per year
+### [Lead Geologist - Site Investigation & Remediation](https://www.linkedin.com/jobs/view/4424449676/) — WSP in the U.S.
+- 📍 **Location:** Redmond, WA
+- 💰 **Salary:** $108,600 - $150,000
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior GIS Analyst](https://www.linkedin.com/jobs/view/4460583859/) — AtkinsRéalis
-- 📍 **Location:** Fort Lauderdale, FL
-- 💰 **Salary:** $83k-$120k annually
+### [Senior Data Analyst - Enterprise Services](https://www.linkedin.com/jobs/view/4384159907/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $111,200 - $126,900
 - 🕒 **Posted:** 2026-08-29
 
-### [Research Project Coordinator](https://www.linkedin.com/jobs/view/4460586745/) — Dartmouth College
-- 📍 **Location:** Hanover, NH
-- 💰 **Salary:** $57,100.00/yr - $71,570.00/yr
+### [Senior Environmental Consultant Manager](https://www.linkedin.com/jobs/view/4424247220/) — Sargent & Lundy
+- 📍 **Location:** Reading, PA
+- 💰 **Salary:** $165,610 - $253,015
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4460593198/) — FELICIS
-- 📍 **Location:** New York, NY
+### [Natural Resources Field Technician Lead 04077 NWRC](https://www.linkedin.com/jobs/view/4423388747/) — North Wind Group
+- 📍 **Location:** Salt Lake City, UT
 - 🕒 **Posted:** 2026-08-29
 
-### [Program Coordinator- School of Medicine, OBGYN](https://www.linkedin.com/jobs/view/4458417506/) — Emory University
+### [Senior Technical Manager, Geologist](https://www.linkedin.com/jobs/view/4424256357/) — WSP in the U.S.
+- 📍 **Location:** Duluth, GA
+- 🕒 **Posted:** 2026-08-29
+
+### [Data Analyst- Channel](https://www.linkedin.com/jobs/view/4420713880/) — AvePoint
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $85,000 - $110,000
+- 🕒 **Posted:** 2026-08-29
+
+### [Contract Logistics Distribution Solutions Engineer](https://www.linkedin.com/jobs/view/4442180485/) — Kuehne+Nagel
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-08-29
+
+### [Client Administration Project Coordinator](https://www.linkedin.com/jobs/view/4423066386/) — Greenberg Traurig, LLP
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-29
 
-### [Program Coordinator (ACP)](https://www.linkedin.com/jobs/view/4460592117/) — DC Department of Human Resources
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-08-29
-
-### [Lung Cancer Screening Program Coordinator](https://www.linkedin.com/jobs/view/4460589742/) — Trinity Health
-- 📍 **Location:** Hartford, CT
-- 🕒 **Posted:** 2026-08-29
-
-### [Lung Cancer Screening Program Coordinator](https://www.linkedin.com/jobs/view/4460580945/) — Trinity Health Of New England
-- 📍 **Location:** Hartford, CT
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4424506000/) — WSP in the U.S.
+- 📍 **Location:** Columbus, NE
 - 🕒 **Posted:** 2026-08-29
