@@ -1,13 +1,17 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-30 00:34 UTC*
+*Last updated: 2026-08-30 06:53 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Program Coordinator - Nursing Excellence Center](https://www.linkedin.com/jobs/view/4459729117/) — Apex Home Health, Hospice & Home Care
-- 📍 **Location:** Akron, OH
+### [Senior Data Analyst – Customer Data Platforms (CDP)](https://www.linkedin.com/jobs/view/4460528133/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $54.00/hr - $61.00/hr
 - 🕒 **Posted:** 2026-08-30
 
-### [CAD-GIS Technician](https://www.linkedin.com/jobs/view/4459726004/) — ATCO Communications Services, LLC
-- 📍 **Location:** United States
-- 💰 **Salary:** $20.00 to $26.00 per hour
-- 🕒 **Posted:** 2026-08-29
+### [Data Analyst](https://www.linkedin.com/jobs/view/4460877464/) — DC Department of Human Resources
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-30
+
+### [Senior Consultant, Geologist/Engineer](https://www.linkedin.com/jobs/view/4458840360/) — ERM
+- 📍 **Location:** Hurricane, WV
+- 🕒 **Posted:** 2026-08-30
