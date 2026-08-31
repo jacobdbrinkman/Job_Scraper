@@ -1,28 +1,23 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-30 22:10 UTC*
+*Last updated: 2026-08-31 00:53 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4459752630/) — Jobright.ai
-- 📍 **Location:** United States
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4460386306/) — Ledcor
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-30
 
-### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4459746771/) — Jobright.ai
+### [Professional Services Project Coordinator](https://www.linkedin.com/jobs/view/4461030545/) — Swooped
 - 📍 **Location:** United States
+- 💰 **Salary:** $117,000.00/yr - $132,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4459755533/) — Jobright.ai
-- 📍 **Location:** United States
+### [Construction Project Coordinator/Administrator](https://www.linkedin.com/jobs/view/4459610642/) — Talently
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $50,000.00/yr - $85,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4459745710/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-30
-
-### [BUSINESS DATA ANALYST | F-1 / OPT / STEM OPT](https://www.linkedin.com/jobs/view/4458866352/) — DataCore Solution
-- 📍 **Location:** Arizona, United States
-- 🕒 **Posted:** 2026-08-30
-
-### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4459748748/) — Jobright.ai
-- 📍 **Location:** United States
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4459740911/) — Children's National Hospital
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $57,969.60 - $96,616.00
 - 🕒 **Posted:** 2026-08-30
