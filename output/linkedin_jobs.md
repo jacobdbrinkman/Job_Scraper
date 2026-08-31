@@ -1,23 +1,28 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-31 00:53 UTC*
+*Last updated: 2026-08-31 07:18 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4460386306/) — Ledcor
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-08-30
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4459759666/) — AlphaX RE Capital
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $65,000 to $105,000 per year
+- 🕒 **Posted:** 2026-08-31
 
-### [Professional Services Project Coordinator](https://www.linkedin.com/jobs/view/4461030545/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $117,000.00/yr - $132,000.00/yr
-- 🕒 **Posted:** 2026-08-30
+### [Research Data Analyst](https://www.linkedin.com/jobs/view/4461045804/) — McLean Hospital
+- 📍 **Location:** Belmont, MA
+- 🕒 **Posted:** 2026-08-31
 
-### [Construction Project Coordinator/Administrator](https://www.linkedin.com/jobs/view/4459610642/) — Talently
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $50,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-08-30
+### [Experienced Data Analyst](https://www.linkedin.com/jobs/view/4433971076/) — Gainwell Technologies
+- 📍 **Location:** Arkansas, United States
+- 💰 **Salary:** $81,100.00 - $115,900.00 per year
+- 🕒 **Posted:** 2026-08-31
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4459740911/) — Children's National Hospital
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $57,969.60 - $96,616.00
-- 🕒 **Posted:** 2026-08-30
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4450144997/) — Gainwell Technologies
+- 📍 **Location:** Nevada, United States
+- 💰 **Salary:** $69,400.00 - $99,200.00 per year
+- 🕒 **Posted:** 2026-08-31
+
+### [Preschool Program Coordinator, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4457624801/) — Crossover
+- 📍 **Location:** Round Rock, TX
+- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-08-31
