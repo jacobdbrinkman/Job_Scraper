@@ -1,28 +1,19 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-08-31 21:16 UTC*
+*Last updated: 2026-09-01 00:48 UTC*
 
-**5 new role(s)** since last run · 5 total in last 24h
+**3 new role(s)** since last run · 8 total in last 24h
 
-### [Environmental Analyst](https://www.indeed.com/viewjob?jk=2d19244101a2a559) — RoseyFields LLC
-- 📍 **Location:** Santa Monica, CA, US
-- 💰 **Salary:** $30–$35/hr
+### [QC & Data Analyst](https://www.indeed.com/viewjob?jk=259f5df2df5d1c9b) — Flourish Research
+- 📍 **Location:** Covina, CA, US
+- 💰 **Salary:** $25–$28/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=41c7aabbf451d463) — Office of Energy Infrastructure Safety
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [GIS Analyst](https://www.indeed.com/viewjob?jk=3face02e836a7ae4) — Velosys
+- 📍 **Location:** Poulsbo, WA, US
+- 💰 **Salary:** $74k–$85k/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=70a932ddc8a38edd) — STATE WATER RESOURCES CONTROL BOARD
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7820–$11k/mo
-- 🕒 **Posted:** 2026-08-31
-
-### [Temporary Hydrologist/Hydrographer](https://www.indeed.com/viewjob?jk=c98538c6f4c581fb) — State of Colorado
-- 📍 **Location:** Denver, CO, US
-- 🕒 **Posted:** 2026-08-31
-
-### [Program Coordinator I - Public Works, Clean Water](https://www.indeed.com/viewjob?jk=08fb4756c1aa92b9) — Clark County Washington
-- 📍 **Location:** WA, US
-- 💰 **Salary:** $34–$48/hr
+### [Senior Resources Geologist](https://www.indeed.com/viewjob?jk=112cd42427c5935c) — AECOM
+- 📍 **Location:** Murray, UT, US
+- 💰 **Salary:** $140k–$160k/yr
 - 🕒 **Posted:** 2026-08-31
