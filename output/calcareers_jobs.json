@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-08-31 21:27 UTC",
-  "total": 17,
+  "scraped_at": "2026-09-01 19:22 UTC",
+  "total": 16,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529794",
-      "date_posted": "2026-08-24",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
     {
       "company": "Department of Parks & Recreation",
       "title": "ENVIRONMENTAL SCIENTIST, Range C (PI)",
@@ -31,15 +22,6 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529956",
-      "date_posted": "2026-08-25",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Pesticide Regulation",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
@@ -49,11 +31,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Toxic Substances Control",
+      "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518357",
-      "date_posted": "2026-05-14",
+      "location": "Humboldt County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530622",
+      "date_posted": "2026-09-01",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529956",
+      "date_posted": "2026-08-25",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -67,11 +58,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
+      "company": "Department of Food & Agriculture",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Tulare County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527924",
+      "date_posted": "2026-08-11",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
-      "date_posted": "2026-08-10",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522430",
+      "date_posted": "2026-08-31",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
@@ -86,11 +86,11 @@
     },
     {
       "company": "State Water Resources Control Board",
-      "title": "Senior Engineering Geologist",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524575",
-      "date_posted": "2026-07-31",
-      "salary": "$11437.00 - $14315.00",
+      "title": "Environmental Scientist",
+      "location": "Sonoma County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529129",
+      "date_posted": "2026-08-22",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
@@ -99,15 +99,6 @@
       "location": "Los Angeles County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527231",
       "date_posted": "2026-08-11",
-      "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Engineering Geologist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528018",
-      "date_posted": "2026-08-17",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
