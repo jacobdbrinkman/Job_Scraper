@@ -1,39 +1,34 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-01 18:59 UTC*
+*Last updated: 2026-09-02 05:07 UTC*
 
-**7 new role(s)** since last run · 22 total in last 24h
+**6 new role(s)** since last run · 22 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=5e136add54218df8) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [Data Analyst II, Reporting & Advanced Analytics Part Time 26-84](https://www.indeed.com/viewjob?jk=fa6522b751cd4a9a) — Hill Physicians Medical Group
+- 📍 **Location:** San Ramon, CA, US
+- 💰 **Salary:** $49k–$64k/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Senior Geologist](https://www.indeed.com/viewjob?jk=1c9f8431f5db0696) — Terracon Consultants Inc
-- 📍 **Location:** Carson, CA, US
-- 💰 **Salary:** $111k–$173k/yr
+### [Environmental Scientist/Compliance Specialist (Remote)](https://www.indeed.com/viewjob?jk=62367f829ad94483) — Tetra Tech
+- 📍 **Location:** Diamond Bar, CA, US
+- 💰 **Salary:** $55k–$75k/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [PHYSICAL SCIENTIST](https://www.indeed.com/viewjob?jk=9e513331b25be634) — US United States Fleet Forces Command
-- 📍 **Location:** Monterey, CA, US
-- 💰 **Salary:** $93k–$145k/yr
+### [Senior Chemical/Environmental Engineer or Environmental Scientist 2](https://www.indeed.com/viewjob?jk=df56134c80085bf9) — HALEY & ALDRICH
+- 📍 **Location:** Costa Mesa, CA, US
+- 💰 **Salary:** $105k–$140k/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Data Analyst II](https://www.indeed.com/viewjob?jk=ff904f4b43c36645) — TRC
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $71k–$85k/yr
-- 🕒 **Posted:** 2026-08-31
-
-### [GIS Analyst/Senior GIS Analyst - Temporary](https://www.indeed.com/viewjob?jk=dd3c4e5ffb02e79e) — City of Westminster, CO
-- 📍 **Location:** Westminster, CO, US
-- 💰 **Salary:** $87k–$119k/yr
-- 🕒 **Posted:** 2026-08-31
-
-### [Physical Scientist](https://www.indeed.com/viewjob?jk=d6296b84d1619e32) — Unknown
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $54k–$105k/yr
+### [Graduate Program Coordinator, Biosciences (5156C) #88591](https://www.indeed.com/viewjob?jk=8ed01cb5c2a70e3f) — University of California Berkeley
+- 📍 **Location:** Berkeley, CA, US
+- 💰 **Salary:** $64k–$85k/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Senior Resources Geologist](https://www.indeed.com/viewjob?jk=112cd42427c5935c) — AECOM
-- 📍 **Location:** Murray, UT, US
-- 💰 **Salary:** $140k–$160k/yr
+### [Travel Data Analyst (Transportation Planning Technician 3)](https://www.indeed.com/viewjob?jk=d600e5c145769cd4) — State of Washington
+- 📍 **Location:** Tumwater, WA, US
+- 💰 **Salary:** $60k–$80k/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Data Analyst](https://www.indeed.com/viewjob?jk=cf42e565e56c6a4e) — PCI Professional Services LLC
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $95k–$130k/yr
 - 🕒 **Posted:** 2026-09-01
