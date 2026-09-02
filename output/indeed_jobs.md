@@ -1,34 +1,29 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-02 05:07 UTC*
+*Last updated: 2026-09-02 19:07 UTC*
 
-**6 new role(s)** since last run · 22 total in last 24h
+**5 new role(s)** since last run · 9 total in last 24h
 
-### [Data Analyst II, Reporting & Advanced Analytics Part Time 26-84](https://www.indeed.com/viewjob?jk=fa6522b751cd4a9a) — Hill Physicians Medical Group
-- 📍 **Location:** San Ramon, CA, US
-- 💰 **Salary:** $49k–$64k/yr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=d5b8cd30f79157db) — Department of Toxic Substances Control
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-02
+
+### [Water Resources Program Coordinator](https://www.indeed.com/viewjob?jk=6552d80e83fbc9d9) — County of Lake, CA
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $75k–$91k/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Environmental Scientist/Compliance Specialist (Remote)](https://www.indeed.com/viewjob?jk=62367f829ad94483) — Tetra Tech
-- 📍 **Location:** Diamond Bar, CA, US
-- 💰 **Salary:** $55k–$75k/yr
-- 🕒 **Posted:** 2026-09-01
+### [Network Data Management Specialist III](https://www.indeed.com/viewjob?jk=cb7d596be93d4bc2) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $26–$39/hr
+- 🕒 **Posted:** 2026-09-02
 
-### [Senior Chemical/Environmental Engineer or Environmental Scientist 2](https://www.indeed.com/viewjob?jk=df56134c80085bf9) — HALEY & ALDRICH
-- 📍 **Location:** Costa Mesa, CA, US
-- 💰 **Salary:** $105k–$140k/yr
-- 🕒 **Posted:** 2026-09-01
+### [Geologist](https://www.indeed.com/viewjob?jk=4658e346bdc51e46) — US Geological Survey
+- 📍 **Location:** Lakewood, CO, US
+- 💰 **Salary:** $100k–$154k/yr
+- 🕒 **Posted:** 2026-09-02
 
-### [Graduate Program Coordinator, Biosciences (5156C) #88591](https://www.indeed.com/viewjob?jk=8ed01cb5c2a70e3f) — University of California Berkeley
-- 📍 **Location:** Berkeley, CA, US
-- 💰 **Salary:** $64k–$85k/yr
-- 🕒 **Posted:** 2026-09-01
-
-### [Travel Data Analyst (Transportation Planning Technician 3)](https://www.indeed.com/viewjob?jk=d600e5c145769cd4) — State of Washington
-- 📍 **Location:** Tumwater, WA, US
-- 💰 **Salary:** $60k–$80k/yr
-- 🕒 **Posted:** 2026-09-01
-
-### [Data Analyst](https://www.indeed.com/viewjob?jk=cf42e565e56c6a4e) — PCI Professional Services LLC
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $95k–$130k/yr
-- 🕒 **Posted:** 2026-09-01
+### [Temporary Field Technician](https://www.indeed.com/viewjob?jk=509b6dcb526c0ce7) — Univeristy Of Colorado Boulder
+- 📍 **Location:** Boulder, CO, US
+- 💰 **Salary:** $22–$23/hr
+- 🕒 **Posted:** 2026-09-02
