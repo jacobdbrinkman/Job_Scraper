@@ -1,101 +1,49 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-03 00:37 UTC*
+*Last updated: 2026-09-03 04:54 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Program Coordinator / Admissions Counselor](https://www.linkedin.com/jobs/view/4461370008/) — Simpson University
-- 📍 **Location:** Redding, CA
-- 💰 **Salary:** $21-$24 hourly
+### [Indicators Economic Data Analyst](https://www.linkedin.com/jobs/view/4459907320/) — Stanford University
+- 📍 **Location:** Stanford, CA
+- 💰 **Salary:** $91,644-$123,000
 - 🕒 **Posted:** 2026-09-03
 
-### [Senior Geospatial Analyst JSOC](https://www.linkedin.com/jobs/view/4461348517/) — Drone.vet
-- 📍 **Location:** Fort Liberty, NC
+### [Field Technician](https://www.linkedin.com/jobs/view/4462748892/) — Spectrum
+- 📍 **Location:** Crescent City, CA
+- 💰 **Salary:** $20.00/hr - $27.80/hr
 - 🕒 **Posted:** 2026-09-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4461349486/) — Andromeda Systems Incorporated
-- 📍 **Location:** Lexington Park, MD
-- 💰 **Salary:** $85,000 - $120,000 per year
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4456086386/) — North Orange County Community College District
+- 📍 **Location:** Anaheim, CA
+- 💰 **Salary:** $6,913 - $8,346 Per Month
 - 🕒 **Posted:** 2026-09-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4461363324/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $61,900 - $141,000
+### [GIS Specialist (Hybrid Eligible)](https://www.linkedin.com/jobs/view/4462757692/) — UT-Battelle
+- 📍 **Location:** Oak Ridge, TN
 - 🕒 **Posted:** 2026-09-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4461361352/) — Haystack
-- 📍 **Location:** Memphis Metropolitan Area
-- 💰 **Salary:** $61,900 - $141,000
+### [Survey Technician](https://www.linkedin.com/jobs/view/4462740902/) — Westwood Professional Services
+- 📍 **Location:** Sartell, MN
 - 🕒 **Posted:** 2026-09-03
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4461347517/) — Haystack
-- 📍 **Location:** United States
-- 💰 **Salary:** $61,900 - $141,000
+### [Natural Resources Specialist (Ranger)](https://www.linkedin.com/jobs/view/4461398016/) — US Army Corps of Engineers
+- 📍 **Location:** Arkabutla, MS
 - 🕒 **Posted:** 2026-09-03
 
-### [Senior Data Analyst, Public Sector](https://www.linkedin.com/jobs/view/4462715039/) — Scale AI
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $182,400—$228,000 USD
+### [DATA ANALYST II #00077065](https://www.linkedin.com/jobs/view/4462764035/) — Missouri University of Science and Technology
+- 📍 **Location:** Rolla, MO
+- 💰 **Salary:** $70,512-$85,000 annually
 - 🕒 **Posted:** 2026-09-03
 
-### [Environmental Scientist, Waste Management (NASA KSC)](https://www.linkedin.com/jobs/view/4462713329/) — Leidos
-- 📍 **Location:** Kennedy Lakes, FL
-- 💰 **Salary:** $59,150.00 - $106,925.00
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Scientist, Waste Management (NASA KSC)](https://www.linkedin.com/jobs/view/4462721301/) — Leidos
-- 📍 **Location:** Merritt Island, FL
-- 💰 **Salary:** $59,150.00 - $106,925.00
-- 🕒 **Posted:** 2026-09-03
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4461359455/) — Northwest Native American Center of Excellence at OHSU
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $63,773 - $101,899 per year
-- 🕒 **Posted:** 2026-09-03
-
-### [Environmental Health & Safety Program Coordinator](https://www.linkedin.com/jobs/view/4460444112/) — NCCU Public Administration
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-09-03
-
-### [Project Coordinator - Construction](https://www.linkedin.com/jobs/view/4462723245/) — Sprouts Healthy Communities Foundation
-- 📍 **Location:** Greater Phoenix Area
-- 🕒 **Posted:** 2026-09-03
-
-### [Project Coordinator - Construction](https://www.linkedin.com/jobs/view/4461358392/) — Sprouts Farmers Market
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-09-03
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4462720305/) — Gilbane Building
+### [Data Analyst Lead](https://www.linkedin.com/jobs/view/4462745923/) — Expanding the Bench
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-03
 
-### [Program Coordinator, AUTA](https://www.linkedin.com/jobs/view/4462724044/) — Amazon
-- 📍 **Location:** Nashville, TN
+### [Sr. Product Data Analyst - Medicare Advantage - Remote](https://www.linkedin.com/jobs/view/4462751650/) — UnitedHealthcare
+- 📍 **Location:** Minnetonka, MN
+- 💰 **Salary:** $91,700 to $163,700 annually
 - 🕒 **Posted:** 2026-09-03
 
-### [CAD-GIS Technician](https://www.linkedin.com/jobs/view/4461348394/) — ATCO Communications Services, LLC
-- 📍 **Location:** United States
-- 💰 **Salary:** $20.00 to $26.00 per hour
-- 🕒 **Posted:** 2026-09-02
-
-### [Data Analyst Expert](https://www.linkedin.com/jobs/view/4461359356/) — BayOne Solutions
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $75.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-09-02
-
-### [Environmental Field Scientist](https://www.linkedin.com/jobs/view/4462700536/) — Mott MacDonald
-- 📍 **Location:** Iselin, NJ
-- 💰 **Salary:** $73,000 - $78,000
-- 🕒 **Posted:** 2026-09-02
-
-### [Senior Geologist](https://www.linkedin.com/jobs/view/4452538745/) — Freeport-McMoRan
-- 📍 **Location:** Bagdad, AZ
-- 💰 **Salary:** $105,000-$145,000
-- 🕒 **Posted:** 2026-09-02
-
-### [Hedis Data Analyst - Alteryx](https://www.linkedin.com/jobs/view/4462710346/) — E-Solutions
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-02
-
-### [Civil Construction Project Coordinator](https://www.linkedin.com/jobs/view/4462707206/) — Qualdoc
-- 📍 **Location:** Leesburg, VA
-- 🕒 **Posted:** 2026-09-02
+### [Scientific Project Coordinator](https://www.linkedin.com/jobs/view/4432039321/) — LabConnect
+- 📍 **Location:** Titusville, NJ
+- 🕒 **Posted:** 2026-09-03
