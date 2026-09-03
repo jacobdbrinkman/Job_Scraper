@@ -1,23 +1,19 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-03 00:43 UTC*
+*Last updated: 2026-09-03 05:08 UTC*
 
-**4 new role(s)** since last run · 8 total in last 24h
+**3 new role(s)** since last run · 11 total in last 24h
 
-### [Field Technician I](https://www.indeed.com/viewjob?jk=2f80325b66ffd519) — Rain for Rent
-- 📍 **Location:** Oakley, CA, US
-- 💰 **Salary:** $18–$23/hr
+### [Senior GIS Analyst](https://www.indeed.com/viewjob?jk=e6e8d524738dcae7) — GPA CONSULTING
+- 📍 **Location:** El Segundo, CA, US
+- 💰 **Salary:** $48–$50/hr
+- 🕒 **Posted:** 2026-09-03
+
+### [Geologist or Environmental Scientist](https://www.indeed.com/viewjob?jk=5757dfc49e05b580) — Sustainment & Restoration Services
+- 📍 **Location:** Walnut Creek, CA, US
+- 💰 **Salary:** $70k–$75k/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Hydrogeologist](https://www.indeed.com/viewjob?jk=1e27610f8d354204) — GeoEngineers
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $101k–$152k/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [PacFIN Data Management Specialist](https://www.indeed.com/viewjob?jk=2141c56c8f930ef4) — PACIFIC STATES MARINE FISHERIES COMMISSION
-- 📍 **Location:** Portland, OR, US
-- 🕒 **Posted:** 2026-09-02
-
-### [Data Analyst 9.26](https://www.indeed.com/viewjob?jk=31a646c67baf546e) — Kawi Energy Group Corp
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $75k–$90k/yr
+### [Project Coordinator](https://www.indeed.com/viewjob?jk=737bfcdd1beaa9c2) — Leidos
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $52k–$94k/yr
 - 🕒 **Posted:** 2026-09-02
