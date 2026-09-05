@@ -1,99 +1,60 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-04 21:50 UTC*
+*Last updated: 2026-09-05 00:25 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Environmental Consultant](https://www.linkedin.com/jobs/view/4462313723/) — Air Quality Testers
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $40–$100
-- 🕒 **Posted:** 2026-09-04
+### [Associate Geospatial Analyst/Geospatial Analyst/Senior Geospatial Analyst](https://www.linkedin.com/jobs/view/4462325852/) — Drone.vet
+- 📍 **Location:** El Paso County, CO
+- 💰 **Salary:** $75,870.00 – $113,760.00 annually
+- 🕒 **Posted:** 2026-09-05
 
-### [Data Analyst /Data Analytics](https://www.linkedin.com/jobs/view/4450356486/) — Hire'in Solutions
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-04
+### [Survey Field Technician](https://www.linkedin.com/jobs/view/4463659747/) — Wilson & Company, Inc., Engineers and Architects
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $46,000 - $60,000
+- 🕒 **Posted:** 2026-09-05
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4462319987/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-04
+### [Associate Research/Data Analyst - Motor Vehicle & Driver License Division - 3033225](https://www.linkedin.com/jobs/view/4463667761/) — State of Missouri
+- 📍 **Location:** Jefferson City, MO
+- 💰 **Salary:** $46,446.48 to $55,000
+- 🕒 **Posted:** 2026-09-05
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4462332089/) — Ultimate Staffing
+### [Senior Data Analyst Quality and Safety](https://www.linkedin.com/jobs/view/4463667735/) — Beth Israel Lahey Health
+- 📍 **Location:** Burlington, MA
+- 💰 **Salary:** $89,440.00 USD - $135,200.00 USD
+- 🕒 **Posted:** 2026-09-05
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4459187674/) — Gensler
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $25.00/hr - $27.00/hr
+- 💰 **Salary:** $60,000 - $75,000 annually
+- 🕒 **Posted:** 2026-09-05
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4463676066/) — Altasciences
+- 📍 **Location:** Overland Park, KS
+- 🕒 **Posted:** 2026-09-05
+
+### [Project Coordinator - Crisis Response](https://www.linkedin.com/jobs/view/4462331747/) — Fairview Hospital / Cleveland Clinic
+- 📍 **Location:** Pekin, IL
+- 🕒 **Posted:** 2026-09-05
+
+### [Equipment Maintenance Data Analyst](https://www.linkedin.com/jobs/view/4463667440/) — Bloom Energy
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $72,100.00 - $103,900.00
 - 🕒 **Posted:** 2026-09-04
 
-### [Clinical Data Analyst (Remote)](https://www.linkedin.com/jobs/view/4461403639/) — Adventist Health
-- 📍 **Location:** Roseville, CA
-- 💰 **Salary:** $27.89 to $41.80
-- 🕒 **Posted:** 2026-09-04
-
-### [Project Coordinator: II](https://www.linkedin.com/jobs/view/4461410504/) — TALENT Software Services
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $30.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-09-04
-
-### [Geospatial Analyst IV](https://www.linkedin.com/jobs/view/4463655166/) — TSC
-- 📍 **Location:** Buckley AFB, CO
-- 🕒 **Posted:** 2026-09-04
-
-### [Clinical Data Analyst- Need Local to FL](https://www.linkedin.com/jobs/view/4462334004/) — CloudIngest
-- 📍 **Location:** Tallahassee, FL
-- 🕒 **Posted:** 2026-09-04
-
-### [Innovation Data Analyst](https://www.linkedin.com/jobs/view/4462329045/) — State of Oklahoma
-- 📍 **Location:** Oklahoma County, OK
-- 🕒 **Posted:** 2026-09-04
-
-### [Logistics Data Analyst](https://www.linkedin.com/jobs/view/4462335059/) — LHH
-- 📍 **Location:** Oak Park, IL
-- 💰 **Salary:** $65,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4455883812/) — Mi-Case
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Staff Geologist](https://www.linkedin.com/jobs/view/4463645619/) — Amentum
-- 📍 **Location:** Atlantic City, NJ
-- 💰 **Salary:** $61,000 - $77,000
-- 🕒 **Posted:** 2026-09-04
-
-### [MP&L Data Analyst](https://www.linkedin.com/jobs/view/4463639755/) — Modine Manufacturing Company
-- 📍 **Location:** Racine, WI
-- 🕒 **Posted:** 2026-09-04
-
-### [Sr Financial & Data Analyst – Healthcare Economics](https://www.linkedin.com/jobs/view/4461407429/) — Wellmark Blue Cross and Blue Shield
-- 📍 **Location:** Des Moines, IA
-- 🕒 **Posted:** 2026-09-04
-
-### [Senior Data Analyst - CRM](https://www.linkedin.com/jobs/view/4461405469/) — Publicis Digital Experience
+### [Data Analyst](https://www.linkedin.com/jobs/view/4463671405/) — Georgia Power Company
 - 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** USD $73,150.00 - USD $96,200.00/Annually
 - 🕒 **Posted:** 2026-09-04
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4444763401/) — swipejobs
-- 📍 **Location:** Fort Lauderdale, FL
-- 💰 **Salary:** $27.00/hr - $27.00/hr
+### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4461405918/) — HETI
+- 📍 **Location:** Dover, DE
+- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-09-04
 
-### [Geospatial Analyst V](https://www.linkedin.com/jobs/view/4463656133/) — TSC
-- 📍 **Location:** Buckley AFB, CO
+### [Sr Business Data Analyst](https://www.linkedin.com/jobs/view/4462039953/) — DHL Supply Chain
+- 📍 **Location:** Olive Branch, MS
+- 💰 **Salary:** $70,000 - $115,000
 - 🕒 **Posted:** 2026-09-04
 
-### [Telecom Project Coordinator, Telco Support](https://www.linkedin.com/jobs/view/4463641901/) — Tesla
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-04
-
-### [Architectural Project Coordinator (3-5 years of experience)](https://www.linkedin.com/jobs/view/4462846707/) — Bespoke Careers
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Quality Outcome Program Coordinator](https://www.linkedin.com/jobs/view/4462324178/) — CommonSpirit Health
-- 📍 **Location:** Liberal, KS
-- 💰 **Salary:** $32.38 - $48.17 /hour
-- 🕒 **Posted:** 2026-09-04
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4463657013/) — CPH
-- 📍 **Location:** Sanford, FL
+### [Full-Time Data Analyst](https://www.linkedin.com/jobs/view/4462328441/) — RG&T Solutions
+- 📍 **Location:** East Liberty, OH
 - 🕒 **Posted:** 2026-09-04
