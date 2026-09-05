@@ -1,38 +1,45 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-05 04:42 UTC*
+*Last updated: 2026-09-05 17:40 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Residency Program Coordinator (Full-time regular, Day Shift)](https://www.linkedin.com/jobs/view/4462357396/) — Adventist Health
-- 📍 **Location:** Tulare, CA
-- 💰 **Salary:** $30.01 to $41.16
+### [Precision Agriculture Analytics Specialist/ Agronomic Data Analyst](https://www.linkedin.com/jobs/view/4462620912/) — Cube Hub Inc.
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-05
 
-### [Data Analyst / Scientist (Junior/Mid-level)](https://www.linkedin.com/jobs/view/4463696856/) — Harper Paige
-- 📍 **Location:** Washington DC-Baltimore Area
+### [Environmental Scientist/Engineer (M.Sc., M.Eng., or Ph.D.)](https://www.linkedin.com/jobs/view/4386478478/) — Exponent
+- 📍 **Location:** Burlington, MA
+- 💰 **Salary:** USD $122,000.00 - USD $149,000.00 /Yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Senior Data Analyst - Data Centers](https://www.linkedin.com/jobs/view/4461457014/) — Johnson Controls
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $90,000.00/yr - $135,000.00/yr
+### [Data Analyst](https://www.linkedin.com/jobs/view/4398933777/) — Systems Planning & Analysis
+- 📍 **Location:** Springfield, VA
 - 🕒 **Posted:** 2026-09-05
 
-### [Solutions Engineer, Field Service](https://www.linkedin.com/jobs/view/4462355512/) — Siemens
-- 📍 **Location:** Pomona, CA
-- 💰 **Salary:** $68,830 - $117,994
+### [Environmental Scientist – Mid Level (Hybrid)](https://www.linkedin.com/jobs/view/4451268178/) — Barr Engineering Co.
+- 📍 **Location:** Bismarck, ND
+- 💰 **Salary:** $75,000–$95,000 annually
 - 🕒 **Posted:** 2026-09-05
 
-### [Field Technician 3/4 Secret clearance   *17353](https://www.linkedin.com/jobs/view/4463709394/) — Northrop Grumman
-- 📍 **Location:** Vandenberg Air Force Base, CA
-- 💰 **Salary:** $66,600.00 - $111,000.00
-- 🕒 **Posted:** 2026-09-05
-
-### [Data Analyst II](https://www.linkedin.com/jobs/view/4463695228/) — Patterson Companies, Inc.
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4463778210/) — Patterson Companies, Inc.
 - 📍 **Location:** St Paul, MN
 - 💰 **Salary:** $68,300.00 - $88,766.67
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Coordinator IV, UKG Workforce Management & Scheduling](https://www.linkedin.com/jobs/view/4462360510/) — Sutter Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $35.04 to $52.56
+### [Project Coordinator - Fairmont Austin](https://www.linkedin.com/jobs/view/4462637007/) — Encore
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $25.19/hr - $32.75/hr
+- 🕒 **Posted:** 2026-09-05
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4453723808/) — Publicis Digital Experience
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** USD $55,765.00 - USD $77,070.00/Annually
+- 🕒 **Posted:** 2026-09-05
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4462631064/) — Asplundh Construction
+- 📍 **Location:** Burlington, NJ
+- 🕒 **Posted:** 2026-09-05
+
+### [Industrial Construction Project Coordinator](https://www.linkedin.com/jobs/view/4438677340/) — LotusWorks
+- 📍 **Location:** Manassas, VA
 - 🕒 **Posted:** 2026-09-05
