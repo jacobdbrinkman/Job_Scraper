@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-06 18:23 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-07 20:00 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "San Rafael",
+      "title": "Program Coordinator",
+      "location": "Northern Bay Area",
+      "url": "https://www.calopps.org/san-rafael/job-20774381",
+      "date_posted": "",
+      "salary": "$6,381.00-$7,756.00 Monthly",
+      "ats": "CalOpps"
+    },
     {
       "company": "Daly City",
       "title": "Support Dog Program Coordinator",
@@ -13,5 +22,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "San Rafael",
+      "title": "Program Coordinator",
+      "location": "Northern Bay Area",
+      "url": "https://www.calopps.org/san-rafael/job-20774381",
+      "date_posted": "",
+      "salary": "$6,381.00-$7,756.00 Monthly",
+      "ats": "CalOpps"
+    }
+  ]
 }
