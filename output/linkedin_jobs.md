@@ -1,19 +1,17 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-07 06:21 UTC*
+*Last updated: 2026-09-07 19:26 UTC*
 
 **3 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Data Analyst – Customer Data Platforms (CDP)](https://www.linkedin.com/jobs/view/4463654428/) — Delta Computer Consulting
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $54.00/hr - $61.00/hr
+### [Credit Data Analyst](https://www.linkedin.com/jobs/view/4464368759/) — Netrolynx AI
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-07
 
-### [Research Program Coordinator](https://www.linkedin.com/jobs/view/4462910844/) — CHEManager International
-- 📍 **Location:** Maryland, United States
-- 💰 **Salary:** $75,000.00 to $95,000.00 annually
+### [Data Analyst](https://www.linkedin.com/jobs/view/4464367766/) — FetchJobs.co
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-07
 
-### [EC Specialized Program Coordinator](https://www.linkedin.com/jobs/view/4464305114/) — Grow in Greenville, NC
-- 📍 **Location:** Greenville, NC
-- 💰 **Salary:** $65,000 - $65,000
+### [Senior Solutions Engineer - Southeast](https://www.linkedin.com/jobs/view/4454340237/) — Neo4j
+- 📍 **Location:** South Carolina, United States
+- 💰 **Salary:** $200,000—$265,000 USD
 - 🕒 **Posted:** 2026-09-07
