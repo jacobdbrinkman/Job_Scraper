@@ -1,147 +1,183 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-08 19:05 UTC*
+*Last updated: 2026-09-08 22:16 UTC*
 
-**32 new role(s)** since last run · 32 total in last 1h
+**40 new role(s)** since last run · 41 total in last 1h
 
-### [Southeast Greenway Project Coordinator](https://www.linkedin.com/jobs/view/4463542277/) — Sonoma Land Trust
-- 📍 **Location:** Santa Rosa, CA
+### [Operations Data Analyst](https://www.linkedin.com/jobs/view/4463551786/) — TheCorporate
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $75.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-09-08
 
-### [Geologist 1 (2027 New Graduates!)](https://www.linkedin.com/jobs/view/4463621185/) — CDM Smith
-- 📍 **Location:** Concord, CA
+### [Field Technician](https://www.linkedin.com/jobs/view/4463551677/) — DISH TV
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Land Survey Field Technician I](https://www.linkedin.com/jobs/view/4454414511/) — Forest Lawn Memorial Parks and Mortuaries
-- 📍 **Location:** Glendale, CA
-- 💰 **Salary:** $33.00/hr - $40.00/hr
+### [Senior Geologist / Scientist I](https://www.linkedin.com/jobs/view/4423681153/) — Roux
+- 📍 **Location:** Burbank, CA
+- 💰 **Salary:** $105,000- $150,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Land Survey Field Technician II](https://www.linkedin.com/jobs/view/4454427392/) — Forest Lawn Memorial Parks and Mortuaries
-- 📍 **Location:** Glendale, CA
-- 💰 **Salary:** $34.00/hr - $41.00/hr
+### [Project Geologist / Scientist](https://www.linkedin.com/jobs/view/4434869324/) — Roux
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $85,000 - $115,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Product Data Analyst – Gaming (Mandarin Required)](https://www.linkedin.com/jobs/view/4459348797/) — Bitus Labs
-- 📍 **Location:** Irvine, CA
+### [Project Geologist / Scientist](https://www.linkedin.com/jobs/view/4434867637/) — Roux
+- 📍 **Location:** Burbank, CA
+- 💰 **Salary:** $85,000 - $115,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Cal-Bridge Program Coordinator](https://www.linkedin.com/jobs/view/4464643689/) — UC Irvine
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $30.87- $33.83
+### [Senior Geologist / Scientist I](https://www.linkedin.com/jobs/view/4423661864/) — Roux
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $105,000- $150,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Geospatial Analyst II](https://www.linkedin.com/jobs/view/4448552629/) — Dewberry
-- 📍 **Location:** Greater Seattle Area
+### [Program Coordinator - Mid Shift](https://www.linkedin.com/jobs/view/4464900338/) — Pathlight Mood & Anxiety Center
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $22.40 - $31 USD
 - 🕒 **Posted:** 2026-09-08
 
-### [Associate Geologist/Hydrogeologist](https://www.linkedin.com/jobs/view/4454434365/) — WSP in the U.S.
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** $80,169 - $84,200
+### [Lead Administrative Project Coordinator](https://www.linkedin.com/jobs/view/4464902187/) — WSP in the U.S.
+- 📍 **Location:** Tacoma, WA
 - 🕒 **Posted:** 2026-09-08
 
-### [Senior Groundwater Modeler / Hydrogeologist](https://www.linkedin.com/jobs/view/4464658408/) — Spencer Ogden
+### [Program Coordinator Nights](https://www.linkedin.com/jobs/view/4464907132/) — Eating Recovery Center
 - 📍 **Location:** Denver, CO
+- 💰 **Salary:** $21.47 - $28 USD
 - 🕒 **Posted:** 2026-09-08
 
-### [Geospatial Analyst II](https://www.linkedin.com/jobs/view/4463527424/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $69,000-$88,000 annually
+### [GIS ANALYST II](https://www.linkedin.com/jobs/view/4463568298/) — Gulf Companies
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-08
 
-### [GIS Technician -Rochester, MN](https://www.linkedin.com/jobs/view/4464645692/) — Telcom Construction, LLC
-- 📍 **Location:** Blooming Prairie, MN
-- 💰 **Salary:** $25.00 - $28.00
+### [Geospatial Analyst I](https://www.linkedin.com/jobs/view/4463571204/) — Enviva
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-09-08
 
-### [GIS TECHNICIAN I](https://www.linkedin.com/jobs/view/4462548157/) — KENT PERSONNEL LTD
-- 📍 **Location:** Dover, DE
+### [26-051.P - GIS Analyst](https://www.linkedin.com/jobs/view/4462546872/) — Harvest Midstream Company
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-08
 
-### [Aviation Pilot Data Analyst](https://www.linkedin.com/jobs/view/4432129560/) — Garmin
-- 📍 **Location:** St Louis, MO
+### [Data Analyst Supporting the FBI](https://www.linkedin.com/jobs/view/4461198552/) — FSA
+- 📍 **Location:** Linthicum, MD
 - 🕒 **Posted:** 2026-09-08
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4463535509/) — FirstEnergy
-- 📍 **Location:** Akron, OH
-- 💰 **Salary:** $79,475- $139,800
+### [Data Analyst](https://www.linkedin.com/jobs/view/4462542895/) — Q2
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-08
 
-### [Geologist 1](https://www.linkedin.com/jobs/view/4463533480/) — HDR
-- 📍 **Location:** Woodcliff Lake, NJ
-- 💰 **Salary:** $47,460-$67,800
+### [Mine Hydrogeologist](https://www.linkedin.com/jobs/view/4464690492/) — Solidus Resources, LLC
+- 📍 **Location:** Imlay, NV
 - 🕒 **Posted:** 2026-09-08
 
-### [Geologist](https://www.linkedin.com/jobs/view/4458024158/) — Idaho National Laboratory
-- 📍 **Location:** Idaho Falls, ID
-- 💰 **Salary:** $114,360 - $234,336
+### [Senior, Data Analyst (IROCC - Compliance)](https://www.linkedin.com/jobs/view/4462561113/) — Walmart
+- 📍 **Location:** Bentonville, AR
+- 💰 **Salary:** $80,000.00/yr - $155,000.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4463155308/) — University of Oklahoma
-- 📍 **Location:** Norman, OK
+### [Staff Geologist / Scientist I](https://www.linkedin.com/jobs/view/4462545982/) — Roux
+- 📍 **Location:** Islandia, NY
+- 💰 **Salary:** $65,000 - $75,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Geologist 1](https://www.linkedin.com/jobs/view/4463544404/) — HDR
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $47,460-$67,800
-- 🕒 **Posted:** 2026-09-08
-
-### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4463533303/) — Dewberry
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $124,000 - $164,000 annually
-- 🕒 **Posted:** 2026-09-08
-
-### [Associate Geologist/Hydrogeologist](https://www.linkedin.com/jobs/view/4454432515/) — WSP in the U.S.
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $80,169 - $84,200
-- 🕒 **Posted:** 2026-09-08
-
-### [Water Project Coordinator](https://www.linkedin.com/jobs/view/4463531455/) — HDR
-- 📍 **Location:** Greater Sioux Falls Area
-- 🕒 **Posted:** 2026-09-08
-
-### [Archaeological Field Technician](https://www.linkedin.com/jobs/view/4463534478/) — Southern Research and Compliance LLC
-- 📍 **Location:** New Mexico, United States
-- 🕒 **Posted:** 2026-09-08
-
-### [Associate Data Analyst](https://www.linkedin.com/jobs/view/4455536933/) — Haystack
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-08
-
-### [Alternative Data Analyst](https://www.linkedin.com/jobs/view/4464636894/) — Anonymous
+### [Staff Geologist / Scientist I](https://www.linkedin.com/jobs/view/4462560080/) — Roux
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
+- 💰 **Salary:** $65,000 - $75,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Risk Adjustment - Risk Adjustment Data Analyst II 135-2008](https://www.linkedin.com/jobs/view/4463547344/) — CommunityCare HMO Inc.
-- 📍 **Location:** Tulsa, OK
+### [Staff Geologist / Scientist II](https://www.linkedin.com/jobs/view/4429482375/) — Roux
+- 📍 **Location:** Logan, NJ
+- 💰 **Salary:** $73,000 - $86,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4464650452/) — Verisk
-- 📍 **Location:** Middletown, CT
-- 💰 **Salary:** $85,000.00/yr - $90,000.00/yr
+### [Field Technician - Columbia](https://www.linkedin.com/jobs/view/4451943677/) — Sparus Holdings
+- 📍 **Location:** Columbia, SC
 - 🕒 **Posted:** 2026-09-08
 
-### [Power BI Data Analyst](https://www.linkedin.com/jobs/view/4461320564/) — Quantumtech Inc
-- 📍 **Location:** United States
+### [Environmental Planner / Environmental Scientist](https://www.linkedin.com/jobs/view/4464653939/) — Joulé
+- 📍 **Location:** Suffern, NY
+- 💰 **Salary:** $68,000.00 to $75,000.00
 - 🕒 **Posted:** 2026-09-08
 
-### [Senior Project Coordinator, Integration](https://www.linkedin.com/jobs/view/4464648665/) — Core & Main
-- 📍 **Location:** Pennsylvania, United States
+### [Staff Geologist / Scientist I](https://www.linkedin.com/jobs/view/4462564036/) — Roux
+- 📍 **Location:** Logan, NJ
+- 💰 **Salary:** $65,000 - $75,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Freedom Homes Construction Project Coordinator - Jasper, AL](https://www.linkedin.com/jobs/view/4464642658/) — Clayton
-- 📍 **Location:** Jasper, AL
-- 💰 **Salary:** $20.00-$25.00
+### [Project Geologist / Scientist](https://www.linkedin.com/jobs/view/4414042808/) — Roux
+- 📍 **Location:** Islandia, NY
+- 💰 **Salary:** $82,000 - $96,000
 - 🕒 **Posted:** 2026-09-08
 
-### [Pixie's Pen Pals Program Coordinator](https://www.linkedin.com/jobs/view/4464644475/) — FETCH a Cure
-- 📍 **Location:** Richmond, VA
+### [Data Analyst](https://www.linkedin.com/jobs/view/4464904343/) — Guidehouse
+- 📍 **Location:** Huntsville, AL
 - 🕒 **Posted:** 2026-09-08
 
-### [Program Coordinator - School of Medicine, Medical Education](https://www.linkedin.com/jobs/view/4462538475/) — Emory University
+### [Data Analyst - Supply Chain & Operations](https://www.linkedin.com/jobs/view/4464680659/) — Marketech International Corporation USA
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-09-08
+
+### [Business Data Analyst (32706)](https://www.linkedin.com/jobs/view/4464905265/) — ExamWorks
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-08
 
-### [EC Specialized Program Coordinator](https://www.linkedin.com/jobs/view/4464647839/) — Grow in Greenville, NC
-- 📍 **Location:** Greenville, NC
+### [Data Analyst](https://www.linkedin.com/jobs/view/4462560105/) — Samson Software Solutions, Inc.
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-08
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4464678987/) — Spot Pet Insurance
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-09-08
+
+### [Data Analyst II](https://www.linkedin.com/jobs/view/4464668933/) — YipitData
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $165K-$185K
+- 🕒 **Posted:** 2026-09-08
+
+### [Data Analyst - Investment Analytics](https://www.linkedin.com/jobs/view/4451919055/) — PRA Group (Nasdaq: PRAA)
+- 📍 **Location:** Hampton Roads, Virginia Metropolitan Area
+- 💰 **Salary:** $100,000.00/yr - $127,000.00/yr
+- 🕒 **Posted:** 2026-09-08
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4462552010/) — Q2
+- 📍 **Location:** Cary, NC
+- 🕒 **Posted:** 2026-09-08
+
+### [Development Data Analyst](https://www.linkedin.com/jobs/view/4463551609/) — Gleaners Food Bank of Indiana
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-09-08
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4464671800/) — NAM Info Inc
+- 📍 **Location:** Malvern, PA
+- 💰 **Salary:** $60.00/hr - $65.00/hr
+- 🕒 **Posted:** 2026-09-08
+
+### [Clinical Data Analyst Int](https://www.linkedin.com/jobs/view/4462531896/) — UPMC
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-09-08
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4463557407/) — Woodwright
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-09-08
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4463568327/) — Fute
+- 📍 **Location:** Englewood Cliffs, NJ
+- 🕒 **Posted:** 2026-09-08
+
+### [Project Coordinator-Clinical Trial Logistics](https://www.linkedin.com/jobs/view/4461290302/) — QPS Holdings, LLC
+- 📍 **Location:** Springfield, MO
+- 🕒 **Posted:** 2026-09-08
+
+### [CCEP Program Coordinator/Administrative Coordinator](https://www.linkedin.com/jobs/view/4462533993/) — Public Health Institute
+- 📍 **Location:** United States
+- 💰 **Salary:** $65,962 to $94,454 per year
+- 🕒 **Posted:** 2026-09-08
+
+### [ERS Program Coordinator ll](https://www.linkedin.com/jobs/view/4464687574/) — Copa Health
+- 📍 **Location:** Mesa, AZ
+- 🕒 **Posted:** 2026-09-08
+
+### [Project Coordinator 2 - SPV - East Region](https://www.linkedin.com/jobs/view/4464697064/) — Nordstrom
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $27.50 - $44.00 Hourly
 - 🕒 **Posted:** 2026-09-08
