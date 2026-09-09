@@ -1,92 +1,195 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-09 05:00 UTC*
+*Last updated: 2026-09-09 19:01 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**42 new role(s)** since last run · 42 total in last 1h
 
-### [Data Analyst - Shift D Wednesday- Saturday 5:00pm-3:30am](https://www.linkedin.com/jobs/view/4463595848/) — A.P. Moller - Maersk
-- 📍 **Location:** Stockton, CA
-- 💰 **Salary:** $75,000 - $80,730
+### [Staff Environmental Geologist / Scientist / Engineer](https://www.linkedin.com/jobs/view/4463053538/) — TRC Companies, Inc.
+- 📍 **Location:** Rancho Cordova, CA
+- 💰 **Salary:** USD $70,304.00 - USD $83,200.00 /Yr
 - 🕒 **Posted:** 2026-09-09
 
-### [Program Coordinator II](https://www.linkedin.com/jobs/view/4463806159/) — Sutter Health
+### [Information Technology Project Coordinator](https://www.linkedin.com/jobs/view/4463055557/) — R Systems
+- 📍 **Location:** Sacramento, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4463068481/) — TRC Companies, Inc.
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $0.00 to $0.00
+- 💰 **Salary:** USD $26.75 - USD $40.15 /Hr
 - 🕒 **Posted:** 2026-09-09
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4464933763/) — Art Specialties
-- 📍 **Location:** Los Angeles Metropolitan Area
+### [Project Coordinator, AI Data Collection](https://www.linkedin.com/jobs/view/4464119129/) — Firstsource
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Natural Resources Field Technician Lead 04077 NWRC](https://www.linkedin.com/jobs/view/4464983183/) — North Wind Group
-- 📍 **Location:** Salt Lake City, UT
+### [Data Analyst III](https://www.linkedin.com/jobs/view/4464112049/) — Nelson Connects
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $62.00/hr - $64.00/hr
 - 🕒 **Posted:** 2026-09-09
 
-### [Geologist/Environmental Scientist 04182 NWSS](https://www.linkedin.com/jobs/view/4464979382/) — North Wind Group
-- 📍 **Location:** Los Alamos, NM
-- 🕒 **Posted:** 2026-09-09
-
-### [Geologist/ Mining Engineer](https://www.linkedin.com/jobs/view/4463808176/) — CRH
-- 📍 **Location:** St George, UT
-- 🕒 **Posted:** 2026-09-09
-
-### [Survey Technician](https://www.linkedin.com/jobs/view/4464980273/) — Westwood Professional Services
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-09-09
-
-### [(USA) Senior, Data Analyst](https://www.linkedin.com/jobs/view/4463804137/) — Walmart
-- 📍 **Location:** Bentonville, AR
-- 💰 **Salary:** $80,000.00/yr - $155,000.00/yr
-- 🕒 **Posted:** 2026-09-09
-
-### [PHYSICAL SCIENCE TECHNICIAN](https://www.linkedin.com/jobs/view/4409011716/) — U.S. Fleet Forces Command
-- 📍 **Location:** Kittery, ME
-- 💰 **Salary:** $45,885-$59,657
-- 🕒 **Posted:** 2026-09-09
-
-### [Geologist 04192 NWSS](https://www.linkedin.com/jobs/view/4464971570/) — North Wind Group
-- 📍 **Location:** Los Alamos, NM
-- 🕒 **Posted:** 2026-09-09
-
-### [Geologist Laborer](https://www.linkedin.com/jobs/view/4463580950/) — Hudbay Minerals U.S. Business Unit
-- 📍 **Location:** Sahuarita, AZ
-- 🕒 **Posted:** 2026-09-09
-
-### [Natural Resources Field Technician 04078 NWRC](https://www.linkedin.com/jobs/view/4464968626/) — North Wind Group
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-09-09
-
-### [Field Technician, Leak Survey ( POV)](https://www.linkedin.com/jobs/view/4463805099/) — Heath
-- 📍 **Location:** Hartford, CT
-- 🕒 **Posted:** 2026-09-09
-
-### [Field Technician](https://www.linkedin.com/jobs/view/4464965809/) — Spectrum
-- 📍 **Location:** Reno, NV
-- 🕒 **Posted:** 2026-09-09
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4464962923/) — A Helping Hand Renovation LLC
+### [Research Python Programmer/Data Analyst](https://www.linkedin.com/jobs/view/4465097996/) — RTI International
 - 📍 **Location:** United States
-- 💰 **Salary:** $77,000.00/yr - $85,000.00/yr
+- 💰 **Salary:** $132,000 - $163,000
 - 🕒 **Posted:** 2026-09-09
 
-### [Digital/Web Data Analyst](https://www.linkedin.com/jobs/view/4464979193/) — University of Utah
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $60,000 - $68,000
+### [Data Analyst, Global Tax Services, Global Tax Services - Data Ops](https://www.linkedin.com/jobs/view/4455993058/) — Amazon
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-09-09
 
-### [Estimating & Project Coordinator](https://www.linkedin.com/jobs/view/4457722603/) — LOT Commercial Property Services
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $25.00 - $32.00 per hour
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4465098823/) — Howell Construction
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-09-09
 
-### [Purchasing Project Coordinator](https://www.linkedin.com/jobs/view/4464965542/) — Voltava
-- 📍 **Location:** Auburn Hills, MI
+### [GIS Analyst I (Databases) - PA or OK](https://www.linkedin.com/jobs/view/4463067669/) — DT Midstream
+- 📍 **Location:** Canonsburg, PA
 - 🕒 **Posted:** 2026-09-09
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4464963526/) — AccruePartners
-- 📍 **Location:** Charlotte, NC
+### [Survey Technician](https://www.linkedin.com/jobs/view/4465083985/) — Rinker Design Associates
+- 📍 **Location:** Virginia Beach, VA
+- 💰 **Salary:** $52,000.00/yr - $93,600.00/yr
 - 🕒 **Posted:** 2026-09-09
 
-### [Diagnostic School Program Coordinator](https://www.linkedin.com/jobs/view/4463599894/) — Catholic Charities of Baltimore
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $95,000 to $105,000 per year
+### [Data Analyst - UTEP](https://www.linkedin.com/jobs/view/4463062628/) — Steampunk, Inc.
+- 📍 **Location:** El Paso, TX
+- 💰 **Salary:** $50,000 to $115,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Land Survey Technician](https://www.linkedin.com/jobs/view/4465300886/) — Rinker Design Associates
+- 📍 **Location:** Glen Allen, VA
+- 💰 **Salary:** $52,000.00/yr - $93,600.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4463061646/) — DesignForce
+- 📍 **Location:** Washington DC-Baltimore Area
+- 🕒 **Posted:** 2026-09-09
+
+### [Wetland Delineator/Environmental Scientist](https://www.linkedin.com/jobs/view/4456113620/) — WSP in the U.S.
+- 📍 **Location:** Toledo, OH
+- 💰 **Salary:** $78,000 - $92,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4445774611/) — WSP in the U.S.
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-09
+
+### [Junior Data Analyst- UTEP](https://www.linkedin.com/jobs/view/4463048663/) — Steampunk, Inc.
+- 📍 **Location:** El Paso, TX
+- 💰 **Salary:** $35,000 to $60,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Operations Data Analyst -Hybrid Work Schedule](https://www.linkedin.com/jobs/view/4465092923/) — Mansfield Energy Corp
+- 📍 **Location:** Gainesville, GA
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Data Analyst (Hybrid)](https://www.linkedin.com/jobs/view/4460140395/) — Beth Israel Lahey Health
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $74,880.00 USD - $124,800.00 USD
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4465302727/) — Western Governors University
+- 📍 **Location:** Salt Lake City Metropolitan Area
+- 💰 **Salary:** $75,200.00 - $112,700.00
+- 🕒 **Posted:** 2026-09-09
+
+### [Wetland Delineator/Environmental Scientist](https://www.linkedin.com/jobs/view/4456119220/) — WSP in the U.S.
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $78,000 - $92,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Wetland Delineator/Environmental Scientist](https://www.linkedin.com/jobs/view/4456128091/) — WSP in the U.S.
+- 📍 **Location:** Akron, OH
+- 💰 **Salary:** $78,000 - $92,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Entry Level Environmental Scientist](https://www.linkedin.com/jobs/view/4463896937/) — Dewberry
+- 📍 **Location:** Danville, VA
+- 💰 **Salary:** $61,000 - $63,500 annually
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Management Specialist, Philanthropy](https://www.linkedin.com/jobs/view/4452448452/) — Beth Israel Lahey Health
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $70,000.00 USD - $95,000.00 USD
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4463063646/) — SoTalent
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4465320027/) — Netrolynx AI
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-09
+
+### [Sr. Data Analyst](https://www.linkedin.com/jobs/view/4445754996/) — Strive Health
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $85,500 - $104,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Mortgage Data Analyst](https://www.linkedin.com/jobs/view/4465099452/) — Spring EQ
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4460687377/) — Hippo Insurance
+- 📍 **Location:** Austin, Texas Metropolitan Area
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Analyst III - Data Analytics & Reporting - 100% remote](https://www.linkedin.com/jobs/view/4463054525/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $4,801.16 to $6,281.33 monthly
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4463052515/) — Kareer Basycs
+- 📍 **Location:** Pennsylvania, United States
+- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Data Analyst, Risk Management and Compliance](https://www.linkedin.com/jobs/view/4454945194/) — Paul Hastings
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Healthcare Data Analyst](https://www.linkedin.com/jobs/view/4454907449/) — Joint Commission
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4465301488/) — Capgemini
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $85,000 - 95,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Enterprise Data Analyst](https://www.linkedin.com/jobs/view/4437881610/) — First Citizens Bank
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4463050551/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $50,000 - $80,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Wetland Delineator/Environmental Scientist](https://www.linkedin.com/jobs/view/4456119218/) — WSP in the U.S.
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $78,000 - $92,000
+- 🕒 **Posted:** 2026-09-09
+
+### [Manufacturing Project Coordinator #26653](https://www.linkedin.com/jobs/view/4465082981/) — Blue Chip Talent
+- 📍 **Location:** Warren, MI
+- 🕒 **Posted:** 2026-09-09
+
+### [Commercial Door/Custom Project Coordinator](https://www.linkedin.com/jobs/view/4436860274/) — Apogee Architectural Metals
+- 📍 **Location:** Walker, MI
+- 🕒 **Posted:** 2026-09-09
+
+### [Administrative Project Coordinator](https://www.linkedin.com/jobs/view/4464116121/) — HDR
+- 📍 **Location:** Greater Houston
+- 🕒 **Posted:** 2026-09-09
+
+### [HR Project Coordinator](https://www.linkedin.com/jobs/view/4464100958/) — LHH
+- 📍 **Location:** Montvale, NJ
+- 💰 **Salary:** $70,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [GRADUATE PROGRAM COORDINATOR-SEHS](https://www.linkedin.com/jobs/view/4465082744/) — University of Alabama at Birmingham
+- 📍 **Location:** Greater Birmingham, Alabama Area
+- 💰 **Salary:** $45,395 - $73,770
+- 🕒 **Posted:** 2026-09-09
+
+### [GME Program Coordinator, Internal Medicine, Cardiology, Full Time, First Shift](https://www.linkedin.com/jobs/view/4465091845/) — UC Health
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-09-09
