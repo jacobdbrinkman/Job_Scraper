@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-08 19:27 UTC",
+  "scraped_at": "2026-09-09 19:19 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Rafael",
@@ -22,15 +22,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Rafael",
-      "title": "Program Coordinator",
-      "location": "Northern Bay Area",
-      "url": "https://www.calopps.org/san-rafael/job-20774771",
-      "date_posted": "",
-      "salary": "$6,381.00-$7,756.00 Monthly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
