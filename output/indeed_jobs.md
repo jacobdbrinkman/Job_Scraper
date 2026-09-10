@@ -1,38 +1,31 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-10 05:20 UTC*
+*Last updated: 2026-09-10 18:54 UTC*
 
-**7 new role(s)** since last run · 18 total in last 24h
+**6 new role(s)** since last run · 16 total in last 24h
 
-### [Environmental Scientist/Engineer - Journeyman](https://www.indeed.com/viewjob?jk=8fdca11e0980aabc) — Cherokee Federal
-- 📍 **Location:** Travis AFB, CA, US
-- 🕒 **Posted:** 2026-09-09
-
-### [Staff Environmental Geologist / Scientist / Engineer](https://www.indeed.com/viewjob?jk=e76953a3f69a8dd2) — TRC
-- 📍 **Location:** Rancho Cordova, CA, US
-- 💰 **Salary:** $70k–$83k/yr
-- 🕒 **Posted:** 2026-09-09
-
-### [Field Data Analyst (Landfill Gas Experience)](https://www.indeed.com/viewjob?jk=cddd8422676d5883) — SCS Engineers
-- 📍 **Location:** Modesto, CA, US
-- 💰 **Salary:** $30–$40/hr
-- 🕒 **Posted:** 2026-09-09
-
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=cbb4ec2d875fdf75) — TRC
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $26–$40/hr
-- 🕒 **Posted:** 2026-09-09
-
-### [Project Coordinator](https://www.indeed.com/viewjob?jk=444f1cd665a621b4) — General Pump Company
-- 📍 **Location:** Camarillo, CA, US
-- 💰 **Salary:** $30–$35/hr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=eaf26eb2f73f203d) — DEPARTMENT OF WATER RESOURCES
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
 - 🕒 **Posted:** 2026-09-10
 
-### [Project Coordinator](https://www.indeed.com/viewjob?jk=94f65e4bb280195f) — Watts Water Technologies
-- 📍 **Location:** Centennial, CO, US
-- 💰 **Salary:** $26–$28/hr
+### [Assistant Geologist](https://www.indeed.com/viewjob?jk=67e5c79e954859b6) — Terracon Consultants Inc
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $24–$34/hr
+- 🕒 **Posted:** 2026-09-10
+
+### [Program/Data Analyst](https://www.indeed.com/viewjob?jk=2d485bd04ad39a6b) — BRS
+- 📍 **Location:** Silverdale, WA, US
 - 🕒 **Posted:** 2026-09-09
 
-### [Pacific NW Habitat Restoration Specialist](https://www.indeed.com/viewjob?jk=cd12942323b28789) — Entarian
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $69k–$89k/yr
+### [Program/Data Analyst](https://www.indeed.com/viewjob?jk=046b26acf80d2d57) — BRS
+- 📍 **Location:** Silverdale, WA, US
 - 🕒 **Posted:** 2026-09-09
+
+### [Program/Data Analyst](https://www.indeed.com/viewjob?jk=814bb8ff0841054d) — BRS
+- 📍 **Location:** Silverdale, WA, US
+- 🕒 **Posted:** 2026-09-09
+
+### [Geospatial Analyst](https://www.indeed.com/viewjob?jk=52a813cfb6af43d2) — Integrity Management Consulting
+- 📍 **Location:** Tysons, VA, US
+- 💰 **Salary:** $80k–$85k/yr
+- 🕒 **Posted:** 2026-09-10
