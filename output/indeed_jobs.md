@@ -1,44 +1,35 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-09 19:02 UTC*
+*Last updated: 2026-09-10 00:40 UTC*
 
-**8 new role(s)** since last run · 11 total in last 24h
+**7 new role(s)** since last run · 17 total in last 24h
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)](https://www.indeed.com/viewjob?jk=1873f1234daee8d3) — California Department of Pesticide Regulation
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $11k–$13k/mo
+### [GIS Analyst 2, Data Informed Futures - Pediatrics (Limited)](https://www.indeed.com/viewjob?jk=08dac7c7eb55a4f3) — UCLA Health
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $33–$65/hr
+- 🕒 **Posted:** 2026-08-21
+
+### [Data Management Specialist - Orange County Programs (JR 5692)](https://www.indeed.com/viewjob?jk=dedd36342a2c0c1e) — People Assisting The Homeless (PATH)
+- 📍 **Location:** Costa Mesa, CA, US
+- 💰 **Salary:** $24–$30/hr
 - 🕒 **Posted:** 2026-09-09
 
-### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=aea362208590bd60) — DEPARTMENT OF WATER RESOURCES
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $6488–$12k/mo
+### [Program/Data Analyst](https://www.indeed.com/viewjob?jk=2d485bd04ad39a6b) — BRS
+- 📍 **Location:** Silverdale, WA, US
 - 🕒 **Posted:** 2026-09-09
 
-### [Senior Geologist-CEG](https://www.indeed.com/viewjob?jk=8ad0bd086d0dff94) — NV5
-- 📍 **Location:** Ventura, CA, US
-- 💰 **Salary:** $130k–$160k/yr
+### [Program/Data Analyst](https://www.indeed.com/viewjob?jk=046b26acf80d2d57) — BRS
+- 📍 **Location:** Silverdale, WA, US
 - 🕒 **Posted:** 2026-09-09
 
-### [Senior Environmental Field Technician - (Stack)](https://www.indeed.com/viewjob?jk=35546d16beb40118) — Onterris
-- 📍 **Location:** Arvada, CO, US
-- 💰 **Salary:** $28–$38/hr
+### [Program/Data Analyst](https://www.indeed.com/viewjob?jk=814bb8ff0841054d) — BRS
+- 📍 **Location:** Silverdale, WA, US
 - 🕒 **Posted:** 2026-09-09
 
-### [Geologist 6](https://www.indeed.com/viewjob?jk=4509aaf081efe953) — CDM Smith
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $96k–$168k/yr
-- 🕒 **Posted:** 2026-09-08
-
-### [Sustainability Data Analyst](https://www.indeed.com/viewjob?jk=ba889c7dc639ef25) — Timberland
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $65k–$81k/yr
-- 🕒 **Posted:** 2026-09-09
-
-### [Information Systems Specialist 6 – GIS Analyst](https://www.indeed.com/viewjob?jk=1d8f6a7f93e13a44) — Oregon State Department of Police
-- 📍 **Location:** Salem, OR, US
-- 💰 **Salary:** $6176–$9336/mo
-- 🕒 **Posted:** 2026-09-08
-
-### [Senior Business Intelligence Data Analyst](https://www.indeed.com/viewjob?jk=d950594e289a8015) — Humana
+### [GIS Analyst](https://www.indeed.com/viewjob?jk=91d00553af922803) — Vernadero Group Incorporated
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $89k–$121k/yr
-- 🕒 **Posted:** 2026-09-08
+- 💰 **Salary:** $75k–$80k/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior Data Analyst & CRO Specialist](https://www.indeed.com/viewjob?jk=ec70834f85cc7389) — US Expediters
+- 📍 **Location:** Stafford, TX, US
+- 🕒 **Posted:** 2026-07-20
