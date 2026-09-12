@@ -1,98 +1,46 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-12 05:03 UTC*
+*Last updated: 2026-09-12 18:07 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Partner Solutions Engineer, Universal Commerce Protocol](https://www.linkedin.com/jobs/view/4464197793/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $152000 - $221000
+### [Director, Test Solutions Engineering Manager (West Coast Region)](https://www.linkedin.com/jobs/view/4445595844/) — Marvell Technology
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Partner Solutions Engineer, Universal Commerce Protocol](https://www.linkedin.com/jobs/view/4464196780/) — Google
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $152000 - $221000
+### [Staff Data Analyst](https://www.linkedin.com/jobs/view/4439332601/) — Assured
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $175,000.00/yr - $195,000.00/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Partner Solutions Engineer, Universal Commerce Protocol](https://www.linkedin.com/jobs/view/4464523319/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $127000 - $182000
+### [Team Hornet Data Analyst](https://www.linkedin.com/jobs/view/4457510153/) — DCS Corp
+- 📍 **Location:** Ridgecrest, CA
+- 💰 **Salary:** $73,160 - $92,500
 - 🕒 **Posted:** 2026-09-12
 
-### [Partner Solutions Engineer, Universal Commerce Protocol](https://www.linkedin.com/jobs/view/4464528125/) — Google
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $127000 - $182000
+### [GIS Technician](https://www.linkedin.com/jobs/view/4437902757/) — Pape-Dawson
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-12
 
-### [RN Trauma Program Coordinator](https://www.linkedin.com/jobs/view/4464280361/) — RegisteredNurse.jobs
-- 📍 **Location:** Silverdale, WA
-- 💰 **Salary:** $57.37 - $94.66 /hour
+### [GIS Coordinator – Planning & Zoning](https://www.linkedin.com/jobs/view/4464706556/) — Town of Harrisburg, NC
+- 📍 **Location:** Harrisburg, NC
+- 💰 **Salary:** $67,643 - $84,141 annually
 - 🕒 **Posted:** 2026-09-12
 
-### [Partner Solutions Engineer, Universal Commerce Protocol](https://www.linkedin.com/jobs/view/4464190873/) — Google
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $152000 - $221000
+### [Radiation Field Scientist, Bureau of Environmental Sciences and Engineering](https://www.linkedin.com/jobs/view/4465419893/) — CHEManager International
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-12
 
-### [Readiness Data Analyst – Systems Analyst II](https://www.linkedin.com/jobs/view/4465196836/) — VT Group (VTG)
-- 📍 **Location:** California, MD
-- 💰 **Salary:** $100,000-$160,000 annually
+### [Senior Research Data Analyst](https://www.linkedin.com/jobs/view/4465425065/) — CHEManager International
+- 📍 **Location:** Bethesda, MD
+- 💰 **Salary:** $94,200.00 to $117,600.00
 - 🕒 **Posted:** 2026-09-12
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4464280252/) — Utah Transit Authority
-- 📍 **Location:** Salt Lake City, UT
+### [Senior Finance Data Analyst](https://www.linkedin.com/jobs/view/4447225196/) — Encore
+- 📍 **Location:** Schiller Park, IL
+- 💰 **Salary:** $85,310.00/yr - $110,902.00/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [PHYSICAL SCIENCE TECHNICIAN](https://www.linkedin.com/jobs/view/4409011716/) — U.S. Fleet Forces Command
-- 📍 **Location:** Kittery, ME
-- 💰 **Salary:** $45,885-$59,657
-- 🕒 **Posted:** 2026-09-12
-
-### [PHYSICAL SCIENCE TECHNICIAN](https://www.linkedin.com/jobs/view/4409016578/) — U.S. Fleet Forces Command
-- 📍 **Location:** Kittery, ME
-- 💰 **Salary:** $85,659 - $111,352
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst - Third Party Data Management - Data & Finance H/F](https://www.linkedin.com/jobs/view/4464218927/) — EY
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-09-12
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4465185652/) — Old Republic Title
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** $100,000 - $120,000
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst - All Levels](https://www.linkedin.com/jobs/view/4466446132/) — Toho Water Authority
-- 📍 **Location:** Kissimmee, FL
-- 💰 **Salary:** $26.82-$35.74
-- 🕒 **Posted:** 2026-09-12
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4465182644/) — Old Republic Title
-- 📍 **Location:** Minnetonka, MN
-- 💰 **Salary:** $100,000 - $120,000
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst - Supply Chain & Operations](https://www.linkedin.com/jobs/view/4464680659/) — Marketech International Corporation USA
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4466449157/) — Utah Transit Authority
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-09-12
-
-### [Project Coordinator | Construction Services](https://www.linkedin.com/jobs/view/4464284269/) — Arizona Public Service - APS
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-09-12
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4448474181/) — KELLER
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-09-12
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4464265447/) — Concentrix
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $67,000– $80,000,
-- 🕒 **Posted:** 2026-09-12
-
-### [Network Program Coordinator](https://www.linkedin.com/jobs/view/4466447635/) — The City of San Diego
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $168,563.00 to $168,563.00
+### [eDiscovery Project Coordinator](https://www.linkedin.com/jobs/view/4457504373/) — Amentum
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $95,000.00 - $109,000.00
 - 🕒 **Posted:** 2026-09-12
