@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-11 23:32 UTC",
+  "scraped_at": "2026-09-12 01:35 UTC",
   "total": 9,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Stantec",
@@ -157,23 +157,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "SLR Consulting",
-      "title": "Resource Geologist/Senior Resource Geologist",
-      "location": "Denver, CO, US",
-      "url": "https://www.indeed.com/viewjob?jk=fa5293ea6bfd7950",
-      "direct_url": "https://slrconsulting.wd103.myworkdayjobs.com/en-US/SLRCareers/job/Denver-Colorado-USA/Resource-Geologist-Senior-Resource-Geologist_JR102511",
-      "company_url": "https://www.indeed.com/cmp/Slr-Consulting",
-      "date_posted": "2026-09-11",
-      "description": "We are SLR Consulting (Americas), a 1500\\+ team of advisory, environmental, engineering, and regulatory professionals across Canada, the United States, and LATAM. We deliver environmental and sustainability services to our clients through the integration of over 30 advisory, technical environmental, and engineering disciplines to help clients address some of their most complex challenges around sustainability. We are Making Sustainability Happen.  \n\n\n\n  \n\nAs our new **Resource Geologist/Senior Resource Geologist** , you will play an important role on a team whose work is essential to achieving this goal. Our projects encompass a wide spectrum, including geological modeling and resource estimation and reporting for various metals and depositional environments.  \n\n\n\n  \n\n**Responsibilities**  \n\n* Perform geological modeling and mineralization domaining in Leapfrog software for diverse metals and depositional environments.\n* Complete mineral resource estimates in Leapfrog Edge or other industry standard software for multiple commodities.\n* Conduct geological database quality control analysis.\n* Perform statistical evaluation of geological data.\n* Collaborate with mining engineers, metallurgists, and other disciplines.\n* Prepare project estimates, schedules, and reports.\n* Provide client support and presentations.\n* Contribute to business development efforts to expand our mining sector.\n**Working @ SLR**  \n\nWith us, there is no doubt you’ll grow your subject\\-matter expertise and industry knowledge. We care about investing in our employees for the long\\-run, and if you ask our team, they’ll tell you that’s just one of the many benefits of working here. We want to be a place where you can experience career growth and satisfaction for many years.\n\n\n**Here’s what else you’ll enjoy as part of our team:**  \n\n* Competitive total compensation package including medical, dental, orthodontia, vision, FSA/HSA, generous PTO accrual, 10 paid holidays, 401(k) retirement account with company matching program, company paid life insurance, short \\& long term disability insurance, and employee assistance program.\n* The salary range for this position is $100,000 \\- $120,000\\. Final agreed upon. compensation will be commensurate with individual education, professional designation, experience, internal parity, and location.\n* Full\\-time, permanent role with opportunities for professional growth and advancement.\n**Qualifications**\n\n* Bachelor's degree in Geology or Geoscience. Masters Degree will be advantageous.\n* Minimum 5 years of industry experience in minerals exploration, operations, or resource estimation.\n* Significant experience in geomodelling and domaining in Leapfrog software is required.\n* Practical experience in geostatistics and estimation methods in Leapfrog Edge preferred.\n* Experienced in modelling various commodities in a variety of geological terranes, such as Carlin, porphyry, orogenic and skarn.\n* Multi\\-commodity experience in precious metals and base metals, with gold experience essential.\n* Proficiency in Leapfrog software required, familiarity with other mine software such as Vulcan, MinePlan, Datamine, or MicroMine advantageous.\n* Experience with drill hole data QAQC.\n* Authorship or co\\-authorship of SK 1300 and/or NI 43\\-101 Technical Reports, or other CRIRSCO standard reports preferred.\n* Professional certifications or organizations (P.Geo, CPG, SME\\-RM, MMSA), and certification, or ability to be certified as a Qualified Person (QP) is preferred.\n* Experience with third party audits, due diligence, and third\\-party reviews preferred.\n* Strong project management skills for handling large\\-scale projects.\n* Excellent communication skills in English.\n\nThis job posting is for an existing vacancy. Artificial intelligence is not being used to screen, assess, or select applicants.\n\n\nSLR strives to build diverse teams that reflect the communities we work in, and encourages applications from traditionally underrepresented groups including women, visible minorities, Indigenous peoples, people identifying as 2SLGBTQI\\+, veterans, and people with disabilities.",
-      "salary": "$100k–$120k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
