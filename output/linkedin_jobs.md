@@ -1,24 +1,28 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-13 01:15 UTC*
+*Last updated: 2026-09-13 06:22 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Construction Management - Data Analyst](https://www.linkedin.com/jobs/view/4465430265/) — Gryps
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4464716175/) — Success Recruitments
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Assistant Program Coordinator](https://www.linkedin.com/jobs/view/4465458080/) — Soccer Shots Los Angeles
-- 📍 **Location:** Grand Rapids, MI
-- 🕒 **Posted:** 2026-09-13
-
-### [Business and Data Analyst](https://www.linkedin.com/jobs/view/4464734112/) — TalentHop
+### [Scrum Master/Data Analyst](https://www.linkedin.com/jobs/view/4466752937/) — PlanIT Group, LLC
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
+- 🕒 **Posted:** 2026-09-13
 
-### [Staff Data Analyst](https://www.linkedin.com/jobs/view/4464730137/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
+### [Data Analyst](https://www.linkedin.com/jobs/view/4466746992/) — PlanIT Group, LLC
+- 📍 **Location:** Arlington, TX
+- 🕒 **Posted:** 2026-09-13
+
+### [Project Coordinator & Data Analysis Support](https://www.linkedin.com/jobs/view/4466747928/) — PlanIT Group, LLC
+- 📍 **Location:** Reston, VA
+- 🕒 **Posted:** 2026-09-13
+
+### [Data Analyst Level 3](https://www.linkedin.com/jobs/view/4466743977/) — JSM Consulting Inc.
+- 📍 **Location:** Menands, NY
+- 🕒 **Posted:** 2026-09-13
+
+### [Mobile Field Technician](https://www.linkedin.com/jobs/view/4466737983/) — PlanIT Group, LLC
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-09-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4466749960/) — PlanIT Group, LLC
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-09-13
