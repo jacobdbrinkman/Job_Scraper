@@ -1,23 +1,19 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-15 08:02 UTC*
+*Last updated: 2026-09-15 19:28 UTC*
 
-**4 new role(s)** since last run · 9 total in last 24h
+**3 new role(s)** since last run · 10 total in last 24h
 
-### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=09f599f897d47395) — STATE WATER RESOURCES CONTROL BOARD
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $6488–$12k/mo
+### [Brownfields Program Coordinator - West](https://www.indeed.com/viewjob?jk=f72442ac6e58bbac) — Toeroek Associates, Inc.
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $75k–$140k/yr
 - 🕒 **Posted:** 2026-09-15
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=4a07bb62f98efc24) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-09-15
+### [GIS Analyst I](https://www.indeed.com/viewjob?jk=00d83d8e9716897b) — City Of Encinitas
+- 📍 **Location:** Encinitas, CA, US
+- 💰 **Salary:** $74k–$104k/yr
+- 🕒 **Posted:** 2026-09-03
 
-### [Lead Operations Geologist](https://www.indeed.com/viewjob?jk=14d8921e61c2065d) — Anschutz Exploration
+### [Sr. Environmental Scientist - Remediation Focus](https://www.indeed.com/viewjob?jk=51ac8caee43ff9f3) — AECOM
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $185k–$200k/yr
-- 🕒 **Posted:** 2026-09-14
-
-### [Resource Geologist, Senior - Mining](https://www.indeed.com/viewjob?jk=e33399a3c84d452e) — Blue Moon Metals
-- 📍 **Location:** Remote, US
+- 💰 **Salary:** $90k–$130k/yr
 - 🕒 **Posted:** 2026-09-15
