@@ -1,29 +1,23 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-15 01:55 UTC*
+*Last updated: 2026-09-15 08:02 UTC*
 
-**5 new role(s)** since last run · 5 total in last 24h
+**4 new role(s)** since last run · 9 total in last 24h
 
-### [Environmental Scientist/Industrial Hygienist](https://www.indeed.com/viewjob?jk=17218a4d646db7e9) — Apex Companies, LLC
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $75k–$85k/yr
-- 🕒 **Posted:** 2026-09-14
+### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=09f599f897d47395) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $6488–$12k/mo
+- 🕒 **Posted:** 2026-09-15
 
-### [Environmental Geologist 04231 NWP](https://www.indeed.com/viewjob?jk=094f3ce7d3d50eed) — North Wind Group
-- 📍 **Location:** Simi Valley, CA, US
-- 💰 **Salary:** $90k–$115k/yr
-- 🕒 **Posted:** 2026-09-01
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=4a07bb62f98efc24) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-15
 
-### [Senior Hydrogeologist](https://www.indeed.com/viewjob?jk=fdd2c467ace92dc9) — Stantec
+### [Lead Operations Geologist](https://www.indeed.com/viewjob?jk=14d8921e61c2065d) — Anschutz Exploration
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $97k–$145k/yr
+- 💰 **Salary:** $185k–$200k/yr
 - 🕒 **Posted:** 2026-09-14
 
-### [Project Coordinator](https://www.indeed.com/viewjob?jk=fc7a08bf7ecf7995) — Otak
-- 📍 **Location:** Louisville, CO, US
-- 💰 **Salary:** $30–$37/hr
-- 🕒 **Posted:** 2026-09-14
-
-### [Palantir Foundry Data Analyst](https://www.indeed.com/viewjob?jk=02a5b7ba6905b6db) — West 4th Strategy
+### [Resource Geologist, Senior - Mining](https://www.indeed.com/viewjob?jk=e33399a3c84d452e) — Blue Moon Metals
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $155k–$165k/yr
-- 🕒 **Posted:** 2026-09-14
+- 🕒 **Posted:** 2026-09-15
