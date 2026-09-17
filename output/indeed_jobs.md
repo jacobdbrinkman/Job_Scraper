@@ -1,24 +1,29 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-16 19:20 UTC*
+*Last updated: 2026-09-17 06:41 UTC*
 
-**4 new role(s)** since last run · 15 total in last 24h
+**5 new role(s)** since last run · 8 total in last 24h
 
-### [Assistant Geologist](https://www.indeed.com/viewjob?jk=3256300ffb30c6eb) — Terracon Consultants Inc
-- 📍 **Location:** Carson, CA, US
-- 💰 **Salary:** $26–$37/hr
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=9ef485d4836ef870) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-09-17
+
+### [Hydrologist](https://www.indeed.com/viewjob?jk=92278c9c90df94c1) — Bureau of Reclamation
+- 📍 **Location:** Weaverville, CA, US
+- 💰 **Salary:** $62k–$116k/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=82d8a09db75014ce) — STATE WATER RESOURCES CONTROL BOARD
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $6488–$12k/mo
+- 🕒 **Posted:** 2026-09-17
+
+### [Administrative Project Coordinator](https://www.indeed.com/viewjob?jk=ff8191978b1d0669) — HDR
+- 📍 **Location:** Rancho Cucamonga, CA, US
+- 💰 **Salary:** $54k–$80k/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Community Services Program Coordinator](https://www.indeed.com/viewjob?jk=aad5d8c652f28570) — City of San Bernardino, CA
-- 📍 **Location:** San Bernardino, CA, US
-- 💰 **Salary:** $57k–$70k/yr
-- 🕒 **Posted:** 2026-09-08
-
-### [FERC Program Coordinator](https://www.indeed.com/viewjob?jk=b436ed35db740b34) — City of Tacoma
-- 📍 **Location:** Tacoma, WA, US
-- 💰 **Salary:** $106k–$149k/yr
-- 🕒 **Posted:** 2026-09-14
-
-### [GIS Analyst](https://www.indeed.com/viewjob?jk=7a147677f711ea94) — CAPE Environmental Management, Inc
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $65k–$80k/yr
-- 🕒 **Posted:** 2026-09-15
+### [Data Analyst, Senior Professional Research Assistant Level 3](https://www.indeed.com/viewjob?jk=f3c67eacf7cc9f17) — University of Colorado
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $67k–$106k/yr
+- 🕒 **Posted:** 2026-09-16
