@@ -1,43 +1,23 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-17 19:26 UTC*
+*Last updated: 2026-09-18 00:48 UTC*
 
-**8 new role(s)** since last run · 11 total in last 24h
+**4 new role(s)** since last run · 14 total in last 24h
 
-### [Brownfields Program Coordinator - West](https://www.indeed.com/viewjob?jk=fcc07ed40d149252) — Toeroek Associates, Inc.
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $75k–$140k/yr
+### [Project Environmental Scientist](https://www.indeed.com/viewjob?jk=342e7968bf518e8e) — GFT
+- 📍 **Location:** Roseville, CA, US
+- 💰 **Salary:** $95k–$135k/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [Geologist (Remote, Up to 75% travel)](https://www.indeed.com/viewjob?jk=7a30af4e82126ef8) — Niagara Bottling
-- 📍 **Location:** Diamond Bar, CA, US
-- 💰 **Salary:** $108k–$153k/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [Water Damage Mitigation Project Coordinator](https://www.indeed.com/viewjob?jk=823d01f5636dd38d) — Allied Restoration
-- 📍 **Location:** West Covina, CA, US
-- 💰 **Salary:** $23–$27/hr
+### [Environmental Geologist/Engineer/Scientist](https://www.indeed.com/viewjob?jk=96aad752228fa055) — EnSafe Inc.
+- 📍 **Location:** Long Beach, CA, US
 - 🕒 **Posted:** 2026-09-17
 
-### [GIS Specialist III](https://www.indeed.com/viewjob?jk=397bf06b4f770be5) — AECOM
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $70k–$86k/yr
+### [Hardware Data Analyst](https://www.indeed.com/viewjob?jk=e9da704742d2ca4a) — Aperia Technologies
+- 📍 **Location:** San Mateo, CA, US
+- 💰 **Salary:** $110k–$123k/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [Sr Program Project Coordinator](https://www.indeed.com/viewjob?jk=f513f1113058285e) — Stanford Health Care
-- 📍 **Location:** Newark, CA, US
-- 💰 **Salary:** $47–$61/hr
-- 🕒 **Posted:** 2026-09-16
-
-### [Earth Scientist 2](https://www.indeed.com/viewjob?jk=a3ecc4a141b5c5e1) — Pacific Northwest National Laboratory
-- 📍 **Location:** Seattle, WA, US
-- 🕒 **Posted:** 2026-09-16
-
-### [Senior GIS Analyst - Public Safety](https://www.indeed.com/viewjob?jk=6c4eee1fe84af5f4) — City of Westminster, CO
-- 📍 **Location:** Westminster, CO, US
-- 💰 **Salary:** $93k–$119k/yr
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Clinical Data Analyst](https://www.indeed.com/viewjob?jk=507975cceba30404) — InnovAge
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $77k–$97k/yr
-- 🕒 **Posted:** 2026-09-16
+### [Natural Resources Specialist I/II - Public Works, Clean Water](https://www.indeed.com/viewjob?jk=78bfe7b4c429d98f) — Clark County Washington
+- 📍 **Location:** WA, US
+- 💰 **Salary:** $30–$44/hr
+- 🕒 **Posted:** 2026-09-17
