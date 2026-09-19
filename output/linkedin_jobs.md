@@ -1,48 +1,30 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-19 20:53 UTC*
+*Last updated: 2026-09-19 23:17 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Authorizations and Claims Analytics Solutions Business Insights and Data Analyst III](https://www.linkedin.com/jobs/view/4466245140/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
+### [Senior Payer Contracting Data Analyst](https://www.linkedin.com/jobs/view/4468406654/) — Scripps Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $51.66-$74.92/hour
 - 🕒 **Posted:** 2026-09-19
 
-### [Care Delivery Analytics Data Analyst III](https://www.linkedin.com/jobs/view/4468857896/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-19
-
-### [Laboratory Technical Client Services  Project Coordinator](https://www.linkedin.com/jobs/view/4468095719/) — Vanguard Laboratory
-- 📍 **Location:** Olympia, WA
-- 💰 **Salary:** $21.00–$27.00 per hour
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4468406535/) — Galapagos Federal Systems
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** USD $115,000.00 - USD $125,000.00 /Yr
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4468091902/) — Jobright.ai
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468405629/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-19
 
-### [Data Analyst, AI Agent Analytics — New Grad](https://www.linkedin.com/jobs/view/4468401635/) — Jobright.ai
+### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4468095778/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-19
 
-### [Data Analyst, Sr - Cancer and Blood Disorders Center](https://www.linkedin.com/jobs/view/4469547828/) — Seattle Children's
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $118,174.00 - $177,262.00 per year
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468097669/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468410432/) — Jobright.ai
+### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4468404599/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-19
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4469566042/) — Toole Design Group
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $61,000 to $71,000
+### [HEDIS Architect / Data Analyst](https://www.linkedin.com/jobs/view/4468096708/) — Healthcare IS
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-19
+
+### [Residential Field Technician - Drone Pilot](https://www.linkedin.com/jobs/view/4466988536/) — PostJobFree
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $80 - $125 per survey
 - 🕒 **Posted:** 2026-09-19
