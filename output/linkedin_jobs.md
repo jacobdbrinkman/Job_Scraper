@@ -1,58 +1,88 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-19 06:11 UTC*
+*Last updated: 2026-09-19 18:24 UTC*
 
-**11 new role(s)** since last run · 12 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Senior Ecological Restoration Specialist](https://www.linkedin.com/jobs/view/4468064628/) — GEI Consultants, Inc.
-- 📍 **Location:** Rancho Cordova, CA
-- 💰 **Salary:** $130,000.00 – $170,000.00/year
+### [Lead Data Analyst](https://www.linkedin.com/jobs/view/4450365729/) — QuinStreet
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $120,000 USD to $160,000 USD annually
 - 🕒 **Posted:** 2026-09-19
 
-### [Transaction & Project Coordinator](https://www.linkedin.com/jobs/view/4469292835/) — UC Davis Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $28.16 - $48.47
+### [Senior Geologist or Engineer](https://www.linkedin.com/jobs/view/4460560795/) — SCS Engineers
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** USD $125,000.00 - USD $175,000.00 /Yr
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4466961511/) — HETI
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
+### [Data Analyst](https://www.linkedin.com/jobs/view/4468094566/) — Evlo AI
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4466946896/) — HETI
-- 📍 **Location:** Dover, DE
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
+### [Geospatial Analyst](https://www.linkedin.com/jobs/view/4450739759/) — Vantor
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $150,000.00 - $190,000.00
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Geologist/Senior Environmental Scientist/Professional Engineer](https://www.linkedin.com/jobs/view/4466961512/) — HETI
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $75,000.00/yr - $110,000.00/yr
+### [Senior Geologist](https://www.linkedin.com/jobs/view/4449798512/) — WSP in the U.S.
+- 📍 **Location:** Canton, MS
 - 🕒 **Posted:** 2026-09-19
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4469297767/) — Cogent Analytics
-- 📍 **Location:** Schwenksville, PA
-- 💰 **Salary:** $50,000.00/yr - $60,000.00/yr
+### [Business Data Analyst](https://www.linkedin.com/jobs/view/4468407315/) — Evlo AI
+- 📍 **Location:** Minneapolis, MN
 - 🕒 **Posted:** 2026-09-19
 
-### [Underwriting & Actuarial Data Analyst I](https://www.linkedin.com/jobs/view/4469510166/) — HMSA
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $59,000 - $116,000,
+### [Senior Environmental Consultant Manager](https://www.linkedin.com/jobs/view/4424227831/) — Sargent & Lundy
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $165,610 - $253,015
 - 🕒 **Posted:** 2026-09-19
 
-### [Underwriting & Actuarial Data Analyst II](https://www.linkedin.com/jobs/view/4469512052/) — HMSA
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $59,000 - $116,000,
+### [Business Data Analyst](https://www.linkedin.com/jobs/view/4468403430/) — Evlo AI
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Business Data Analyst](https://www.linkedin.com/jobs/view/4466954840/) — VSP Vision Care
-- 📍 **Location:** United States
-- 💰 **Salary:** $63,000.00 - $108,675.00
+### [Data Analyst](https://www.linkedin.com/jobs/view/4458450154/) — Houston Methodist
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-19
 
-### [RESEARCH DATA ANALYST II](https://www.linkedin.com/jobs/view/4469295688/) — Caltrans
-- 📍 **Location:** Sacramento County, CA
-- 💰 **Salary:** $6,647.00/mo - $8,325.00/mo
+### [Sr. Sustainable Communities & Data Analyst](https://www.linkedin.com/jobs/view/4457988610/) — Fifth Third Bank
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $82,100.00 - $172,500.00
 - 🕒 **Posted:** 2026-09-19
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4469272054/) — Ledcor
-- 📍 **Location:** Romney, WV
+### [Data Analyst, Finance](https://www.linkedin.com/jobs/view/4441154332/) — IDEX Corporation
+- 📍 **Location:** West Henrietta, NY
+- 💰 **Salary:** $90,000-$105,000
+- 🕒 **Posted:** 2026-09-19
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4466992084/) — Columbia University Irving Medical Center
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-19
+
+### [Language Supports and Services Data Analyst - Student Achievement Resource Center](https://www.linkedin.com/jobs/view/4468408283/) — Cherry Creek School District
+- 📍 **Location:** Englewood, CO
+- 🕒 **Posted:** 2026-09-19
+
+### [Workforce Data Analyst](https://www.linkedin.com/jobs/view/4458416722/) — Ultra Clean Technology
+- 📍 **Location:** Manor, TX
+- 🕒 **Posted:** 2026-09-19
+
+### [Mechanical Data Solutions Engineer - Industrial & Water Engineering](https://www.linkedin.com/jobs/view/4459434791/) — Kiewit
+- 📍 **Location:** Lenexa, KS
+- 🕒 **Posted:** 2026-09-19
+
+### [Market Solutions Engineer](https://www.linkedin.com/jobs/view/4450290357/) — NYISO
+- 📍 **Location:** Rensselaer, NY
+- 💰 **Salary:** $80,800 - $135,000 USD
+- 🕒 **Posted:** 2026-09-19
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4460529192/) — Black & Veatch
+- 📍 **Location:** Cartersville, GA
+- 🕒 **Posted:** 2026-09-19
+
+### [Program Coordinator Banner Volunteer Program](https://www.linkedin.com/jobs/view/4466979865/) — Banner Health
+- 📍 **Location:** Gilbert, AZ
+- 🕒 **Posted:** 2026-09-19
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4451056803/) — WES HEALTH SYSTEM
+- 📍 **Location:** Pemberton, NJ
+- 💰 **Salary:** $25.00/yr - $30.00/yr
 - 🕒 **Posted:** 2026-09-19
