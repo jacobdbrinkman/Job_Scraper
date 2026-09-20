@@ -1,5 +1,5 @@
 # 🏛 NEOGOV — State & Local Government Geospatial & Environmental Data Roles
-*Last updated: 2026-09-19 18:38 UTC*
+*Last updated: 2026-09-20 18:52 UTC*
 
 **0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
