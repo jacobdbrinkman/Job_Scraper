@@ -1,30 +1,17 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-19 23:17 UTC*
+*Last updated: 2026-09-20 01:31 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Payer Contracting Data Analyst](https://www.linkedin.com/jobs/view/4468406654/) — Scripps Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $51.66-$74.92/hour
-- 🕒 **Posted:** 2026-09-19
+### [Inside Solutions Engineer - Public Sector](https://www.linkedin.com/jobs/view/4466994478/) — SHI International Corp.
+- 📍 **Location:** Somerset, NJ
+- 💰 **Salary:** $42,000 - $98,000
+- 🕒 **Posted:** 2026-09-20
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468405629/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
+### [Data Analyst: Social Work Office of Research & Public Service - UTK](https://www.linkedin.com/jobs/view/4468420283/) — Knoxville Technology Council
+- 📍 **Location:** Knoxville, TN
+- 🕒 **Posted:** 2026-09-20
 
-### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4468095778/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4468404599/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
-
-### [HEDIS Architect / Data Analyst](https://www.linkedin.com/jobs/view/4468096708/) — Healthcare IS
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
-
-### [Residential Field Technician - Drone Pilot](https://www.linkedin.com/jobs/view/4466988536/) — PostJobFree
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $80 - $125 per survey
-- 🕒 **Posted:** 2026-09-19
+### [Data Analyst: Social Work Office of Research & Public Service - UTK](https://www.linkedin.com/jobs/view/4468432101/) — Knoxville Technology Council
+- 📍 **Location:** Knoxville, TN
+- 🕒 **Posted:** 2026-09-20
