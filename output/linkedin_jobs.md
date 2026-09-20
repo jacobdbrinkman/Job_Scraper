@@ -1,49 +1,39 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-20 18:34 UTC*
+*Last updated: 2026-09-20 21:03 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Data Analyst Senior](https://www.linkedin.com/jobs/view/4448253743/) — CLA (CliftonLarsonAllen)
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468475463/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-20
+
+### [Assistant GIS Specialist](https://www.linkedin.com/jobs/view/4466567810/) — Randstad Digital Americas
+- 📍 **Location:** Akron, OH
+- 💰 **Salary:** $25.00/hr - $27.72/hr
+- 🕒 **Posted:** 2026-09-20
+
+### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4468475500/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-20
+
+### [Assistant AI Data Analyst](https://www.linkedin.com/jobs/view/4465467571/) — Randstad Digital Americas
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $33.00/hr - $36.00/hr
+- 🕒 **Posted:** 2026-09-20
+
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468473527/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-20
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4465812967/) — EarthCam
+- 📍 **Location:** Upper Saddle River, NJ
+- 🕒 **Posted:** 2026-09-20
+
+### [New Homes - Project Coordinator](https://www.linkedin.com/jobs/view/4469816364/) — Abstrakt Marketing Group
 - 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $107,000 - $155,000
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4404437297/) — QuinStreet
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $80,000 USD to $130,000 USD annually
-- 🕒 **Posted:** 2026-09-20
-
-### [Solar Field Technician - Rosamond, CA](https://www.linkedin.com/jobs/view/4433579572/) — Arevon
-- 📍 **Location:** Rosamond, CA
-- 🕒 **Posted:** 2026-09-20
-
-### [Lead Geologist - Site Investigation & Remediation](https://www.linkedin.com/jobs/view/4424459635/) — WSP in the U.S.
-- 📍 **Location:** Tigard, OR
-- 💰 **Salary:** $108,600 - $150,000
-- 🕒 **Posted:** 2026-09-20
-
-### [Senior Technical Manager, Geologist](https://www.linkedin.com/jobs/view/4424256357/) — WSP in the U.S.
-- 📍 **Location:** Duluth, GA
-- 🕒 **Posted:** 2026-09-20
-
-### [Senior Technical Manager, Nuclear Geologist](https://www.linkedin.com/jobs/view/4372563739/) — WSP in the U.S.
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-09-20
-
-### [Manager, AI Solutions Engineering](https://www.linkedin.com/jobs/view/4423026571/) — Ryan
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $126,000.00 - $171,050.00
-- 🕒 **Posted:** 2026-09-20
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468474355/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-20
-
-### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4468472355/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-20
-
-### [Bilingual Project Coordinator](https://www.linkedin.com/jobs/view/4467354017/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $40,000 to $50,000
+### [Administrative Assistant Project Coordinator](https://www.linkedin.com/jobs/view/4469821314/) — PAI
+- 📍 **Location:** St Paul, MN
+- 💰 **Salary:** $20 to $24 per hour
 - 🕒 **Posted:** 2026-09-20
