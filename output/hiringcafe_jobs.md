@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-20 21:55 UTC*
+*Last updated: 2026-09-20 23:47 UTC*
 
 **0 new role(s)** since last run · 130 total in last 30d
 
