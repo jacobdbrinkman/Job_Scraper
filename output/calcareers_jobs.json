@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20 18:43 UTC",
-  "total": 18,
+  "scraped_at": "2026-09-21 20:25 UTC",
+  "total": 17,
   "new_count": 0,
   "jobs": [
     {
@@ -135,15 +135,6 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527201",
       "date_posted": "2026-09-09",
-      "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Conservation",
-      "title": "Forest and Watershed Geology Program Engineering Geologist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531728",
-      "date_posted": "2026-09-11",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
