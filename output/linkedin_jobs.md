@@ -1,13 +1,18 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-21 01:22 UTC*
+*Last updated: 2026-09-21 06:35 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Project Coordinator – Technical Publications](https://www.linkedin.com/jobs/view/4468481620/) — Waukesha Gas Engines
-- 📍 **Location:** Waukesha, WI
+### [Lead Safety & Environmental Analyst](https://www.linkedin.com/jobs/view/4422033698/) — Peraton
+- 📍 **Location:** Fort Irwin, CA
+- 💰 **Salary:** $80,000 - $128,000
 - 🕒 **Posted:** 2026-09-21
 
-### [Regulatory Data Analyst](https://www.linkedin.com/jobs/view/4467354214/) — Daikin America, Inc
-- 📍 **Location:** Decatur, AL
-- 💰 **Salary:** $86,000.00/yr - $106,000.00/yr
-- 🕒 **Posted:** 2026-09-20
+### [Executive Administrator & Project Coordinator](https://www.linkedin.com/jobs/view/4467362287/) — Mustang Cat
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-21
+
+### [VCHIP Project Coordinator](https://www.linkedin.com/jobs/view/4469841556/) — University of Vermont
+- 📍 **Location:** Burlington, VT
+- 💰 **Salary:** $24.50 - $27.20
+- 🕒 **Posted:** 2026-09-21
