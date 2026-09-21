@@ -1,16 +1,13 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-20 23:28 UTC*
+*Last updated: 2026-09-21 01:22 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Field Technician-Water Solutions](https://www.linkedin.com/jobs/view/4468476561/) — Tallgrass
-- 📍 **Location:** Douglas, WY
-- 🕒 **Posted:** 2026-09-20
+### [Project Coordinator – Technical Publications](https://www.linkedin.com/jobs/view/4468481620/) — Waukesha Gas Engines
+- 📍 **Location:** Waukesha, WI
+- 🕒 **Posted:** 2026-09-21
 
-### [Field Technician-Water Solutions](https://www.linkedin.com/jobs/view/4468471655/) — Tallgrass
-- 📍 **Location:** Douglas, WY
-- 🕒 **Posted:** 2026-09-20
-
-### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4468484457/) — Jobright.ai
-- 📍 **Location:** United States
+### [Regulatory Data Analyst](https://www.linkedin.com/jobs/view/4467354214/) — Daikin America, Inc
+- 📍 **Location:** Decatur, AL
+- 💰 **Salary:** $86,000.00/yr - $106,000.00/yr
 - 🕒 **Posted:** 2026-09-20
