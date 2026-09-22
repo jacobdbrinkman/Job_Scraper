@@ -1,34 +1,24 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-22 19:21 UTC*
+*Last updated: 2026-09-22 22:35 UTC*
 
-**6 new role(s)** since last run · 19 total in last 24h
+**4 new role(s)** since last run · 23 total in last 24h
 
-### [RESEARCH DATA SPECIALIST II](https://www.indeed.com/viewjob?jk=2d8e8f44de7de8ba) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7640–$9561/mo
-- 🕒 **Posted:** 2026-09-22
-
-### [RESEARCH DATA SPECIALIST II](https://www.indeed.com/viewjob?jk=55d00d39e854b806) — Department of Health Care Services
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7640–$9561/mo
-- 🕒 **Posted:** 2026-09-22
-
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=0118a511670262be) — Caltrans - CA Dept. of Transportation
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-09-22
-
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=2b34a6a826ed6a9d) — Falkor Industry, Inc
+### [Scientist / Geologist I](https://www.indeed.com/viewjob?jk=186cc1d020cbcdaa) — West Yost
 - 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $72k–$80k/yr
+- 💰 **Salary:** $73k–$106k/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Junior Data Analyst](https://www.indeed.com/viewjob?jk=14046b9b0924ca74) — blue water Thinking
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $70k–$100k/yr
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=7f78694a798edefe) — WestLand Resources
+- 📍 **Location:** Gig Harbor, WA, US
+- 💰 **Salary:** $36–$46/hr
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Data Scientist, Applied AI and Agentic Solutions Engineer](https://www.indeed.com/viewjob?jk=54f5bda027b38d6b) — VSP Vision
+### [Surface Water Program Coordinator](https://www.indeed.com/viewjob?jk=b58f8548268434a7) — City of Mill Creek
+- 📍 **Location:** Mill Creek, WA, US
+- 💰 **Salary:** $88k–$116k/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Data Management Specialist - Healthcare Transformation](https://www.indeed.com/viewjob?jk=1794a6bb516a6baa) — blue water Thinking
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $84k–$142k/yr
-- 🕒 **Posted:** 2026-09-21
+- 💰 **Salary:** $80k–$110k/yr
+- 🕒 **Posted:** 2026-09-22
