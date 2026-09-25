@@ -1,9 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-24 22:50 UTC*
+*Last updated: 2026-09-25 00:54 UTC*
 
-**1 new role(s)** since last run · 20 total in last 24h
+**1 new role(s)** since last run · 18 total in last 24h
 
-### [GIS Specialist – Entry Level (Hybrid)](https://www.indeed.com/viewjob?jk=03d4ff43ceb7639e) — Barr Engineering
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $65k–$75k/yr
+### [Forestry Field Technician](https://www.indeed.com/viewjob?jk=7f8f48b0dc0a5035) — Sierra Resource Conservation District
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $20–$26/hr
 - 🕒 **Posted:** 2026-09-24
