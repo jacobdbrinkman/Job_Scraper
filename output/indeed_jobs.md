@@ -1,6 +1,13 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-26 02:03 UTC*
+*Last updated: 2026-09-26 08:00 UTC*
 
-**0 new role(s)** since last run · 12 total in last 24h
+**2 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Operations Data Analyst, Senior](https://www.indeed.com/viewjob?jk=a1a192f4125ba9b5) — Global Software Resources
+- 📍 **Location:** Oakland, CA, US
+- 🕒 **Posted:** 2026-09-25
+
+### [Director, Outcomes Research Data Specialist (REMOTE, USA)](https://www.indeed.com/viewjob?jk=bbe0d82deada637b) — Tempus
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $160k–$200k/yr
+- 🕒 **Posted:** 2026-09-25
