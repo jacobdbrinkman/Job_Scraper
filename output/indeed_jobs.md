@@ -1,9 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-27 05:50 UTC*
+*Last updated: 2026-09-27 19:18 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [Data Analyst - REMOTE](https://www.indeed.com/viewjob?jk=3648ce4169648012) — AIS Insurance Specialists
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $77k–$142k/yr
-- 🕒 **Posted:** 2026-09-25
+### [Project Coordinator](https://www.indeed.com/viewjob?jk=da89b08647ef0608) — Watts Water Technologies
+- 📍 **Location:** Centennial, CO, US
+- 💰 **Salary:** $26–$28/hr
+- 🕒 **Posted:** 2026-09-27
