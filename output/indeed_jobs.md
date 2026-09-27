@@ -1,6 +1,9 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-26 23:56 UTC*
+*Last updated: 2026-09-27 05:50 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Data Analyst - REMOTE](https://www.indeed.com/viewjob?jk=3648ce4169648012) — AIS Insurance Specialists
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $77k–$142k/yr
+- 🕒 **Posted:** 2026-09-25
