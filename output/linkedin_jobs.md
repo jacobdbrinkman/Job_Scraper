@@ -1,31 +1,24 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-27 19:16 UTC*
+*Last updated: 2026-09-27 22:24 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4470819380/) — TalentHop
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4471311251/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-27
 
-### [On Call Archaeology Field Technician](https://www.linkedin.com/jobs/view/4434687031/) — WSP in the U.S.
-- 📍 **Location:** Boise, ID
-- 💰 **Salary:** $26 - $30 per hour
-- 🕒 **Posted:** 2026-09-27
-
-### [Residential Roofing Project Coordinator](https://www.linkedin.com/jobs/view/4471301480/) — Boulder Connect
-- 📍 **Location:** Toledo, OH
-- 🕒 **Posted:** 2026-09-27
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4472463130/) — Addison Group
-- 📍 **Location:** Owatonna, MN
-- 💰 **Salary:** $28.00 - $30.00
-- 🕒 **Posted:** 2026-09-27
-
-### [Research Program Coordinator I - CAPS](https://www.linkedin.com/jobs/view/4408026238/) — Medical College of Wisconsin
-- 📍 **Location:** Wauwatosa, WI
-- 🕒 **Posted:** 2026-09-27
-
-### [NCORP Project Coordinator](https://www.linkedin.com/jobs/view/4470817433/) — TalentHop
+### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4471302511/) — Jobright.ai
 - 📍 **Location:** United States
-- 💰 **Salary:** $64,542 to $92,421 per year
+- 🕒 **Posted:** 2026-09-27
+
+### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4471312246/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-27
+
+### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4471311252/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-27
+
+### [Data Analyst, Product Analytics — New Grad](https://www.linkedin.com/jobs/view/4471092960/) — Jobright.ai
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-27
