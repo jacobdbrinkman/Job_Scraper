@@ -1,235 +1,151 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-09-29 20:31 UTC*
+*Last updated: 2026-09-30 00:07 UTC*
 
-**53 new role(s)** since last run · 53 total in last 1h
+**32 new role(s)** since last run · 32 total in last 1h
 
-### [IT - GIS Specialist/Analyst](https://www.linkedin.com/jobs/view/4471948426/) — TekWissen ®
-- 📍 **Location:** San Ramon, CA
-- 💰 **Salary:** $60.00/hr - $61.00/hr
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4473037595/) — WENDEL Companies
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $32.21 - $59.13
+- 🕒 **Posted:** 2026-09-30
+
+### [Project Coordinator - Automation](https://www.linkedin.com/jobs/view/4471981150/) — Baker Group
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $55,000.00/yr - $72,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Project Coordinator - Automation](https://www.linkedin.com/jobs/view/4471974389/) — Baker Group
+- 📍 **Location:** Des Moines Metropolitan Area
+- 💰 **Salary:** $55,000.00/yr - $72,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Data Analyst – Customer Data Platforms (CDP)](https://www.linkedin.com/jobs/view/4473553443/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $54.00/hr - $61.00/hr
 - 🕒 **Posted:** 2026-09-29
 
-### [Staff Data Analyst, People Analytics](https://www.linkedin.com/jobs/view/4471766559/) — Okta
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $149,000 USD - $205,000 USD
-- 🕒 **Posted:** 2026-09-29
-
-### [GIS Data Analyst](https://www.linkedin.com/jobs/view/4473526156/) — Trident Consulting
-- 📍 **Location:** Pomona, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Quality Control Field Technician](https://www.linkedin.com/jobs/view/4471779113/) — CalPortland
-- 📍 **Location:** Baldwin Park, CA
-- 💰 **Salary:** $26.44 - $32.21/hr
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4471755972/) — Existence
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4473513826/) — PM2CM, Inc.
-- 📍 **Location:** Pomona, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Environmental Remediation Project Manager – Geologist or Engineer](https://www.linkedin.com/jobs/view/4471945475/) — Geosyntec Consultants
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $101,650/year - $180,745/year
-- 🕒 **Posted:** 2026-09-29
-
-### [Staff Data Analyst, People Analytics](https://www.linkedin.com/jobs/view/4471758976/) — Okta
-- 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $149,000 USD - $205,000 USD
-- 🕒 **Posted:** 2026-09-29
-
-### [Operations Data Analyst](https://www.linkedin.com/jobs/view/4473523101/) — Pax8
+### [Associate Data Analyst - Transportation](https://www.linkedin.com/jobs/view/4473564364/) — State of Colorado
 - 📍 **Location:** Denver, CO
-- 💰 **Salary:** $67,270 to $96,100
+- 💰 **Salary:** $60,008.00 - $63,003.20
 - 🕒 **Posted:** 2026-09-29
 
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4473508922/) — Advanced Technology and Research Corporation
-- 📍 **Location:** Fort Lauderdale, FL
-- 💰 **Salary:** $80,000 - $100,000 USD per year
+### [GIS Consultant](https://www.linkedin.com/jobs/view/4471793167/) — TRC Companies, Inc.
+- 📍 **Location:** Madison, WI
+- 💰 **Salary:** USD $65,000.00 - USD $115,003.20 /Yr
 - 🕒 **Posted:** 2026-09-29
 
-### [GIS Technician I](https://www.linkedin.com/jobs/view/4471951251/) — Pike Corporation
-- 📍 **Location:** Marietta, GA
+### [Data Analyst](https://www.linkedin.com/jobs/view/4471975359/) — Haystack
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $62,000 – $141,000
 - 🕒 **Posted:** 2026-09-29
 
-### [Hydrogeologist Project Manager](https://www.linkedin.com/jobs/view/4471776223/) — AE2S (Advanced Engineering and Environmental Services, LLC)
-- 📍 **Location:** Bozeman, MT
+### [Research Data Analyst I, Clinical, Pathology & Lab Medicine](https://www.linkedin.com/jobs/view/4473568372/) — Boston University
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-09-29
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4471765637/) — AE2S (Advanced Engineering and Environmental Services, LLC)
-- 📍 **Location:** Woodbury, MN
-- 💰 **Salary:** $70,000-$95,000
+### [SUE Field Technician III](https://www.linkedin.com/jobs/view/4469199304/) — SAM
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Scientist / Senior Data Analyst](https://www.linkedin.com/jobs/view/4471954279/) — Integra FEC
-- 📍 **Location:** Austin, TX
+### [Construction Survey Geomatics Technician III](https://www.linkedin.com/jobs/view/4469202193/) — SAM
+- 📍 **Location:** Cookeville, TN
 - 🕒 **Posted:** 2026-09-29
 
-### [Operations Geologist](https://www.linkedin.com/jobs/view/4471942798/) — CornerStone Professional Placement
-- 📍 **Location:** Midland, TX
-- 💰 **Salary:** $50.00/hr - $60.00/hr
+### [DOD SkillBridge Program - Survey Technician](https://www.linkedin.com/jobs/view/4467563773/) — Bolton & Menk, Inc.
+- 📍 **Location:** Myrtle Beach, SC
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4473530506/) — Harnham
-- 📍 **Location:** Dallas, TX
+### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4473563370/) — Jacobs
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $119,400.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Extension Program Coordinator (ANR) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4473554532/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Breese, IL
+- 🕒 **Posted:** 2026-09-29
+
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4471974390/) — Baker Group
+- 📍 **Location:** Des Moines Metropolitan Area
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4471972454/) — Haystack
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $62,000 – $141,000
+- 🕒 **Posted:** 2026-09-29
+
+### [Healthcare Data Analyst](https://www.linkedin.com/jobs/view/4473568390/) — Beth Israel Lahey Health
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $72,800.00 USD - $93,600.00 USD
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Analyst - Education - NYU Grossman Long Island School of Medicine, Mineola](https://www.linkedin.com/jobs/view/4471969212/) — NYU Langone Health
+- 📍 **Location:** Mineola, NY
+- 💰 **Salary:** $66,300.00 - $100,436.29 Annually
+- 🕒 **Posted:** 2026-09-29
+
+### [DoW Energy Data Analyst](https://www.linkedin.com/jobs/view/4467912114/) — Noblis
+- 📍 **Location:** Reston, VA
+- 💰 **Salary:** USD $71,800.00 - USD $112,150.00 /Yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Associate Operational Reporting & Data Analyst](https://www.linkedin.com/jobs/view/4471770899/) — Louisiana Blue
+- 📍 **Location:** Baton Rouge, LA
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Analyst 1](https://www.linkedin.com/jobs/view/4473563153/) — New York State Department of Taxation and Finance
+- 📍 **Location:** Albany, New York Metropolitan Area
+- 💰 **Salary:** $70,139.00/yr - $87,034.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4473559120/) — Harnham
+- 📍 **Location:** Dallas-Fort Worth Metroplex
 - 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [Staff Environmental Engineer, Environmental Scientist, or Geologist 1](https://www.linkedin.com/jobs/view/4473513941/) — Haley & Aldrich
-- 📍 **Location:** Annapolis, MD
-- 💰 **Salary:** $58,000 - $78,000 annually
+### [Senior Data Analyst - Canton, MA](https://www.linkedin.com/jobs/view/4468659592/) — FDM Group
+- 📍 **Location:** Canton, MA
 - 🕒 **Posted:** 2026-09-29
 
-### [Physical Scientist for All-sky and All-surface Radiance Satellite Data Assimilation](https://www.linkedin.com/jobs/view/4471954195/) — Lynker
-- 📍 **Location:** College Park, MD
+### [Staff Product Data Analyst](https://www.linkedin.com/jobs/view/4450795389/) — Jane App
+- 📍 **Location:** Canada, NC
+- 💰 **Salary:** $125,200 – $195,600
 - 🕒 **Posted:** 2026-09-29
 
-### [Field Technician II](https://www.linkedin.com/jobs/view/4473520967/) — UES
-- 📍 **Location:** Wichita, KS
+### [Clinical Data Analyst Operations Quality Improvement](https://www.linkedin.com/jobs/view/4473543617/) — AdventHealth
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $60,756.80 - $113,006.40
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Analyst / Associate Data Scientist](https://www.linkedin.com/jobs/view/4471934978/) — Integra FEC
-- 📍 **Location:** Austin, TX
+### [Business Data Analyst Senior](https://www.linkedin.com/jobs/view/4473550356/) — Seattle Public Schools
+- 📍 **Location:** St John, WA
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4473299861/) — TaskVerse
-- 📍 **Location:** United States
+### [Project Coordinator - Midstream/Downstream](https://www.linkedin.com/jobs/view/4473556678/) — Kiwa Nederland
+- 📍 **Location:** Texas, United States
 - 🕒 **Posted:** 2026-09-29
 
-### [Workiva Business Data Analyst](https://www.linkedin.com/jobs/view/4471943839/) — nTech Workforce
-- 📍 **Location:** United States
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4463179294/) — Advanced Technology Systems Company
+- 📍 **Location:** Gilbert, AZ
 - 🕒 **Posted:** 2026-09-29
 
-### [CQI Senior Data Analyst](https://www.linkedin.com/jobs/view/4473520466/) — Henry Ford Health
-- 📍 **Location:** Detroit, MI
+### [NRT Project Coordinator](https://www.linkedin.com/jobs/view/4471966766/) — NSF NRT: AI-BEST
+- 📍 **Location:** Rapid City, SD
 - 🕒 **Posted:** 2026-09-29
 
-### [Environmental Remediation Project Manager – Geologist or Engineer](https://www.linkedin.com/jobs/view/4471955156/) — Geosyntec Consultants
-- 📍 **Location:** Portland, OR
+### [Bombardier Program Coordinator - 1689](https://www.linkedin.com/jobs/view/4473571105/) — West Star Aviation Inc.
+- 📍 **Location:** East Alton, IL
+- 💰 **Salary:** $140,000-$155,000
 - 🕒 **Posted:** 2026-09-29
 
-### [Seismic Field Technician](https://www.linkedin.com/jobs/view/4473536144/) — Kegman Inc
-- 📍 **Location:** Albuquerque, NM
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4470515205/) — HealthFitness
+- 📍 **Location:** Durham, NC
 - 🕒 **Posted:** 2026-09-29
 
-### [Project Coordinator-Design Lead](https://www.linkedin.com/jobs/view/4473519947/) — Deep Roots Drainage
-- 📍 **Location:** Greater Bismarck Area
+### [Program Coordinator (Department of Physical Medicine and Rehabilitation)](https://www.linkedin.com/jobs/view/4473563527/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $21.80 - $37.80
 - 🕒 **Posted:** 2026-09-29
 
-### [Survey Technician](https://www.linkedin.com/jobs/view/4463502853/) — Colliers Engineering & Design
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-09-29
-
-### [Staff Data Analyst, People Analytics](https://www.linkedin.com/jobs/view/4471769455/) — Okta
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $149,000 USD - $205,000 USD
-- 🕒 **Posted:** 2026-09-29
-
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4471755935/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $70,000 to $100,000,
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4473527132/) — Gritter Francona
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-09-29
-
-### [Data Analyst III](https://www.linkedin.com/jobs/view/4471761867/) — Frost
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-09-29
-
-### [Associate Data Analyst](https://www.linkedin.com/jobs/view/4471936963/) — Emonics LLC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-29
-
-### [Educational Data Analyst](https://www.linkedin.com/jobs/view/4471756884/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $110,000 - $120,000
-- 🕒 **Posted:** 2026-09-29
-
-### [Sr. Data Analyst, Operations Performance and Planning](https://www.linkedin.com/jobs/view/4471933868/) — Delta Air Lines
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-29
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4471755955/) — Southern Hobby Distribution, LLC
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-29
-
-### [Human Resources Data Analyst](https://www.linkedin.com/jobs/view/4473507741/) — Netrolynx AI
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-29
-
-### [GIS Analyst](https://www.linkedin.com/jobs/view/4473516509/) — Dahl Consulting
-- 📍 **Location:** St Paul, MN
-- 🕒 **Posted:** 2026-09-29
-
-### [Commercial Furniture Project Coordinator](https://www.linkedin.com/jobs/view/4473534352/) — Henricksen
-- 📍 **Location:** Oak Brook, IL
-- 🕒 **Posted:** 2026-09-29
-
-### [Commercial Furniture Project Coordinator](https://www.linkedin.com/jobs/view/4473527630/) — Henricksen
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-09-29
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4471959146/) — WSP in the U.S.
-- 📍 **Location:** Columbia, MD
-- 💰 **Salary:** $79,040 - $87,360
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Project Coordinator](https://www.linkedin.com/jobs/view/4471946539/) — WSP in the U.S.
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-09-29
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4471764630/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-29
-
-### [Geotechnical Project Coordinator](https://www.linkedin.com/jobs/view/4473534438/) — UES
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-09-29
-
-### [Research Program Coordinator](https://www.linkedin.com/jobs/view/4473526316/) — The University of Texas at Austin
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $60,000 - $75,000
-- 🕒 **Posted:** 2026-09-29
-
-### [PROGRAM COORDINATOR SENIOR](https://www.linkedin.com/jobs/view/4471938845/) — Arizona State University
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $57,900.00/yr - $65,000.00/yr
-- 🕒 **Posted:** 2026-09-29
-
-### [Program Coordinator II - Psychiatry Residency](https://www.linkedin.com/jobs/view/4473526646/) — Texas A&M University
-- 📍 **Location:** Bryan, TX
-- 🕒 **Posted:** 2026-09-29
-
-### [Research Program Coordinator I-Bilingual Spanish-Neurosurgery](https://www.linkedin.com/jobs/view/4469030983/) — Mount Sinai Health System
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $58661 - $81675 Annually
-- 🕒 **Posted:** 2026-09-29
-
-### [Administrative Program Coordinator I - Paramedic Education](https://www.linkedin.com/jobs/view/4471595862/) — Cleveland Clinic
-- 📍 **Location:** Akron, OH
-- 🕒 **Posted:** 2026-09-29
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4468814025/) — Northeast Ohio Medical University (NEOMED)
-- 📍 **Location:** Rootstown, OH
-- 💰 **Salary:** $16.92 – $17.57
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Academic Program Coordinator, Texas McCombs](https://www.linkedin.com/jobs/view/4473524351/) — The University of Texas at Austin
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-29
-
-### [Program Coordinator, Collegiate](https://www.linkedin.com/jobs/view/4471949450/) — Edconic
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-29
-
-### [Program Coordinator - Newell Hill Adult Services](https://www.linkedin.com/jobs/view/4473543182/) — Devereux
-- 📍 **Location:** Sterling, MA
-- 🕒 **Posted:** 2026-09-29
-
-### [Pharmacy Residency Program Coordinator Full Time Days](https://www.linkedin.com/jobs/view/4473521663/) — Manatee Memorial Hospital
-- 📍 **Location:** Bradenton, FL
+### [Fitness Program Coordinator - Corporate Fitness & Recreation](https://www.linkedin.com/jobs/view/4470101228/) — HealthFitness
+- 📍 **Location:** Merrimack, NH
+- 💰 **Salary:** $19.00 - $22.50/hour
 - 🕒 **Posted:** 2026-09-29
