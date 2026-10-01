@@ -1,95 +1,52 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-10-01 00:05 UTC*
+*Last updated: 2026-10-01 06:10 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**11 new role(s)** since last run · 12 total in last 1h
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4472640743/) — Zelis
-- 📍 **Location:** Cottonwood Heights, UT
-- 💰 **Salary:** $71,000.00 - $90,250.00
-- 🕒 **Posted:** 2026-10-01
-
-### [Research/Data Analyst](https://www.linkedin.com/jobs/view/4473982701/) — State of Missouri
-- 📍 **Location:** Jefferson City, MO
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Analyst, ICQA](https://www.linkedin.com/jobs/view/4473976863/) — Amazon
-- 📍 **Location:** Bessemer, AL
-- 🕒 **Posted:** 2026-10-01
-
-### [Science Data Analyst](https://www.linkedin.com/jobs/view/4472364527/) — Lasso Informatics
-- 📍 **Location:** United States
-- 💰 **Salary:** $64,000 - $78,000 USD
-- 🕒 **Posted:** 2026-09-30
-
-### [Data Analyst, Supply Chain Performance & Insights](https://www.linkedin.com/jobs/view/4473966674/) — Resmed
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $73,000 - $109,000
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Data Analyst – Customer Data Platforms (CDP)](https://www.linkedin.com/jobs/view/4473978230/) — Delta Computer Consulting
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $54.00/hr - $61.00/hr
-- 🕒 **Posted:** 2026-09-30
-
-### [GIS Technician - North Carolina](https://www.linkedin.com/jobs/view/4472649406/) — ORC
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $42,443.00/yr - $67,669.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [GIS Technician - South Carolina](https://www.linkedin.com/jobs/view/4472647467/) — ORC
-- 📍 **Location:** Columbia, SC
-- 💰 **Salary:** $42,443.00/yr - $67,669.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Survey Technician II](https://www.linkedin.com/jobs/view/4472364810/) — Mark Thomas
+### [Risk Data Analyst](https://www.linkedin.com/jobs/view/4474123363/) — BILL
 - 📍 **Location:** California, United States
-- 💰 **Salary:** $30.00/hr - $43.00/hr
-- 🕒 **Posted:** 2026-09-30
+- 💰 **Salary:** $112,400—$135,000 USD
+- 🕒 **Posted:** 2026-10-01
 
-### [Research Program Coordinator, Research Clinical-Trials, Full Time, Day](https://www.linkedin.com/jobs/view/4472639792/) — Valley Health System
-- 📍 **Location:** Paramus, NJ
-- 💰 **Salary:** $30.82 - $38.53
-- 🕒 **Posted:** 2026-09-30
+### [International Program Coordinator](https://www.linkedin.com/jobs/view/4472389972/) — Summit at Snoqualmie
+- 📍 **Location:** Snoqualmie Pass, WA
+- 💰 **Salary:** $25 - $28/DOE
+- 🕒 **Posted:** 2026-10-01
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4472375141/) — ICF
-- 📍 **Location:** Reston, VA
-- 💰 **Salary:** $74,090.00 - $125,954.00
-- 🕒 **Posted:** 2026-09-30
+### [Mine Geologist](https://www.linkedin.com/jobs/view/4472697111/) — P&C Recruiting | H.R.
+- 📍 **Location:** Nevada, United States
+- 🕒 **Posted:** 2026-10-01
 
-### [Data Analyst  - REMOTE](https://www.linkedin.com/jobs/view/4472353972/) — ICF
-- 📍 **Location:** Reston, VA
-- 💰 **Salary:** $61,232.00 - $104,094.00
-- 🕒 **Posted:** 2026-09-30
+### [Fourmile - Geologist I, II or III](https://www.linkedin.com/jobs/view/4472508447/) — Barrick Mining Corporation
+- 📍 **Location:** Elko, NV
+- 🕒 **Posted:** 2026-10-01
 
-### [Associate Data Analyst](https://www.linkedin.com/jobs/view/4472645441/) — Haystack
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-30
+### [Senior Exploration Geologist](https://www.linkedin.com/jobs/view/4472697115/) — P&C Recruiting | H.R.
+- 📍 **Location:** Nevada, United States
+- 🕒 **Posted:** 2026-10-01
 
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4473964840/) — Red Thread Advising
+### [Data Analyst, Sr.](https://www.linkedin.com/jobs/view/4474122396/) — Torentify
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
 
-### [Senior Signature / Data Analyst](https://www.linkedin.com/jobs/view/4472372108/) — Telesis
-- 📍 **Location:** Huntsville, AL
-- 🕒 **Posted:** 2026-09-30
+### [Entry-Level Client Project Coordinator 1](https://www.linkedin.com/jobs/view/4474103465/) — Pace® Analytical Services
+- 📍 **Location:** East Longmeadow, MA
+- 🕒 **Posted:** 2026-10-01
 
-### [Project Coordinator - Field Services](https://www.linkedin.com/jobs/view/4472652224/) — Sunbelt Solomon
-- 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-09-30
+### [1000000028.PROGRAM COORDINATOR I.PH WORKFORCE AND DATA SYSTEMS STRATEGY A1](https://www.linkedin.com/jobs/view/4474104684/) — Dallas County
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-01
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4473986020/) — Interior Logic Group, Inc.
-- 📍 **Location:** Pewaukee, WI
-- 🕒 **Posted:** 2026-09-30
+### [Project Coordinator - Interior Design - Aviation Market](https://www.linkedin.com/jobs/view/4447190511/) — Gresham Smith
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-10-01
 
-### [Project Coordinator (Internal)](https://www.linkedin.com/jobs/view/4472362773/) — State of South Carolina
-- 📍 **Location:** Lexington County, SC
-- 🕒 **Posted:** 2026-09-30
+### [COMMUNITY HEALTH WORKER PROGRAM COORDINATOR (COORDINATOR SPECIAL PROGRAMS HEALTH SERVICES IV SUPERVISOR) - #26-002726-0006](https://www.linkedin.com/jobs/view/4472506555/) — Maryland Department of Health
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $67,309.00 - $87,079.00/year
+- 🕒 **Posted:** 2026-10-01
 
-### [Program Coordinator - Department of Finance](https://www.linkedin.com/jobs/view/4473984082/) — City of Baltimore
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $73,897.00 - $118,515.00 Annually
-- 🕒 **Posted:** 2026-09-30
-
-### [Extension Program Coordinator (4-H) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4473975494/) — University of Illinois Urbana-Champaign
-- 📍 **Location:** Bloomington, IL
-- 🕒 **Posted:** 2026-09-30
+### [Program Coordinator - Non-IT 3 [AQ-19942]](https://www.linkedin.com/jobs/view/4473247102/) — Aquent
+- 📍 **Location:** Beaverton, OR
+- 💰 **Salary:** $36.00/hr - $40.00/hr
+- 🕒 **Posted:** 2026-10-01
