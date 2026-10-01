@@ -1,31 +1,33 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-10-01 06:35 UTC*
+*Last updated: 2026-10-01 20:48 UTC*
 
-**6 new role(s)** since last run · 15 total in last 24h
+**6 new role(s)** since last run · 13 total in last 24h
 
-### [Environmental Analyst](https://www.indeed.com/viewjob?jk=9af74fe6350d4c23) — Colliers
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $38–$44/hr
-- 🕒 **Posted:** 2026-09-30
-
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=a2e9f0ca376db1e1) — DEPARTMENT OF FISH AND WILDLIFE
+### [RESEARCH DATA SPECIALIST I](https://www.indeed.com/viewjob?jk=af8eff90f49b8d32) — Department of State Hospitals
 - 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+- 💰 **Salary:** $6955–$8706/mo
 - 🕒 **Posted:** 2026-10-01
 
-### [Research Data Analyst II](https://www.indeed.com/viewjob?jk=02516b7e7e03af89) — University of California - San Francisco
-- 📍 **Location:** San Francisco, CA, US
+### [Cant Queer Center Program Coordinator](https://www.indeed.com/viewjob?jk=6061c2abfc73f6d6) — University of California - Santa Cruz
+- 📍 **Location:** Santa Cruz, CA, US
+- 💰 **Salary:** $30–$32/hr
 - 🕒 **Posted:** 2026-09-30
 
-### [As-Needed Archeological Field Technicians (Pacific Northwest)](https://www.indeed.com/viewjob?jk=49f75041457cc57f) — Rincon Consultants
+### [Entry Level Geologist](https://www.indeed.com/viewjob?jk=92da2b2174e05a1d) — Arcadis
 - 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $24–$37/hr
-- 🕒 **Posted:** 2026-09-30
+- 💰 **Salary:** $80k–$89k/yr
+- 🕒 **Posted:** 2026-09-25
 
-### [Health Related Social Need Program Coordinator](https://www.indeed.com/viewjob?jk=446b4cf6768262f3) — The Immigrant and Refugee Community Organization
-- 📍 **Location:** Portland, OR, US
-- 🕒 **Posted:** 2026-09-30
+### [Staff Environmental Geologist/Scientist/Engineer](https://www.indeed.com/viewjob?jk=d49961947e934274) — Stantec
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $64k–$93k/yr
+- 🕒 **Posted:** 2026-10-01
 
-### [Geologist](https://www.indeed.com/viewjob?jk=9857ad70ec18e18a) — The Vertex Companies LLC
-- 📍 **Location:** Remote, US
-- 🕒 **Posted:** 2026-09-30
+### [Project Coordinator](https://www.indeed.com/viewjob?jk=8cd7633950c8c6bc) — WSP
+- 📍 **Location:** Lakewood, CO, US
+- 🕒 **Posted:** 2026-10-01
+
+### [Associate Data Analyst - Transportation](https://www.indeed.com/viewjob?jk=a9823c9849d7d10b) — Pueblo Community College
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $60k–$75k/yr
+- 🕒 **Posted:** 2026-09-29
