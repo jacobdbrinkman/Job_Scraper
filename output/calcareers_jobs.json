@@ -1,26 +1,8 @@
 {
-  "scraped_at": "2026-10-01 20:59 UTC",
-  "total": 18,
+  "scraped_at": "2026-10-02 20:40 UTC",
+  "total": 16,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532666",
-      "date_posted": "2026-09-18",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "Tehama County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532825",
-      "date_posted": "2026-09-21",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
     {
       "company": "Department of Fish and Wildlife",
       "title": "Environmental Scientist, Aquatic Invasive Species Biologist",
@@ -67,6 +49,15 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Fish and Wildlife",
+      "title": "Environmental Scientist",
+      "location": "Sonoma County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=533917",
+      "date_posted": "2026-09-30",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Food & Agriculture",
       "title": "ENVIRONMENTAL SCIENTIST",
       "location": "San Bernardino County",
@@ -76,30 +67,12 @@
       "ats": "CalCareers"
     },
     {
-      "company": "Department of Cannabis Control",
+      "company": "Department of Toxic Substances Control",
       "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531630",
-      "date_posted": "2026-09-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of State Hospitals",
-      "title": "IT Project Coordinator - Hybrid Telework",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532860",
-      "date_posted": "2026-09-21",
-      "salary": "$4935.00 - $8740.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Engineering Geologist",
-      "location": "San Luis Obispo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532328",
-      "date_posted": "2026-09-16",
-      "salary": "$6488.00 - $12215.00",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531735",
+      "date_posted": "2026-09-24",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
@@ -112,20 +85,29 @@
       "ats": "CalCareers"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532666",
+      "date_posted": "2026-09-18",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Engineering Geologist",
+      "location": "San Luis Obispo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532328",
+      "date_posted": "2026-09-16",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "Department of Water Resources",
       "title": "Engineering Geologist",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527201",
       "date_posted": "2026-09-09",
-      "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Conservation",
-      "title": "Forest and Watershed Geology Program Engineering Geologist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531728",
-      "date_posted": "2026-09-11",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
