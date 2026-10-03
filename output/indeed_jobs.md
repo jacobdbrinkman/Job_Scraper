@@ -1,33 +1,29 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-10-03 05:46 UTC*
+*Last updated: 2026-10-03 19:04 UTC*
 
-**6 new role(s)** since last run · 12 total in last 24h
+**5 new role(s)** since last run · 14 total in last 24h
 
-### [Ambient Field Technician](https://www.indeed.com/viewjob?jk=cee2efed92d304f2) — Onterris
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $26–$30/hr
+### [Data Analyst Sr, Finance - Encounter Data (Covered California)](https://www.indeed.com/viewjob?jk=32b84b39841acd5b) — Caloptima
+- 📍 **Location:** Orange, CA, US
+- 💰 **Salary:** $84k–$135k/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Engineering Geologist](https://www.indeed.com/viewjob?jk=c34e7762e784ed6b) — Tetra Tech
-- 📍 **Location:** Diamond Bar, CA, US
-- 💰 **Salary:** $72.12–$86.54/hr
+### [Senior Hydrogeologist](https://www.indeed.com/viewjob?jk=add14ebf261313c6) — SCS Engineers
+- 📍 **Location:** Bellevue, WA, US
+- 💰 **Salary:** $80k–$90k/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Staff or Senior Staff Geotechnical Engineer or Geologist](https://www.indeed.com/viewjob?jk=f3d0018798ea0db6) — SOCOTEC Group
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $78k–$90k/yr
+### [Expanded Learning - Summer School Program Coordinator - 1.0FTE](https://www.indeed.com/viewjob?jk=ac72c17d72ef5eb7) — Seattle Public Schools
+- 📍 **Location:** Seattle, WA, US
+- 💰 **Salary:** $132k–$170k/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Field Technician- Trenchless Pipe Rehabilitation- Sewer & Storm](https://www.indeed.com/viewjob?jk=7c0f554489c41f9a) — PURIS
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $24–$32/hr
+### [Project Coordinator](https://www.indeed.com/viewjob?jk=d0d30c5a540528cd) — Oregon Health & Science University
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $38.08–$52.28/hr
 - 🕒 **Posted:** 2026-10-02
 
-### [Field Technician- Trenchless Pipe Rehabilitation- Sewer & Storm](https://www.indeed.com/viewjob?jk=9b8da51fd696a7bf) — PURIS
-- 📍 **Location:** Kiowa, CO, US
-- 💰 **Salary:** $24–$32/hr
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Analyst IV](https://www.indeed.com/viewjob?jk=4ec18be7a08f118d) — Chickasaw Nation Industries
+### [REQUEST FOR PROPOSALS Maine Municipal Planning & GIS Consultants Raymond, Maine](https://www.indeed.com/viewjob?jk=55dd6a8be919bac3) — Unknown
 - 📍 **Location:** Remote, US
-- 🕒 **Posted:** 2026-10-02
+- 💰 **Salary:** $30–$100/hr
+- 🕒 **Posted:** 2026-10-03
