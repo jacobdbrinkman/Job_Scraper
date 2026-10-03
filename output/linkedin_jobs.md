@@ -1,76 +1,78 @@
 # 🔥 LinkedIn — Geospatial & Environmental Data Roles
-*Last updated: 2026-10-03 05:38 UTC*
+*Last updated: 2026-10-03 19:02 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [ES Field Technician II](https://www.linkedin.com/jobs/view/4473850048/) — Republic Services
-- 📍 **Location:** Dixon, CA
-- 💰 **Salary:** $23.40 to $32.17
+### [Senior Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4446903319/) — Exponent
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** USD $115,000.00 - USD $135,000.00 /Yr
 - 🕒 **Posted:** 2026-10-03
 
-### [Staff or Senior Staff Geotechnical Engineer or Geologist](https://www.linkedin.com/jobs/view/4475083822/) — SOCOTEC US
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $78,000-95,000/year
+### [Geologist (MS/PhD)](https://www.linkedin.com/jobs/view/4446903318/) — Exponent
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** USD $110,000.00 - USD $125,000.00 /Yr
 - 🕒 **Posted:** 2026-10-03
 
-### [Program Coordinator - LVN or RN license required](https://www.linkedin.com/jobs/view/4475095247/) — Unitek Learning
-- 📍 **Location:** Concord, CA
+### [Senior Data Analyst – Customer Data Platforms (CDP)](https://www.linkedin.com/jobs/view/4474537243/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $54.00/hr - $61.00/hr
 - 🕒 **Posted:** 2026-10-03
 
-### [Project Coordinator/Project Engineer](https://www.linkedin.com/jobs/view/4473836453/) — Pacific Hydrotech Corporation
-- 📍 **Location:** Perris, CA
-- 💰 **Salary:** $60,000–$110,000 annually
-- 🕒 **Posted:** 2026-10-03
-
-### [Philanthropy Program Coordinator - Gifts & Grants](https://www.linkedin.com/jobs/view/4475090510/) — Fred Hutch
+### [Project Coordinator - Leadership Annual Giving](https://www.linkedin.com/jobs/view/4466407674/) — Fred Hutch
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $31.26 to $44.51
+- 💰 **Salary:** $10,000 to $4
 - 🕒 **Posted:** 2026-10-03
 
-### [Business Data Analyst II](https://www.linkedin.com/jobs/view/4473725727/) — DHL Supply Chain
-- 📍 **Location:** Rincon, GA
-- 💰 **Salary:** $55,000 - $90,000
+### [Utility GIS Analyst](https://www.linkedin.com/jobs/view/4475342276/) — KaiHonua
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** USD $50,000.00 - USD $70,000.00 /Yr
 - 🕒 **Posted:** 2026-10-03
 
-### [AI Solutions Engineer](https://www.linkedin.com/jobs/view/4473412482/) — Molex
-- 📍 **Location:** Lisle, IL
-- 💰 **Salary:** $90,000 - $110,000 per year
+### [GIS Analyst](https://www.linkedin.com/jobs/view/4473037595/) — WENDEL Companies
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $32.21 - $59.13
 - 🕒 **Posted:** 2026-10-03
 
-### [Project Coordinator (Utilities)](https://www.linkedin.com/jobs/view/4473404932/) — Concentrix
+### [Experienced Geologist/Hydrogeologist (PG) (Environmental Consulting: Remediation/ Solid Waste – Madison, WI (or Greater WI area)](https://www.linkedin.com/jobs/view/4416960417/) — Tetra Tech
+- 📍 **Location:** Madison, WI
+- 🕒 **Posted:** 2026-10-03
+
+### [Intermediate Environmental Scientist](https://www.linkedin.com/jobs/view/4465168041/) — WSP in the U.S.
+- 📍 **Location:** Gainesville, FL
+- 🕒 **Posted:** 2026-10-03
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4438684996/) — MongoDB
 - 📍 **Location:** United States
-- 💰 **Salary:** $67,000– $80,000,
+- 💰 **Salary:** $83,000—$162,000 USD
 - 🕒 **Posted:** 2026-10-03
 
-### [Data Analyst - Student Success - SAC - req14168](https://www.linkedin.com/jobs/view/4473417323/) — Alamo Colleges District
-- 📍 **Location:** San Antonio, TX
+### [Data Analyst](https://www.linkedin.com/jobs/view/4475350067/) — TaskVerse
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-03
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4473403923/) — Sevita
-- 📍 **Location:** Temple, TX
+### [Data Analyst](https://www.linkedin.com/jobs/view/4475346221/) — Netrolynx AI
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-03
 
-### [Program Coordinator, CSTEP](https://www.linkedin.com/jobs/view/4473833804/) — NYU Langone Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $61,288.35 - $67,567.50 Annually
+### [Enterprise Systems and Data Analyst](https://www.linkedin.com/jobs/view/4472630480/) — KamisPro
+- 📍 **Location:** Baltimore County, MD
 - 🕒 **Posted:** 2026-10-03
 
-### [Research Program Coordinator-Community Integrated Research](https://www.linkedin.com/jobs/view/4475302026/) — Mayo Clinic
-- 📍 **Location:** Scottsdale, AZ
-- 💰 **Salary:** $69,451.20 - $104,270.40
+### [Manager, Data Analyst - Human Resources](https://www.linkedin.com/jobs/view/4439072617/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $164,800 - $188,100
 - 🕒 **Posted:** 2026-10-03
 
-### [Senior Program Coordinator – Research – Anesthesiology & Gynecology](https://www.linkedin.com/jobs/view/4475089634/) — Mayo Clinic
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $78,270.40 - $117,312.00
+### [eDiscovery Project Coordinator](https://www.linkedin.com/jobs/view/4457504373/) — Amentum
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $95,000.00 - $109,000.00
 - 🕒 **Posted:** 2026-10-03
 
-### [DOVE Van Driver/ Program Coordinator](https://www.linkedin.com/jobs/view/4475085702/) — Seton Hall University
-- 📍 **Location:** South Orange, NJ
-- 💰 **Salary:** $16.00 - $22.00 per hour
+### [Project Coordinator, Venues - Nemacolin Resort](https://www.linkedin.com/jobs/view/4428769120/) — Encore
+- 📍 **Location:** Farmington, PA
+- 💰 **Salary:** $22.90/hr - $29.77/hr
 - 🕒 **Posted:** 2026-10-03
 
-### [Proofreader/ Creative Project Coordinator/ QA [AQ-20116]](https://www.linkedin.com/jobs/view/4473747845/) — Aquent
-- 📍 **Location:** Royal Oak, MI
-- 💰 **Salary:** $40.00/hr - $55.00/hr
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4475350033/) — Elite Permits
+- 📍 **Location:** Naples, FL
 - 🕒 **Posted:** 2026-10-03
