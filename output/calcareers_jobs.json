@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03 19:11 UTC",
+  "scraped_at": "2026-10-04 19:33 UTC",
   "total": 16,
   "new_count": 0,
   "jobs": [
@@ -103,20 +103,20 @@
       "ats": "CalCareers"
     },
     {
-      "company": "State Water Resources Control Board",
-      "title": "Engineering Geologist",
-      "location": "Riverside County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532069",
-      "date_posted": "2026-09-14",
-      "salary": "$6488.00 - $12215.00",
-      "ats": "CalCareers"
-    },
-    {
       "company": "Department of Water Resources",
       "title": "Engineering Geologist",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527201",
       "date_posted": "2026-09-09",
+      "salary": "$6488.00 - $12215.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Engineering Geologist",
+      "location": "Riverside County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532069",
+      "date_posted": "2026-09-14",
       "salary": "$6488.00 - $12215.00",
       "ats": "CalCareers"
     },
