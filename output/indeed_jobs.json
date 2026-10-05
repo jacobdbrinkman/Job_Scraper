@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-05 01:18 UTC",
+  "scraped_at": "2026-10-05 07:42 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Blaine Tech Services, Inc.",
@@ -38,40 +38,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Blaine Tech Services, Inc.",
-      "title": "Environmental Field Technician",
-      "location": "Sacramento, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=889443ddd3b2a34c",
-      "direct_url": "http://www.indeed.com/job/environmental-field-technician-889443ddd3b2a34c",
-      "company_url": "https://www.indeed.com/cmp/Blaine-Tech-Services,-Inc.-1",
-      "date_posted": "2026-10-04",
-      "description": "**The Position**\n\nField Technicians form the backbone of Blaine Tech. Their daily efforts and accomplishments on client sites are the single greatest factor in our continued success.\n\nSuccessful Technicians are able to drive and operate our sampling vehicles safely (no special license required); operate on-board generators, compressors and electric and pneumatic pumps; care for and handle test equipment and operate instruments correctly; execute prescribed protocols properly and consistently and; adhere to and enforce health & safety mandates and requirements.\n\nTechnicians work outdoors; communicate regularly from the field; write legibly; collect, document and report scientific data truthfully, accurately and impartially; read and absorb technical information; work independently and; work as a productive member of a team.\n\nWe provide all of the required training. You provide the energy, interest and willingness to learn.\n\n**Qualifications**\n\n* High school diploma or equivalent\n* Associates or Bachelor's Degree preferred\n* Outdoor work experience or college degree a plus!\n* Valid driver’s license and acceptable DMV record required.\n\nJob Type: Full-time\n\nPay: From $24.00 per hour\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Health insurance\n* Paid time off\n* Vision insurance\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Blaine Tech Services, Inc.",
-      "title": "Environmental Field Technician",
-      "location": "San Jose, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=ccea14110ec0dea3",
-      "direct_url": "http://www.indeed.com/job/environmental-field-technician-ccea14110ec0dea3",
-      "company_url": "https://www.indeed.com/cmp/Blaine-Tech-Services,-Inc.-1",
-      "date_posted": "2026-10-04",
-      "description": "**The Position**\n\nField Technicians form the backbone of Blaine Tech. Their daily efforts and accomplishments on client sites are the single greatest factor in our continued success.\n\nSuccessful Technicians are able to drive and operate our sampling vehicles safely (no special license required); operate on-board generators, compressors and electric and pneumatic pumps; care for and handle test equipment and operate instruments correctly; execute prescribed protocols properly and consistently and; adhere to and enforce health & safety mandates and requirements.\n\nTechnicians work outdoors; communicate regularly from the field; write legibly; collect, document and report scientific data truthfully, accurately and impartially; read and absorb technical information; work independently and; work as a productive member of a team.\n\nWe provide all of the required training. You provide the energy, interest and willingness to learn.\n\n**Qualifications**\n\n* High school diploma or equivalent. College degree a plus!\n* Outdoor work experience preferred.\n* Valid driver’s license and acceptable DMV record required.\n\nJob Type: Full-time\n\nPay: From $28.00 per hour\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Health insurance\n* Paid time off\n* Vision insurance\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
