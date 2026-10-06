@@ -1,64 +1,64 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-10-05 22:29 UTC*
+*Last updated: 2026-10-06 09:26 UTC*
 
-**12 new role(s)** since last run · 12 total in last 24h
+**12 new role(s)** since last run · 21 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=5baec30f2fc3105c) — DEPARTMENT OF WATER RESOURCES
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-10-05
-
-### [Environmental Field Technician](https://www.indeed.com/viewjob?jk=bbf1d46a262859d6) — EFI Global
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $26–$30/hr
-- 🕒 **Posted:** 2026-10-05
-
-### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=6096a2607b2ef2a9) — STATE WATER RESOURCES CONTROL BOARD
+### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=6b760526373c1fe6) — Department of Conservation
 - 📍 **Location:** CA, US
 - 💰 **Salary:** $6488–$12k/mo
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=05d30fb0f80b9807) — AECOM
-- 📍 **Location:** Orange, CA, US
-- 💰 **Salary:** $65k–$95k/yr
-- 🕒 **Posted:** 2026-10-05
+### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=9bae8b455a7e74cb) — Department of Conservation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $6488–$12k/mo
+- 🕒 **Posted:** 2026-10-06
 
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=89b64de2dd1e8543) — AECOM
+### [RESEARCH DATA SPECIALIST III](https://www.indeed.com/viewjob?jk=73d402b33272591e) — Department of Corrections
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $8392–$11k/mo
+- 🕒 **Posted:** 2026-10-06
+
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=25c8b9e432453988) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-10-06
+
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=3510b22467e22d1a) — DEPARTMENT OF FISH AND WILDLIFE
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- 🕒 **Posted:** 2026-10-06
+
+### [Research Data Analyst 2](https://www.indeed.com/viewjob?jk=f03887eaa79e3f77) — University of California Los Angeles
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $65k–$95k/yr
+- 💰 **Salary:** $35.66–$73.02/hr
 - 🕒 **Posted:** 2026-10-05
 
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=b62e2dd2a4cb6e27) — AECOM
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $65k–$95k/yr
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=0e2d2139fafae4c0) — AGEISS Inc.
+- 📍 **Location:** Concord, CA, US
+- 💰 **Salary:** $85k–$100k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [FEMA Coordinator - Construction Project Coordinator 4 - Permanent - 2026-08242](https://www.indeed.com/viewjob?jk=19c3b1d239c6bd5f) — Washington State Health Care Authority
+### [Entry and Mid Level - Environmental Scientist, Geologist, Engineer](https://www.indeed.com/viewjob?jk=d37a5b7b4d5e611c) — Advantage Environmental Consultants, LLC
+- 📍 **Location:** San Marcos, CA, US
+- 💰 **Salary:** $45k–$65k/yr
+- 🕒 **Posted:** 2026-10-05
+
+### [RESEARCH DATA SPECIALIST I](https://www.indeed.com/viewjob?jk=2f8644750e803d80) — Department of Conservation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $6955–$8970/mo
+- 🕒 **Posted:** 2026-10-06
+
+### [FEMA Coordinator - Construction Project Coordinator 4 - Permanent - 2026-08242](https://www.indeed.com/viewjob?jk=b13103892f6f0c33) — State of Washington
 - 📍 **Location:** Olympia, WA, US
 - 💰 **Salary:** $7399–$9955/mo
 - 🕒 **Posted:** 2026-10-05
 
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=e242f4dc374236aa) — AECOM
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $65k–$95k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Analyst](https://www.indeed.com/viewjob?jk=4cab8f2b776496db) — Sealaska Corporation
+### [Environmental Project Coordinator](https://www.indeed.com/viewjob?jk=81da753330419457) — Quandary Consultants, LLC
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $32–$33/hr
+- 💰 **Salary:** $70k–$90k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Lead Operations Geologist](https://www.indeed.com/viewjob?jk=03e2570c2a0930ea) — Anschutz Exploration
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $185k–$200k/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [GIS Specialist](https://www.indeed.com/viewjob?jk=ef2333925db567ba) — AECOM
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $65k–$95k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [GIS Technician](https://www.indeed.com/viewjob?jk=f99dcaeec71cdd47) — Kansara systems
+### [Project Coordinator](https://www.indeed.com/viewjob?jk=905b3ad6d3007efa) — Celerity Consulting Group
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $27.29–$32.86/hr
+- 💰 **Salary:** $70k–$85k/yr
 - 🕒 **Posted:** 2026-10-05
