@@ -1,64 +1,48 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-10-06 09:26 UTC*
+*Last updated: 2026-10-06 20:46 UTC*
 
-**12 new role(s)** since last run · 21 total in last 24h
+**9 new role(s)** since last run · 24 total in last 24h
 
-### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=6b760526373c1fe6) — Department of Conservation
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $6488–$12k/mo
+### [(Senior) Environmental Scientist / (Senior) Industrial Hygienist](https://www.indeed.com/viewjob?jk=f24b7f7836f012f1) — J.S. Held
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $110k–$165k/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [ENGINEERING GEOLOGIST](https://www.indeed.com/viewjob?jk=9bae8b455a7e74cb) — Department of Conservation
+### [RESEARCH DATA SPECIALIST II](https://www.indeed.com/viewjob?jk=b2179217de533f48) — Department of Conservation
 - 📍 **Location:** CA, US
-- 💰 **Salary:** $6488–$12k/mo
+- 💰 **Salary:** $7640–$9847/mo
 - 🕒 **Posted:** 2026-10-06
 
-### [RESEARCH DATA SPECIALIST III](https://www.indeed.com/viewjob?jk=73d402b33272591e) — Department of Corrections
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $8392–$11k/mo
+### [Field Technician](https://www.indeed.com/viewjob?jk=1e2a2bf95f469a2c) — Sandis
+- 📍 **Location:** Campbell, CA, US
+- 💰 **Salary:** $28–$42/hr
 - 🕒 **Posted:** 2026-10-06
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=25c8b9e432453988) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
+### [(Senior) Environmental Scientist / (Senior) Industrial Hygienist](https://www.indeed.com/viewjob?jk=dac204d21a97f7a4) — J.S. Held
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $110k–$165k/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=3510b22467e22d1a) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- 🕒 **Posted:** 2026-10-06
-
-### [Research Data Analyst 2](https://www.indeed.com/viewjob?jk=f03887eaa79e3f77) — University of California Los Angeles
+### [Industrial Hygiene Field Technician, Asbestos and Lead](https://www.indeed.com/viewjob?jk=bdda92588ae2a9eb) — Arcadis
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $35.66–$73.02/hr
+- 💰 **Salary:** $82k–$123k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=0e2d2139fafae4c0) — AGEISS Inc.
-- 📍 **Location:** Concord, CA, US
-- 💰 **Salary:** $85k–$100k/yr
-- 🕒 **Posted:** 2026-10-05
+### [Environmental Scientist/Geologist](https://www.indeed.com/viewjob?jk=6a9f5ecbab5401b0) — Arcadis
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $57k–$91k/yr
+- 🕒 **Posted:** 2026-10-02
 
-### [Entry and Mid Level - Environmental Scientist, Geologist, Engineer](https://www.indeed.com/viewjob?jk=d37a5b7b4d5e611c) — Advantage Environmental Consultants, LLC
-- 📍 **Location:** San Marcos, CA, US
-- 💰 **Salary:** $45k–$65k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [RESEARCH DATA SPECIALIST I](https://www.indeed.com/viewjob?jk=2f8644750e803d80) — Department of Conservation
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $6955–$8970/mo
+### [Enterprise Technology Solutions Engineer (AI & Automation)](https://www.indeed.com/viewjob?jk=079dc9769079ac36) — Unknown
+- 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-10-06
 
-### [FEMA Coordinator - Construction Project Coordinator 4 - Permanent - 2026-08242](https://www.indeed.com/viewjob?jk=b13103892f6f0c33) — State of Washington
-- 📍 **Location:** Olympia, WA, US
-- 💰 **Salary:** $7399–$9955/mo
-- 🕒 **Posted:** 2026-10-05
+### [Health Sciences Research Data Analyst](https://www.indeed.com/viewjob?jk=878d89685a69637d) — US Department of Veterans Affairs
+- 📍 **Location:** Seattle, WA, US
+- 💰 **Salary:** $80k–$83k/yr
+- 🕒 **Posted:** 2026-10-06
 
-### [Environmental Project Coordinator](https://www.indeed.com/viewjob?jk=81da753330419457) — Quandary Consultants, LLC
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $70k–$90k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Project Coordinator](https://www.indeed.com/viewjob?jk=905b3ad6d3007efa) — Celerity Consulting Group
+### [Metric & Data Analyst Sr - E3](https://www.indeed.com/viewjob?jk=c05c8acc64d2b2a3) — Lockheed Martin
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $70k–$85k/yr
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $77k–$198k/yr
+- 🕒 **Posted:** 2026-10-01
