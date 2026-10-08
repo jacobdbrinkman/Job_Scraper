@@ -1,49 +1,53 @@
 # 🟦 Indeed — Geospatial & Environmental Data Roles
-*Last updated: 2026-10-08 08:01 UTC*
+*Last updated: 2026-10-08 21:13 UTC*
 
-**9 new role(s)** since last run · 15 total in last 24h
+**10 new role(s)** since last run · 15 total in last 24h
 
-### [Project Coordinator (Non-Tech)](https://www.indeed.com/viewjob?jk=bd80ee6307205bac) — Core & Main
-- 📍 **Location:** Sacramento, CA, USA
-- 💰 **Salary:** $22.11–$31.60/hr
-- 🕒 **Posted:** 2026-10-07
-
-### [RESEARCH DATA SPECIALIST I](https://www.indeed.com/viewjob?jk=eef535993edcd125) — Department of Health Care Services
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $6955–$8706/mo
-- 🕒 **Posted:** 2026-10-08
-
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=f03b2c54abffea2a) — Department Of Forestry & Fire Protection
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=f2c5fd2231931b49) — STATE WATER RESOURCES CONTROL BOARD
 - 📍 **Location:** CA, USA
 - 💰 **Salary:** $4418–$9321/mo
 - 🕒 **Posted:** 2026-10-08
 
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=2817a5c7a2705b09) — DEPARTMENT OF FISH AND WILDLIFE
-- 📍 **Location:** CA, USA
-- 💰 **Salary:** $7820–$11k/mo
+### [Geologist/Environmental Scientist](https://www.indeed.com/viewjob?jk=c17e16213ed97e77) — Arcadis
+- 📍 **Location:** Sacramento, CA, USA
+- 💰 **Salary:** $55k–$83k/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Associate Geologist](https://www.indeed.com/viewjob?jk=3823f4ccf73a821a) — Provost & Pritchard
-- 📍 **Location:** Sonora, CA, USA
-- 💰 **Salary:** $37–$57/hr
+### [Operations Data Analyst, Expert](https://www.indeed.com/viewjob?jk=efaba6898c85fb83) — Pacific Gas and Electric
+- 📍 **Location:** Oakland, CA, USA
 - 🕒 **Posted:** 2026-10-08
 
-### [Certified Engineering Geologist](https://www.indeed.com/viewjob?jk=24d3b0c2337d5376) — Provost & Pritchard
-- 📍 **Location:** Sonora, CA, USA
-- 💰 **Salary:** $120k–$140k/yr
+### [Staff Geologist / Scientist I](https://www.indeed.com/viewjob?jk=e45255fc9839d11e) — Roux Associates, Inc.
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $72k–$80k/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Mid-Level Geologist](https://www.indeed.com/viewjob?jk=53f379593aaa7661) — Noreas, INC (ESD)
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=bfa348d0b36d02e0) — aptim
 - 📍 **Location:** San Diego, CA, USA
-- 💰 **Salary:** $81k–$120k/yr
-- 🕒 **Posted:** 2026-10-07
+- 💰 **Salary:** $33–$40/hr
+- 🕒 **Posted:** 2026-10-08
 
-### [Field Technician](https://www.indeed.com/viewjob?jk=52deea0b88728309) — RHS Consulting
-- 📍 **Location:** Fresno, CA, USA
-- 💰 **Salary:** $26.16–$30/hr
-- 🕒 **Posted:** 2026-10-07
+### [Geologist II](https://www.indeed.com/viewjob?jk=71a968ab9f5a2673) — AECOM
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $76k–$100k/yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Senior Healthcare Data Analyst, Health Plan Strategy](https://www.indeed.com/viewjob?jk=db2fc7b5bbe7e119) — The Wonderful Company LLC
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $110k–$125k/yr
-- 🕒 **Posted:** 2026-10-07
+### [Early Career Geologist](https://www.indeed.com/viewjob?jk=c4b4ca0aacdb1390) — WSP
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $63k–$79k/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [GIS Analyst II](https://www.indeed.com/viewjob?jk=2780bd95e4e5dc20) — Bering-Alaka`ina Holdings, LLC
+- 📍 **Location:** Silverdale, WA, USA
+- 💰 **Salary:** $65k–$85k/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Field Technician](https://www.indeed.com/viewjob?jk=cb6da95cfaccf0f5) — Peak Rentals
+- 📍 **Location:** Greeley, CO, USA
+- 💰 **Salary:** $24–$28/hr
+- 🕒 **Posted:** 2026-10-08
+
+### [Behavorial Health Data Management Specialist](https://www.indeed.com/viewjob?jk=6b0eb0a05f33d977) — Jefferson Center for Mental Health
+- 📍 **Location:** Wheat Ridge, CO, USA
+- 💰 **Salary:** $54k–$56k/yr
+- 🕒 **Posted:** 2026-10-08
