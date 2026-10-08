@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-10-07 21:22 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-08 21:23 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Daly City",
-      "title": "Support Dog Program Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20749975",
-      "date_posted": "",
-      "salary": "$7,808.00-$9,492.00 Monthly",
-      "ats": "CalOpps"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
